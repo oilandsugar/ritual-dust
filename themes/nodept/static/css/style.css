@@ -44,10 +44,17 @@ a:hover {
 
 }
 
+
+/* -------- COLORS ---------*/
+
+.grey {
+  opacity:0.5;
+}
+
 /* -- containers -- */
 
 .wrap {
-  padding: 10em;
+  padding: 0 10em;
 }
 
 /* -------- FLEX ---------*/
@@ -106,3 +113,95 @@ a:hover {
     -ms-flex: 6;
     flex: 6;
 }
+
+
+/* -------- PADDING ---------*/
+
+.small-padding {
+    padding: 15px;
+}
+
+.small-padding-left {
+    padding-left: 15px;
+}
+
+.small-padding-right {
+    padding-right: 15px;
+}
+
+.small-padding-top {
+    padding-top: 15px;
+}
+
+.small-padding-bottom {
+    padding-bottom: 15px;
+}
+
+.medium-padding {
+    padding: 30px;
+}
+
+.medium-padding-top {
+    padding-top: 30px;
+}
+
+.medium-padding-bottom {
+    padding-bottom: 30px;
+}
+
+.medium-padding-right {
+    padding-right: 30px;
+}
+
+.medium-padding-left {
+    padding-left: 30px;
+}
+
+.big-padding {
+    padding: 60px;
+}
+
+.big-padding-top {
+    padding-top: 60px;
+}
+
+.big-padding-bottom {
+    padding-bottom: 60px;
+}
+
+.big-padding-left {
+    padding-left: 60px;
+}
+
+.big-padding-right {
+    padding-right: 60px;
+}
+
+/* -------- MARGINS ---------*/
+
+.small-margin-top {
+    margin-top: 15px;
+}
+
+.small-margin-left {
+    margin-left: 15px;
+}
+
+.small-margin-right {
+    margin-right: 15px;
+}
+
+.small-margin-bottom {
+    margin-bottom: 15px;
+}
+
+.medium-margin-top {
+    margin-top: 30px;
+}
+
+.medium-margin-bottom {
+    margin-bottom: 30px;
+}
+
+.no-margin {
+  margin:0;
