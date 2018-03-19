@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://atelieroilandsugar.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Atelier oil and sugar"
+theme = "nodept"
