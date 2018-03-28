@@ -44,6 +44,14 @@ a:hover {
 
 }
 
+.old-project {
+  border-bottom: 1px solid #000;
+  margin-right:16px;
+  margin-bottom:32px;
+  max-width:calc(16.66666% - 16px);
+  min-width:calc(16.66666% - 16px);
+}
+
 
 /* -------- COLORS ---------*/
 

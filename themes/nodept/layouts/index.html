@@ -12,7 +12,14 @@
     </h4>
   </div>
   <h2>I'm currently working on</h2>
+
   <h2>In the past I worked on</h2>
+  <div class="flex-row flex-wrap">
+    {{ range $.Site.Data.old_projects.articles }}
+      {{ partial "projectCard.html" . }}
+    {{ end }}
+  </div>
+
 </div>
 
 {{ partial "footer" . }}
