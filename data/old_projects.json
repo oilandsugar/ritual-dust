@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "title": "Synapse Wear",
+      "type": "website"
+    },
+    {
+      "title": "Pin Patch Mtl",
+      "type": "event",
+      "projectUrl": "http://pinpatchmtl.com/"
+    },
+    {
+      "title": "Cimmerian",
+      "type": "branding",
+      "projectUrl": "http://cimmerian.co/#/"
+    },
+    {
+      "title": "New label",
+      "type": "website",
+      "projectUrl": "http://newlabel.co/"
+    },
+    {
+      "title": "Essaie Pas",
+      "type": "video"
+    },
+    {
+      "title": "Robocut",
+      "type": "website",
+      "projectUrl": "http://robocutstudio.com/"
+    },
+    {
+      "title": "G. L. Reid",
+      "type": "branding",
+      "projectUrl": "http://www.glreid.com/"
+    }
+  ]
+}
