@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "title": "Manière Noire",
+      "type": "Branding",
+      "projectUrl": ""
+    },
+    {
       "title": "Synapse Wear",
       "type": "website"
     },
