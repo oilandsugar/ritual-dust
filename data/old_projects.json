@@ -1,5 +1,20 @@
 {
-  "articles": [
+  "projects": [
+    {
+      "title": "3lectromode",
+      "type": "Website",
+      "projectUrl": ""
+    },
+    {
+      "title": "Eric Lamontagne",
+      "type": "Website",
+      "projectUrl": ""
+    },
+    {
+      "title": "Institut du Leadership en E-learning",
+      "type": "Branding",
+      "projectUrl": ""
+    },
     {
       "title": "Manière Noire",
       "type": "Branding",
@@ -7,35 +22,37 @@
     },
     {
       "title": "Synapse Wear",
-      "type": "website"
+      "type": "Website",
+      "projectUrl": ""
     },
     {
       "title": "Pin Patch Mtl",
-      "type": "event",
+      "type": "Event",
       "projectUrl": "http://pinpatchmtl.com/"
     },
     {
       "title": "Cimmerian",
-      "type": "branding",
+      "type": "Branding",
       "projectUrl": "http://cimmerian.co/#/"
     },
     {
       "title": "New label",
-      "type": "website",
+      "type": "Website",
       "projectUrl": "http://newlabel.co/"
     },
     {
       "title": "Essaie Pas",
-      "type": "video"
+      "type": "Video",
+      "projectUrl": ""
     },
     {
       "title": "Robocut",
-      "type": "website",
+      "type": "Website",
       "projectUrl": "http://robocutstudio.com/"
     },
     {
       "title": "G. L. Reid",
-      "type": "branding",
+      "type": "Branding",
       "projectUrl": "http://www.glreid.com/"
     }
   ]

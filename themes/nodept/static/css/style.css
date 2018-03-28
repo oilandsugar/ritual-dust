@@ -52,6 +52,18 @@ a:hover {
   min-width:calc(16.66666% - 16px);
 }
 
+.new-project {
+  padding:48px;
+  margin-right:16px;
+  margin-bottom:16px;
+  max-width:calc(25% - 16px);
+  min-width:calc(25% - 16px);
+  background:#000;
+  color:#fff;
+  font-size:24px;
+  box-sizing: border-box;
+}
+
 
 /* -------- COLORS ---------*/
 
