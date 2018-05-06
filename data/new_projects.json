@@ -2,11 +2,15 @@
   "projects": [
     {
       "title": "Changing the way people lunch at work at Ben&Alex, a Montreal based food tech company.",
-      "projectUrl": "http://bennalex.com"
+      "desc": "Building an app to facilitate group food ordering and address everyone's preferences and diets.",
+      "projectUrl": "http://bennalex.com",
+      "image": "img/ben_et_alex.jpg"
     },
     {
       "title": "Designing products for Manière Noire an obscure accessory brand I cofounded.",
-      "projectUrl": "http://manierenoireshop.com"
+      "desc": "Enamel pins, patches and illustrations with a dark aesthetic sold online.",
+      "projectUrl": "http://manierenoireshop.com",
+      "image": "img/maniere_noire.jpg"
     }
   ]
 }

@@ -3,57 +3,73 @@
     {
       "title": "3lectromode",
       "type": "Website",
-      "projectUrl": ""
+      "projectUrl": "",
+      "image": "img/3lectromode.png"
     },
     {
-      "title": "Eric Lamontagne",
-      "type": "Website",
-      "projectUrl": ""
-    },
-    {
-      "title": "Institut du Leadership en E-learning",
+      "title": "Institut du Leadership",
       "type": "Branding",
-      "projectUrl": ""
+      "projectUrl": "",
+      "image": "img/institut-leadership.png"
     },
     {
       "title": "Manière Noire",
       "type": "Branding",
-      "projectUrl": ""
+      "projectUrl": "",
+      "image": "img/maniere-noire.png"
     },
     {
       "title": "Synapse Wear",
       "type": "Website",
-      "projectUrl": ""
+      "projectUrl": "",
+      "image": "img/synapse-wear.png"
     },
     {
       "title": "Pin Patch Mtl",
       "type": "Event",
-      "projectUrl": "http://pinpatchmtl.com/"
+      "projectUrl": "http://pinpatchmtl.com/",
+      "image": "img/pin-patch.png"
     },
     {
       "title": "Cimmerian",
       "type": "Branding",
-      "projectUrl": "http://cimmerian.co/#/"
+      "projectUrl": "http://cimmerian.co/#/",
+      "image": "img/cimmerian.gif"
     },
     {
       "title": "New label",
       "type": "Website",
-      "projectUrl": "http://newlabel.co/"
-    },
-    {
-      "title": "Essaie Pas",
-      "type": "Video",
-      "projectUrl": ""
+      "projectUrl": "http://newlabel.co/",
+      "image": "img/new.png"
     },
     {
       "title": "Robocut",
       "type": "Website",
-      "projectUrl": "http://robocutstudio.com/"
+      "projectUrl": "http://robocutstudio.com/",
+      "image": "img/robocut.png"
     },
     {
       "title": "G. L. Reid",
       "type": "Branding",
-      "projectUrl": "http://www.glreid.com/"
+      "projectUrl": "http://www.glreid.com/",
+      "image": "img/gl-reid.jpg"
+    },
+    {
+      "title": "Brand Name generator",
+      "type": "Website",
+      "projectUrl": "http://atelieroilandsugar.com/namegenerator/",
+      "image": "img/name-generator.png"
+    },
+    {
+      "title": "Art Ideas for Sale",
+      "type": "website",
+      "projectUrl": "http://artideasforsale.com/",
+      "image": "img/art-ideas.png"
+    },
+    {
+      "title": "Ron Crawford",
+      "type": "branding",
+      "image": "img/ron-crawford.png"
     }
   ]
 }

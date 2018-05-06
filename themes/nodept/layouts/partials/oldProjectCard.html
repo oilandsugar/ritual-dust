@@ -1,3 +1,8 @@
-<div class="flex-1 old-project">
-  {{ .type }} for {{ .title }}
+<div class="flex-1 old-project {{ lower .type }}">
+  <div class="img" style="background-image:url({{ .image }});">
+    <div class="browser-bar">
+      <i class="far fa-ellipsis-h"></i>
+    </div>
+  </div>
+  <strong>{{ .title }}</strong>
 </div>
