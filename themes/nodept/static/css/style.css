@@ -233,6 +233,8 @@ img {
 
 .wrap {
   padding: 0 10em;
+  max-width: 1800px;
+  margin: 0 auto;
 }
 
 /* -------- FLEX ---------*/
