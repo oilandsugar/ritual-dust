@@ -1,0 +1,13 @@
+<div class="flex-1 product">
+  <div
+    class="picture flex-1"
+    style="background-image:url({{ .image }});">
+  </div>
+  <div class="desc medium-padding flex-1">
+    <h4>{{ .title }}</h4>
+    <p>{{ .desc }}</p>
+    {{ with .buyBtn | safeHTML }}
+      {{ . }}
+    {{ end }}
+  </div>
+</div>

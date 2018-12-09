@@ -1,6 +1,11 @@
 {
   "projects": [
     {
+      "title": "Black Metal December 2017",
+      "type": "lettering",
+      "image": "img/black-metal-december.png"
+    },
+    {
       "title": "3lectromode",
       "type": "Website",
       "projectUrl": "",

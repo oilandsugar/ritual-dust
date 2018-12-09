@@ -2,73 +2,119 @@
 
 <div class="wrap big-padding-top">
   <div class="flex-row top-page-row">
-    <h1 class="flex-3">Good design, code and content can make a difference.</h1>
+    <h1 class="flex-3">{{ .Params.tagline }}</h1>
     <div class="flex-1"></div>
     <div class="flex-2 bio flex-row desktop">
       <div class="profile-pic flex-1">
-        <div class="photo">
-          <img src="img/pic.jpg"/>
-        </div>
+        <div class="photo"><img src="img/pic.jpg" /></div>
       </div>
       <div class="flex-3">
-        <h4>Tommy Poirier-Morissette</h4>
+        <h4>{{ .Params.name }}</h4>
         <p>
-          I'm a multi-disciplinary designer since 2010.
-          I'm currently focusing on interactive design, user experience and products.
+          {{ .Params.bio }}
         </p>
         <div class="social">
-          <a href="https://www.instagram.com/oilandsugar/" target="_blank"><i class="fab fa-instagram"></i></a>
-          <a href="https://github.com/oilandsugar" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="https://angel.co/tommy-poirier-morissette" target="_blank"><i class="fab fa-angellist"></i></a>
+          <a href="https://www.instagram.com/oilandsugar/" target="_blank">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="https://github.com/oilandsugar" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+          <a href="https://angel.co/tommy-poirier-morissette" target="_blank">
+            <i class="fab fa-angellist"></i>
+          </a>
         </div>
       </div>
     </div>
   </div>
-  <h2 class="big-padding-top">I'm currently working on</h2>
+
+  <h2 class="big-padding-top blackletter">{{ .Params.newWorkTitle }}</h2>
   <div class="current-row-scroll">
-  <div class="flex-row flex-wrap big-padding-bottom current-row">
-    {{ range $.Site.Data.new_projects.projects }}
-      {{ partial "newProjectCard.html" . }}
-    {{ end }}
+    <div class="flex-row flex-wrap big-padding-bottom current-row">
+      {{ range $.Site.Data.new_projects.projects }}
+        {{ partial "newProjectCard.html" . }}
+      {{ end }}
+    </div>
   </div>
-</div>
+
+  <h2 class="big-padding-top blackletter display-none">{{ .Params.shopTitle }}</h2>
+  <div class="shop display-none">
+    <div class="flex-row flex-wrap big-padding-bottom shop-row">
+      {{ range $.Site.Data.products.products }}
+      {{ partial "productCard.html" . }}
+      {{ end }}
+    </div>
+  </div>
 
   <div class="bio flex-row mobile">
     <div class="profile-pic flex-1">
-      <div class="photo">
-        <img src="img/pic.jpg"/>
-      </div>
+      <div class="photo"><img src="img/pic.jpg" /></div>
     </div>
     <div class="flex-3">
-      <h4>Tommy Poirier-Morissette</h4>
+      <h4>{{ .Params.name }}</h4>
       <p>
-        I'm a multi-disciplinary designer since 2010.
-        I'm currently focusing on interactive design, user experience and products.
+        {{ .Params.bio }}
       </p>
       <div class="social">
-        <a href="https://www.instagram.com/oilandsugar/" target="_blank"><i class="fab fa-instagram"></i></a>
-        <a href="https://github.com/oilandsugar" target="_blank"><i class="fab fa-github"></i></a>
-        <a href="https://angel.co/tommy-poirier-morissette" target="_blank"><i class="fab fa-angellist"></i></a>
+        <a href="https://www.instagram.com/oilandsugar/" target="_blank">
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a href="https://github.com/oilandsugar" target="_blank">
+          <i class="fab fa-github"></i>
+        </a>
+        <a href="https://angel.co/tommy-poirier-morissette" target="_blank">
+          <i class="fab fa-angellist"></i>
+        </a>
       </div>
     </div>
   </div>
 
   <div class="flex-row big-padding-top old-title">
-    <h2 class="flex-1">In the past I worked on</h2>
+    <h2 class="flex-1 blackletter">{{ .Params.oldWorkTitle }}</h2>
     <div class="flex-1 filters">
       <a class="tag" data-filter="*"><i class="fas fa-circle"></i>Everything</a>
       <a class="tag" data-filter=".website"><i class="far fa-circle"></i>Websites</a>
+      <a class="tag" data-filter=".lettering"><i class="far fa-circle"></i>Lettering</a>
       <a class="tag" data-filter=".branding"><i class="far fa-circle"></i>Brands</a>
       <a class="tag" data-filter=".video"><i class="far fa-circle"></i>Video</a>
+      <a class="tag" data-filter=".photo"><i class="far fa-circle"></i>Photo</a>
     </div>
   </div>
 
   <div class="flex-row flex-wrap old-row">
     {{ range $.Site.Data.old_projects.projects }}
-      {{ partial "oldProjectCard.html" . }}
+    {{ partial "oldProjectCard.html" . }}
     {{ end }}
   </div>
 
+  <div class="oilandsugar-symbol big-padding-top flex-row">
+    <div class="symbol medium-padding-right flex-1">
+      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+      	 viewBox="0 0 426.406 426.409" enable-background="new 0 0 426.406 426.409"
+      	 xml:space="preserve" class="symbol-svg">
+      <g>
+      	<path d="M213.203,0C95.644,0,0,95.643,0,213.203c0,117.56,95.644,213.206,213.203,213.206
+      		c117.557,0,213.204-95.646,213.204-213.206C426.406,95.643,330.76,0,213.203,0z M289.102,392.88
+      		c-24.036,10.166-49.57,15.32-75.899,15.32c-26.331,0-51.867-5.154-75.896-15.32c-23.22-9.82-44.076-23.886-61.99-41.794
+      		c-17.912-17.916-31.973-38.768-41.791-61.983c-10.169-24.032-15.321-49.569-15.321-75.9c0-26.332,5.152-51.868,15.321-75.9
+      		c9.818-23.216,23.879-44.068,41.791-61.983c17.914-17.913,38.77-31.975,61.99-41.794c24.029-10.164,49.565-15.32,75.896-15.32
+      		c26.329,0,51.863,5.156,75.895,15.32c23.223,9.819,44.078,23.883,61.989,41.792c17.907,17.913,31.975,38.767,41.792,61.985
+      		c10.166,24.032,15.318,49.569,15.318,75.9c0,26.331-5.152,51.868-15.318,75.9c-9.826,23.222-23.885,44.076-41.792,61.983
+      		C333.176,368.995,312.32,383.06,289.102,392.88z"/>
+      	<path d="M193.398,222.305h30.785v-18.203h-30.785c-3.987-27.225-25.562-48.803-52.784-52.789v-30.649H122.41v30.649
+      		c-27.223,3.986-48.801,25.564-52.789,52.789H38.749v18.203h30.873c3.988,27.221,25.566,48.801,52.789,52.782v30.68h18.205v-30.68
+      		C167.837,271.097,189.412,249.526,193.398,222.305z M131.511,257.556c-24.453,0-44.35-19.901-44.35-44.358
+      		c0-24.454,19.896-44.349,44.35-44.349c24.456,0,44.353,19.896,44.353,44.349C175.863,237.655,155.967,257.556,131.511,257.556z"/>
+      	<polygon points="257.744,213.182 198.356,288.343 359.256,288.343 359.256,270.143 235.943,270.143
+      		280.903,213.236 235.839,155.66 359.256,155.66 359.256,137.456 198.469,137.456 	"/>
+      </g>
+      </svg>
+    </div>
+    <div class="explaination flex-3">
+      The oil and sugar symbol originates from an old stylized signature from my art school years. While doing some research on alchemical iconography I realized that the two symbols formed by this combination of the letters T O & M corresponded to the alchemical symbols for oil and sugar, hence the name.
+    </div>
+    <div class="flex-2"></div>
+  </div>
 </div>
 
 {{ partial "footer" . }}

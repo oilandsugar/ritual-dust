@@ -1,8 +1,11 @@
 <div class="flex-1 old-project {{ lower .type }}">
   <div class="img" style="background-image:url({{ .image }});">
-    <div class="browser-bar">
-      <i class="far fa-ellipsis-h"></i>
-    </div>
+    <div class="browser-bar"><i class="far fa-ellipsis-h"></i></div>
   </div>
-  <strong>{{ .title }}</strong>
+  <div class="title">
+    <strong>{{ .title }}</strong>
+    {{ with .projectUrl }}
+    <a href="{{ . }}"><i class="far fa-external-link"></i></a>
+    {{ end }}
+  </div>
 </div>

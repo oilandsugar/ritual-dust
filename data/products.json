@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "title": "Coffee Cup",
+      "desc": "White ceramic coffee cup with a black metal lettering made for my Black metal december series of 2017.",
+      "image": "img/coffee-cup.png",
+      "buyBtn": "<div class'button'>Buy now</div>"
+    }
+  ]
+}

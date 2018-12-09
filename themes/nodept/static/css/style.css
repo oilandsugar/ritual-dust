@@ -2,6 +2,7 @@
   --backColor: #fff;
   --textColor: #000;
   --linkColor: #000;
+  --cardBackColor: #4e4e4e;
   --mainFont: "CalFrakturModern";
 }
 
@@ -9,7 +10,8 @@
   font-family: "CalFrakturModern";
   src: url("webfonts/36901D_0_0.eot");
   src: url("webfonts/36901D_0_0.eot?#iefix") format("embedded-opentype"),
-    url("webfonts/36901D_0_0.woff2") format("woff2"), url("webfonts/36901D_0_0.woff") format("woff"),
+    url("webfonts/36901D_0_0.woff2") format("woff2"),
+    url("webfonts/36901D_0_0.woff") format("woff"),
     url("webfonts/36901D_0_0.ttf") format("truetype");
 }
 
@@ -42,13 +44,17 @@ h2 {
   font-weight: 500;
 }
 
+h2.blackletter {
+  font-size:2.3em;
+}
+
 h3 {
   margin-top: 0;
   line-height: 1.2em;
 }
 
 h4 {
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 h5 {
@@ -63,6 +69,15 @@ a {
 }
 
 a:hover {
+}
+
+.display-none {
+  display:none;
+}
+
+
+.blackletter {
+  font-family: var(--mainFont);
 }
 
 img {
@@ -83,6 +98,17 @@ img {
   border-radius: 4px;
   background-size: cover;
   background-position: center;
+}
+
+.old-project .title a {
+  float: right;
+  opacity: 0.5;
+  font-size: 14px;
+  vertical-align: top;
+}
+
+.old-project .title a:hover {
+  opacity: 1;
 }
 
 .old-project.website .browser-bar {
@@ -121,8 +147,8 @@ img {
   margin-bottom: 16px;
   max-width: calc(50% - 16px);
   min-width: calc(50% - 16px);
-  background: #fff;
-  color: #000;
+  background: var(--cardBackColor);
+  color: var(--textColor);
   font-size: 24px;
   box-sizing: border-box;
   border-radius: 4px;
@@ -157,6 +183,60 @@ img {
   background-position: center;
 }
 
+.oilandsugar-symbol {
+  opacity:0.5;
+  font-size:14px;
+  line-height:1.5em;
+}
+
+.oilandsugar-symbol .symbol {
+  max-width:100px;
+}
+
+.oilandsugar-symbol .symbol svg {
+  max-width:100%;
+}
+
+.oilandsugar-symbol .symbol svg path,
+.oilandsugar-symbol .symbol svg polygon {
+  fill: var(--textColor);
+}
+
+/* -------- SHOP ---------*/
+
+.product {
+  margin-right: 16px;
+  margin-bottom: 16px;
+  max-width: calc(25% - 16px);
+  min-width: calc(25% - 16px);
+  background: var(--cardBackColor);
+  color: var(--textColor);
+  font-size: 24px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  box-shadow: 0 10px 42px #41466333;
+  overflow: hidden;
+  min-height: 350px;
+  text-decoration: none;
+}
+
+.product h4 {
+  margin:0;
+}
+
+.product .picture {
+  line-height: 0;
+  background-size: cover;
+  background-position: center;
+  min-height:300px;
+}
+
+.product .desc p {
+  font-size: 16px;
+  line-height: 1.2em;
+  opacity: 0.5;
+}
+
 .profile-pic {
   max-width: 100px;
   min-width: 100px;
@@ -183,6 +263,10 @@ img {
   padding: 0 4px;
   color: var(--linkColor);
   opacity: 0.4;
+}
+
+.social a {
+  text-decoration:none;
 }
 
 .social svg:hover {
@@ -502,5 +586,16 @@ img {
   }
   .footer .flex-row .flex-1 {
     margin-bottom: 16px;
+  }
+  .oilandsugar-symbol {
+    flex-direction:column;
+  }
+  .oilandsugar-symbol .symbol {
+    max-width:100%;
+    text-align:center;
+    padding-bottom:20px;
+  }
+  .oilandsugar-symbol .symbol svg {
+    width:80px;
   }
 }
