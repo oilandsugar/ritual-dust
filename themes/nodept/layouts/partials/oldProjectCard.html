@@ -8,4 +8,9 @@
     <a href="{{ . }}"><i class="far fa-external-link"></i></a>
     {{ end }}
   </div>
+  {{ with .desc }}
+    <div class="desc">
+      {{ . }}
+    </div>
+  {{ end }}
 </div>

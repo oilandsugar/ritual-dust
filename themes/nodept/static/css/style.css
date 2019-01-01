@@ -57,6 +57,10 @@ h4 {
   font-size: 1em;
 }
 
+h4.blackletter {
+  font-size:1.5em;
+}
+
 h5 {
 }
 
@@ -90,6 +94,13 @@ img {
   margin-bottom: 32px;
   max-width: calc(25% - 16px);
   min-width: calc(25% - 16px);
+}
+
+.old-project .desc {
+  font-size:12px;
+  line-height:14px;
+  padding-top:8px;
+  opacity:0.5;
 }
 
 .old-project .img {
@@ -224,6 +235,16 @@ img {
   margin:0;
 }
 
+.product .price {
+  font-size: 18px;
+  line-height: 1.8em;
+}
+
+.product .desc p.spec {
+  font-size:12px;
+  margin-bottom:0;
+}
+
 .product .picture {
   line-height: 0;
   background-size: cover;
@@ -284,6 +305,11 @@ img {
 .tag {
   padding-right: 8px;
   opacity: 0.5;
+  transition:0.3s;
+}
+
+.tag:hover {
+  opacity:1;
 }
 
 .tag svg {
@@ -597,5 +623,15 @@ img {
   }
   .oilandsugar-symbol .symbol svg {
     width:80px;
+  }
+  .shop-row {
+    flex-direction: column;
+  }
+  .product {
+    max-width:100%;
+    margin-right:0;
+  }
+  .product-desc p {
+    margin-top:0;
   }
 }

@@ -1,80 +1,131 @@
 {
   "projects": [
     {
+      "title": "Warm Wishes video",
+      "type": "video",
+      "projectUrl": "https://vimeo.com/308700749",
+      "image": "img/warm_wishes_video.png",
+      "desc": "Iconoclastic short video accompanied by one of my modular synth compositions."
+    },
+    {
+      "title": "Cursed Object",
+      "type": "lettering",
+      "image": "img/cursed_object.png",
+      "desc": "Hand-drawn lettering, identity system and publisher seal for a publishing company."
+    },
+    {
+      "title": "Noir Lifestyle brand video",
+      "type": "video",
+      "projectUrl": "https://vimeo.com/240519899",
+      "image": "img/noir_lifestyle_video.png",
+      "desc": "Occult-themed lifestyle video for my obscure accessory brand."
+    },
+    {
       "title": "Black Metal December 2017",
       "type": "lettering",
-      "image": "img/black-metal-december.png"
-    },
-    {
-      "title": "3lectromode",
-      "type": "Website",
-      "projectUrl": "",
-      "image": "img/3lectromode.png"
-    },
-    {
-      "title": "Institut du Leadership",
-      "type": "Branding",
-      "projectUrl": "",
-      "image": "img/institut-leadership.png"
+      "image": "img/black-metal-december.png",
+      "desc": "Series of 31 black metal inspired lettering pieces, one for every day of the month of December."
     },
     {
       "title": "Manière Noire",
       "type": "Branding",
-      "projectUrl": "",
-      "image": "img/maniere-noire.png"
+      "projectUrl": "https://manierenoireshop.com",
+      "image": "img/maniere-noire.png",
+      "desc": "Logotype and symbol for my obscure accessory brand."
     },
     {
-      "title": "Synapse Wear",
-      "type": "Website",
-      "projectUrl": "",
-      "image": "img/synapse-wear.png"
-    },
-    {
-      "title": "Pin Patch Mtl",
-      "type": "Event",
-      "projectUrl": "http://pinpatchmtl.com/",
-      "image": "img/pin-patch.png"
+      "title": "John Eternal",
+      "type": "lettering",
+      "image": "img/john_eternal.png",
+      "desc": "Custom lettering piece for a client."
     },
     {
       "title": "Cimmerian",
       "type": "Branding",
       "projectUrl": "http://cimmerian.co/#/",
-      "image": "img/cimmerian.gif"
+      "image": "img/cimmerian.gif",
+      "desc": "Logotype, identity system and motion design for the visual storytelling project Cimmerian."
+    },
+    {
+      "title": "Broken Glass & Vintage Synths",
+      "type": "photo",
+      "image": "img/show_photos.jpg",
+      "desc": "Black and white photo series documenting the underground music scene in Montreal."
+    },
+    {
+      "title": "3lectromode",
+      "type": "Website",
+      "projectUrl": "",
+      "image": "img/3lectromode.png",
+      "desc": "Website for lecturer and entrepreneur Valerie Lamontagne."
+    },
+    {
+      "title": "Institut du Leadership",
+      "type": "Branding",
+      "projectUrl": "",
+      "image": "img/institut-leadership.png",
+      "desc": "Complete identity system, illustrations and more for an e-learning company"
+    },
+    {
+      "title": "Synapse Wear",
+      "type": "Website",
+      "projectUrl": "",
+      "image": "img/synapse-wear.png",
+      "desc": "Website for a wearable startup."
+    },
+    {
+      "title": "Pin Patch Mtl",
+      "type": "website",
+      "projectUrl": "http://pinpatchmtl.com/",
+      "image": "img/pin-patch.png",
+      "desc": "Website and minimal logo for the first Pin and Patch event in Montreal."
     },
     {
       "title": "New label",
       "type": "Website",
       "projectUrl": "http://newlabel.co/",
-      "image": "img/new.png"
-    },
-    {
-      "title": "Robocut",
-      "type": "Website",
-      "projectUrl": "http://robocutstudio.com/",
-      "image": "img/robocut.png"
+      "image": "img/new.png",
+      "desc": "Website for an underground music label from Montreal."
     },
     {
       "title": "G. L. Reid",
       "type": "Branding",
       "projectUrl": "http://www.glreid.com/",
-      "image": "img/gl-reid.jpg"
+      "image": "img/gl-reid.jpg",
+      "desc": "Logotype for a portrait and fashion photographer."
     },
     {
       "title": "Brand Name generator",
       "type": "Website",
       "projectUrl": "http://atelieroilandsugar.com/namegenerator/",
-      "image": "img/name-generator.png"
+      "image": "img/name-generator.png",
+      "desc": "Simple wesite to generate name ideas with specific prefixes and suffixes."
     },
     {
       "title": "Art Ideas for Sale",
       "type": "website",
-      "projectUrl": "http://artideasforsale.com/",
-      "image": "img/art-ideas.png"
+      "image": "img/art-ideas.png",
+      "desc": "Conceptual web art piece."
     },
     {
       "title": "Ron Crawford",
       "type": "branding",
-      "image": "img/ron-crawford.png"
+      "image": "img/ron-crawford.png",
+      "desc": "Identity system and logo for a jeweler."
+    },
+    {
+      "title": "Latency video prototype",
+      "type": "video",
+      "projectUrl": "https://vimeo.com/146659662",
+      "image": "img/latency_video.png",
+      "desc": "Short contemplative experimental video depicting urban spaces at night."
+    },
+    {
+      "title": "Walk video",
+      "type": "video",
+      "projectUrl": "https://vimeo.com/95061057",
+      "image": "img/walk_video.png",
+      "desc": "Short non-narrative video presented at the Dérapage festival in Montreal."
     }
   ]
 }
