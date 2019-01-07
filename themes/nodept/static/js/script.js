@@ -3,6 +3,7 @@ jQuery(function($) {
     document.documentElement.style.setProperty("--backColor", theme.backColor);
     document.documentElement.style.setProperty("--textColor", theme.textColor);
     document.documentElement.style.setProperty("--linkColor", theme.linkColor);
+    document.documentElement.style.setProperty("--grey", theme.grey);
     document.documentElement.style.setProperty(
       "--cardBackColor",
       theme.cardBackColor
@@ -13,6 +14,7 @@ jQuery(function($) {
     localStorage.setItem("userBackColor", theme.backColor);
     localStorage.setItem("userTextColor", theme.textColor);
     localStorage.setItem("userLinkColor", theme.linkColor);
+    localStorage.setItem("userGrey", theme.grey);
     localStorage.setItem("userCardBackColor", theme.cardBackColor);
   }
 
@@ -23,6 +25,7 @@ jQuery(function($) {
       backColor: "#fff",
       textColor: "#000",
       linkColor: "#000",
+      grey: "#d4d4d4",
       cardBackColor: "#fff"
     };
 
@@ -30,6 +33,7 @@ jQuery(function($) {
       backColor: "#1e1c1f",
       textColor: "#fff",
       linkColor: "#fff",
+      grey: "#000",
       cardBackColor: "#4e4e4e"
     };
 
@@ -54,6 +58,10 @@ jQuery(function($) {
     document.documentElement.style.setProperty(
       "--linkColor",
       localStorage.getItem("userLinkColor")
+    );
+    document.documentElement.style.setProperty(
+      "--grey",
+      localStorage.getItem("userGrey")
     );
     document.documentElement.style.setProperty(
       "--cardBackColor",

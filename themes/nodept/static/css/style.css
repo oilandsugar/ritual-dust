@@ -3,6 +3,7 @@
   --textColor: #000;
   --linkColor: #000;
   --cardBackColor: #4e4e4e;
+  --grey: #d4d4d4;
   --mainFont: "CalFrakturModern";
 }
 
@@ -103,12 +104,39 @@ img {
   opacity:0.5;
 }
 
-.old-project .img {
+.old-project .images {
   min-height: 200px;
+  width:100%;
   margin-bottom: 16px;
   border-radius: 4px;
+  position:relative;
+  overflow:hidden;
+}
+
+.old-project.video:hover .img {
+  opacity:0;
+}
+
+.old-project .img {
+  min-height: 200px;
+  width:100%;
   background-size: cover;
   background-position: center;
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:100;
+  opacity:1;
+  transition:0.3s;
+}
+.old-project .gif {
+  min-height: 200px;
+  width:100%;
+  background-size: cover;
+  background-position: center;
+  position:absolute;
+  top:0;
+  left:0;
 }
 
 .old-project .title a {
@@ -124,11 +152,14 @@ img {
 
 .old-project.website .browser-bar {
   display: block;
+  background: var(--grey);
 }
 
 .old-project.website .img {
-  border: 2px solid #d4d4d4;
+  border: 2px solid var(--grey);
   background-position: center 24px;
+  box-sizing:border-box;
+  border-radius:4px;
 }
 
 .browser-bar svg {
@@ -136,7 +167,7 @@ img {
   position: absolute;
   top: -10px;
   left: 4px;
-  color: #fff;
+  color: var(--backColor);
 }
 
 .browser-bar {
@@ -331,6 +362,39 @@ img {
   stroke: var(--textColor);
   width: 40px;
   height: auto;
+}
+
+
+/* -------- SINGLE PROJECTS ---------*/
+
+.single h1 {
+  margin-top: 52px;
+  margin-bottom: 36px;
+}
+
+.back-home a {
+  opacity:0.5;
+  transition:0.3s;
+  text-decoration: none;
+}
+
+.back-home a:hover {
+  opacity:1;
+}
+
+.back-home a svg {
+  margin-right:16px;
+  font-size:16px;
+}
+
+.single p {
+  font-size:24px;
+}
+
+.single small {
+  opacity:0.5;
+  font-size:14px;
+  line-height:1.2em;
 }
 
 /* -------- COLORS ---------*/

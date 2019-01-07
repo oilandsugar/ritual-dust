@@ -5,6 +5,7 @@
       "type": "video",
       "projectUrl": "https://vimeo.com/308700749",
       "image": "img/warm_wishes_video.png",
+      "gif": "img/warm_wishes_gif.gif",
       "desc": "Iconoclastic short video accompanied by one of my modular synth compositions."
     },
     {
@@ -18,6 +19,7 @@
       "type": "video",
       "projectUrl": "https://vimeo.com/240519899",
       "image": "img/noir_lifestyle_video.png",
+      "gif": "img/noir_lifestyle_gif.gif",
       "desc": "Occult-themed lifestyle video for my obscure accessory brand."
     },
     {
@@ -118,6 +120,7 @@
       "type": "video",
       "projectUrl": "https://vimeo.com/146659662",
       "image": "img/latency_video.png",
+      "gif": "img/latency_gif.gif",
       "desc": "Short contemplative experimental video depicting urban spaces at night."
     },
     {
