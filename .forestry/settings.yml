@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data/new_projects.json
   label: New projects
-  match: "**/*"
 - type: document
   path: data/products.json
   label: Products
@@ -21,8 +20,8 @@ sections:
   label: Projects
   create: all
   match: "**/*"
-upload_dir: static/uploads
-public_path: "/uploads"
+upload_dir: static/img
+public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
