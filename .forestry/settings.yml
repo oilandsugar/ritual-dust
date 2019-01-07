@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data/products.json
   label: Products
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
