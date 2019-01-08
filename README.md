@@ -1,1 +1,3 @@
-# atelier_oil_and_sugar
+# Atelier Oil and Sugar
+
+Personal portfolio website and web-based playground. 
