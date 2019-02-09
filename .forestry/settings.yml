@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: content/data/old_projects.json
+  label: Old projects
+  match: "**/*"
+- type: document
   path: data/new_projects.json
   label: New projects
 - type: document
