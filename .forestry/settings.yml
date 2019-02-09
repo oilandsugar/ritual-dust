@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: content/data/old_projects.json
+  path: data/old_projects.json
   label: Old projects
 - type: document
   path: data/new_projects.json
