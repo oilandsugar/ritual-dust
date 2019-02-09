@@ -1,6 +1,14 @@
 {
   "projects": [
     {
+      "title": "Ariel",
+      "type": "lettering",
+      "image": "img/ariel-crest.png",
+      "image2": "img/ariel-photo.png",
+      "image3": "img/ariel.png",
+      "desc": "Hand-drawn lettering and symbol for the neofolk band Ariel."
+    },
+    {
       "title": "Warm Wishes video",
       "type": "video",
       "projectUrl": "https://vimeo.com/308700749",
@@ -12,6 +20,8 @@
       "title": "Cursed Object",
       "type": "lettering",
       "image": "img/cursed_object.png",
+      "image2": "img/cursed_object_2.png",
+      "image3": "img/cursed_object_3.png",
       "desc": "Hand-drawn lettering, identity system and publisher seal for a publishing company."
     },
     {

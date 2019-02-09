@@ -162,6 +162,57 @@ img {
   border-radius:4px;
 }
 
+.old-project .indicator {
+  position:absolute;
+  bottom:8px;
+  left:8px;
+  width:calc(100% - 16px);
+  display:flex;
+  flex-direction:row;
+  z-index:1000;
+  opacity:0;
+  pointer-events: none;
+  transition:0.3s;
+}
+
+.hover-slider:hover .indicator {
+  opacity:1;
+}
+
+.hover-slider {
+  overflow:hidden;
+  position:relative;
+}
+
+.old-project .indicator .bar {
+  flex:1;
+  margin: 0 4px;
+  height:3px;
+  border-radius:1.5px;
+  background:#000;
+  opacity:0.1;
+}
+
+.old-project .indicator .bar.active {
+  opacity:0.5;
+}
+
+.hover-slider .images-container {
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  width:100%;
+  transition:0.4s;
+  animation-timing-function: ease-in-out;
+  background:var(--grey);
+}
+
+.images-container.not-loaded {
+  filter: blur(50px);
+  transform: scale(2);
+}
+
 .browser-bar svg {
   font-size: 45px;
   position: absolute;
@@ -169,6 +220,7 @@ img {
   left: 4px;
   color: var(--backColor);
 }
+
 
 .browser-bar {
   -webkit-border-top-left-radius: 2px;
