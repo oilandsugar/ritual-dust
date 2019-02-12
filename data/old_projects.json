@@ -1,6 +1,13 @@
 {
   "projects": [
     {
+      "title": "Hayley Evans",
+      "type": "website",
+      "projectUrl": "http://hayleyevans.net",
+      "image": "img/hayley-site.png",
+      "desc": "Portfolio website for writer and editor Hayley Evans."
+    },
+    {
       "title": "Ariel",
       "type": "lettering",
       "image": "img/ariel-crest.png",
@@ -36,6 +43,8 @@
       "title": "Black Metal December 2017",
       "type": "lettering",
       "image": "img/black-metal-december.png",
+      "image2": "img/black-metal-december-2.jpg",
+      "image3": "img/black-metal-december-3.jpg",
       "desc": "Series of 31 black metal inspired lettering pieces, one for every day of the month of December."
     },
     {
@@ -53,7 +62,7 @@
     },
     {
       "title": "Cimmerian",
-      "type": "Branding",
+      "type": "branding",
       "projectUrl": "http://cimmerian.co/#/",
       "image": "img/cimmerian.gif",
       "desc": "Logotype, identity system and motion design for the visual storytelling project Cimmerian."
@@ -66,21 +75,21 @@
     },
     {
       "title": "3lectromode",
-      "type": "Website",
+      "type": "website",
       "projectUrl": "",
       "image": "img/3lectromode.png",
       "desc": "Website for lecturer and entrepreneur Valerie Lamontagne."
     },
     {
       "title": "Institut du Leadership",
-      "type": "Branding",
+      "type": "branding",
       "projectUrl": "",
       "image": "img/institut-leadership.png",
       "desc": "Complete identity system, illustrations and more for an e-learning company"
     },
     {
       "title": "Synapse Wear",
-      "type": "Website",
+      "type": "website",
       "projectUrl": "",
       "image": "img/synapse-wear.png",
       "desc": "Website for a wearable startup."
@@ -94,21 +103,21 @@
     },
     {
       "title": "New label",
-      "type": "Website",
+      "type": "website",
       "projectUrl": "http://newlabel.co/",
       "image": "img/new.png",
       "desc": "Website for an underground music label from Montreal."
     },
     {
       "title": "G. L. Reid",
-      "type": "Branding",
+      "type": "branding",
       "projectUrl": "http://www.glreid.com/",
       "image": "img/gl-reid.jpg",
       "desc": "Logotype for a portrait and fashion photographer."
     },
     {
       "title": "Brand Name generator",
-      "type": "Website",
+      "type": "website",
       "projectUrl": "http://atelieroilandsugar.com/namegenerator/",
       "image": "img/name-generator.png",
       "desc": "Simple wesite to generate name ideas with specific prefixes and suffixes."
