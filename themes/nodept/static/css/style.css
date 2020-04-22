@@ -1,20 +1,22 @@
+/* variables */
+
 :root {
-  --backColor: #fff;
-  --textColor: #000;
-  --linkColor: #000;
-  --cardBackColor: #4e4e4e;
-  --grey: #d4d4d4;
+  --spacing_sm: 8px;
+  --spacing_md: 16px;
+  --spacing_lg: 24px;
+  --spacing_xl: 48px;
+  --backColor:  #1e1c1f;
+  --textColor: #b7a2a2;
+  --accentColor: #fff;
+  --linkColor: #fff;
+  --cardShadow: 0 1px 22px #0000002e;
+  --cardShadowRaised: 0 10px 42px #0000007a;
+  --cardBackColor: #272424;
+  --grey: #000;
   --mainFont: "CalFrakturModern";
 }
 
-@font-face {
-  font-family: "CalFrakturModern";
-  src: url("webfonts/36901D_0_0.eot");
-  src: url("webfonts/36901D_0_0.eot?#iefix") format("embedded-opentype"),
-    url("webfonts/36901D_0_0.woff2") format("woff2"),
-    url("webfonts/36901D_0_0.woff") format("woff"),
-    url("webfonts/36901D_0_0.ttf") format("truetype");
-}
+/* structure */
 
 html {
   font-family: "lucida grande";
@@ -26,6 +28,22 @@ html {
 
 body {
   margin: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* typography */
+
+@font-face {
+  font-family: "CalFrakturModern";
+  src: url("webfonts/36901D_0_0.eot");
+  src: url("webfonts/36901D_0_0.eot?#iefix") format("embedded-opentype"),
+    url("webfonts/36901D_0_0.woff2") format("woff2"),
+    url("webfonts/36901D_0_0.woff") format("woff"),
+    url("webfonts/36901D_0_0.ttf") format("truetype");
 }
 
 h1 {
@@ -54,6 +72,12 @@ h3 {
   line-height: 1.2em;
 }
 
+h3.blackletter {
+  font-size:2em;
+  line-height:1em;
+  margin-bottom:var(--spacing_md);
+}
+
 h4 {
   font-size: 1em;
 }
@@ -74,21 +98,28 @@ a {
 }
 
 a:hover {
+  color:var(--accentColor);
 }
 
-.display-none {
-  display:none;
+.lighter {
+  font-size: 16px;
+  opacity: 0.5;
 }
 
+.text-center {
+  text-align:center;
+}
 
 .blackletter {
   font-family: var(--mainFont);
 }
 
-img {
-  max-width: 100%;
-  height: auto;
+/* utils */
+
+.display-none {
+  display:none;
 }
+
 
 .old-project {
   margin-right: 16px;
@@ -221,8 +252,6 @@ img {
   color: var(--backColor);
 }
 
-/* - */
-
 .browser-bar {
   -webkit-border-top-left-radius: 2px;
   -webkit-border-top-right-radius: 2px;
@@ -237,45 +266,44 @@ img {
   display: none;
 }
 
+/* New projects */
+
 .new-project {
-  margin-right: 16px;
-  margin-bottom: 16px;
-  max-width: calc(50% - 16px);
-  min-width: calc(50% - 16px);
-  background: var(--cardBackColor);
+  margin: 0 var(--spacing_md) var(--spacing_md) var(--spacing_md);
   color: var(--textColor);
   font-size: 24px;
-  box-sizing: border-box;
-  border-radius: 4px;
-  box-shadow: 0 10px 42px #41466333;
-  overflow: hidden;
   min-height: 350px;
   text-decoration: none;
+  overflow: visible;
+}
+
+.new-project h3 {
+  transition:0.5s;
 }
 
 .new-project:hover h3 {
-  text-decoration: underline;
-}
-
-.new-project .flex-row {
-  height: 100%;
+  color:var(--accentColor);
 }
 
 .new-project .desc {
   box-sizing: border-box;
-  max-width: 50%;
-}
-
-.new-project .desc p {
-  font-size: 16px;
-  line-height: 1.2em;
-  opacity: 0.5;
 }
 
 .new-project .picture {
   line-height: 0;
+  height:400px;
+  width:100%;
   background-size: cover;
   background-position: center;
+  border-radius: 4px;
+  box-shadow: var(--cardShadow);
+  box-sizing: border-box;
+  overflow: hidden;
+  transition:0.5s;
+}
+
+.new-project:hover .picture {
+  box-shadow: var(--cardShadowRaised);
 }
 
 .oilandsugar-symbol {
@@ -300,19 +328,23 @@ img {
 /* -------- SHOP ---------*/
 
 .product {
-  margin-right: 16px;
-  margin-bottom: 16px;
-  max-width: calc(25% - 16px);
-  min-width: calc(25% - 16px);
+  margin: 0 12px var(--spacing_lg) 12px;
+  max-width: calc(25% - 24px);
+  min-width: calc(25% - 24px);
   background: var(--cardBackColor);
   color: var(--textColor);
   font-size: 24px;
   box-sizing: border-box;
   border-radius: 4px;
-  box-shadow: 0 10px 42px #41466333;
+  box-shadow: var(--cardShadow);
+  transition:0.5s;
   overflow: hidden;
   min-height: 350px;
   text-decoration: none;
+}
+
+.product:hover {
+  box-shadow: var(--cardShadowRaised);
 }
 
 .product h4 {
@@ -334,12 +366,6 @@ img {
   background-size: cover;
   background-position: center;
   min-height:300px;
-}
-
-.product .desc p {
-  font-size: 16px;
-  line-height: 1.2em;
-  opacity: 0.5;
 }
 
 .profile-pic {
@@ -392,7 +418,8 @@ img {
   transition:0.3s;
 }
 
-.tag:hover {
+.tag:hover,
+.tag.active {
   opacity:1;
 }
 
@@ -639,8 +666,8 @@ img {
     font-size: 20px;
   }
   .current-row {
-    width: 600px;
     padding-bottom: 30px;
+    display:block;
   }
   .new-project .flex-row {
     display: block;
@@ -651,6 +678,7 @@ img {
   }
   .new-project .picture {
     min-height: 200px;
+    height: 200px;
     background-position: center;
   }
   .new-project:first-child {
@@ -661,7 +689,7 @@ img {
   }
   .new-project .desc {
     max-width: 100%;
-    padding: 24px;
+    padding: var(--spacing_lg) 0 ;
   }
   .mobile {
     display: block;
@@ -706,9 +734,6 @@ img {
     margin-right: 0;
   }
   .current-row-scroll {
-    overflow-x: scroll;
-    margin-left: -24px;
-    margin-right: -24px;
     margin-bottom: 30px;
   }
   ::-webkit-scrollbar-thumb {

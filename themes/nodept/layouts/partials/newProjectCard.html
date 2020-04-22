@@ -1,12 +1,10 @@
 <a href="{{ .projectUrl }}" target="_blank" class="flex-1 new-project">
-<div class="flex-row">
-  <div class="picture flex-1" style="background-image:url({{ .image }});">
+  <div class="picture" style="background-image:url({{ .image }});">
   </div>
-  <div class="desc medium-padding flex-1">
-    <h3>{{ .title }}</h3>
-    <p>
+  <div class="desc medium-padding">
+    <h3 class="blackletter">{{ .title }}</h3>
+    <p class="lighter">
       {{ .desc }}
     </p>
   </div>
-</div>
 </a>
