@@ -88,67 +88,6 @@
       "desc": "Black and white photo series documenting the underground music scene in Montreal."
     },
     {
-      "title": "3lectromode",
-      "type": "website",
-      "projectUrl": "",
-      "image": "img/3lectromode.png",
-      "desc": "Website for lecturer and entrepreneur Valerie Lamontagne."
-    },
-    {
-      "title": "Institut du Leadership",
-      "type": "branding",
-      "projectUrl": "",
-      "image": "img/institut-leadership.png",
-      "desc": "Complete identity system, illustrations and more for an e-learning company"
-    },
-    {
-      "title": "Synapse Wear",
-      "type": "website",
-      "projectUrl": "",
-      "image": "img/synapse-wear.png",
-      "desc": "Website for a wearable startup."
-    },
-    {
-      "title": "Pin Patch Mtl",
-      "type": "website",
-      "projectUrl": "http://pinpatchmtl.com/",
-      "image": "img/pin-patch.png",
-      "desc": "Website and minimal logo for the first Pin and Patch event in Montreal."
-    },
-    {
-      "title": "New label",
-      "type": "website",
-      "projectUrl": "http://newlabel.co/",
-      "image": "img/new.png",
-      "desc": "Website for an underground music label from Montreal."
-    },
-    {
-      "title": "G. L. Reid",
-      "type": "branding",
-      "projectUrl": "http://www.glreid.com/",
-      "image": "img/gl-reid.jpg",
-      "desc": "Logotype for a portrait and fashion photographer."
-    },
-    {
-      "title": "Brand Name generator",
-      "type": "website",
-      "projectUrl": "http://atelieroilandsugar.com/namegenerator/",
-      "image": "img/name-generator.png",
-      "desc": "Simple wesite to generate name ideas with specific prefixes and suffixes."
-    },
-    {
-      "title": "Art Ideas for Sale",
-      "type": "website",
-      "image": "img/art-ideas.png",
-      "desc": "Conceptual web art piece."
-    },
-    {
-      "title": "Ron Crawford",
-      "type": "branding",
-      "image": "img/ron-crawford.png",
-      "desc": "Identity system and logo for a jeweler."
-    },
-    {
       "title": "Latency video prototype",
       "type": "video",
       "projectUrl": "https://vimeo.com/146659662",

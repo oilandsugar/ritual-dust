@@ -1,0 +1,19 @@
+{
+  "name": "ritual-dust",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.html",
+  "scripts": {
+    "start": "hugo server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oilandsugar/ritual-dust.git"
+  },
+  "author": "Lizbeth Poirier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oilandsugar/ritual-dust/issues"
+  },
+  "homepage": "https://github.com/oilandsugar/ritual-dust#readme"
+}
