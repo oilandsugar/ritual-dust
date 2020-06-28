@@ -2,7 +2,7 @@
 title = "Ariel"
 
 tags = ["lettering"]
-preview = "img/ariel.png"
+preview = "/img/ariel.png"
 
 +++
 

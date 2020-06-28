@@ -1,0 +1,12 @@
+{{ partial "header" . }}
+
+<div class="wrap big-padding-top">
+  <h2 class="psych-1 align-center">Goods - New folk artefacts and items</h2>
+  <div class="shop">
+    <div class="flex-row flex-wrap big-padding-bottom shop-row">
+      {{ range $.Site.Data.products.products }} {{ partial "productCard.html" . }} {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ partial "footer" . }}

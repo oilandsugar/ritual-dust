@@ -4,102 +4,102 @@
       "title": "Blood and Dust",
       "type": "branding",
       "projectUrl": "https://blood-and-dust.bandcamp.com",
-      "image": "img/blood_and_dust_1.png",
+      "image": "/img/blood_and_dust_1.png",
       "desc": "Logotype for a ritualistic horror drone project I'm doing with Hayley Evans.",
       "projectUrl": ""
     },
     {
       "title": "Curious Moth",
       "type": "lettering",
-      "image": "img/curious_moth.png",
+      "image": "/img/curious_moth.png",
       "desc": "Hand-drawn lettering for the finnish band Curious Moth."
     },
     {
       "title": "Hayley Evans",
       "type": "website",
       "projectUrl": "http://hayleyevans.net",
-      "image": "img/hayley-site.png",
+      "image": "/img/hayley-site.png",
       "desc": "Portfolio website for writer and editor Hayley Evans."
     },
     {
       "title": "Ariel",
       "type": "lettering",
-      "image": "img/ariel-crest.png",
-      "image2": "img/ariel-photo.png",
-      "image3": "img/ariel.png",
+      "image": "/img/ariel-crest.png",
+      "image2": "/img/ariel-photo.png",
+      "image3": "/img/ariel.png",
       "desc": "Hand-drawn lettering and symbol for the neofolk band Ariel."
     },
     {
       "title": "Warm Wishes video",
       "type": "video",
       "projectUrl": "https://vimeo.com/308700749",
-      "image": "img/warm_wishes_video.png",
-      "gif": "img/warm_wishes_gif.gif",
+      "image": "/img/warm_wishes_video.png",
+      "gif": "/img/warm_wishes_gif.gif",
       "desc": "Iconoclastic short video accompanied by one of my modular synth compositions."
     },
     {
       "title": "Cursed Object",
       "type": "lettering",
-      "image": "img/cursed_object.png",
-      "image2": "img/cursed_object_2.png",
-      "image3": "img/cursed_object_3.png",
+      "image": "/img/cursed_object.png",
+      "image2": "/img/cursed_object_2.png",
+      "image3": "/img/cursed_object_3.png",
       "desc": "Hand-drawn lettering, identity system and publisher seal for a publishing company."
     },
     {
       "title": "Noir Lifestyle brand video",
       "type": "video",
       "projectUrl": "https://vimeo.com/240519899",
-      "image": "img/noir_lifestyle_video.png",
-      "gif": "img/noir_lifestyle_gif.gif",
+      "image": "/img/noir_lifestyle_video.png",
+      "gif": "/img/noir_lifestyle_gif.gif",
       "desc": "Occult-themed lifestyle video for my obscure accessory brand."
     },
     {
       "title": "Black Metal December 2017",
       "type": "lettering",
-      "image": "img/black-metal-december.png",
-      "image2": "img/black-metal-december-2.jpg",
-      "image3": "img/black-metal-december-3.jpg",
+      "image": "/img/black-metal-december.png",
+      "image2": "/img/black-metal-december-2.jpg",
+      "image3": "/img/black-metal-december-3.jpg",
       "desc": "Series of 31 black metal inspired lettering pieces, one for every day of the month of December."
     },
     {
       "title": "Manière Noire",
       "type": "Branding",
       "projectUrl": "https://manierenoireshop.com",
-      "image": "img/maniere-noire.png",
+      "image": "/img/maniere-noire.png",
       "desc": "Logotype and symbol for my obscure accessory brand."
     },
     {
       "title": "John Eternal",
       "type": "lettering",
-      "image": "img/john_eternal.png",
+      "image": "/img/john_eternal.png",
       "desc": "Custom lettering piece for a client."
     },
     {
       "title": "Cimmerian",
       "type": "branding",
       "projectUrl": "http://cimmerian.co/#/",
-      "image": "img/cimmerian.gif",
+      "image": "/img/cimmerian.gif",
       "desc": "Logotype, identity system and motion design for the visual storytelling project Cimmerian."
     },
     {
       "title": "Broken Glass & Vintage Synths",
       "type": "photo",
-      "image": "img/show_photos.jpg",
+      "image": "/img/show_photos.jpg",
       "desc": "Black and white photo series documenting the underground music scene in Montreal."
     },
     {
       "title": "Latency video prototype",
       "type": "video",
       "projectUrl": "https://vimeo.com/146659662",
-      "image": "img/latency_video.png",
-      "gif": "img/latency_gif.gif",
+      "image": "/img/latency_video.png",
+      "gif": "/img/latency_gif.gif",
       "desc": "Short contemplative experimental video depicting urban spaces at night."
     },
     {
       "title": "Walk video",
       "type": "video",
       "projectUrl": "https://vimeo.com/95061057",
-      "image": "img/walk_video.png",
+      "image": "/img/walk_video.png",
       "desc": "Short non-narrative video presented at the Dérapage festival in Montreal."
     }
   ]

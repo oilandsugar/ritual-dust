@@ -2,7 +2,7 @@
 title = "Black Metal December 2017"
 
 tags = ["lettering"]
-preview = "img/black-metal-december.png"
+preview = "/img/black-metal-december.png"
 
 +++
 
