@@ -162,7 +162,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.9em;
   margin-top: 0;
   margin-bottom: 32px;
   font-weight: 500;
@@ -249,6 +249,50 @@ a:hover {
   font-size:20px;
   padding-right:var(--spacing_md);
   text-decoration:none;
+  position:relative;
+  font-family: 'Distro Bold';
+  display:inline-block;
+}
+
+.menu a span {
+}
+
+.menu a .halo {
+  position:absolute;
+  left:0;
+  bottom:0;
+  color:#ff6767;
+  transition:1s;
+  z-index:-1;
+}
+
+.menu a:hover {
+}
+
+.menu a:hover .halo {
+  transform: translate(3px, 0);
+}
+
+.page-title {
+  line-height:50px;
+  height:50px;
+}
+
+.page-title h2,
+.page-title h3,
+.page-title span {
+  display:inline-block;
+  vertical-align: middle;
+  margin:0;
+  line-height:50px;
+}
+
+.page-title span {
+  padding: 0 var(--spacing_sm);
+}
+
+.page-title span:first-child {
+  padding: 0 var(--spacing_sm) 0 0;
 }
 
 /* portfolio */
@@ -465,10 +509,14 @@ a:hover {
 
 /* -------- SHOP ---------*/
 
+.shop {
+  margin: 0 -12px;
+}
+
 .product {
   margin: 0 12px var(--spacing_lg) 12px;
-  max-width: calc(25% - 24px);
-  min-width: calc(25% - 24px);
+  max-width: calc(33.3333% - 24px);
+  min-width: calc(33.3333% - 24px);
   background: var(--cardBackColor);
   color: var(--textColor);
   font-size: 24px;
@@ -570,9 +618,16 @@ a:hover {
   top: -2px;
 }
 
+.footer {
+  line-height:50px;
+  height:50px;
+}
+
 .footer span {
   display:inline-block;
+  vertical-align:middle;
   padding-right:var(--spacing_md);
+  line-height:50px;
 }
 
 .old-row {

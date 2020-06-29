@@ -23,13 +23,6 @@
     </div>
   </div>
 
-  <h2 class="big-padding-top lighter text-center">{{ .Params.newWorkTitle }}</h2>
-  <div class="current-row-scroll">
-    <div class="flex-row flex-wrap big-padding-bottom current-row">
-      {{ range $.Site.Data.new_projects.projects }} {{ partial "newProjectCard.html" . }} {{ end }}
-    </div>
-  </div>
-
   <div class="bio flex-row mobile">
     <div class="profile-pic flex-1">
       <div class="photo"><img src="img/pic.jpg" /></div>
@@ -53,20 +46,6 @@
 
   <div class="flex-row big-padding-top old-title">
     <h2 class="blackletter">{{ .Params.oldWorkTitle }}</h2>
-    <div class="flex-1 filters">
-      <a class="tag active" data-filter="*"><i class="fas fa-circle"></i>Everything</a>
-      <a class="tag" data-filter=".website"
-        ><i class="far fa-circle"></i>Websites</a
-      >
-      <a class="tag" data-filter=".lettering"
-        ><i class="far fa-circle"></i>Lettering</a
-      >
-      <a class="tag" data-filter=".branding"
-        ><i class="far fa-circle"></i>Brands</a
-      >
-      <a class="tag" data-filter=".video"><i class="far fa-circle"></i>Video</a>
-      <a class="tag" data-filter=".photo"><i class="far fa-circle"></i>Photo</a>
-    </div>
   </div>
 
   <div class="flex-row flex-wrap old-row">

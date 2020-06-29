@@ -7,7 +7,6 @@ bio = "Trans woman, ecclectic designer and witch; goth druid. Currently focusing
 tagline = "Need something better here"
 
 newWorkTitle = "Currently working on"
-shopTitle = "Spend your money on these things"
-oldWorkTitle = "Collected works"
+oldWorkTitle = "Recent works"
 
 +++

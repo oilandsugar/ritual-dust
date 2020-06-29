@@ -86,21 +86,6 @@
       "type": "photo",
       "image": "/img/show_photos.jpg",
       "desc": "Black and white photo series documenting the underground music scene in Montreal."
-    },
-    {
-      "title": "Latency video prototype",
-      "type": "video",
-      "projectUrl": "https://vimeo.com/146659662",
-      "image": "/img/latency_video.png",
-      "gif": "/img/latency_gif.gif",
-      "desc": "Short contemplative experimental video depicting urban spaces at night."
-    },
-    {
-      "title": "Walk video",
-      "type": "video",
-      "projectUrl": "https://vimeo.com/95061057",
-      "image": "/img/walk_video.png",
-      "desc": "Short non-narrative video presented at the Dérapage festival in Montreal."
     }
   ]
 }
