@@ -1,0 +1,33 @@
+{{ partial "header" . }}
+
+<div class="wrap big-padding-top">
+  <div class="page-title">
+    <span class="dingbats">{</span>
+    <h2 class="psych-1">Works</h2>
+    <span class="dingbats">{</span>
+    <h3 class="psych-2">Conjured drawings and compositions</h3>
+  </div>
+  <div class="flex-row big-padding-top old-title">
+    <h2 class="blackletter">{{ .Params.oldWorkTitle }}</h2>
+    <div class="flex-1 filters">
+      <a class="tag active" data-filter="*"><i class="fas fa-circle"></i>Everything</a>
+      <a class="tag" data-filter=".website"
+        ><i class="far fa-circle"></i>Websites</a
+      >
+      <a class="tag" data-filter=".lettering"
+        ><i class="far fa-circle"></i>Lettering</a
+      >
+      <a class="tag" data-filter=".branding"
+        ><i class="far fa-circle"></i>Brands</a
+      >
+      <a class="tag" data-filter=".video"><i class="far fa-circle"></i>Video</a>
+      <a class="tag" data-filter=".photo"><i class="far fa-circle"></i>Photo</a>
+    </div>
+  </div>
+
+  <div class="flex-row flex-wrap old-row">
+    {{ range $.Site.Data.old_projects.projects }} {{ partial "oldProjectCard.html" . }} {{ end }}
+  </div>
+</div>
+
+{{ partial "footer" . }}

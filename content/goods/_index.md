@@ -1,0 +1,4 @@
++++
+title = "Goods"
+type = "page"
++++

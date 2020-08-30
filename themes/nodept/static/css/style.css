@@ -5,8 +5,9 @@
   --spacing_md: 16px;
   --spacing_lg: 24px;
   --spacing_xl: 48px;
-  --backColor:  #151913;
+  --backColor:  #161716;
   --textColor: #7F915E;
+  --textColorFaded: #7F915E50;
   --accentColor: #B26A41;
   --linkColor: #B26A41;
   --cardShadow: 0 1px 22px #0000002e;
@@ -19,9 +20,9 @@
 /* structure */
 
 html {
-  font-family: "lucida grande";
+  font-family: "Distro";
   font-size: 18px;
-  line-height: 1.5em;
+  line-height: 1.2em;
   background: var(--backColor);
   color: var(--textColor);
 }
@@ -46,6 +47,111 @@ img {
     url("webfonts/36901D_0_0.ttf") format("truetype");
 }
 
+@font-face {
+    font-family: 'Juniper Std';
+    src: url('webfonts/JuniperStd.woff2') format('woff2'),
+        url('webfonts/JuniperStd.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cooper Std';
+    src: url('CooperBlackStd.woff2') format('woff2'),
+        url('CooperBlackStd.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+font-family: 'Distro';
+font-style: normal;
+font-weight: normal;
+src: local('Distro'), url('webfonts/DISTRO__.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Distro Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Distro Bold'), url('webfonts/DISTROB_.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Distro Black';
+font-style: normal;
+font-weight: normal;
+src: local('Distro Black'), url('webfonts/DISTROBL.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Distro Bats';
+font-style: normal;
+font-weight: normal;
+src: local('Distro Bats'), url('webfonts/DISTROBT.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Distro Bev';
+font-style: normal;
+font-weight: normal;
+src: local('Distro Bev'), url('webfonts/DISTROBV.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Distro Extinct';
+font-style: normal;
+font-weight: normal;
+src: local('Distro Extinct'), url('webfonts/DISTROEX.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Distro Heavy';
+font-style: normal;
+font-weight: normal;
+src: local('Distro Heavy'), url('webfonts/DISTROH_.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Distro Light';
+font-style: normal;
+font-weight: normal;
+src: local('Distro Light'), url('webfonts/DISTROL_.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Distro Mix';
+font-style: normal;
+font-weight: normal;
+src: local('Distro Mix'), url('webfonts/DISTROM_.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Distro Toast';
+font-style: normal;
+font-weight: normal;
+src: local('Distro Toast'), url('webfonts/DISTROT_.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Distro Vinyl';
+font-style: normal;
+font-weight: normal;
+src: local('Distro Vinyl'), url('webfonts/DISTROV_.woff') format('woff');
+}
+
 h1 {
   font-size: 6em;
   line-height: 0.8em;
@@ -57,7 +163,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.9em;
   margin-top: 0;
   margin-bottom: 32px;
   font-weight: 500;
@@ -95,6 +201,11 @@ p {
 a {
   color: var(--linkColor);
   cursor: pointer;
+  font-family: 'Distro Heavy';
+}
+
+strong {
+  font-family: 'Distro Heavy';
 }
 
 a:hover {
@@ -114,12 +225,133 @@ a:hover {
   font-family: var(--mainFont);
 }
 
+.psych-1 {
+  font-family: 'Juniper Std';
+  font-weight:300;
+}
+
+.psych-2 {
+  font-family: 'Cooper Std';
+}
+
+.dingbats {
+  font-family: 'Distro Bats';
+  font-size:24px;
+}
+
 /* utils */
 
 .display-none {
   display:none;
 }
 
+/* menu */
+
+.menu a {
+  font-size:20px;
+  padding-right:var(--spacing_md);
+  text-decoration:none;
+  position:relative;
+  font-family: 'Distro Bold';
+  display:inline-block;
+}
+
+.menu a span {
+}
+
+.menu a .halo {
+  position:absolute;
+  left:0;
+  bottom:0;
+  color:#ff6767;
+  transition:1s;
+  z-index:-1;
+}
+
+.menu a:hover {
+}
+
+.menu a:hover .halo {
+  transform: translate(3px, 0);
+}
+
+.page-title {
+  line-height:50px;
+  height:50px;
+}
+
+.page-title h2,
+.page-title h3,
+.page-title span {
+  display:inline-block;
+  vertical-align: middle;
+  margin:0;
+  line-height:inherit;
+}
+
+.page-title span {
+  padding: 0 var(--spacing_sm);
+}
+
+.page-title span:first-child {
+  padding: 0 var(--spacing_sm) 0 0;
+}
+
+.tagline {
+  max-width:500px;
+}
+
+/* home */
+
+.categories {
+  margin:0 -16px;
+}
+
+.categories a {
+  text-decoration: none;
+  flex:1;
+  line-height:0;
+}
+
+.category {
+  text-align:center;
+  border-radius: 8px;
+  overflow: hidden;
+  position:relative;
+  min-height:300px;
+  max-height:300px;
+  line-height:300px;
+  margin: var(--spacing_md);
+  box-sizing:border-box;
+  letter-spacing: 5px;
+  transition:0.5s;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.category:hover {
+  letter-spacing: 15px;
+  background-color: var(--textColorFaded);
+}
+
+.category img {
+  object-fit: cover;
+  width:100%;
+  mix-blend-mode: multiply;
+}
+
+.category h2 {
+  position: absolute;
+  top:0;
+  left:0;
+  width:100%;
+  z-index:1;
+  margin:0;
+}
+
+/* works */
 
 .old-project {
   margin-right: 16px;
@@ -168,6 +400,11 @@ a:hover {
   position:absolute;
   top:0;
   left:0;
+}
+
+.old-project .title h3 {
+  margin:0;
+  font-size:16px;
 }
 
 .old-project .title a {
@@ -327,10 +564,14 @@ a:hover {
 
 /* -------- SHOP ---------*/
 
+.shop {
+  margin: 0 -12px;
+}
+
 .product {
   margin: 0 12px var(--spacing_lg) 12px;
-  max-width: calc(25% - 24px);
-  min-width: calc(25% - 24px);
+  max-width: calc(33.3333% - 24px);
+  min-width: calc(33.3333% - 24px);
   background: var(--cardBackColor);
   color: var(--textColor);
   font-size: 24px;
@@ -369,24 +610,25 @@ a:hover {
 }
 
 .profile-pic {
-  max-width: 100px;
-  min-width: 100px;
+  max-width: 120px;
+  min-width: 120px;
   margin-right: 24px;
 }
 
 .profile-pic .photo {
-  border-radius: 50%;
+  border-radius: 60px;
   overflow: hidden;
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 180px;
 }
 
 .bio {
   margin-top: 0;
 }
 
-.bio h4 {
+.bio .name {
   margin: 0;
+  font-size:34px;
 }
 
 .social svg {
@@ -410,6 +652,7 @@ a:hover {
 
 .filters {
   text-align: right;
+  margin-left:auto;
 }
 
 .tag {
@@ -430,12 +673,25 @@ a:hover {
   top: -2px;
 }
 
+.footer {
+  line-height:50px;
+  height:50px;
+}
+
+.footer span {
+  display:inline-block;
+  vertical-align:middle;
+  padding-right:var(--spacing_md);
+  line-height:50px;
+}
+
 .old-row {
   margin-right: -16px;
 }
 
 .webring {
   display: inline-block;
+  margin-left:auto
 }
 
 .webring svg {
@@ -718,7 +974,7 @@ a:hover {
   }
   .profile-pic .photo {
     width: 80px;
-    height: 80px;
+    height:115px;
   }
   .profile-pic {
     max-width: 80px;
@@ -749,12 +1005,6 @@ a:hover {
   .tag {
     display: block;
   }
-  .footer .flex-row {
-    display: block;
-  }
-  .footer .flex-row .flex-1 {
-    margin-bottom: 16px;
-  }
   .oilandsugar-symbol {
     flex-direction:column;
   }
@@ -775,5 +1025,22 @@ a:hover {
   }
   .product-desc p {
     margin-top:0;
+  }
+  .page-title {
+    height:auto;
+    line-height:30px;
+  }
+  .page-title h3 {
+    display:block;
+  }
+  .bio.mobile {
+    display:flex;
+  }
+  .old-project .desc {
+    font-size: 16px;
+    line-height: 16px;
+  }
+  .sigils-symbols .flex-row {
+    display:block;
   }
 }

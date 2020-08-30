@@ -3,11 +3,10 @@ title = ""
 type = "page"
 
 name = "Lizbeth Poirier"
-bio = "I'm a multi-disciplinary designer since 2010. I'm currently focusing on user experience, black metal lettering and physical products."
-tagline = "Good design, code and content can make a difference."
+bio = "Trans woman, ecclectic designer and witch; goth druid. Currently focusing on design with a purpose, hand-lettering, illustration and the intersection of the occult, psychedelics and folklore. Drawing sigils and cooking plant-based food in my spare-time."
+tagline = "Write your own folklore"
 
 newWorkTitle = "Currently working on"
-shopTitle = "Spend your money on these things"
-oldWorkTitle = "Collected works"
+oldWorkTitle = "Recent works"
 
 +++

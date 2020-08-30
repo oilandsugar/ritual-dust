@@ -3,7 +3,7 @@ title = "Cimmerian Branding"
 
 tags = ["branding"]
 projectUrl = "http://cimmerian.co/#/"
-preview = "img/cimmerian.gif"
+preview = "/img/cimmerian.gif"
 
 +++
 

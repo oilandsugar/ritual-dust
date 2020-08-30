@@ -3,7 +3,7 @@ title = "Manière Noire Shop Branding"
 
 tags = ["branding"]
 projectUrl = "http://manierenoireshop.com/"
-preview = "mg/maniere-noire.png"
+preview = "/img/maniere-noire.png"
 
 +++
 
