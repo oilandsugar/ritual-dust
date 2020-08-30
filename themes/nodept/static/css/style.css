@@ -7,6 +7,7 @@
   --spacing_xl: 48px;
   --backColor:  #161716;
   --textColor: #7F915E;
+  --textColorFaded: #7F915E50;
   --accentColor: #B26A41;
   --linkColor: #B26A41;
   --cardShadow: 0 1px 22px #0000002e;
@@ -226,6 +227,7 @@ a:hover {
 
 .psych-1 {
   font-family: 'Juniper Std';
+  font-weight:300;
 }
 
 .psych-2 {
@@ -284,7 +286,7 @@ a:hover {
   display:inline-block;
   vertical-align: middle;
   margin:0;
-  line-height:50px;
+  line-height:inherit;
 }
 
 .page-title span {
@@ -295,8 +297,61 @@ a:hover {
   padding: 0 var(--spacing_sm) 0 0;
 }
 
-/* portfolio */
+.tagline {
+  max-width:500px;
+}
 
+/* home */
+
+.categories {
+  margin:0 -16px;
+}
+
+.categories a {
+  text-decoration: none;
+  flex:1;
+  line-height:0;
+}
+
+.category {
+  text-align:center;
+  border-radius: 8px;
+  overflow: hidden;
+  position:relative;
+  min-height:300px;
+  max-height:300px;
+  line-height:300px;
+  margin: var(--spacing_md);
+  box-sizing:border-box;
+  letter-spacing: 5px;
+  transition:0.5s;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.category:hover {
+  letter-spacing: 15px;
+  background-color: var(--textColorFaded);
+}
+
+.category img {
+  object-fit: cover;
+  width:100%;
+  mix-blend-mode: multiply;
+}
+
+.category h2 {
+  position: absolute;
+  top:0;
+  left:0;
+  width:100%;
+  z-index:1;
+  margin:0;
+}
+
+/* works */
 
 .old-project {
   margin-right: 16px;
@@ -919,7 +974,7 @@ a:hover {
   }
   .profile-pic .photo {
     width: 80px;
-    height: 80px;
+    height:115px;
   }
   .profile-pic {
     max-width: 80px;
@@ -970,5 +1025,22 @@ a:hover {
   }
   .product-desc p {
     margin-top:0;
+  }
+  .page-title {
+    height:auto;
+    line-height:30px;
+  }
+  .page-title h3 {
+    display:block;
+  }
+  .bio.mobile {
+    display:flex;
+  }
+  .old-project .desc {
+    font-size: 16px;
+    line-height: 16px;
+  }
+  .sigils-symbols .flex-row {
+    display:block;
   }
 }
