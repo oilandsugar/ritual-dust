@@ -5,9 +5,11 @@
     <span class="dingbats">{</span>
     <h2 class="psych-1">Food</h2>
     <span class="dingbats">{</span>
-    <h3 class="psych-2">Plant-based Explorations</h3>
+    <h3 class="psych-2">Plant-based comfort recipes</h3>
   </div>
-
+  {{ range where .RegularPages "Type" "food" }}
+    {{ partial "recipeCard.html" . }}
+  {{ end }}
 </div>
 
 {{ partial "footer" . }}

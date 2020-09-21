@@ -1,0 +1,16 @@
+{{ partial "header" . }}
+<div class="wrap big-padding-top single">
+  <div class="back-home">
+    <a href="/food/"><i class="fas fa-arrow-left"></i>Back to recipes</a>
+  </div>
+  <h1 class="psych-1 no-margin-bottom">{{.Title}}</h1>
+  <div class="specs">
+    <span class="prep-time">{{ .Params.prepTime }} to prep</span>
+    -
+    <span class="cook-time">{{ .Params.cookTime }} to cook</span>
+    -
+    <span class="portions">{{ .Params.portions }} portions</span>
+  </div>
+  {{ .Content | safeHTML }}
+</div>
+{{ partial "footer" . }}

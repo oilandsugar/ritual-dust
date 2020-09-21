@@ -700,6 +700,66 @@ a:hover {
   height: auto;
 }
 
+/* -------- RECIPES ---------*/
+
+.recipe-card {
+
+}
+
+.specs {
+  margin-bottom: var(--spacing_xl);
+}
+
+.ingredients {
+  max-width:300px;
+  min-width:300px;
+  padding-right:var(--spacing_lg);
+  flex:1;
+}
+
+.ingredients ul {
+  margin:0;
+  padding-left: 20px;
+  line-height:14px;
+}
+
+.ingredients ul li {
+  margin:0 0 var(--spacing_md) 0;
+}
+
+.ingredients ul li p {
+  margin:0;
+  font-size: 18px;
+}
+
+.recipe-content {
+  display:flex;
+  flex-direction:row;
+}
+
+.steps {
+  flex:3;
+  max-width:500px;
+  line-height:28px;
+  font-size:20px;
+}
+
+.steps ol {
+  padding-left:20px;
+}
+
+.steps ol li {
+  margin:0 0 var(--spacing_md) 0;
+}
+
+.steps em {
+  font-style:initial;
+  border-bottom: 1px solid;
+}
+
+.single .steps p {
+  font-size: inherit;
+}
 
 /* -------- SINGLE PROJECTS ---------*/
 
@@ -894,6 +954,10 @@ a:hover {
 
 .no-margin {
   margin: 0;
+}
+
+.no-margin-bottom {
+  margin-bottom:0!important;
 }
 
 .mobile {
