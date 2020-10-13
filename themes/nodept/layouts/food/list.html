@@ -7,9 +7,17 @@
     <span class="dingbats">{</span>
     <h3 class="psych-2">Plant-based comfort recipes</h3>
   </div>
-  {{ range where .RegularPages "Type" "food" }}
-    {{ partial "recipeCard.html" . }}
-  {{ end }}
+  <div class="flex-row">
+    <div class="recipes">
+      {{ range where .RegularPages "Type" "food" }}
+        {{ partial "recipeCard.html" . }}
+      {{ end }}
+    </div>
+    <div class="resources">
+      {{ .Content }}
+    </div>
+  </div>
+
 </div>
 
 {{ partial "footer" . }}

@@ -706,6 +706,24 @@ a:hover {
 
 }
 
+.recipes {
+  flex:3;
+}
+
+.resources {
+  flex:1;
+  max-width:300px;
+}
+
+.recipes a {
+  text-decoration: none;
+}
+
+.recipe-card h4 {
+  margin:0;
+  font-size:3em;
+}
+
 .specs {
   margin-bottom: var(--spacing_xl);
 }
