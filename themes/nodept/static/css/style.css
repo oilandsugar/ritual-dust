@@ -724,8 +724,25 @@ a:hover {
   font-size:3em;
 }
 
-.specs {
+.tags {
+  margin-top:var(--spacing_sm);
   margin-bottom: var(--spacing_xl);
+}
+
+.tags ul {
+  padding:0;
+  margin:0;
+}
+
+.tags li {
+  list-style:none;
+  padding:0;
+  margin:0;
+  display:inline-block;
+  padding-right: var(--spacing_sm);
+}
+
+.specs {
 }
 
 .ingredients {

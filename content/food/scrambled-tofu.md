@@ -2,6 +2,7 @@
 title = "Scrambled tofu"
 image = "/img/ariel-crest.png"
 type = "food"
+tags = ["protein", "main"]
 prepTime = "5 min"
 cookTime = "13 min"
 portions = 2
