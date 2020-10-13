@@ -1,4 +1,4 @@
 +++
-title = "Goods"
+title = "Craft"
 type = "page"
 +++
