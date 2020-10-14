@@ -12,8 +12,10 @@
     <span class="portions">{{ .Params.portions }} portion(s)</span>
   </div>
   {{ .Content | safeHTML }}
-  <div class="photo">
-    <img src="{{ .Params.image }}"/>
-  </div>
+  {{ range .Params.images }}
+    <div class="photo">
+      <img src="{{ . }}"/>
+    </div>
+  {{ end }}
 </div>
 {{ partial "footer" . }}

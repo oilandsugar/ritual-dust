@@ -1,6 +1,6 @@
 +++
 title = "Fall oats"
-image = "/img/recipes/fall-oats.jpg"
+images = ["/img/recipes/fall-oats-1.jpg", "/img/recipes/fall-oats-2.jpg"]
 type = "food"
 tags = ["oats", "main"]
 prepTime = "5 min"
