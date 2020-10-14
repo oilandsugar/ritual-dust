@@ -16,6 +16,7 @@ portions = 1
 - 1/2 cup of steel-cut oats
 - 1 cup of water
 - 2 tbsp of plant-based milk
+- 2 tbsp of brown sugar
 - pumpkin purée
 - dark chocolate chips
 - pumpkin seeds
