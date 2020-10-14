@@ -1,6 +1,14 @@
 {
   "projects": [
     {
+      "title": "Ich Hab Die Nacht Geträumet",
+      "type": "video",
+      "projectUrl": "https://www.youtube.com/watch?v=ylWj0O1xPjg&ab_channel=ArielBand",
+      "image": "/img/ariel-video.png",
+      "gif": "/img/ariel-video.gif",
+      "desc": "Music video for a the neofolk band of a good friend, eerie gothic vibes."
+    },
+    {
       "title": "Blood and Dust",
       "type": "branding",
       "projectUrl": "https://blood-and-dust.bandcamp.com",
