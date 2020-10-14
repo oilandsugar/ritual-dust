@@ -20,9 +20,10 @@
 /* structure */
 
 html {
-  font-family: "Distro";
-  font-size: 21px;
-  line-height: 32px;
+  font-family: 'Wremena';
+  font-weight: lighter;
+  font-size: 22px;
+  line-height: 33px;
   background: var(--backColor);
   color: var(--textColor);
 }
@@ -152,6 +153,33 @@ font-weight: normal;
 src: local('Distro Vinyl'), url('webfonts/DISTROV_.woff') format('woff');
 }
 
+@font-face {
+    font-family: 'Wremena';
+    src: url('webfonts/Wremena-Light.woff2') format('woff2'),
+        url('webfonts/Wremena-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Wremena';
+    src: url('webfonts/Wremena-Bold.woff2') format('woff2'),
+        url('webfonts/Wremena-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Wremena';
+    src: url('webfonts/Wremena.woff2') format('woff2'),
+        url('webfonts/Wremena.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 h1 {
   font-size: 6em;
   line-height: 0.8em;
@@ -201,11 +229,13 @@ p {
 a {
   color: var(--linkColor);
   cursor: pointer;
-  font-family: 'Distro Heavy';
+  font-family: 'Wremena';
+  font-weight: bold;
 }
 
 strong {
-  font-family: 'Distro Heavy';
+  font-family: 'Wremena';
+  font-weight: bold;
 }
 
 a:hover {
@@ -215,7 +245,6 @@ a:hover {
 .lighter {
   font-size: 16px;
   line-height: 20px;
-  opacity: 0.5;
 }
 
 .text-center {
