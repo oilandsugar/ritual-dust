@@ -1,6 +1,6 @@
 +++
 title = "Scrambled tofu"
-image = "/img/ariel-crest.png"
+image = "/img/recipes/scrambled-tofu.png"
 type = "food"
 tags = ["protein", "main"]
 prepTime = "5 min"
@@ -14,7 +14,7 @@ portions = 2
 ## Ingredients  
 
 - 1 block firm tofu (strained not pressed)
-- 1/4 cup non-dairy milk
+- 1/4 cup plant-based milk
 - 1/3 cup nutritional yeast
 - Mushrooms
 - 2 tbsp olive oil

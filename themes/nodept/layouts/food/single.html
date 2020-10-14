@@ -1,5 +1,5 @@
 {{ partial "header" . }}
-<div class="wrap big-padding-top single">
+<div class="wrap big-padding-top single recipe">
   <div class="back-home">
     <a href="/food/"><i class="fas fa-arrow-left"></i>Back to recipes</a>
   </div>
@@ -9,8 +9,11 @@
     -
     <span class="cook-time">{{ .Params.cookTime }} to cook</span>
     -
-    <span class="portions">{{ .Params.portions }} portions</span>
+    <span class="portions">{{ .Params.portions }} portion(s)</span>
   </div>
   {{ .Content | safeHTML }}
+  <div class="photo">
+    <img src="{{ .Params.image }}"/>
+  </div>
 </div>
 {{ partial "footer" . }}

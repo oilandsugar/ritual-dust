@@ -6,6 +6,7 @@
   --spacing_lg: 24px;
   --spacing_xl: 48px;
   --backColor:  #161716;
+  --backColorLighter:  #1f211a;
   --textColor: #7F915E;
   --textColorFaded: #7F915E50;
   --accentColor: #B26A41;
@@ -195,6 +196,7 @@ h2 {
   margin-top: 0;
   margin-bottom: 32px;
   font-weight: 500;
+  font-family: 'Distro Bold';
 }
 
 h2.blackletter {
@@ -204,6 +206,7 @@ h2.blackletter {
 h3 {
   margin-top: 0;
   line-height: 1.2em;
+  font-family: 'Distro Bold';
 }
 
 h3.blackletter {
@@ -224,6 +227,12 @@ h5 {
 }
 
 p {
+}
+
+hr {
+  border:0;
+  height:2px;
+  background-color: var(--backColorLighter);
 }
 
 a {
@@ -705,6 +714,7 @@ a:hover {
 
 .footer {
   line-height:50px;
+  font-weight:bold;
   height:50px;
   font-size: 18px;
 }
@@ -774,6 +784,8 @@ a:hover {
 }
 
 .specs {
+  margin-bottom: var(--spacing_xl);
+  font-weight:bold;
 }
 
 .ingredients {
@@ -806,8 +818,6 @@ a:hover {
 .steps {
   flex:3;
   max-width:500px;
-  line-height:28px;
-  font-size:20px;
 }
 
 .steps ol {
@@ -825,6 +835,13 @@ a:hover {
 
 .single .steps p {
   font-size: inherit;
+}
+
+.recipe .photo {
+  margin-top:var(--spacing_lg);
+  border-radius: var(--spacing_sm);
+  overflow: hidden;
+  line-height:0;
 }
 
 /* -------- SINGLE PROJECTS ---------*/
@@ -867,12 +884,16 @@ a:hover {
 
 /* -- containers -- */
 
+.full-wrap {
+  padding: 0 2em;
+  margin: 0;
+}
+
 .wrap {
   padding: 0 2em;
   max-width: 1000px;
   margin: 0;
 }
-
 
 .small-wrap {
   padding: 0 2em;
@@ -1091,10 +1112,7 @@ a:hover {
   .flex-row.desktop {
     display: none;
   }
-  .wrap {
-    padding: 0 24px;
-  }
-  .small-wrap {
+  .wrap, .small-wrap, .full-wrap {
     padding: 0 24px;
   }
   .big-padding-top {
