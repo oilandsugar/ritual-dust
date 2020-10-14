@@ -839,16 +839,16 @@ a:hover {
 /* -- containers -- */
 
 .wrap {
-  padding: 0 10em;
-  max-width: 1800px;
-  margin: 0 auto;
+  padding: 0 2em;
+  max-width: 1000px;
+  margin: 0;
 }
 
 
 .small-wrap {
-  padding: 0 10em;
+  padding: 0 2em;
   max-width: 600px;
-  margin: 0 auto;
+  margin: 0;
 }
 
 /* -------- FLEX ---------*/
@@ -1065,6 +1065,9 @@ a:hover {
   .wrap {
     padding: 0 24px;
   }
+  .small-wrap {
+    padding: 0 24px;
+  }
   .big-padding-top {
     padding-top: 30px;
   }
@@ -1150,5 +1153,33 @@ a:hover {
   }
   .sigils-symbols .flex-row {
     display:block;
+  }
+  .category {
+    min-height:0;
+    max-height:none;
+  }
+  .categories .flex-row {
+    display:block;
+  }
+  .footer .flex-row {
+    display:block;
+  }
+  .footer span {
+    line-height:28px;
+  }
+  .food .flex-row {
+    display:block;
+  }
+  .food .resources {
+    margin-top: var(--spacing_xl);
+  }
+  .recipe-content {
+    display:block;
+  }
+  .recipe-content .ingredients {
+    padding-top: var(--spacing_md);
+  }
+  .recipe-content .steps {
+    padding-top: var(--spacing_md);
   }
 }
