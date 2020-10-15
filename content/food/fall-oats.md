@@ -1,8 +1,11 @@
 +++
 title = "Fall oats"
-images = ["/img/recipes/fall-oats-1.jpg", "/img/recipes/fall-oats-2.jpg"]
 type = "food"
 tags = ["oats", "main"]
+
+images = ["/img/recipes/fall-oats-1.jpg", "/img/recipes/fall-oats-2.jpg"]
+imageAlt = "Steel-cut oats with pumpkin, spices and chocolate in a metal bowl"
+
 prepTime = "5 min"
 cookTime = "7 min"
 portions = 1

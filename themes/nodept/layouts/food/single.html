@@ -1,3 +1,5 @@
+{{ $imageAlt := .Params.imageAlt }}
+
 {{ partial "header" . }}
 <div class="wrap big-padding-top single recipe">
   <div class="back-home">
@@ -14,7 +16,7 @@
   {{ .Content | safeHTML }}
   {{ range .Params.images }}
     <div class="photo">
-      <img src="{{ . }}"/>
+      <img src="{{ . }}" alt="{{ $imageAlt }}"/>
     </div>
   {{ end }}
 </div>

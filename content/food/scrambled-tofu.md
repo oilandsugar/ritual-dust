@@ -1,8 +1,11 @@
 +++
 title = "Scrambled tofu"
-images =["/img/recipes/scrambled-tofu.jpg"]
 type = "food"
 tags = ["protein", "main"]
+
+images =["/img/recipes/scrambled-tofu.jpg"]
+imageAlt = "Scrambled tofu in a cast iron pan"
+
 prepTime = "5 min"
 cookTime = "13 min"
 portions = 2
@@ -16,7 +19,6 @@ portions = 2
 - 1 block firm tofu (strained not pressed)
 - 1/4 cup plant-based milk
 - 1/3 cup nutritional yeast
-- Mushrooms
 - 2 tbsp olive oil
 - 1/2 cup water
 - 3 tsp cumin
