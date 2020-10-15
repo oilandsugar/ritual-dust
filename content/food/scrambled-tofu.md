@@ -1,6 +1,6 @@
 +++
 title = "Scrambled tofu"
-images =["/img/recipes/scrambled-tofu.png"]
+images =["/img/recipes/scrambled-tofu.jpg"]
 type = "food"
 tags = ["protein", "main"]
 prepTime = "5 min"
