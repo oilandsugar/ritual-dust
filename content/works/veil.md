@@ -7,6 +7,10 @@ image = "/img/photo/veil/IMG_2681.jpg"
 desc = "Darkness hides but also reveals"
 +++
 
+# A Heavy Black Veil
+
+Darkness hides what was obvious to better reveal what was occulted
+
 ![still life in the darkness](/img/photo/veil/IMG_2681.jpg)
 ![American dinner in the night, closed](/img/photo/veil/DSC04858.jpg)
 ![Trees in the night, a vague face shape](/img/photo/veil/IMG_9253.jpg)
