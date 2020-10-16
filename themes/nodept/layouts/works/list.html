@@ -26,7 +26,9 @@
   </div>
 
   <div class="flex-row flex-wrap old-row">
-    {{ range $.Site.Data.old_projects.projects }} {{ partial "oldProjectCard.html" . }} {{ end }}
+    {{ range where .RegularPages "Type" "project" }}
+      {{ partial "projectCard.html" . }}
+    {{ end }}
   </div>
 </div>
 

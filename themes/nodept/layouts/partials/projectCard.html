@@ -1,0 +1,47 @@
+<div class="flex-1 old-project {{ range .Params.tags }}{{ . }}{{ end }}">
+  {{ if in .Params.tags "website" }}
+  <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}">
+    <div class="images">
+      <div class="images-container not-loaded">
+        <div class="img" style="background-image:url({{ .Params.image }});">
+          <div class="browser-bar"><i class="far fa-ellipsis-h"></i></div>
+        </div>
+      </div>
+    </div>
+  </a>
+  {{ else if in .Params.tags "video" }}
+  <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}">
+    <div class="images">
+      <div class="images-container not-loaded">
+        <div class="img" style="background-image:url({{ .Params.image }});"></div>
+        {{ with .Params.gif }}
+          <div class="gif" style="background-image:url({{ . }});"></div>
+        {{ end }}
+      </div>
+    </div>
+  </a>
+  {{ else }}
+  <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}">
+    <div class="images hover-slider">
+      <div class="images-container not-loaded">
+        <div class="img" id="image-1" style="background-image:url({{ .Params.image }});"></div>
+        {{ with .Params.image2 }}
+          <div class="img" id="image-2" style="background-image:url({{ . }});"></div>
+        {{ end }}
+        {{ with .Params.image3 }}
+          <div class="img" id="image-3" style="background-image:url({{ . }});"></div>
+        {{ end }}
+      </div>
+      <div class="indicator"></div>
+    </div>
+  </a>
+  {{ end }}
+  <div class="title">
+    <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}">
+      <h3 class="psych-2">{{ .Title }}</h3>
+    </a>
+  </div>
+  {{ with .Params.desc }}
+  <div class="desc">{{ . }}</div>
+  {{ end }}
+</div>

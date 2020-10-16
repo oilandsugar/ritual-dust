@@ -400,10 +400,9 @@ a:hover {
 }
 
 .old-project .desc {
-  font-size:12px;
-  line-height:14px;
-  padding-top:8px;
-  opacity:0.5;
+  font-size:14px;
+  line-height:18px;
+  padding-top:var(--spacing_sm);
 }
 
 .old-project .images {
@@ -444,17 +443,6 @@ a:hover {
 .old-project .title h3 {
   margin:0;
   font-size:16px;
-}
-
-.old-project .title a {
-  float: right;
-  opacity: 0.5;
-  font-size: 14px;
-  vertical-align: top;
-}
-
-.old-project .title a:hover {
-  opacity: 1;
 }
 
 .old-project.website .browser-bar {
@@ -690,8 +678,9 @@ a:hover {
 }
 
 .filters {
-  text-align: right;
+  text-align: left;
   margin-left:auto;
+  margin-bottom:var(--spacing_md);
 }
 
 .tag {
@@ -959,6 +948,10 @@ a:hover {
 }
 
 /* -------- PADDING ---------*/
+
+.no-padding-left {
+  padding-left:0;
+}
 
 .small-padding {
   padding: 15px;

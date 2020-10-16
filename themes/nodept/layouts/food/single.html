@@ -13,6 +13,11 @@
     -
     <span class="portions">{{ .Params.portions }} portion(s)</span>
   </div>
+  <ul class="tags">
+    {{ range (.GetTerms "tags") }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
   {{ .Content | safeHTML }}
   {{ range .Params.images }}
     <div class="photo">
