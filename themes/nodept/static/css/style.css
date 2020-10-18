@@ -5,12 +5,12 @@
   --spacing_md: 16px;
   --spacing_lg: 24px;
   --spacing_xl: 48px;
-  --backColor:  #161716;
-  --backColorLighter:  #1f211a;
-  --textColor: #7F915E;
-  --textColorFaded: #7F915E50;
-  --accentColor: #B26A41;
-  --linkColor: #B26A41;
+  --backColor: #161716;
+  --backColorLighter: #1f211a;
+  --textColor: #7f915e;
+  --textColorFaded: #7f915e50;
+  --accentColor: #b26a41;
+  --linkColor: #b26a41;
   --cardShadow: 0 1px 22px #0000002e;
   --cardShadowRaised: 0 10px 42px #0000007a;
   --cardBackColor: #272424;
@@ -21,7 +21,7 @@
 /* structure */
 
 html {
-  font-family: 'Wremena';
+  font-family: "Wremena";
   font-weight: lighter;
   font-size: 22px;
   line-height: 33px;
@@ -50,135 +50,125 @@ img {
 }
 
 @font-face {
-    font-family: 'Juniper Std';
-    src: url('webfonts/JuniperStd.woff2') format('woff2'),
-        url('webfonts/JuniperStd.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Juniper Std";
+  src: url("webfonts/JuniperStd.woff2") format("woff2"),
+    url("webfonts/JuniperStd.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Cooper Std';
-    src: url('CooperBlackStd.woff2') format('woff2'),
-        url('CooperBlackStd.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Cooper Std";
+  src: url("CooperBlackStd.woff2") format("woff2"),
+    url("CooperBlackStd.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-font-family: 'Distro';
-font-style: normal;
-font-weight: normal;
-src: local('Distro'), url('webfonts/DISTRO__.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Distro Bold';
-font-style: normal;
-font-weight: normal;
-src: local('Distro Bold'), url('webfonts/DISTROB_.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Distro Black';
-font-style: normal;
-font-weight: normal;
-src: local('Distro Black'), url('webfonts/DISTROBL.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Distro Bats';
-font-style: normal;
-font-weight: normal;
-src: local('Distro Bats'), url('webfonts/DISTROBT.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Distro Bev';
-font-style: normal;
-font-weight: normal;
-src: local('Distro Bev'), url('webfonts/DISTROBV.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Distro Extinct';
-font-style: normal;
-font-weight: normal;
-src: local('Distro Extinct'), url('webfonts/DISTROEX.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Distro Heavy';
-font-style: normal;
-font-weight: normal;
-src: local('Distro Heavy'), url('webfonts/DISTROH_.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Distro Light';
-font-style: normal;
-font-weight: normal;
-src: local('Distro Light'), url('webfonts/DISTROL_.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Distro Mix';
-font-style: normal;
-font-weight: normal;
-src: local('Distro Mix'), url('webfonts/DISTROM_.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Distro Toast';
-font-style: normal;
-font-weight: normal;
-src: local('Distro Toast'), url('webfonts/DISTROT_.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Distro Vinyl';
-font-style: normal;
-font-weight: normal;
-src: local('Distro Vinyl'), url('webfonts/DISTROV_.woff') format('woff');
+  font-family: "Distro";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Distro"), url("webfonts/DISTRO__.woff") format("woff");
 }
 
 @font-face {
-    font-family: 'Wremena';
-    src: url('webfonts/Wremena-Light.woff2') format('woff2'),
-        url('webfonts/Wremena-Light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Distro Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Distro Bold"), url("webfonts/DISTROB_.woff") format("woff");
 }
 
 @font-face {
-    font-family: 'Wremena';
-    src: url('webfonts/Wremena-Bold.woff2') format('woff2'),
-        url('webfonts/Wremena-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Distro Black";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Distro Black"), url("webfonts/DISTROBL.woff") format("woff");
 }
 
 @font-face {
-    font-family: 'Wremena';
-    src: url('webfonts/Wremena.woff2') format('woff2'),
-        url('webfonts/Wremena.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Distro Bats";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Distro Bats"), url("webfonts/DISTROBT.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Distro Bev";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Distro Bev"), url("webfonts/DISTROBV.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Distro Extinct";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Distro Extinct"), url("webfonts/DISTROEX.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Distro Heavy";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Distro Heavy"), url("webfonts/DISTROH_.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Distro Light";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Distro Light"), url("webfonts/DISTROL_.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Distro Mix";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Distro Mix"), url("webfonts/DISTROM_.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Distro Toast";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Distro Toast"), url("webfonts/DISTROT_.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Distro Vinyl";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Distro Vinyl"), url("webfonts/DISTROV_.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Wremena";
+  src: url("webfonts/Wremena-Light.woff2") format("woff2"),
+    url("webfonts/Wremena-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Wremena";
+  src: url("webfonts/Wremena-Bold.woff2") format("woff2"),
+    url("webfonts/Wremena-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Wremena";
+  src: url("webfonts/Wremena.woff2") format("woff2"),
+    url("webfonts/Wremena.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 h1 {
@@ -196,23 +186,23 @@ h2 {
   margin-top: 0;
   margin-bottom: 32px;
   font-weight: 500;
-  font-family: 'Distro Bold';
+  font-family: "Distro Bold";
 }
 
 h2.blackletter {
-  font-size:2.3em;
+  font-size: 2.3em;
 }
 
 h3 {
   margin-top: 0;
   line-height: 1.2em;
-  font-family: 'Distro Bold';
+  font-family: "Distro Bold";
 }
 
 h3.blackletter {
-  font-size:2em;
-  line-height:1em;
-  margin-bottom:var(--spacing_md);
+  font-size: 2em;
+  line-height: 1em;
+  margin-bottom: var(--spacing_md);
 }
 
 h4 {
@@ -220,7 +210,7 @@ h4 {
 }
 
 h4.blackletter {
-  font-size:1.5em;
+  font-size: 1.5em;
 }
 
 h5 {
@@ -230,25 +220,25 @@ p {
 }
 
 hr {
-  border:0;
-  height:2px;
+  border: 0;
+  height: 2px;
   background-color: var(--backColorLighter);
 }
 
 a {
   color: var(--linkColor);
   cursor: pointer;
-  font-family: 'Wremena';
+  font-family: "Wremena";
   font-weight: bold;
 }
 
 strong {
-  font-family: 'Wremena';
+  font-family: "Wremena";
   font-weight: bold;
 }
 
 a:hover {
-  color:var(--accentColor);
+  color: var(--accentColor);
 }
 
 .lighter {
@@ -257,7 +247,7 @@ a:hover {
 }
 
 .text-center {
-  text-align:center;
+  text-align: center;
 }
 
 .blackletter {
@@ -265,46 +255,46 @@ a:hover {
 }
 
 .psych-1 {
-  font-family: 'Juniper Std';
-  font-weight:300;
+  font-family: "Juniper Std";
+  font-weight: 300;
 }
 
 .psych-2 {
-  font-family: 'Cooper Std';
+  font-family: "Cooper Std";
 }
 
 .dingbats {
-  font-family: 'Distro Bats';
-  font-size:24px;
+  font-family: "Distro Bats";
+  font-size: 24px;
 }
 
 /* utils */
 
 .display-none {
-  display:none;
+  display: none;
 }
 
 /* menu */
 
 .menu a {
-  font-size:20px;
-  padding-right:var(--spacing_md);
-  text-decoration:none;
-  position:relative;
-  font-family: 'Distro Bold';
-  display:inline-block;
+  font-size: 20px;
+  padding-right: var(--spacing_md);
+  text-decoration: none;
+  position: relative;
+  font-family: "Distro Bold";
+  display: inline-block;
 }
 
 .menu a span {
 }
 
 .menu a .halo {
-  position:absolute;
-  left:0;
-  bottom:0;
-  color:#ff6767;
-  transition:1s;
-  z-index:-1;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  color: #ff6767;
+  transition: 1s;
+  z-index: -1;
 }
 
 .menu a:hover {
@@ -315,17 +305,17 @@ a:hover {
 }
 
 .page-title {
-  line-height:50px;
-  height:50px;
+  line-height: 50px;
+  height: 50px;
 }
 
 .page-title h2,
 .page-title h3,
 .page-title span {
-  display:inline-block;
+  display: inline-block;
   vertical-align: middle;
-  margin:0;
-  line-height:inherit;
+  margin: 0;
+  line-height: inherit;
 }
 
 .page-title span {
@@ -337,33 +327,33 @@ a:hover {
 }
 
 .tagline {
-  max-width:500px;
+  max-width: 500px;
 }
 
 /* home */
 
 .categories {
-  margin:0 -16px;
+  margin: 0 -16px;
 }
 
 .categories a {
   text-decoration: none;
-  flex:1;
-  line-height:0;
+  flex: 1;
+  line-height: 0;
 }
 
 .category {
-  text-align:center;
+  text-align: center;
   border-radius: 8px;
   overflow: hidden;
-  position:relative;
-  min-height:300px;
-  max-height:300px;
-  line-height:300px;
+  position: relative;
+  min-height: 300px;
+  max-height: 300px;
+  line-height: 300px;
   margin: var(--spacing_md);
-  box-sizing:border-box;
+  box-sizing: border-box;
   letter-spacing: 5px;
-  transition:0.5s;
+  transition: 0.5s;
   cursor: pointer;
   display: flex;
   flex-direction: column;
@@ -377,17 +367,17 @@ a:hover {
 
 .category img {
   object-fit: cover;
-  width:100%;
+  width: 100%;
   mix-blend-mode: multiply;
 }
 
 .category h2 {
   position: absolute;
-  top:0;
-  left:0;
-  width:100%;
-  z-index:1;
-  margin:0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  margin: 0;
 }
 
 /* works */
@@ -400,49 +390,49 @@ a:hover {
 }
 
 .old-project .desc {
-  font-size:14px;
-  line-height:18px;
-  padding-top:var(--spacing_sm);
+  font-size: 14px;
+  line-height: 18px;
+  padding-top: var(--spacing_sm);
 }
 
 .old-project .images {
   min-height: 200px;
-  width:100%;
+  width: 100%;
   margin-bottom: 16px;
   border-radius: 4px;
-  position:relative;
-  overflow:hidden;
+  position: relative;
+  overflow: hidden;
 }
 
 .old-project.video:hover .img {
-  opacity:0;
+  opacity: 0;
 }
 
 .old-project .img {
   min-height: 200px;
-  width:100%;
+  width: 100%;
   background-size: cover;
   background-position: center;
-  position:absolute;
-  top:0;
-  left:0;
-  z-index:100;
-  opacity:1;
-  transition:0.3s;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  opacity: 1;
+  transition: 0.3s;
 }
 .old-project .gif {
   min-height: 200px;
-  width:100%;
+  width: 100%;
   background-size: cover;
   background-position: center;
-  position:absolute;
-  top:0;
-  left:0;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .old-project .title h3 {
-  margin:0;
-  font-size:16px;
+  margin: 0;
+  font-size: 16px;
 }
 
 .old-project.website .browser-bar {
@@ -453,54 +443,54 @@ a:hover {
 .old-project.website .img {
   border: 2px solid var(--grey);
   background-position: center 24px;
-  box-sizing:border-box;
-  border-radius:4px;
+  box-sizing: border-box;
+  border-radius: 4px;
 }
 
 .old-project .indicator {
-  position:absolute;
-  bottom:8px;
-  left:8px;
-  width:calc(100% - 16px);
-  display:flex;
-  flex-direction:row;
-  z-index:1000;
-  opacity:0;
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  width: calc(100% - 16px);
+  display: flex;
+  flex-direction: row;
+  z-index: 1000;
+  opacity: 0;
   pointer-events: none;
-  transition:0.3s;
+  transition: 0.3s;
 }
 
 .hover-slider:hover .indicator {
-  opacity:1;
+  opacity: 1;
 }
 
 .hover-slider {
-  overflow:hidden;
-  position:relative;
+  overflow: hidden;
+  position: relative;
 }
 
 .old-project .indicator .bar {
-  flex:1;
+  flex: 1;
   margin: 0 4px;
-  height:3px;
-  border-radius:1.5px;
-  background:#000;
-  opacity:0.1;
+  height: 3px;
+  border-radius: 1.5px;
+  background: #000;
+  opacity: 0.1;
 }
 
 .old-project .indicator .bar.active {
-  opacity:0.5;
+  opacity: 0.5;
 }
 
 .hover-slider .images-container {
-  position:absolute;
-  top:0;
-  bottom:0;
-  left:0;
-  width:100%;
-  transition:0.4s;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  transition: 0.4s;
   animation-timing-function: ease-in-out;
-  background:var(--grey);
+  background: var(--grey);
 }
 
 .images-container.not-loaded {
@@ -542,11 +532,11 @@ a:hover {
 }
 
 .new-project h3 {
-  transition:0.5s;
+  transition: 0.5s;
 }
 
 .new-project:hover h3 {
-  color:var(--accentColor);
+  color: var(--accentColor);
 }
 
 .new-project .desc {
@@ -555,15 +545,15 @@ a:hover {
 
 .new-project .picture {
   line-height: 0;
-  height:400px;
-  width:100%;
+  height: 400px;
+  width: 100%;
   background-size: cover;
   background-position: center;
   border-radius: 4px;
   box-shadow: var(--cardShadow);
   box-sizing: border-box;
   overflow: hidden;
-  transition:0.5s;
+  transition: 0.5s;
 }
 
 .new-project:hover .picture {
@@ -571,17 +561,17 @@ a:hover {
 }
 
 .oilandsugar-symbol {
-  opacity:0.5;
-  font-size:14px;
-  line-height:1.5em;
+  opacity: 0.5;
+  font-size: 14px;
+  line-height: 1.5em;
 }
 
 .oilandsugar-symbol .symbol {
-  max-width:100px;
+  max-width: 100px;
 }
 
 .oilandsugar-symbol .symbol svg {
-  max-width:100%;
+  max-width: 100%;
 }
 
 .oilandsugar-symbol .symbol svg path,
@@ -605,7 +595,7 @@ a:hover {
   box-sizing: border-box;
   border-radius: 4px;
   box-shadow: var(--cardShadow);
-  transition:0.5s;
+  transition: 0.5s;
   overflow: hidden;
   min-height: 350px;
   text-decoration: none;
@@ -616,7 +606,7 @@ a:hover {
 }
 
 .product h4 {
-  margin:0;
+  margin: 0;
 }
 
 .product .price {
@@ -625,15 +615,15 @@ a:hover {
 }
 
 .product .desc p.spec {
-  font-size:12px;
-  margin-bottom:0;
+  font-size: 12px;
+  margin-bottom: 0;
 }
 
 .product .picture {
   line-height: 0;
   background-size: cover;
   background-position: center;
-  min-height:300px;
+  min-height: 300px;
 }
 
 .profile-pic {
@@ -655,7 +645,7 @@ a:hover {
 
 .bio .name {
   margin: 0;
-  font-size:34px;
+  font-size: 34px;
 }
 
 .social svg {
@@ -666,7 +656,7 @@ a:hover {
 }
 
 .social a {
-  text-decoration:none;
+  text-decoration: none;
 }
 
 .social svg:hover {
@@ -679,19 +669,19 @@ a:hover {
 
 .filters {
   text-align: left;
-  margin-left:auto;
-  margin-bottom:var(--spacing_md);
+  margin-left: auto;
+  margin-bottom: var(--spacing_md);
 }
 
 .tag {
   padding-right: 8px;
   opacity: 0.5;
-  transition:0.3s;
+  transition: 0.3s;
 }
 
 .tag:hover,
 .tag.active {
-  opacity:1;
+  opacity: 1;
 }
 
 .tag svg {
@@ -702,17 +692,17 @@ a:hover {
 }
 
 .footer {
-  line-height:50px;
-  font-weight:bold;
-  height:50px;
+  line-height: 50px;
+  font-weight: bold;
+  height: 50px;
   font-size: 18px;
 }
 
 .footer span {
-  display:inline-block;
-  vertical-align:middle;
-  padding-right:var(--spacing_md);
-  line-height:50px;
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: var(--spacing_md);
+  line-height: 50px;
 }
 
 .old-row {
@@ -721,7 +711,7 @@ a:hover {
 
 .webring {
   display: inline-block;
-  margin-left:auto
+  margin-left: auto;
 }
 
 .webring svg {
@@ -733,16 +723,15 @@ a:hover {
 /* -------- RECIPES ---------*/
 
 .recipe-card {
-
 }
 
 .recipes {
-  flex:3;
+  flex: 3;
 }
 
 .resources {
-  flex:1;
-  max-width:300px;
+  flex: 1;
+  max-width: 300px;
 }
 
 .recipes a {
@@ -750,75 +739,72 @@ a:hover {
 }
 
 .recipe-card h4 {
-  margin:0;
-  font-size:3em;
+  margin: 0;
+  font-size: 3em;
 }
 
 .tags {
-  margin-top:var(--spacing_sm);
+  margin-top: var(--spacing_sm);
   margin-bottom: var(--spacing_xl);
-}
-
-.tags ul {
-  padding:0;
-  margin:0;
+  padding-left: 0;
 }
 
 .tags li {
-  list-style:none;
-  padding:0;
-  margin:0;
-  display:inline-block;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
   padding-right: var(--spacing_sm);
 }
 
 .specs {
-  margin-bottom: var(--spacing_xl);
-  font-weight:bold;
+  margin-bottom: var(--spacing_sm);
+  font-weight: bold;
+  font-size: 28px;
 }
 
 .ingredients {
-  max-width:300px;
-  min-width:300px;
-  padding-right:var(--spacing_lg);
-  flex:1;
+  max-width: 300px;
+  min-width: 300px;
+  padding-right: var(--spacing_lg);
+  flex: 1;
 }
 
 .ingredients ul {
-  margin:0;
+  margin: 0;
   padding-left: 20px;
-  line-height:14px;
+  line-height: 14px;
 }
 
 .ingredients ul li {
-  margin:0 0 var(--spacing_md) 0;
+  margin: 0 0 var(--spacing_md) 0;
 }
 
 .ingredients ul li p {
-  margin:0;
+  margin: 0;
   font-size: 18px;
 }
 
 .recipe-content {
-  display:flex;
-  flex-direction:row;
+  display: flex;
+  flex-direction: row;
 }
 
 .steps {
-  flex:3;
-  max-width:500px;
+  flex: 3;
+  max-width: 500px;
 }
 
 .steps ol {
-  padding-left:20px;
+  padding-left: 20px;
 }
 
 .steps ol li {
-  margin:0 0 var(--spacing_md) 0;
+  margin: 0 0 var(--spacing_md) 0;
 }
 
 .steps em {
-  font-style:initial;
+  font-style: initial;
   border-bottom: 1px solid;
 }
 
@@ -827,10 +813,10 @@ a:hover {
 }
 
 .recipe .photo {
-  margin-top:var(--spacing_lg);
+  margin-top: var(--spacing_lg);
   border-radius: var(--spacing_sm);
   overflow: hidden;
-  line-height:0;
+  line-height: 0;
 }
 
 /* -------- SINGLE PROJECTS ---------*/
@@ -841,28 +827,28 @@ a:hover {
 }
 
 .back-home a {
-  opacity:0.5;
-  transition:0.3s;
+  opacity: 0.5;
+  transition: 0.3s;
   text-decoration: none;
 }
 
 .back-home a:hover {
-  opacity:1;
+  opacity: 1;
 }
 
 .back-home a svg {
-  margin-right:16px;
-  font-size:16px;
+  margin-right: 16px;
+  font-size: 16px;
 }
 
 .single p {
-  font-size:24px;
+  font-size: 24px;
 }
 
 .single small {
-  opacity:0.5;
-  font-size:14px;
-  line-height:1.2em;
+  opacity: 0.5;
+  font-size: 14px;
+  line-height: 1.2em;
 }
 
 /* -------- COLORS ---------*/
@@ -947,10 +933,14 @@ a:hover {
   flex: 6;
 }
 
+.columns {
+  column-count: 3;
+}
+
 /* -------- PADDING ---------*/
 
 .no-padding-left {
-  padding-left:0;
+  padding-left: 0;
 }
 
 .small-padding {
@@ -1044,7 +1034,7 @@ a:hover {
 }
 
 .no-margin-bottom {
-  margin-bottom:0!important;
+  margin-bottom: 0 !important;
 }
 
 .mobile {
@@ -1074,7 +1064,7 @@ a:hover {
   }
   .current-row {
     padding-bottom: 30px;
-    display:block;
+    display: block;
   }
   .new-project .flex-row {
     display: block;
@@ -1096,7 +1086,7 @@ a:hover {
   }
   .new-project .desc {
     max-width: 100%;
-    padding: var(--spacing_lg) 0 ;
+    padding: var(--spacing_lg) 0;
   }
   .mobile {
     display: block;
@@ -1105,7 +1095,9 @@ a:hover {
   .flex-row.desktop {
     display: none;
   }
-  .wrap, .small-wrap, .full-wrap {
+  .wrap,
+  .small-wrap,
+  .full-wrap {
     padding: 0 24px;
   }
   .big-padding-top {
@@ -1125,7 +1117,7 @@ a:hover {
   }
   .profile-pic .photo {
     width: 80px;
-    height:115px;
+    height: 115px;
   }
   .profile-pic {
     max-width: 80px;
@@ -1157,64 +1149,64 @@ a:hover {
     display: block;
   }
   .oilandsugar-symbol {
-    flex-direction:column;
+    flex-direction: column;
   }
   .oilandsugar-symbol .symbol {
-    max-width:100%;
-    text-align:center;
-    padding-bottom:20px;
+    max-width: 100%;
+    text-align: center;
+    padding-bottom: 20px;
   }
   .oilandsugar-symbol .symbol svg {
-    width:80px;
+    width: 80px;
   }
   .shop-row {
     flex-direction: column;
   }
   .product {
-    max-width:100%;
-    margin-right:0;
+    max-width: 100%;
+    margin-right: 0;
   }
   .product-desc p {
-    margin-top:0;
+    margin-top: 0;
   }
   .page-title {
-    height:auto;
-    line-height:30px;
+    height: auto;
+    line-height: 30px;
   }
   .page-title h3 {
-    display:block;
+    display: block;
   }
   .bio.mobile {
-    display:flex;
+    display: flex;
   }
   .old-project .desc {
     font-size: 16px;
     line-height: 16px;
   }
   .sigils-symbols .flex-row {
-    display:block;
+    display: block;
   }
   .category {
-    min-height:0;
-    max-height:none;
+    min-height: 0;
+    max-height: none;
   }
   .categories .flex-row {
-    display:block;
+    display: block;
   }
   .footer .flex-row {
-    display:block;
+    display: block;
   }
   .footer span {
-    line-height:28px;
+    line-height: 28px;
   }
   .food .flex-row {
-    display:block;
+    display: block;
   }
   .food .resources {
     margin-top: var(--spacing_xl);
   }
   .recipe-content {
-    display:block;
+    display: block;
   }
   .recipe-content .ingredients {
     padding-top: var(--spacing_md);

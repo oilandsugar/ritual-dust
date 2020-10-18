@@ -1,0 +1,14 @@
+{{ partial "header" . }}
+
+<div class="small-wrap big-padding-top">
+  <h1>Tags</h1>
+  <div class="columns">
+  {{ range .Data.Terms.ByCount }}
+    <div>
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+    </div>
+  {{ end }}
+  </div>
+</div>
+
+{{ partial "footer" . }}

@@ -1,0 +1,14 @@
+{{ partial "header" . }}
+
+<div class="small-wrap big-padding-top">
+  <h1>{{ .Title }}</h1>
+  <ul>
+  {{ range .Paginator.Pages }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+  {{ end }}
+  </ul>
+</div>
+
+{{ partial "footer" . }}
