@@ -1,7 +1,7 @@
 {{ $imageAlt := .Params.imageAlt }} {{ partial "header" . }}
 <div class="wrap big-padding-top single recipe">
   <div class="back-home">
-    <a href="/food/"><i class="fas fa-arrow-left"></i>Back to recipes</a>
+    <a href="/{{ .Section }}/"><i class="fas fa-arrow-left"></i>Back to {{ .Section }}</a>
   </div>
   <h1 class="psych-1 no-margin-bottom">{{.Title}}</h1>
   <div class="specs">

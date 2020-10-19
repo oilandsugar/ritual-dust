@@ -5,11 +5,11 @@ type = "page"
 
 ![Lizbeth against a rock background](/img/photo/cemetery/graveadventures6.jpg)
 
-I am Lizbeth Poirier, a designer, musician and maker / crafter
+I am Lizbeth Poirier, a designer, musician and maker / crafter.
 
 I am currently taking commission work for **design**, **illustration**, **lettering** and **web** projects (especially anything relating to folklore, occultism, activism music and art).
 
-I am also crafting ritual tools and small handcrafted wooden items which you can find here.
+I am also crafting ritual tools and small handcrafted wooden items which you can find [here](/craft/).
 
 To discuss those, email me at: lizbeth.poirier.m@gmail.com
 

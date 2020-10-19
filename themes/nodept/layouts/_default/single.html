@@ -1,7 +1,12 @@
 {{ partial "header" . }}
 <div class="wrap big-padding-top single">
   <div class="back-home">
-    <a href="/"><i class="fas fa-arrow-left"></i>Back to home page</a>
+    <a href="/{{ .Section }}/"><i class="fas fa-arrow-left"></i>Back to {{ .Section }}</a>
+  </div>
+  <div class="page-title">
+    <span class="dingbats">{</span>
+    <h2 class="psych-1">{{ .Title }}</h2>
+    <span class="dingbats">{</span>
   </div>
   {{ .Content }}
 </div>

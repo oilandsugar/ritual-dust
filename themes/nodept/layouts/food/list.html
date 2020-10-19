@@ -1,23 +1,23 @@
 {{ partial "header" . }}
 
-<div class="wrap big-padding-top food">
-  <div class="page-title">
-    <span class="dingbats">{</span>
-    <h2 class="psych-1">Food</h2>
-    <span class="dingbats">{</span>
-    <h3 class="psych-2">Plant-based comfort recipes</h3>
+<div class="flex-row big-padding-top">
+  <div class="sidebar">
+      {{ .Content }}
   </div>
-  <div class="flex-row">
-    <div class="recipes">
+  <div class="small-wrap food">
+    <div class="page-title">
+      <span class="dingbats">{</span>
+      <h2 class="psych-1">Food</h2>
+      <span class="dingbats">{</span>
+      <h3 class="psych-2">Plant-based comfort recipes</h3>
+    </div>
+    This section contains recipes I remixed, modified or created, everything is plant-based and I try to use local and seasonal ingredients as much as I can.
+    <div class="recipes big-padding-top">
       {{ range where .RegularPages "Type" "food" }}
         {{ partial "recipeCard.html" . }}
       {{ end }}
     </div>
-    <div class="resources">
-      {{ .Content }}
-    </div>
   </div>
-
 </div>
 
 {{ partial "footer" . }}

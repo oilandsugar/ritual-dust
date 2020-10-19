@@ -226,19 +226,19 @@ hr {
 }
 
 a {
-  color: var(--linkColor);
+  color: var(--textColor);
   cursor: pointer;
   font-family: "Wremena";
   font-weight: bold;
 }
 
+a:hover {
+  color: var(--linkColor);
+}
+
 strong {
   font-family: "Wremena";
   font-weight: bold;
-}
-
-a:hover {
-  color: var(--accentColor);
 }
 
 .lighter {
@@ -723,10 +723,18 @@ a:hover {
 /* -------- RECIPES ---------*/
 
 .recipe-card {
+  margin-bottom: var(--spacing_xl);
+  display:block;
 }
 
 .recipes {
   flex: 3;
+}
+
+.recipes .picture {
+  border-radius: 8px;
+  overflow: hidden;
+  line-height:0;
 }
 
 .resources {
@@ -827,13 +835,8 @@ a:hover {
 }
 
 .back-home a {
-  opacity: 0.5;
   transition: 0.3s;
   text-decoration: none;
-}
-
-.back-home a:hover {
-  opacity: 1;
 }
 
 .back-home a svg {
@@ -874,6 +877,11 @@ a:hover {
   padding: 0 2em;
   max-width: 600px;
   margin: 0;
+}
+
+.sidebar {
+  padding: 0 2em;
+  max-width: 200px;
 }
 
 /* -------- FLEX ---------*/

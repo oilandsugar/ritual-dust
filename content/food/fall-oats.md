@@ -1,7 +1,7 @@
 +++
 title = "Fall oats"
 type = "food"
-tags = ["oats", "main"]
+tags = ["oats", "main", "fall"]
 
 images = ["/img/recipes/fall-oats-1.jpg", "/img/recipes/fall-oats-2.jpg"]
 imageAlt = "Steel-cut oats with pumpkin, spices and chocolate in a metal bowl"

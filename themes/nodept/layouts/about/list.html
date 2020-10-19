@@ -1,0 +1,23 @@
+{{ partial "header" . }}
+
+<div class="flex-row big-padding-top">
+  <div class="sidebar">
+    {{ range .Paginator.Pages }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </div>
+  <div class="small-wrap">
+    <div class="page-title">
+      <span class="dingbats">+</span>
+      <h2 class="psych-1">{{ .Title }}</h2>
+      <span class="dingbats">+</span>
+    </div>
+    <div class="big-padding-top">
+    {{.Content}}
+    </div>
+  </div>
+</div>
+
+{{ partial "footer" . }}

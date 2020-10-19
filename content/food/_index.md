@@ -7,5 +7,3 @@ type = "page"
 https://grimgrains.com/
 https://thefirstmess.com/
 https://www.theppk.com/
-
-### Good cooking books

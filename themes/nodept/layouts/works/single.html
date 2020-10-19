@@ -1,7 +1,7 @@
 {{ partial "header" . }}
 <div class="wrap big-padding-top single">
   <div class="back-home medium-padding-bottom">
-    <a href="/works/"><i class="fas fa-arrow-left"></i>Back to all projects</a>
+    <a href="/{{ .Section }}/"><i class="fas fa-arrow-left"></i>Back to {{ .Section }}</a>
   </div>
   {{ .Content }}
 </div>
