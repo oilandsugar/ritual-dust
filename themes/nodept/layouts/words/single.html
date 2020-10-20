@@ -6,11 +6,13 @@
       <a href="/{{ .Section }}/"><i class="fas fa-arrow-left"></i>Back to {{ .Section }}</a>
     </div>
     {{ $section := where $.Site.RegularPages "Section" "words"}}
+    <ul>
     {{ range $section }}
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
     {{ end }}
+    </ul>
   </div>
   <div class="wrap">
     <h1 class="psych-1">{{ .Title }}</h1>

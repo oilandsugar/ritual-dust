@@ -782,6 +782,10 @@ img {
   line-height:144px;
 }
 
+.back-home {
+  margin-bottom: var(--spacing_sm);
+}
+
 .back-home a {
   transition: 0.3s;
   text-decoration: none;
@@ -827,6 +831,12 @@ img {
   padding: 0 2em;
   max-width: 200px;
   min-width: 200px;
+}
+
+.sidebar ul {
+  list-style:none;
+  margin:0;
+  padding:0;
 }
 
 .sidebar a {

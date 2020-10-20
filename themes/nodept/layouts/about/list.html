@@ -2,11 +2,13 @@
 
 <div class="flex-row big-padding-top">
   <div class="sidebar">
+    <ul>
     {{ range .Paginator.Pages }}
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
     {{ end }}
+    </ul>
   </div>
   <div class="small-wrap">
     <div class="page-title">

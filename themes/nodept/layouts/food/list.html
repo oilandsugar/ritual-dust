@@ -15,7 +15,9 @@
       <span class="dingbats">{</span>
       <h3 class="psych-2">Plant-based comfort recipes</h3>
     </div>
+    <div class="intro">
     {{ .Params.intro }}
+    </div>
     <div class="recipes big-padding-top">
       {{ range where .RegularPages "Type" "food" }}
         {{ partial "recipeCard.html" . }}
