@@ -281,6 +281,18 @@ strong {
   display: none;
 }
 
+figure {
+  margin-right:0;
+  margin-left:0;
+}
+
+figcaption {
+  font-size:14px;
+  line-height:14px;
+  font-weight:normal;
+  opacity:0.4;
+}
+
 img {
   border-radius: 8px;
   overflow: hidden;

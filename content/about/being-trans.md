@@ -16,3 +16,5 @@ The unnatural and graphic transformation, degeneration, or destruction of the bo
 ---
 
 A bit more than a year after changing my name to Lizbeth, I replaced my online pseudonym and sigil for something that better expresses the tools and philosophies that are resonating with me in the present moment. Ritual Dust is the new name I’ll be presenting as online. “Ritual” refers to my process of making, which is something I’ve started exploring using an alchemical approach; this approach has now been allowed to deepen, incorporating a more intuitive side to my practice—one that’s informed by feelings, emotions, and honesty. I include with it “dust” because of the dust that’s settling now as the sheet I’ve been wearing, hiding myself like a metaphorical ghost, finally falls off. Accumulating slowly, dust to me is a testament to the passage of time, an ode to patience and impermanence, but also a reminder of the beauty of a single mote of dust floating in a sunbeam—a quiet kind of beauty that I’m discovering in more and more places every day.
+
+![SHE in black metal lettering](/img/she.jpg)
