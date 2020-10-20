@@ -779,7 +779,6 @@ img {
 .single h1 {
   margin-top:0;
   margin-bottom:0;
-  line-height:144px;
 }
 
 .back-home {
@@ -1025,9 +1024,34 @@ img {
   body {
     width: 100%;
     overflow-x: hidden;
+    font-size:18px;
+    line-height:28px;
+  }
+  h1 {
+    font-size: 3em;
+    margin-bottom:var(--spacing_sm);
+  }
+  h2 {
+    font-size: 1.5em;
   }
   h3 {
     font-size: 20px;
+  }
+  .dingbats {
+    font-size:25px;
+  }
+  .single-page {
+    display:block;
+  }
+  .recipe-card h4 {
+    font-size:2.5em;
+    padding-top: var(--spacing_sm);
+  }
+  .section-pages {
+    display:none;
+  }
+  .list-page {
+    flex-direction:column-reverse;
   }
   .mobile {
     display: block;
@@ -1038,17 +1062,15 @@ img {
   }
   .wrap,
   .small-wrap,
-  .full-wrap {
+  .full-wrap,
+  .sidebar {
     padding: 0 24px;
+  }
+  .back-home {
+    margin-bottom:var(--spacing_lg);
   }
   .big-padding-top {
     padding-top: 30px;
-  }
-  h1 {
-    font-size: 3em;
-  }
-  h2 {
-    font-size: 1.2em;
   }
   .old-title {
     padding-top: 60px;
@@ -1133,6 +1155,9 @@ img {
   }
   .categories .flex-row {
     display: block;
+  }
+  .footer {
+    height:auto;
   }
   .footer .flex-row {
     display: block;

@@ -1,5 +1,5 @@
 +++
-title = "Warm wishes video"
+title = "Warm wishes"
 tags = ["video"]
 
 image = "/img/warm_wishes_video.png"

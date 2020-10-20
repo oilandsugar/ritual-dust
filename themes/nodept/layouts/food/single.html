@@ -1,12 +1,12 @@
 {{ $imageAlt := .Params.imageAlt }} {{ partial "header" . }}
 
-<div class="flex-row big-padding-top">
+<div class="flex-row big-padding-top single-page">
   <div class="sidebar">
     <div class="back-home">
       <a href="/{{ .Section }}/"><i class="fas fa-arrow-left"></i>Back to {{ .Section }}</a>
     </div>
     {{ $section := where $.Site.RegularPages "Section" "food"}}
-    <ul>
+    <ul class="section-pages">
     {{ range $section }}
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
