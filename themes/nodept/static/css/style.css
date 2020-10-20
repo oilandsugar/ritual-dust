@@ -812,6 +812,7 @@ img {
 .sidebar {
   padding: 0 2em;
   max-width: 200px;
+  min-width: 200px;
 }
 
 /* -------- FLEX ---------*/
