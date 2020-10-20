@@ -1,25 +1,36 @@
 {{ $imageAlt := .Params.imageAlt }} {{ partial "header" . }}
-<div class="wrap big-padding-top single recipe">
-  <div class="back-home">
-    <a href="/{{ .Section }}/"><i class="fas fa-arrow-left"></i>Back to {{ .Section }}</a>
-  </div>
-  <h1 class="psych-1 no-margin-bottom">{{.Title}}</h1>
-  <div class="specs">
-    <span class="prep-time">{{ .Params.prepTime }} to prep</span>
-    -
-    <span class="cook-time">{{ .Params.cookTime }} to cook</span>
-    -
-    <span class="portions">{{ .Params.portions }} portion(s)</span>
-  </div>
-  <ul class="tags">
-    Tagged with {{ range (.GetTerms "tags") }}
-    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+
+<div class="flex-row big-padding-top">
+  <div class="sidebar">
+    <div class="back-home">
+      <a href="/{{ .Section }}/"><i class="fas fa-arrow-left"></i>Back to {{ .Section }}</a>
+    </div>
+    {{ $section := where $.Site.RegularPages "Section" "food"}}
+    {{ range $section }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
     {{ end }}
-  </ul>
-  {{ .Content | safeHTML }} {{ range .Params.images }}
-  <div class="photo">
-    <img src="{{ . }}" alt="{{ $imageAlt }}" />
   </div>
-  {{ end }}
+  <div class="wrap single recipe">
+    <h1 class="psych-1 no-margin-bottom">{{.Title}}</h1>
+    <div class="specs">
+      <span class="prep-time">{{ .Params.prepTime }} to prep</span>
+      -
+      <span class="cook-time">{{ .Params.cookTime }} to cook</span>
+      -
+      <span class="portions">{{ .Params.portions }} portion(s)</span>
+    </div>
+    <ul class="tags">
+      Tagged with {{ range (.GetTerms "tags") }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+    {{ .Content | safeHTML }} {{ range .Params.images }}
+    <div class="photo">
+      <img src="{{ . }}" alt="{{ $imageAlt }}" />
+    </div>
+    {{ end }}
+  </div>
 </div>
 {{ partial "footer" . }}

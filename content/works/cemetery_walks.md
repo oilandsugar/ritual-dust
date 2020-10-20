@@ -1,13 +1,10 @@
 +++
 title = "Cemetery walks"
-type = "project"
 tags = ["photo"]
 
 image = "/img/photo/cemetery/DSC01642.jpg"
 desc = "Wandering between worlds."
 +++
-
-# Cemetery walks
 
 Wandering between worlds.
 

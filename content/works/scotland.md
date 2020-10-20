@@ -1,13 +1,10 @@
 +++
 title = "Scotland travel photography"
-type = "project"
 tags = ["photo"]
 
 image = "/img/photo/scotland/DSC06677.png"
 desc = "Nature, architecture and haunted places."
 +++
-
-# Scotland
 
 Nature, architecture and haunted places.
 

@@ -1,14 +1,23 @@
 {{ partial "header" . }}
 
-<div class="wrap big-padding-top">
-  <div class="page-title">
-    <span class="dingbats">{</span>
-    <h2 class="psych-1">Words</h2>
-    <span class="dingbats">{</span>
-    <h3 class="psych-2">Reflections and wonderings</h3>
+<div class="flex-row big-padding-top">
+  <div class="sidebar">
+    {{ range .Paginator.Pages }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
   </div>
-  <div class="big-padding-top">
-    Here will be collected some of the writings I find useful to share, most probably a mix of lived experiences, hyper-specific knowledge, occult practices and teachings. As I move forward in life I give myself the intent to use my voice more, be it to express internal desires and ideas, connect with like-minded people or share my knowledge and inspire others to build the things that lacks in this world.
+  <div class="wrap">
+    <div class="page-title">
+      <span class="dingbats">{</span>
+      <h2 class="psych-1">Words</h2>
+      <span class="dingbats">{</span>
+      <h3 class="psych-2">Reflections and wonderings</h3>
+    </div>
+    <div class="big-padding-top">
+      {{ .Content }}
+    </div>
   </div>
 </div>
 

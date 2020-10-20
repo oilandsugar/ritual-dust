@@ -1,13 +1,10 @@
 +++
 title = "A heavy black veil"
-type = "project"
 tags = ["photo"]
 
 image = "/img/photo/veil/IMG_2681.jpg"
 desc = "Darkness hides but also reveals"
 +++
-
-# A Heavy Black Veil
 
 Darkness hides what was obvious to better reveal what was occulted
 

@@ -1,6 +1,5 @@
 +++
 title = "Hayley Evans"
-type = "project"
 tags = ["website","branding"]
 
 projectUrl = "http://hayleyevans.net"

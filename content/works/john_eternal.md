@@ -1,6 +1,5 @@
 +++
 title = "John Eternal"
-type = "project"
 tags = ["lettering"]
 
 image = "/img/john_eternal.png"
