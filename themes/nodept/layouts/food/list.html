@@ -2,16 +2,20 @@
 
 <div class="flex-row big-padding-top">
   <div class="sidebar">
-      {{ .Content }}
+      <h3>Other recipe blogs</h3>
+      https://grimgrains.com/
+      https://thefirstmess.com/
+      https://www.theppk.com/
+      https://minimalistbaker.com/
   </div>
   <div class="small-wrap food">
     <div class="page-title">
       <span class="dingbats">{</span>
-      <h2 class="psych-1">Food</h2>
+      <h2 class="psych-1">{{ .Title }}</h2>
       <span class="dingbats">{</span>
       <h3 class="psych-2">Plant-based comfort recipes</h3>
     </div>
-    This section contains recipes I remixed, modified or created, everything is plant-based and I try to use local and seasonal ingredients as much as I can.
+    {{ .Params.intro }}
     <div class="recipes big-padding-top">
       {{ range where .RegularPages "Type" "food" }}
         {{ partial "recipeCard.html" . }}
