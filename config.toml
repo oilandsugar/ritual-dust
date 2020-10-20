@@ -21,3 +21,6 @@ title = "Ritual dust"
       hardWraps = false
       unsafe = true
       xhtml = false
+
+[author]
+      name = "Lizbeth Poirier"

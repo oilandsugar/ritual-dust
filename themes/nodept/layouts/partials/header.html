@@ -15,6 +15,10 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=UnifrakturCook:700" rel="stylesheet">
 
+    {{ with .OutputFormats.Get "rss" -}}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+
     <link rel="shortcut icon" href="img/favicon.ico"/>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -30,23 +34,23 @@
     <meta property="og:title" content="{{ .Site.Title }}">
     <meta property="og:url" content="https://ritualdust.com">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Good design, code and content can make a difference.">
+    <meta property="og:description" content="Write your own folklore">
     <meta property="og:image" content="">
 
     <!-- Google+ / Schema.org -->
     <meta itemprop="name" content="{{ .Site.Title }}">
-    <meta itemprop="description" content="Good design, code and content can make a difference.">
+    <meta itemprop="description" content="Write your own folklore">
     <meta itemprop="image" content="">
 
     <!-- Twitter Cards -->
     <meta name="twitter:title" content="{{ .Site.Title }}">
     <meta name="twitter:url" content="https://ritualdust.com">
-    <meta name="twitter:description" content="Good design, code and content can make a difference.">
+    <meta name="twitter:description" content="Write your own folklore">
     <meta name="twitter:image" content="">
     <meta name="twitter:card" content="summary_large_image">
 
     <!-- SEO -->
-    <meta name="description" content="Good design, code and content can make a difference.">
+    <meta name="description" content="Write your own folklore">
 
   </head>
 
