@@ -822,9 +822,15 @@ img {
 }
 
 .sidebar {
+  font-size:18px;
+  line-height:24px;
   padding: 0 2em;
   max-width: 200px;
   min-width: 200px;
+}
+
+.sidebar a {
+  font-size:inherit;
 }
 
 /* -------- FLEX ---------*/
