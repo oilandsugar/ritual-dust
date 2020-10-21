@@ -281,6 +281,8 @@ strong {
 .dingbats {
   font-family: "Distro Bats";
   font-size: 40px;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: none;
 }
 
 /* utils */
