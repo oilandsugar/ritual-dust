@@ -1,6 +1,5 @@
 +++
 title = "Poutine"
-type = "food"
 tags = ["main", "fall"]
 
 images = ["/img/recipes/poutine.jpg"]

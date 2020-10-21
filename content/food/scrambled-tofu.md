@@ -1,6 +1,5 @@
 +++
 title = "Scrambled tofu"
-type = "food"
 tags = ["protein", "main", "spring", "summer", "fall", "winter"]
 
 images =["/img/recipes/scrambled-tofu.jpg"]

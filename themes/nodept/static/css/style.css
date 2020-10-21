@@ -310,7 +310,23 @@ img {
   padding: 0;
   margin: 0;
   display: inline-block;
-  padding-right: var(--spacing_sm);
+  margin-left:-3px;
+}
+
+.tags li:first-child {
+  margin-left:0;
+}
+
+.tags li:before {
+  content: ", ";
+}
+
+.tags li:first-child:before {
+  content: ""!important;
+}
+
+.tags li:last-child:before {
+  content: ", and "
 }
 
 /* menu */
@@ -703,6 +719,33 @@ img {
   display: block;
 }
 
+.cooking-notes {
+  border:2px solid;
+  padding: 14px var(--spacing_lg) 10px var(--spacing_lg);
+  border-radius: 8px;
+}
+
+.cooking-notes .picture {
+  display:none;
+}
+
+.cooking-notes h4 {
+  font-family: var(--psychFont1);
+  font-weight: 300;
+  font-size:4em;
+  line-height:1em;
+  padding:0;
+}
+
+.cooking-notes h4:before {
+  content: "Cooking note";
+  font-family: var(--psychFont2);
+  font-weight: lighter;
+  font-size:22px;
+  line-height:40px;
+  display:block;
+}
+
 .recipes a {
   text-decoration: none;
 }
@@ -758,7 +801,7 @@ img {
   margin: 0 0 var(--spacing_md) 0;
 }
 
-.steps em {
+.recipe em {
   font-style: initial;
   border-bottom: 1px solid;
 }
@@ -776,7 +819,7 @@ img {
 
 /* -------- SINGLE PROJECTS ---------*/
 
-.single h1 {
+.single-page h1 {
   margin-top:0;
   margin-bottom:0;
 }

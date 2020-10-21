@@ -1,6 +1,6 @@
 {{$cover := index (.Params.images) 0 }}
 
-<a href="{{ .Permalink }}" class="recipe-card">
+<a href="{{ .Permalink }}" class="recipe-card {{ range .Params.tags }}{{ . }} {{ end }}">
   <div class="picture">
     <img src="{{ $cover }}"/>
   </div>

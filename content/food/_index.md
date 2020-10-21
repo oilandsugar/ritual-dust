@@ -1,7 +1,7 @@
 +++
 title = "Food"
 type = "page"
-intro = "This section contains recipes I remixed, modified or created, everything is plant-based and I try to use local and seasonal ingredients as much as I can."
+intro = "This section contains recipes I remixed, modified or created and some cooking notes. Everything is plant-based and I try to use local and seasonal ingredients as much as I can."
 +++
 
 ### Other recipe blogs

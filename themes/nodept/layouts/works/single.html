@@ -16,6 +16,13 @@
   </div>
   <div class="wrap single">
     <h1 class="psych-1">{{ .Title }}</h1>
+    {{ with (.GetTerms "tags") }}
+      <ul class="tags">
+        Tagged with {{ range . }}
+        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
     {{ .Content }}
   </div>
 </div>
