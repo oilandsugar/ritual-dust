@@ -1,6 +1,7 @@
 +++
 title = "Warm wishes"
 tags = ["video"]
+date = "2020-09-20"
 
 image = "/img/warm_wishes_video.png"
 gif = "/img/warm_wishes_gif.gif"

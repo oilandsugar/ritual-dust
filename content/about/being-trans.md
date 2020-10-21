@@ -1,5 +1,6 @@
 +++
 title = "On being trans"
+date = "2020-10-19"
 +++
 
 She is powerful, fierce, resourceful, creative, weird, caring. She is so much more and also none of that, in her own way. I take some time here to write about womxnhood and encourage everyone to actively challenge how we perceive it. Let the womxn in your life expand your definition of it.

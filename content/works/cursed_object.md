@@ -1,6 +1,7 @@
 +++
-title = "Cursed Object Branding"
+title = "Cursed Object"
 tags = ["branding", "lettering"]
+date = "2020-09-20"
 
 image = "/img/cursed_object.png"
 image2 = "/img/cursed_object_2.png"

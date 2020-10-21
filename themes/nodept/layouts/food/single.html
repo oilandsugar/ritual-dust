@@ -39,7 +39,8 @@
     {{ end }}
     {{ if not .Lastmod.IsZero }}
       <div class="last-mod small-padding-top">
-      Last modified on {{ .Lastmod.Format "2006-01-02" | safeHTML }}
+        Last modified on <strong>{{ .Lastmod.Format "2006-01-02" | safeHTML }}</strong>,
+        published on <strong>{{ .Date.Format "2006-01-02" | safeHTML }}</strong>
       </div>
     {{ end }}
   </div>

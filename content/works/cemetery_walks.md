@@ -1,6 +1,7 @@
 +++
 title = "Cemetery walks"
 tags = ["photo"]
+date = "2020-10-16"
 
 image = "/img/photo/cemetery/DSC01642.jpg"
 desc = "Wandering between worlds."

@@ -1,6 +1,7 @@
 +++
 title = "Ariel"
 tags = ["lettering", "branding"]
+date = "2020-09-20"
 
 image = "/img/ariel-crest.png"
 image2 = "/img/ariel-photo.png"

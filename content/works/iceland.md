@@ -1,6 +1,7 @@
 +++
 title = "Iceland travel photography"
 tags = ["photo"]
+date = "2020-10-20"
 
 image = "/img/photo/iceland/DSC00999.jpg"
 image2 = "/img/photo/iceland/DSC00892.jpg"

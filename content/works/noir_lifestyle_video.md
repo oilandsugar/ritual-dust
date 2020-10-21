@@ -1,6 +1,7 @@
 +++
 title = "Noir Lifestyle"
 tags = ["video"]
+date = "2020-09-20"
 
 image = "/img/noir_lifestyle_video.png"
 gif = "/img/noir_lifestyle_gif.gif"

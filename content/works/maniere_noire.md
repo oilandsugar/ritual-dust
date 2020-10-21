@@ -1,6 +1,7 @@
 +++
-title = "Manière Noire Shop Branding"
+title = "Manière Noire Shop"
 tags = ["branding"]
+date = "2020-09-20"
 
 projectUrl = "http://manierenoireshop.com/"
 image = "/img/maniere-noire.png"

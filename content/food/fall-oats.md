@@ -1,6 +1,7 @@
 +++
 title = "Fall oats"
 tags = ["oats", "main", "fall"]
+date = "2020-10-13"
 
 images = ["/img/recipes/fall-oats-1.jpg", "/img/recipes/fall-oats-2.jpg"]
 imageAlt = "Steel-cut oats with pumpkin, spices and chocolate in a metal bowl"

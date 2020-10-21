@@ -1,6 +1,7 @@
 +++
 title = "A heavy black veil"
 tags = ["photo"]
+date = "2020-10-16"
 
 image = "/img/photo/veil/IMG_2681.jpg"
 desc = "Darkness hides but also reveals"

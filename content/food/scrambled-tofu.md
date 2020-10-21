@@ -1,6 +1,7 @@
 +++
 title = "Scrambled tofu"
 tags = ["protein", "main", "spring", "summer", "fall", "winter"]
+date = "2020-10-18"
 
 images =["/img/recipes/scrambled-tofu.jpg"]
 imageAlt = "Scrambled tofu in a cast iron pan"

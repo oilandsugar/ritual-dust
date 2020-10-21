@@ -1,6 +1,7 @@
 +++
 title = "Poutine"
 tags = ["main", "fall"]
+date = "2020-10-20"
 
 images = ["/img/recipes/poutine.jpg"]
 imageAlt = "Plant-based poutine with pickles in a metal bowl"

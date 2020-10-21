@@ -1,6 +1,7 @@
 +++
 title = "Scotland travel photography"
 tags = ["photo"]
+date = "2020-10-16"
 
 image = "/img/photo/scotland/DSC06677.png"
 desc = "Nature, architecture and haunted places."

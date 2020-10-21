@@ -1,6 +1,7 @@
 +++
 title = "Grim Howl"
 tags = ["branding", "lettering"]
+date = "2020-10-20"
 
 image = "/img/grimhowl.png"
 desc = "Hand-drawn logo for the dungeon synth project Grim Howl."

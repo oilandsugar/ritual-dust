@@ -339,6 +339,12 @@ img {
   content: ", and "
 }
 
+.last-mod {
+  padding-top:var(--spacing_md);
+  margin-top:var(--spacing_md);
+  border-top:2px solid;
+}
+
 /* menu */
 
 .menu a {

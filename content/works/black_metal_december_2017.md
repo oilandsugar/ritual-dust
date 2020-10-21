@@ -1,6 +1,7 @@
 +++
 title = "Black Metal December 2017"
 tags = ["lettering"]
+date = "2020-09-20"
 
 image = "/img/black-metal-december.png"
 image2 = "/img/black-metal-december-2.jpg"
