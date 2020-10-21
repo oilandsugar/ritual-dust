@@ -184,8 +184,8 @@ h1 {
   margin-top: 0;
   font-weight: 800;
   font-family: var(--psychFont1);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: none;
 }
 
 h2 {
@@ -194,6 +194,8 @@ h2 {
   margin-bottom: 32px;
   font-weight: 500;
   font-family: "Distro Bold";
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: none;
 }
 
 h2.blackletter {
@@ -204,6 +206,8 @@ h3 {
   margin-top: 0;
   line-height: 1.2em;
   font-family: "Distro Bold";
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: none;
 }
 
 h3.blackletter {
@@ -214,6 +218,8 @@ h3.blackletter {
 
 h4 {
   font-size: 1em;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: none;
 }
 
 h4.blackletter {
@@ -259,11 +265,13 @@ strong {
 
 .blackletter {
   font-family: var(--mainFont);
+  -webkit-font-smoothing:none;
 }
 
 .psych-1 {
   font-family: var(--psychFont1);
   font-weight: 300;
+  -webkit-font-smoothing:none;
 }
 
 .psych-2 {

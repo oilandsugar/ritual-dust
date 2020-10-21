@@ -1,5 +1,5 @@
 +++
-title = "Noir Lifestyle video"
+title = "Noir Lifestyle"
 tags = ["video"]
 
 image = "/img/noir_lifestyle_video.png"

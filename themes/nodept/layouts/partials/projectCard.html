@@ -1,4 +1,4 @@
-<div class="flex-1 old-project {{ range .Params.tags }}{{ . }}{{ end }}">
+<div class="flex-1 old-project {{ range .Params.tags }}{{ . }} {{ end }}">
   {{ if in .Params.tags "website" }}
   <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}">
     <div class="images">
