@@ -1,8 +1,16 @@
 {{$cover := index (.Params.images) 0 }}
 
 <a href="{{ .Permalink }}" class="recipe-card {{ range .Params.tags }}{{ . }} {{ end }}">
+  <h4 class="blackletter small-padding-bottom">{{ .Title }}</h4>
+  <div class="specs psych-2">
+    {{ with .Params.prepTime }}<span class="prep-time">{{ . }} to prep</span>
+    - {{ end }}
+    {{ with .Params.cookTime }}<span class="cook-time">{{ . }} to cook</span>
+    - {{ end }}
+    {{ with .Params.portions }}<span class="portions">{{ . }} portion(s)</span>
+    {{ end}}
+  </div>
   <div class="picture">
     <img src="{{ $cover }}"/>
   </div>
-  <h4 class="blackletter medium-padding-top">{{ .Title }}</h4>
 </a>

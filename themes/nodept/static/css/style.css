@@ -765,8 +765,7 @@ img {
 
 .specs {
   margin-bottom: var(--spacing_sm);
-  font-weight: bold;
-  font-size: 28px;
+  font-size: 18px;
 }
 
 .ingredients {
