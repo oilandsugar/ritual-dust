@@ -37,6 +37,11 @@
         <img src="{{ . }}" alt="{{ $imageAlt }}" />
       </div>
     {{ end }}
+    {{ if not .Lastmod.IsZero }}
+      <div class="last-mod small-padding-top">
+      Last modified on {{ .Lastmod.Format "2006-01-02" | safeHTML }}
+      </div>
+    {{ end }}
   </div>
 </div>
 {{ partial "footer" . }}

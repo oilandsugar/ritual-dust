@@ -22,5 +22,11 @@ title = "Ritual dust"
       unsafe = true
       xhtml = false
 
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
+
 [author]
       name = "Lizbeth Poirier"
