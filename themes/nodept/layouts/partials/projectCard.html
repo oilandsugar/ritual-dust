@@ -2,9 +2,9 @@
   {{ if in .Params.tags "website" }}
   <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}">
     <div class="images">
-      <div class="images-container not-loaded">
+      <div class="images-container">
         <div class="img" style="background-image:url({{ .Params.image }});">
-          <div class="browser-bar"><i class="far fa-ellipsis-h"></i></div>
+          <div class="browser-bar"> •••</div>
         </div>
       </div>
     </div>
@@ -12,7 +12,7 @@
   {{ else if in .Params.tags "video" }}
   <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}">
     <div class="images">
-      <div class="images-container not-loaded">
+      <div class="images-container">
         <div class="img" style="background-image:url({{ .Params.image }});"></div>
         {{ with .Params.gif }}
           <div class="gif" style="background-image:url({{ . }});"></div>
@@ -23,7 +23,7 @@
   {{ else }}
   <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}">
     <div class="images hover-slider">
-      <div class="images-container not-loaded">
+      <div class="images-container">
         <div class="img" id="image-1" style="background-image:url({{ .Params.image }});"></div>
         {{ with .Params.image2 }}
           <div class="img" id="image-2" style="background-image:url({{ . }});"></div>
