@@ -18,13 +18,11 @@
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>
         <guid>{{ .Permalink }}</guid>
-        <dc:creator>
-          <![CDATA[ Lizbeth Poirier ]]>
-        </dc:creator>
+        <creator>Lizbeth Poirier</creator>
         <pubDate>{{ if not .Date.IsZero }}{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 EST" | safeHTML }}{{ end }}</pubDate>
         {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
         <description>
-          <![CDATA[{{- .Content | html -}}]]>
+          {{- .Content | html -}}
         </description>
       </item>
     {{ end }}
