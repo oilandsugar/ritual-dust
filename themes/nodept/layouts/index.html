@@ -22,6 +22,9 @@
           <a href="https://merveilles.town/@ritualdust" target="_blank">
             Mastodon
           </a>
+          <a href="http://ritualdust.com/index.xml" target="_blank">
+            RSS feed
+          </a>
         </div>
       </div>
     </div>
@@ -52,9 +55,6 @@
         <a href="http://ritualdust.com/index.xml" target="_blank">
           RSS feed
         </a>
-        {{ with .OutputFormats.Get "rss" -}}
-            {{ printf `<a href="%s">Rss feed</a>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-        {{ end -}}
       </div>
     </div>
   </div>
