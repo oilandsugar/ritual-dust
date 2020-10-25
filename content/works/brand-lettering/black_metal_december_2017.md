@@ -18,7 +18,7 @@ desc = "Series of 31 black metal inspired lettering pieces, one for every day of
 ![Castle](/img/lettering/black-metal/castle.png "Castle")
 ![Black soul](/img/lettering/black-metal/black-soul.png "Black soul")
 ![Coffee](/img/lettering/black-metal/coffee.png "Coffee")
-![Church of the goat](/img/lettering/black-metal/chruch-of-the-goat.png "Church of the goat")
+![Church of the goat](/img/lettering/black-metal/church-of-the-goat.png "Church of the goat")
 ![Cursed](/img/lettering/black-metal/cursed.png "Cursed")
 ![Damned](/img/lettering/black-metal/damned.png "Damned")
 ![Decay](/img/lettering/black-metal/decay.png "Decay")
