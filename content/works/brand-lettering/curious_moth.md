@@ -8,3 +8,5 @@ desc = "Hand-drawn lettering for the finnish band Curious Moth."
 +++
 
 ![Curious moth logo](/img/curious_moth.png "Curious moth logo")
+![Curious moth ink](/img/curious-moth-ink.jpeg "Inked logo")
+![Curious moth sketch](/img/curious-moth-sketch.jpeg "initial sketch")
