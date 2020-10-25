@@ -9,9 +9,9 @@ My pronouns are **she/her**.
 
 ![Lizbeth against a rock background](/img/photo/cemetery/graveadventures6.jpg "Portrait by Hayley Evans")
 
-I am currently taking commission work for **design**, **illustration**, **lettering** and **web** projects (especially anything relating to folklore, occultism, activism music and art).
+I am currently taking commission work for **design**, [**illustration**](/works/illustration/), [**lettering**](/works/brand-lettering/) and [**web**](/works/websites/) projects (especially anything relating to folklore, occultism, activism music and art).
 
-I am also crafting ritual tools and small handcrafted wooden items which you can find [here](/craft/).
+I am also [crafting ritual tools](/craft/) and small handcrafted wooden items.
 
 To discuss those, email me at: lizbeth.poirier.m@gmail.com
 
