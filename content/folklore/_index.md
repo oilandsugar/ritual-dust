@@ -1,5 +1,5 @@
 +++
-title = "Words"
+title = "Folklore"
 subtitle = "Reflections and wonderings"
 type = "page"
 +++
@@ -9,3 +9,5 @@ Here will be collected some of the writings I find useful to share, most probabl
 
 > "But "art" is not art. "Art" is politics that has created new styles of communication."  
 **-- Malcom Green**
+
+![Ritual space](/img/folklore.jpg "Ritual space")

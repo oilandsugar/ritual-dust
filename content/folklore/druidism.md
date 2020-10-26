@@ -13,4 +13,4 @@ The three yearnings of druids:
 > “If we wish to live in authentic cooperation with the planet and its host of spirits, de-centering our narratives and putting our ear to the ground to listen for instruction is the first step.”  
 **-- Melissa Madara**
 
-![Hand holding branches](/img/druidism.jpg)
+![Hand holding small boline](/img/druidism.jpg "Hand holding small boline")
