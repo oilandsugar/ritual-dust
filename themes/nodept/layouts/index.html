@@ -55,6 +55,31 @@
       </div>
     </div>
   </div>
+
+  <div class="home-content">
+    <div class="flex-row">
+      <div class="section"></div>
+      <div class="section big-padding-right">
+        <h3>Recent works</h3>
+          {{ range ( where .Site.RegularPages "Section" "works" | first 5 ) }}
+            <a href="{{.Permalink}}">{{ .Title }}</a><br/>
+          {{ end }}
+      </div>
+      <div class="section big-padding-right">
+        <h3>New folklore</h3>
+          {{ range ( where .Site.RegularPages "Section" "folklore" | first 5 ) }}
+            <a href="{{.Permalink}}">{{ .Title }}</a><br/>
+          {{ end }}
+      </div>
+      <div class="section big-padding-right">
+        <h3>Currently cooking</h3>
+          {{ range ( where .Site.RegularPages "Section" "food" | first 5 ) }}
+            <a href="{{.Permalink}}">{{ .Title }}</a><br/>
+          {{ end }}
+      </div>
+    </div>
+
+  </div>
 </div>
 
 {{ partial "footer" . }}

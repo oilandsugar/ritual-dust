@@ -238,6 +238,12 @@ hr {
   background-color: var(--textColor);
 }
 
+blockquote {
+  margin:var(--spacing_sm) 0 0 0;
+  font-size:1.2em;
+  font-style: italic;
+}
+
 a {
   color: var(--textColor);
   cursor: pointer;
@@ -379,6 +385,9 @@ img {
 
 /* home */
 
+.home-content .section {
+  flex:1;
+}
 .profile-pic {
   max-width: 120px;
   min-width: 120px;
@@ -1236,5 +1245,11 @@ img {
   }
   .recipe-content .steps {
     padding-top: var(--spacing_md);
+  }
+  .home-content .flex-row {
+    flex-direction: column;
+  }
+  .home-content .section {
+    padding-top:var(--spacing_md);
   }
 }

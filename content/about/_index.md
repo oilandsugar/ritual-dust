@@ -17,7 +17,7 @@ To discuss those, email me at: lizbeth.poirier.m@gmail.com
 
 ---
 
-This website is part [portfolio](/works/), part digital garden and part [recipe blog](/food/). It is where I collect and expand upon my thoughts and discoveries, and where I showcase what I create, craft and conjure.
+This website is part [portfolio](/works/), part [digital garden](/folklore/) and part [recipe blog](/food/). It is where I collect and expand upon my thoughts and discoveries, and where I showcase what I create, craft and conjure.
 
 ---
 
