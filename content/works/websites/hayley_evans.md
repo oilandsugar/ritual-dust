@@ -1,6 +1,6 @@
 +++
 title = "Hayley Evans"
-tags = ["website","logo"]
+tags = ["website","design"]
 date = "2020-09-20"
 
 projectUrl = "http://hayleyevans.net"

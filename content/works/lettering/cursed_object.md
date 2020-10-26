@@ -1,6 +1,6 @@
 +++
 title = "Cursed Object"
-tags = ["logo", "lettering"]
+tags = ["lettering"]
 date = "2020-09-20"
 
 image = "/img/cursed_object.png"
