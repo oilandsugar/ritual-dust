@@ -34,3 +34,9 @@ jobs:
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
                 aws s3 sync public s3://ritualdust.com/ --delete
             fi
+      - run:
+         name: Invalidate Cloudfront Cache
+         command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+                aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"E2WZW8UFZRS1DH\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
+            fi
