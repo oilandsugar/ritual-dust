@@ -14,7 +14,7 @@ Fonts used on this website:
 **Distro** is used for the third level of titles  
 **Wrenema** is used for body text
 
-If you're into cool fonts look up [this directory of open source fonts by womxn](https://www.design-research.be/by-womxn/)
+If you're into cool fonts look up [this directory of open source fonts by womxn](https://www.design-research.be/by-womxn/) and this [crazy foundry making free fonts](https://www.velvetyne.fr/).
 
 ### Technology
 
