@@ -1,6 +1,6 @@
 +++
 title = "Cimmerian"
-tags = ["branding"]
+tags = ["logo"]
 date = "2020-09-20"
 
 image = "/img/cimmerian.gif"

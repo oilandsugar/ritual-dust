@@ -1,6 +1,6 @@
 +++
 title = "Blood and Dust"
-tags = ["branding"]
+tags = ["logo"]
 date = "2020-10-15"
 
 projectUrl = "https://blood-and-dust.bandcamp.com"
