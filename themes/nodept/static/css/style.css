@@ -103,20 +103,6 @@ img {
 }
 
 @font-face {
-  font-family: "Distro Bev";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Distro Bev"), url("webfonts/DISTROBV.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Distro Extinct";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Distro Extinct"), url("webfonts/DISTROEX.woff") format("woff");
-}
-
-@font-face {
   font-family: "Distro Heavy";
   font-style: normal;
   font-weight: normal;
@@ -128,27 +114,6 @@ img {
   font-style: normal;
   font-weight: normal;
   src: local("Distro Light"), url("webfonts/DISTROL_.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Distro Mix";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Distro Mix"), url("webfonts/DISTROM_.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Distro Toast";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Distro Toast"), url("webfonts/DISTROT_.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Distro Vinyl";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Distro Vinyl"), url("webfonts/DISTROV_.woff") format("woff");
 }
 
 @font-face {
