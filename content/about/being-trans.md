@@ -28,4 +28,6 @@ have an acknowledged past, trans people can better imagine a future."
 
 -- **M. W. Bychowski and Dorothy Kim in [Visions of Medieval Trans Feminism](https://ir.uiowa.edu/cgi/viewcontent.cgi?article=2185&context=mff)**
 
+Also here's a good article on [trans-inclusive design](https://alistapart.com/article/trans-inclusive-design/)
+
 ![SHE in black metal lettering](/img/she.jpg)
