@@ -1,24 +1,20 @@
 <!doctype html>
 <!--
-    nodept by Atelier oil and sugar
-    atelieroilandsugar.com
+    nodept theme for hugo by Lizbeth Poirier
+    ritualdust.com
 -->
 <html lang="en">
   <head>
     <meta charset="utf-8">
-
     <title>{{ .Site.Title }}</title>
-
     <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+          content="width=device-width, initial-scale=1.0">
     {{ .Hugo.Generator }}
     <link href="https://fonts.googleapis.com/css?family=UnifrakturCook:700" rel="stylesheet">
-
     {{ with .OutputFormats.Get "rss" -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
-
-    <link rel="shortcut icon" href="img/favicon.ico"/>
+    <link rel="shortcut icon" href="/img/favicon.ico"/>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="{{ "js/script.js" | relURL }}"></script>
@@ -51,5 +47,5 @@
 
   <body class="home">
     <div class="wrap">
-    {{ partial "menu" . }}
-  </div>
+      {{ partial "menu" . }}
+    </div>
