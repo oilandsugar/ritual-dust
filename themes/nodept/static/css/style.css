@@ -9,7 +9,7 @@
   --backColor: #161716;
   --backColorLighter: #1f211a;
   --textColor: #a27c6a;
-  /*--textColor: #7f915e;*/
+  --textColorAccent: #7f915e;
   --accentColor: #b26a41;
   --linkColor: #b26a41;
   --cardBackColor: #272424;
@@ -201,6 +201,10 @@ hr {
   border: 0;
   height: 2px;
   background-color: var(--textColor);
+}
+
+.green {
+  color:var(--textColorAccent);
 }
 
 blockquote {
