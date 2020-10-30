@@ -27,4 +27,4 @@ I've worked as an art school technician, building woodworking shops, teaching wo
 
 I have studied visual and media arts at UQAM, focussing primarily on print (from screen printing to lithography) and the intersection of design, writing and art to explore themes of identity, gender and politics.
 
-I am part of the Montréal interactive community and I've done talks and shared my process at some of their events.
+I am part of the Montréal interactive community and I've done [talks](/about/talks/) and shared my process at some of their events.
