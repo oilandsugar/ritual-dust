@@ -10,3 +10,5 @@ I also make truly devastating and highly emotional music as [Blood and Dust](htt
 ---
 
 I try to keep this page up to date with my current interests and projects, visit often and feel free to reach out to me on [mastodon](https://merveilles.town/@ritualdust) to discuss these.
+
+![Desktop altar](/img/desktop-altar.jpg "Desktop altar")

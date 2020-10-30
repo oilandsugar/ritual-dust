@@ -1,17 +1,39 @@
 {{ partial "header" . }}
 
-<div class="wrap big-padding-top">
+<div class="flex-row big-padding-top list-page">
+  <div class="sidebar">
+    {{ if (eq $.Parent.Title "Craft") }}
+    <div class="back-home">
+      <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
+    </div>
+    {{ end }}
+    <ul>
+      {{ range where .Pages "Section" "craft" }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+<div class="full-wrap">
   <div class="page-title">
-    <span class="dingbats">(</span>
+    <span class="dingbats">{</span>
     <h2 class="psych-1">{{ .Title }}</h2>
-    <span class="dingbats">(</span>
+    <span class="dingbats">{</span>
     <h3 class="psych-2">{{ .Params.subtitle }}</h3>
   </div>
-  <div class="shop big-padding-top">
-    <div class="flex-row flex-wrap big-padding-bottom shop-row">
-      {{ range $.Site.Data.products.products }} {{ partial "productCard.html" . }} {{ end }}
-    </div>
+  <div class="flex-row flex-wrap old-row big-padding-top">
+    {{ if (eq $.Parent.Title "Craft") }}
+      {{ range where .Pages "Section" "craft" }}
+        {{ partial "projectCard.html" . }}
+      {{ end }}
+    {{ else }}
+    {{ range where .Site.RegularPages "Section" "craft" }}
+      {{ partial "projectCard.html" . }}
+    {{ end }}
+    {{ end }}
   </div>
+</div>
 </div>
 
 {{ partial "footer" . }}
