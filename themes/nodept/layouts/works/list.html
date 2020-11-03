@@ -7,13 +7,17 @@
       <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
     </div>
     {{ end }}
-    <ul>
+    <h3>Categories</h3>
+    <ul class="section-pages">
       {{ range where .Pages "Section" "works" }}
         <li>
           <a href="{{ .Permalink }}">{{ .Title }}</a>
         </li>
       {{ end }}
     </ul>
+    <div class="ornament">
+      <img src="/img/ornament-leaf-square.gif"/>
+    </div>
   </div>
 <div class="full-wrap">
   <div class="page-title">

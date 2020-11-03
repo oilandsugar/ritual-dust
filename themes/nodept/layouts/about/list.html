@@ -2,13 +2,17 @@
 
 <div class="flex-row big-padding-top list-page">
   <div class="sidebar">
-    <ul>
+    <h3>Further reading</h3>
+    <ul class="section-pages">
     {{ range .Paginator.Pages }}
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
     {{ end }}
     </ul>
+    <div class="ornament">
+      <img src="/img/ornament-leaf-square.gif"/>
+    </div>
   </div>
   <div class="small-wrap">
     <div class="page-title">

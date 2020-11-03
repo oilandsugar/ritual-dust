@@ -260,6 +260,13 @@ strong {
   font-size: 40px;
   -webkit-font-smoothing: none;
   -moz-osx-font-smoothing: none;
+  color: var(--textColorAccent);
+}
+
+.ornament {
+  opacity:0.3;
+  max-width:120px;
+  margin-top:var(--spacing_lg);
 }
 
 /* utils */
@@ -335,6 +342,7 @@ img {
 
 .page-title {
   line-height: 50px;
+  color: var(--textColorAccent);
 }
 
 .page-title h2,

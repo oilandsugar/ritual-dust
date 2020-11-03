@@ -7,6 +7,7 @@
       <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
     </div>
     {{ end }}
+    <h3>Artefacts</h3>
     <ul>
       {{ range where .Pages "Section" "craft" }}
         <li>
@@ -14,6 +15,9 @@
         </li>
       {{ end }}
     </ul>
+    <div class="ornament">
+      <img src="/img/ornament-leaf-square.gif"/>
+    </div>
   </div>
 <div class="full-wrap">
   <div class="page-title">
@@ -26,7 +30,7 @@
     {{ .Params.intro }}
   </div>
   <div class="shop-link">
-    Some of these objects are available for purchase over on my <a href="https://www.etsy.com/ca/shop/ritualdust">etsy shop</a>. I am open to making commision work, if you have a need for a specific item reach out to me. 
+    Some of these objects are available for purchase over on my <a href="https://www.etsy.com/ca/shop/ritualdust">etsy shop</a>. I am open to making commision work, if you have a need for a specific item reach out to me.
   </div>
   <div class="flex-row flex-wrap old-row big-padding-top">
     {{ if (eq $.Parent.Title "Craft") }}
