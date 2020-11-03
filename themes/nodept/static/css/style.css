@@ -841,6 +841,15 @@ img {
 
 }
 
+/* -------- CRAFTS ---------*/
+
+.shop-link {
+  border: 2px solid;
+  padding: 14px var(--spacing_lg) 10px var(--spacing_lg);
+  border-radius:8px;
+  margin-top: var(--spacing_lg);
+}
+
 /* -------- SINGLE PROJECTS ---------*/
 
 .single-page h1 {
