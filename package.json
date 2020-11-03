@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oilandsugar/ritual-dust.git"
+    "url": "git+https://github.com/hayleyev/website-stuff.git"
   },
   "author": "Lizbeth Poirier",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oilandsugar/ritual-dust/issues"
+    "url": "https://github.com/hayleyev/website-stuff/issues"
   },
-  "homepage": "https://github.com/oilandsugar/ritual-dust#readme"
+  "homepage": "https://github.com/hayleyev/website-stuff#readme"
 }

@@ -1,6 +1,7 @@
 +++
 title = "Now"
 date = "2020-10-20"
+weight = 1
 +++
 
 These days I'm learning Russian, working on this very website,

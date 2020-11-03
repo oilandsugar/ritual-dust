@@ -195,6 +195,8 @@ h5 {
 }
 
 p {
+  margin: var(--spacing_lg) 0;
+  display:block;
 }
 
 hr {
@@ -806,6 +808,37 @@ img {
   border-radius: var(--spacing_sm);
   overflow: hidden;
   line-height: 0;
+}
+
+/* -------- MOVIES ---------*/
+
+.movie {
+  display:flex;
+  flex-direction:row;
+  margin: var(--spacing_lg) 0;
+}
+
+.movie p {
+  margin:0;
+  flex:2;
+}
+
+.movie h3 {
+  margin:0;
+}
+
+.movie em {
+  margin:0 0 var(--spacing_lg) 0;
+  display:block;
+}
+
+.movie div {
+  padding-left:var(--spacing_lg);
+  flex:1;
+}
+
+.movie div p {
+
 }
 
 /* -------- SINGLE PROJECTS ---------*/
