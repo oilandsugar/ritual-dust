@@ -58,10 +58,15 @@
 
   <div class="home-content">
     <div class="flex-row">
-      <div class="section"></div>
       <div class="section big-padding-right">
         <h3>Recent works</h3>
           {{ range ( where .Site.RegularPages "Section" "works" | first 5 ) }}
+            <a href="{{.Permalink}}">{{ .Title }}</a><br/>
+          {{ end }}
+      </div>
+      <div class="section big-padding-right">
+        <h3>Workbench</h3>
+          {{ range ( where .Site.RegularPages "Section" "craft" | first 5 ) }}
             <a href="{{.Permalink}}">{{ .Title }}</a><br/>
           {{ end }}
       </div>
