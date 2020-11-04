@@ -1,6 +1,6 @@
 +++
 title = "Fall oats"
-tags = ["oats", "main", "fall"]
+tags = ["oats", "sweet", "main", "fall"]
 date = "2020-10-13"
 
 images = ["/img/recipes/fall-oats-1.jpg", "/img/recipes/fall-oats-2.jpg"]

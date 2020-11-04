@@ -19,7 +19,7 @@
       <img src="/img/ornament-leaf-square.gif"/>
     </div>
   </div>
-<div class="full-wrap">
+<div class="small-wrap craft">
   <div class="page-title">
     <span class="dingbats">{</span>
     <h2 class="psych-1">{{ .Title }}</h2>
@@ -32,7 +32,7 @@
   <div class="shop-link">
     Some of these objects are available for purchase over on my <a href="https://www.etsy.com/ca/shop/ritualdust">etsy shop</a>. I am open to making commision work, if you have a need for a specific item reach out to me.
   </div>
-  <div class="flex-row flex-wrap old-row big-padding-top">
+  <div class="big-padding-top">
     {{ if (eq $.Parent.Title "Craft") }}
       {{ range where .Pages "Section" "craft" }}
         {{ partial "projectCard.html" . }}

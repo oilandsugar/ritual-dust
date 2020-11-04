@@ -851,6 +851,29 @@ img {
 
 /* -------- CRAFTS ---------*/
 
+.craft .old-project {
+  max-width:100%;
+}
+
+.craft .notes .title a {
+  padding: var(--spacing_md) 0 var(--spacing_sm) 0;
+  border-top: 2px dashed;
+  border-bottom: 2px dashed;
+  display:block;
+}
+
+.craft .notes .images {
+  display:none;
+}
+
+.craft .notes .title a {
+  text-decoration:none;
+}
+
+.craft .notes .title h3 {
+  font-size:40px;
+}
+
 .shop-link {
   border: 2px solid;
   padding: 14px var(--spacing_lg) 10px var(--spacing_lg);

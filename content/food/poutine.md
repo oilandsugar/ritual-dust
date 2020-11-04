@@ -1,6 +1,6 @@
 +++
 title = "Poutine"
-tags = ["main", "fall"]
+tags = ["main", "savory", "fall"]
 date = "2020-10-20"
 
 images = ["/img/recipes/poutine.jpg"]
