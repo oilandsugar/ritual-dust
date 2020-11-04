@@ -19,7 +19,7 @@ portions = 1
 - 1/2 cup of steel-cut oats
 - 1 cup of water
 - olive oil
-- 1 tempeh sausage
+- 1 seitan sausage
 - 1 tsp brown miso
 - 1 tsp soy sauce
 - 1/2 tsp thyme
@@ -31,7 +31,7 @@ portions = 1
 
 ## Steps
 
-1. cut the **vegan sausage** in slices and chop the **green onion**
+1. cut the **seitan sausage** in slices and chop the **green onion**
 2. In a pan, put a little olive oil and the sausages slices and cook on medium high until browned, around *5 min*
 3. At the same time, combine in a small pot **1/2 cup of steel-cut oats** and **1 cup of water**
 4. Cook on medium/high until it boils, around *7 min* while stirring.
