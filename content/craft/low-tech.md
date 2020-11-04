@@ -1,0 +1,18 @@
++++
+title = "Low tech"
+date = "2020-11-03"
+draft = true
+image = "/img/craft/inspiration-1.jpg"
+desc = "Thoughts, research and resources on low tech solutions"
++++
+
+With the ongoing climate crisis, the destruction brought forth by the unsustainable push for constant growth of capitalism and a world filled with increasingly complex and disposable machines and tools, there is very strong need to scale down and simplify our technology and engineering.
+
+Design has become on a lot of ways a self-referential discipline, focussing more and more on aesthetics over creative problem solving or, at the even more basic level, just taking the time to see if there is a problem to solve. Design has been instrumentalized by capitalism to manipulate people, create needs and keep us distracted.
+
+Since I was a kid I was curious about how things works, from synthesizers and computers to medieval siege weapons and woodworking tools. By taking those apart, and building my own versions with what I had available and with plans and knowledge collected from books and websites I developed an ability to repair or build tools for most situations where a tool is needed and also to think of new ways old tools could be used.
+
+### Resources, inspiration and further reading
+
+[https://wiki.lowtechlab.org/wiki/Accueil](https://wiki.lowtechlab.org/wiki/Accueil)  
+[https://simplifier.neocities.org/](https://simplifier.neocities.org/)
