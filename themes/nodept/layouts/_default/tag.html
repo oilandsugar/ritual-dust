@@ -1,14 +1,20 @@
 {{ partial "header" . }}
 
-<div class="small-wrap big-padding-top">
-  <h1>{{ .Title }}</h1>
-  <ul>
-  {{ range .Paginator.Pages }}
-    <li>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
-  {{ end }}
-  </ul>
+<div class="flex-row big-padding-top tag-page">
+  <div class="sidebar">
+    <h3>All tags</h3>
+  
+  </div>
+  <div class="wrap">
+    <h1 class="title">{{ .Title }}</h1>
+    <ul>
+    {{ range .Paginator.Pages }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+    </ul>
+  </div>
 </div>
 
 {{ partial "footer" . }}

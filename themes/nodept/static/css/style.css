@@ -373,7 +373,7 @@ img {
   padding: 0 var(--spacing_sm) 0 0;
 }
 
-/* home */
+/* ---------- home ----------- */
 
 .home-content .section {
   flex:1;
@@ -480,7 +480,14 @@ img {
   margin: 0;
 }
 
-/* works */
+/* ---------- taxonomies ----------- */
+
+.tag-page .title {
+  color:var(--textColorAccent);
+}
+
+
+/* ---------- works --------------- */
 
 .old-project {
   margin-right: 16px;
@@ -1048,6 +1055,10 @@ img {
 
 .no-padding-left {
   padding-left: 0;
+}
+
+.no-padding-bottom {
+  padding-left: 0!important;
 }
 
 .small-padding {
