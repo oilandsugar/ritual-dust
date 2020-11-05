@@ -7,7 +7,11 @@
       <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
     </div>
     {{ end }}
-    <h3>Categories</h3>
+    {{ if (eq .Parent.Title "Works") }}
+      <h3>Projects</h3>
+    {{ else }}
+      <h3>Categories</h3>
+    {{ end }}
     <ul class="section-pages">
       {{ range where .Pages "Section" "works" }}
         <li>

@@ -6,14 +6,25 @@
   --spacing_lg: 24px;
   --spacing_xl: 48px;
 
+  /* spring */
+  /* --backColor: #161716; */
+  /* --textColor: #a27c6a; */
+  /* --textColorAccent: #7f915e; */
+
+  /* summer */
+  /* --backColor: #161716; */
+  /* --textColor: #a27c6a; */
+  /* --textColorAccent: #7f915e; */
+
+  /* fall */
   --backColor: #161716;
-  --backColorLighter: #1f211a;
   --textColor: #a27c6a;
-  --textColorAccent: #7f915e;
-  --accentColor: #b26a41;
-  --linkColor: #b26a41;
-  --cardBackColor: #272424;
-  --grey: #000;
+  --textColorAccent: #924723;
+
+  /* winter */
+  /* --backColor: #161716; */
+  /* --textColor: #a27c6a; */
+  /* --textColorAccent: #7f915e; */
 
   --cardShadow: 0 1px 22px #0000002e;
   --cardShadowRaised: 0 10px 42px #0000007a;
@@ -223,7 +234,7 @@ a {
 }
 
 a:hover {
-  color: var(--linkColor);
+  color: var(--textColorAccent);
 }
 
 strong {
@@ -367,6 +378,12 @@ img {
 .home-content .section {
   flex:1;
 }
+
+.home-content h3 {
+  padding-bottom:var(--spacing_md);
+  border-bottom:2px dotted;
+}
+
 .profile-pic {
   max-width: 120px;
   min-width: 120px;
@@ -384,6 +401,13 @@ img {
   margin-top: 0;
 }
 
+.see-all {
+  font-size:18px;
+  display:block;
+  padding-top:var(--spacing_md);
+  text-decoration: none;
+}
+
 .bio .name {
   margin: 0;
   font-size: 34px;
@@ -396,7 +420,7 @@ img {
 .social svg {
   font-size: 24px;
   padding: 0 4px;
-  color: var(--linkColor);
+  color: var(--textColorAccent);
   opacity: 0.4;
 }
 
@@ -513,11 +537,11 @@ img {
 
 .old-project.website .browser-bar {
   display: block;
-  background: var(--grey);
+  background: var(--backColor);
 }
 
 .old-project.website .img {
-  border: 2px solid var(--grey);
+  border: 2px solid var(--backColor);
   background-position: center 24px;
   box-sizing: border-box;
   border-radius: 4px;
@@ -566,7 +590,6 @@ img {
   width: 100%;
   transition: 0.4s;
   animation-timing-function: ease-in-out;
-  background: var(--grey);
 }
 
 .images-container.not-loaded {
@@ -620,7 +643,6 @@ img {
   margin: 0 12px var(--spacing_lg) 12px;
   max-width: calc(33.3333% - 24px);
   min-width: calc(33.3333% - 24px);
-  background: var(--cardBackColor);
   color: var(--textColor);
   font-size: 24px;
   box-sizing: border-box;
@@ -886,10 +908,16 @@ img {
 .single-page h1 {
   margin-top: 0;
   margin-bottom: 0;
+  color: var(--textColorAccent);
 }
 
 .back-home {
   margin-bottom: var(--spacing_sm);
+}
+
+.sidebar .back-home h3 {
+  padding-bottom:0;
+  border-bottom:none;
 }
 
 .back-home a {
@@ -938,6 +966,11 @@ img {
   padding: 0 2em;
   max-width: 200px;
   min-width: 200px;
+}
+
+.sidebar h3 {
+  padding-bottom:var(--spacing_md);
+  border-bottom:2px dotted;
 }
 
 .sidebar ul {

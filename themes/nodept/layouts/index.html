@@ -60,27 +60,31 @@
     <div class="flex-row">
       <div class="section big-padding-right">
         <h3>Recent works</h3>
-          {{ range ( where .Site.RegularPages "Section" "works" | first 5 ) }}
-            <a href="{{.Permalink}}">{{ .Title }}</a><br/>
-          {{ end }}
+        {{ range ( where .Site.RegularPages "Section" "works" | first 5 ) }}
+          <a href="{{.Permalink}}">{{ .Title }}</a><br/>
+        {{ end }}
+        <a class="see-all" href="/works/">View all works</a>
       </div>
       <div class="section big-padding-right">
         <h3>Workbench</h3>
-          {{ range ( where .Site.RegularPages "Section" "craft" | first 5 ) }}
-            <a href="{{.Permalink}}">{{ .Title }}</a><br/>
-          {{ end }}
+        {{ range ( where .Site.RegularPages "Section" "craft" | first 5 ) }}
+          <a href="{{.Permalink}}">{{ .Title }}</a><br/>
+        {{ end }}
+        <a class="see-all" href="/craft/">View all craft</a>
       </div>
       <div class="section big-padding-right">
         <h3>New folklore</h3>
-          {{ range ( where .Site.RegularPages "Section" "folklore" | first 5 ) }}
-            <a href="{{.Permalink}}">{{ .Title }}</a><br/>
-          {{ end }}
+        {{ range ( where .Site.RegularPages "Section" "folklore" | first 5 ) }}
+          <a href="{{.Permalink}}">{{ .Title }}</a><br/>
+        {{ end }}
+        <a class="see-all" href="/folklore/">View all folklore</a>
       </div>
       <div class="section big-padding-right">
-        <h3>Currently cooking</h3>
-          {{ range ( where .Site.RegularPages "Section" "food" | first 5 ) }}
-            <a href="{{.Permalink}}">{{ .Title }}</a><br/>
-          {{ end }}
+        <h3>Kitchen</h3>
+        {{ range ( where .Site.RegularPages "Section" "food" | first 5 ) }}
+          <a href="{{.Permalink}}">{{ .Title }}</a><br/>
+        {{ end }}
+        <a class="see-all" href="/food/">View all food</a>
       </div>
     </div>
 

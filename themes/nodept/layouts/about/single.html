@@ -5,6 +5,7 @@
     <div class="back-home">
       <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
     </div>
+    <h3>Further reading</h3>
     {{ $section := where $.Site.RegularPages "Section" "about"}}
     <ul class="section-pages">
     {{ range $section }}
