@@ -17,8 +17,10 @@
   /* --textColorAccent: #7f915e; */
 
   /* fall */
-  --backColor: #161716;
-  --textColor: #a27c6a;
+  --darkBackColor: #161716;
+  --lightBackColor: #f5d1ad;
+  --lightTextColor: #a27c6a;
+  --darkTextColor: #495249;
   --textColorAccent: #924723;
 
   /* winter */
@@ -44,8 +46,16 @@ html {
   font-weight: lighter;
   font-size: 22px;
   line-height: 33px;
-  background: var(--backColor);
-  color: var(--textColor);
+}
+
+body.light {
+  background: var(--lightBackColor);
+  color: var(--darkTextColor);
+}
+
+body.dark {
+  background: var(--darkBackColor);
+  color: var(--lightTextColor);
 }
 
 body {
@@ -206,11 +216,7 @@ p {
 hr {
   border: 0;
   height: 2px;
-  background-color: var(--textColor);
-}
-
-.green {
-  color:var(--textColorAccent);
+  background-color: inherit;
 }
 
 blockquote {
@@ -220,7 +226,7 @@ blockquote {
 }
 
 a {
-  color: var(--textColor);
+  color: inherit;
   cursor: pointer;
   font-family: "Wremena";
   font-weight: bold;
@@ -257,6 +263,10 @@ strong {
 
 .psych-2 {
   font-family: var(--psychFont2);
+}
+
+.accent {
+  color:var(--textColorAccent);
 }
 
 .dingbats {
@@ -390,7 +400,7 @@ img {
 .social svg {
   width:24px;
   padding: 0 4px;
-  fill: var(--textColor);
+  fill: var(--textColorAccent);
 }
 
 .social a {
@@ -431,7 +441,6 @@ img {
 
 .category:hover {
   letter-spacing: 15px;
-  background-color: var(--textColorFaded);
 }
 
 .category img {
@@ -1109,7 +1118,7 @@ img {
 }
 
 .webring svg {
-  stroke: var(--textColor);
+  stroke: var(--textColorAccent);
   width: 40px;
   height: auto;
 }
@@ -1264,5 +1273,8 @@ img {
   }
   .home-content .section {
     padding-top:var(--spacing_md);
+  }
+  .ornament {
+    display:none;
   }
 }

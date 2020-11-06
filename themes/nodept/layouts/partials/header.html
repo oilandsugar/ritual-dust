@@ -45,7 +45,7 @@
 
   </head>
 
-  <body class="home">
+  <body class="{{ if eq .Page.Section "food" }}light{{ else }}dark{{ end }}">
     <div class="wrap">
       {{ partial "menu" . }}
     </div>
