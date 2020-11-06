@@ -1,4 +1,4 @@
-/* variables */
+/* ---------- variables ---------- */
 
 :root {
   --spacing_sm: 8px;
@@ -29,17 +29,18 @@
   --cardShadow: 0 1px 22px #0000002e;
   --cardShadowRaised: 0 10px 42px #0000007a;
 
-  --mainFont: "CalFrakturModern";
+  --mainFont: "Wremena";
+  --blackletterFont: "CalFrakturModern";
   --psychFont1: "Juniper Std";
   --psychFont2: "Cooper Std";
 
   --borderRadius: 8px;
 }
 
-/* structure */
+/* ----------- structure -------------- */
 
 html {
-  font-family: "Wremena";
+  font-family: var(--mainFont);
   font-weight: lighter;
   font-size: 22px;
   line-height: 33px;
@@ -51,12 +52,7 @@ body {
   margin: 0;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* typography */
+/* ---------- typography ----------- */
 
 @font-face {
   font-family: "CalFrakturModern";
@@ -202,9 +198,6 @@ h4.blackletter {
   font-size: 1.5em;
 }
 
-h5 {
-}
-
 p {
   margin: var(--spacing_lg) 0;
   display:block;
@@ -252,7 +245,7 @@ strong {
 }
 
 .blackletter {
-  font-family: var(--mainFont);
+  font-family: var(--blackletterFont);
   -webkit-font-smoothing: none;
 }
 
@@ -263,7 +256,7 @@ strong {
 }
 
 .psych-2 {
-  font-family: "Cooper Std";
+  font-family: var(--psychFont2);
 }
 
 .dingbats {
@@ -280,7 +273,7 @@ strong {
   margin-top:var(--spacing_lg);
 }
 
-/* utils */
+/* -------------- utils ------------- */
 
 .display-none {
   display: none;
@@ -299,39 +292,11 @@ figcaption {
 }
 
 img {
+  max-width: 100%;
+  height: auto;
   border-radius: 8px;
   overflow: hidden;
   line-height: 0;
-}
-
-.tags {
-  margin-top: var(--spacing_sm);
-  margin-bottom: var(--spacing_xl);
-  padding-left: 0;
-}
-
-.tags li {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: inline-block;
-  margin-left: -3px;
-}
-
-.tags li:first-child {
-  margin-left: 0;
-}
-
-.tags li:before {
-  content: ", ";
-}
-
-.tags li:first-child:before {
-  content: "" !important;
-}
-
-.tags li:last-child:before {
-  content: ", and ";
 }
 
 .last-mod {
@@ -340,7 +305,7 @@ img {
   border-top: 2px solid;
 }
 
-/* menu */
+/* ------------ menu ------------- */
 
 .menu a {
   font-size: 20px;
@@ -490,6 +455,53 @@ img {
   color:var(--textColorAccent);
 }
 
+.tag {
+  padding-right: 8px;
+  opacity: 0.5;
+  transition: 0.3s;
+}
+
+.tag:hover,
+.tag.active {
+  opacity: 1;
+}
+
+.tag svg {
+  margin-right: 8px;
+  font-size: 12px;
+  position: relative;
+  top: -2px;
+}
+
+.tags {
+  margin-top: var(--spacing_sm);
+  margin-bottom: var(--spacing_xl);
+  padding-left: 0;
+}
+
+.tags li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  margin-left: -3px;
+}
+
+.tags li:first-child {
+  margin-left: 0;
+}
+
+.tags li:before {
+  content: ", ";
+}
+
+.tags li:first-child:before {
+  content: "" !important;
+}
+
+.tags li:last-child:before {
+  content: ", and ";
+}
 
 /* ---------- works --------------- */
 
@@ -603,11 +615,6 @@ img {
   animation-timing-function: ease-in-out;
 }
 
-.images-container.not-loaded {
-  filter: blur(50px);
-  transform: scale(2);
-}
-
 .browser-bar {
   -webkit-border-top-left-radius: 2px;
   -webkit-border-top-right-radius: 2px;
@@ -625,126 +632,10 @@ img {
   display: none;
 }
 
-.oilandsugar-symbol {
-  opacity: 0.5;
-  font-size: 14px;
-  line-height: 1.5em;
-}
-
-.oilandsugar-symbol .symbol {
-  max-width: 100px;
-}
-
-.oilandsugar-symbol .symbol svg {
-  max-width: 100%;
-}
-
-.oilandsugar-symbol .symbol svg path,
-.oilandsugar-symbol .symbol svg polygon {
-  fill: var(--textColor);
-}
-
-/* -------- SHOP ---------*/
-
-.shop {
-  margin: 0 -12px;
-}
-
-.product {
-  margin: 0 12px var(--spacing_lg) 12px;
-  max-width: calc(33.3333% - 24px);
-  min-width: calc(33.3333% - 24px);
-  color: var(--textColor);
-  font-size: 24px;
-  box-sizing: border-box;
-  border-radius: 4px;
-  box-shadow: var(--cardShadow);
-  transition: 0.5s;
-  overflow: hidden;
-  min-height: 350px;
-  text-decoration: none;
-}
-
-.product:hover {
-  box-shadow: var(--cardShadowRaised);
-}
-
-.product h4 {
-  margin: 0;
-}
-
-.product .price {
-  font-size: 18px;
-  line-height: 1.8em;
-}
-
-.product .desc p.spec {
-  font-size: 12px;
-  margin-bottom: 0;
-}
-
-.product .picture {
-  line-height: 0;
-  background-size: cover;
-  background-position: center;
-  min-height: 300px;
-}
-
-#theme-toggle svg {
-  margin-right: 8px;
-}
-
 .filters {
   text-align: left;
   margin-left: auto;
   margin-bottom: var(--spacing_md);
-}
-
-.tag {
-  padding-right: 8px;
-  opacity: 0.5;
-  transition: 0.3s;
-}
-
-.tag:hover,
-.tag.active {
-  opacity: 1;
-}
-
-.tag svg {
-  margin-right: 8px;
-  font-size: 12px;
-  position: relative;
-  top: -2px;
-}
-
-.footer {
-  line-height: 50px;
-  font-weight: bold;
-  height: 50px;
-  font-size: 18px;
-}
-
-.footer span {
-  display: inline-block;
-  vertical-align: middle;
-  padding-right: var(--spacing_md);
-  line-height: 50px;
-}
-
-.old-row {
-  margin-right: -16px;
-}
-
-.webring {
-  display: inline-block;
-  margin-left: auto;
-}
-
-.webring svg {
-  stroke: var(--textColor);
-  width: 40px;
-  height: auto;
 }
 
 /* -------- RECIPES ---------*/
@@ -757,7 +648,7 @@ img {
 .cooking-notes {
   border: 2px solid;
   padding: 14px var(--spacing_lg) 10px var(--spacing_lg);
-  border-radius: 8px;
+  border-radius: 12px;
 }
 
 .cooking-notes .picture {
@@ -884,27 +775,45 @@ img {
 
 /* -------- CRAFTS ---------*/
 
-.craft .old-project {
-  max-width:100%;
-}
-
-.craft .notes .title a {
-  padding: var(--spacing_md) 0 var(--spacing_sm) 0;
-  border-top: 2px dashed;
-  border-bottom: 2px dashed;
+.craft-card {
+  text-decoration: none;
+  margin-bottom: var(--spacing_xl);
   display:block;
 }
 
-.craft .notes .images {
+.craft-card h4 {
+  margin: var(--spacing_md) 0 0 0;
+  font-size: 3em;
+}
+
+.craft-card .desc {
+  font-weight: normal;
+}
+
+.craft-card.notes {
+  border: 2px dashed;
+  border-radius: 12px;
+  padding: 14px var(--spacing_lg) 10px var(--spacing_lg);
+}
+
+.craft-card.notes .picture {
   display:none;
 }
 
-.craft .notes .title a {
-  text-decoration:none;
+.craft-card.notes h4 {
+  font-family: var(--psychFont1);
+  font-weight: 300;
+  margin:0;
+  line-height:1em;
 }
 
-.craft .notes .title h3 {
-  font-size:40px;
+.craft-card.notes h4:before {
+  content: "Craft note";
+  font-family: var(--psychFont2);
+  font-weight: lighter;
+  font-size: 22px;
+  line-height: 40px;
+  display: block;
 }
 
 .shop-link {
@@ -1174,7 +1083,38 @@ img {
   flex-direction: row;
 }
 
-/* -------- MOBILE ---------*/
+/* -------- footer --------- */
+
+.footer {
+  line-height: 50px;
+  font-weight: bold;
+  height: 50px;
+  font-size: 18px;
+}
+
+.footer span {
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: var(--spacing_md);
+  line-height: 50px;
+}
+
+.old-row {
+  margin-right: -16px;
+}
+
+.webring {
+  display: inline-block;
+  margin-left: auto;
+}
+
+.webring svg {
+  stroke: var(--textColor);
+  width: 40px;
+  height: auto;
+}
+
+/* -------- MOBILE --------- */
 
 @media screen and (max-width: 599px) {
   body {
@@ -1254,9 +1194,6 @@ img {
   .current-row-scroll {
     margin-bottom: 30px;
   }
-  ::-webkit-scrollbar-thumb {
-    background: #fff;
-  }
   .old-title {
     display: block;
   }
@@ -1266,17 +1203,6 @@ img {
   }
   .tag {
     display: block;
-  }
-  .oilandsugar-symbol {
-    flex-direction: column;
-  }
-  .oilandsugar-symbol .symbol {
-    max-width: 100%;
-    text-align: center;
-    padding-bottom: 20px;
-  }
-  .oilandsugar-symbol .symbol svg {
-    width: 80px;
   }
   .shop-row {
     flex-direction: column;
@@ -1301,9 +1227,6 @@ img {
   .old-project .desc {
     font-size: 16px;
     line-height: 16px;
-  }
-  .sigils-symbols .flex-row {
-    display: block;
   }
   .category {
     min-height: 0;

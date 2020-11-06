@@ -35,11 +35,11 @@
   <div class="big-padding-top">
     {{ if (eq $.Parent.Title "Craft") }}
       {{ range where .Pages "Section" "craft" }}
-        {{ partial "projectCard.html" . }}
+        {{ partial "craftCard.html" . }}
       {{ end }}
     {{ else }}
     {{ range where .Site.RegularPages "Section" "craft" }}
-      {{ partial "projectCard.html" . }}
+      {{ partial "craftCard.html" . }}
     {{ end }}
     {{ end }}
   </div>
