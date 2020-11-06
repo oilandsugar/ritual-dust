@@ -973,6 +973,10 @@ img {
   column-count: 3;
 }
 
+.columns p {
+  margin:0;
+}
+
 /* -------- PADDING ---------*/
 
 .no-padding-left {
@@ -1276,5 +1280,8 @@ img {
   }
   .ornament {
     display:none;
+  }
+  .columns {
+    column-count: 1!important;
   }
 }
