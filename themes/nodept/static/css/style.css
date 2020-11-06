@@ -395,6 +395,11 @@ img {
   overflow: hidden;
   width: 120px;
   height: 180px;
+  background:var(--textColorAccent);
+}
+
+.profile-pic .photo img {
+  opacity:0.4;
 }
 
 .bio {
@@ -414,14 +419,13 @@ img {
 }
 
 .social {
-  line-height: 1.2em;
+  line-height: 24px;
 }
 
 .social svg {
-  font-size: 24px;
+  width:24px;
   padding: 0 4px;
-  color: var(--textColorAccent);
-  opacity: 0.4;
+  fill: var(--textColor);
 }
 
 .social a {
@@ -429,7 +433,7 @@ img {
 }
 
 .social svg:hover {
-  opacity: 1;
+  fill: var(--textColorAccent);
 }
 
 .categories {
