@@ -59,6 +59,7 @@
   <div class="home-content">
     <div class="flex-row">
       <div class="section big-padding-right">
+        <div id="icon-works" class="icon"></div>
         <h3 class="accent">Recent works</h3>
         {{ range ( where .Site.RegularPages "Section" "works" | first 5 ) }}
           <a href="{{.Permalink}}">{{ .Title }}</a><br/>
@@ -66,6 +67,7 @@
         <a class="see-all" href="/works/">View all works</a>
       </div>
       <div class="section big-padding-right">
+        <div id="icon-craft" class="icon"></div>
         <h3 class="accent">Workbench</h3>
         {{ range ( where .Site.RegularPages "Section" "craft" | first 5 ) }}
           <a href="{{.Permalink}}">{{ .Title }}</a><br/>
@@ -73,6 +75,7 @@
         <a class="see-all" href="/craft/">View all craft</a>
       </div>
       <div class="section big-padding-right">
+        <div id="icon-folklore" class="icon"></div>
         <h3 class="accent">New folklore</h3>
         {{ range ( where .Site.RegularPages "Section" "folklore" | first 5 ) }}
           <a href="{{.Permalink}}">{{ .Title }}</a><br/>
@@ -80,6 +83,7 @@
         <a class="see-all" href="/folklore/">View all folklore</a>
       </div>
       <div class="section big-padding-right">
+        <div id="icon-food" class="icon"></div>
         <h3 class="accent">Kitchen</h3>
         {{ range ( where .Site.RegularPages "Section" "food" | first 5 ) }}
           <a href="{{.Permalink}}">{{ .Title }}</a><br/>

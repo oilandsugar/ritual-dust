@@ -371,6 +371,36 @@ img {
   border-bottom: 2px dotted;
 }
 
+.icon {
+  background: var(--lightTextColor);
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat:no-repeat;
+  width:100%;
+  height:250px;
+}
+
+#icon-works {
+  mask-image: url(/img/icon-works.gif);
+  -webkit-mask-image: url(/img/icon-works.gif);
+}
+
+#icon-craft {
+  mask-image: url(/img/icon-craft.gif);
+  -webkit-mask-image: url(/img/icon-craft.gif);
+}
+
+#icon-folklore {
+  mask-image: url(/img/icon-folklore.gif);
+  -webkit-mask-image: url(/img/icon-folklore.gif);
+}
+
+#icon-food {
+  mask-image: url(/img/icon-food.gif);
+  -webkit-mask-image: url(/img/icon-food.gif);
+}
+
 .profile-pic {
   max-width: 120px;
   min-width: 120px;
