@@ -381,6 +381,11 @@ img {
   height:250px;
 }
 
+.list-page .icon,
+.single-page .icon {
+  margin-top:var(--spacing_lg);
+}
+
 #icon-works {
   mask-image: url(/img/icon-works.gif);
   -webkit-mask-image: url(/img/icon-works.gif);

@@ -7,7 +7,7 @@
       <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
     </div>
     {{ end }}
-    <h3>Artefacts</h3>
+    <h3 class="accent">Artefacts</h3>
     <ul>
       {{ range where .Pages "Section" "craft" }}
         <li>
@@ -15,7 +15,7 @@
         </li>
       {{ end }}
     </ul>
-    <div class="ornament"></div>
+    <div id="icon-craft" class="icon"></div>
   </div>
 <div class="small-wrap craft">
   <div class="page-title">

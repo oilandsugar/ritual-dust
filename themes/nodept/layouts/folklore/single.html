@@ -6,6 +6,7 @@
       <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
     </div>
     {{ $section := where $.Site.RegularPages "Section" "folklore"}}
+    <h3 class="accent">Notes</h3>
     <ul class="section-pages">
     {{ range $section }}
       <li>
@@ -13,7 +14,7 @@
       </li>
     {{ end }}
     </ul>
-    <div class="ornament"></div>
+    <div id="icon-folklore" class="icon"></div>
   </div>
   <div class="wrap">
     <h1 class="psych-1">{{ .Title }}</h1>

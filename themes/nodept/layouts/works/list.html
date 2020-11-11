@@ -8,9 +8,9 @@
     </div>
     {{ end }}
     {{ if (eq .Parent.Title "Works") }}
-      <h3>Projects</h3>
+      <h3 class="accent">Projects</h3>
     {{ else }}
-      <h3>Categories</h3>
+      <h3 class="accent">Categories</h3>
     {{ end }}
     <ul class="section-pages">
       {{ range where .Pages "Section" "works" }}
@@ -19,7 +19,7 @@
         </li>
       {{ end }}
     </ul>
-    <div class="ornament"></div>
+    <div id="icon-works" class="icon"></div>
   </div>
 <div class="full-wrap">
   <div class="page-title">
