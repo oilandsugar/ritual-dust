@@ -327,6 +327,34 @@ img {
   border-top: 2px solid;
 }
 
+.checklist ul {
+  padding:0;
+  margin:0 0 var(--spacing_lg) 0;
+  list-style: none;
+}
+
+.checklist input {
+  margin:0 var(--spacing_sm) 0 0;
+}
+
+.checklist input::before {
+  font-family: "Distro Bats";
+  content:"~";
+  font-size:25px;
+  width:20px;
+  height:20px;
+  line-height:20px;
+  display:block;
+  position:relative;
+  top:-2px;
+  color:var(--textColorAccent);
+  background: var(--darkBackColor);
+}
+
+.checklist input:checked::before {
+  content:"|";
+}
+
 /* ------------ menu ------------- */
 
 .menu a {
