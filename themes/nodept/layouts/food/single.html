@@ -36,7 +36,7 @@
     {{ .Content | safeHTML }}
     {{ range .Params.images }}
       <div class="photo">
-        <img src="{{ . }}" alt="{{ $imageAlt }}" />
+        <img loading="lazy" src="{{ . }}" alt="{{ $imageAlt }}" />
       </div>
     {{ end }}
     {{ if not .Lastmod.IsZero }}

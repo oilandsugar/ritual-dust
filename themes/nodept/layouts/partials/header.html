@@ -10,15 +10,11 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1.0">
     {{ .Hugo.Generator }}
-    <link href="https://fonts.googleapis.com/css?family=UnifrakturCook:700" rel="stylesheet">
     {{ with .OutputFormats.Get "rss" -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
     <link rel="shortcut icon" href="/img/favicon.ico"/>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script type="text/javascript" src="{{ "js/script.js" | relURL }}"></script>
-
     <!-- Facebook Open Graph -->
     <meta property="og:locale" content="en_CA">
     <meta property="og:site_name" content="{{ .Site.Title }}">

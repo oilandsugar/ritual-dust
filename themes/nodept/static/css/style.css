@@ -90,8 +90,8 @@ body {
 
 @font-face {
   font-family: "Cooper Std";
-  src: url("CooperBlackStd.woff2") format("woff2"),
-    url("CooperBlackStd.woff") format("woff");
+  src: url("webfonts/CooperBlackStd.woff2") format("woff2"),
+    url("webfonts/CooperBlackStd.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -666,10 +666,6 @@ img {
   opacity: 0;
   pointer-events: none;
   transition: 0.3s;
-}
-
-.hover-slider:hover .indicator {
-  opacity: 1;
 }
 
 .hover-slider {

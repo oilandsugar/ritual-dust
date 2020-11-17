@@ -25,14 +25,7 @@
     <div class="images hover-slider">
       <div class="images-container">
         <div class="img" id="image-1" style="background-image:url({{ .Params.image }});"></div>
-        {{ with .Params.image2 }}
-          <div class="img" id="image-2" style="background-image:url({{ . }});"></div>
-        {{ end }}
-        {{ with .Params.image3 }}
-          <div class="img" id="image-3" style="background-image:url({{ . }});"></div>
-        {{ end }}
       </div>
-      <div class="indicator"></div>
     </div>
   </a>
   {{ end }}
