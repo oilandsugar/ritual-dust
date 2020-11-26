@@ -2,7 +2,8 @@
 title = "Reading"
 date = "2020-11-16"
 draft = false
-weight = 8
+weight = 9
+intro = "This is my reading list, it contains the books, zines and long form articles I read or intend to read this year."
 +++
 
 ### Books
@@ -11,8 +12,8 @@ weight = 8
 
 - [x] **La peste**, Albert Camus
 - [x] **Psilocybin Production**, Adam Gottlieb
+- [x] **I Hope We Choose Love**, Kai Cheng Thom
 - [ ] **Your Psilocybin Mushroom Companion**, Michelle Janikian
-- [ ] **I Hope We Choose Love**, Kai Cheng Thom
 - [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
 - [ ] **The Anarchist's Tool Chest**, Shwartz
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate

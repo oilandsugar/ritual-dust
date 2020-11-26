@@ -2,14 +2,15 @@
 title = "Now"
 date = "2020-10-20"
 weight = 1
+intro = "I try to keep this page up to date with my current interests and projects, visit often and feel free to reach out to me on mastodon to discuss these."
 +++
 
 These days I'm learning Russian, working on this very website,
 cooking plant-based [fall food](/tags/fall/), practicing woodcarving and making plans for a converted van.
 I also make truly devastating and highly emotional music as [Blood and Dust](http://blood-and-dust.com) with [Hayley Evans](http://hayleyevans.net).
 
----
+See what I'm currently [reading](/about/reading/), [watching](/about/watching/) and [listening to](/about/listening/).
 
-I try to keep this page up to date with my current interests and projects, visit often and feel free to reach out to me on [mastodon](https://merveilles.town/@ritualdust) to discuss these.
+---
 
 ![Desktop altar](/img/desktop-altar.jpg "Desktop altar")

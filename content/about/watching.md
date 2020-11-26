@@ -1,0 +1,30 @@
++++
+title = "Watching"
+date = "2020-11-25"
+draft = false
+weight = 8
+intro = "This is my movie watchlist, I keep it yearly and keep the movies that really impacted me at /about/films"
++++
+
+### Movies
+
+<div class="checklist">
+
+- [ ] **Wristcutters** 2006
+- [x] **La Casa Lobo** 2018
+- [x] **A Dark Song** 2016
+- [x] **Friday the 13th** 1980
+- [x] **Nostalghia** 1983
+- [x] **The House of Usher** 1960
+- [x] **Let the Right One In** 2008
+- [x] **Raw** 2016
+- [x] **La Jetée** 1962
+- [x] **Holy Motors** 2012
+- [x] **Wild at Heart** 1990
+- [x] **Shadow of the Vampire** 2000
+- [x] **Color out of Space** 2019
+- [x] **Offret** 1986
+- [x] **Horror Noire** 2019
+- [x] **It Follows** 2014
+
+</div>
