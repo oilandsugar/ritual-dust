@@ -10,6 +10,8 @@ intro = "This is my listening list, these albums are the ones currently in rotat
 
 <div class="checklist">
 
+- [x] **Winter Rituals EP**, Laura Cannell & Kate Ellis
+- [x] **Little Dark Age**, MGMT
 - [x] **All Hail West Texas**, The Mountain Goats
 - [x] **До Свидания**, IC3PEAK
 - [x] **No Dawn for Men**, Feminazgul

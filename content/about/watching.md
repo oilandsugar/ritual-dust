@@ -10,6 +10,7 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
+- [ ] **The Old Dark House** 1932
 - [ ] **Wristcutters** 2006
 - [x] **La Casa Lobo** 2018
 - [x] **A Dark Song** 2016
