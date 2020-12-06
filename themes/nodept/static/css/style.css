@@ -645,7 +645,7 @@ img {
 
 .old-project.website .browser-bar {
   display: block;
-  background: var(--backColor);
+  background: var(--darkTextColor);
 }
 
 .old-project.website .img {
