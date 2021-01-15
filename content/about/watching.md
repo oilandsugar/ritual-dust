@@ -12,6 +12,15 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 - [ ] **The Old Dark House** 1932
 - [ ] **Wristcutters** 2006
+- [x] **Valerie and her Week of Wonders** 1970
+- [x] **Hagazussa** 2017
+
+</div>
+
+#### 2020
+
+<div class="checklist">
+
 - [x] **La Casa Lobo** 2018
 - [x] **A Dark Song** 2016
 - [x] **Friday the 13th** 1980

@@ -10,6 +10,8 @@ intro = "This is my listening list, these albums are the ones currently in rotat
 
 <div class="checklist">
 
+- [x] **The Valerie Project**, The Valerie Project
+- [x] **Mestarin Kynsi**, Oranssi Pazuzu
 - [x] **Winter Rituals EP**, Laura Cannell & Kate Ellis
 - [x] **Little Dark Age**, MGMT
 - [x] **All Hail West Texas**, The Mountain Goats

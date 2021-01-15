@@ -9,6 +9,20 @@ intro = "This is a collection of films that impacted me by their stories, charac
 
 <div class="movie">
 
+![Hagazussa](/img/movies/hagazussa/1.png)
+
+<div>
+
+### Hagazussa (2017)
+*Directed by Lukas Feigelfeld*
+
+Dark psychedelic folk horror movie about witchcraft and generational curses.
+
+</div>
+</div>
+
+<div class="movie">
+
 ![November](/img/movies/november/1.png)
 
 <div>
