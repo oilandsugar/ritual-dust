@@ -21,25 +21,26 @@
   --textColorAccent: #924723; */
 
   /* fall */
-  --darkBackColor: #161716;
+  /* --darkBackColor: #161716;
   --lightBackColor: #f5d1ad;
   --lightTextColor: #a27c6a;
   --darkTextColor: #495249;
-  --textColorAccent: #924723;
+  --textColorAccent: #924723; */
 
   /* winter */
-  /* --darkBackColor: #141514;
-  --lightBackColor: #c1ecd6;
-  --lightTextColor: #c1ecd6;
-  --darkTextColor: #002151;
-  --textColorAccent: #843131; */
+  --darkBackColor: #141514;
+  --lightBackColor: #818181;
+  --lightTextColor: #818181;
+  --darkTextColor: #000;
+  --textColorAccent: #fff;
 
   --cardShadow: 0 1px 22px #0000002e;
   --cardShadowRaised: 0 10px 42px #0000007a;
 
   --mainFont: "Wremena";
   --blackletterFont: "CalFrakturModern";
-  --psychFont1: "Juniper Std";
+  /* --psychFont1: "Juniper Std"; */
+  --psychFont1: "UnifrakturCook";
   --psychFont2: "Cooper Std";
 
   --borderRadius: 8px;
@@ -166,6 +167,15 @@ body {
   font-display: swap;
 }
 
+@font-face {
+  font-family: "UnifrakturCook";
+  src: url("UnifrakturCook-Bold.woff2") format("woff2"),
+    url("UnifrakturCook-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
 h1 {
   font-size: 6em;
   line-height: 0.8em;
@@ -286,7 +296,7 @@ strong {
 .ornament {
   opacity: 0.3;
   width: 120px;
-  height:120px;
+  height: 120px;
   margin-top: var(--spacing_lg);
   background: var(--lightTextColor);
   mask-image: url(/img/ornament-leaf-square.gif);
@@ -328,31 +338,31 @@ img {
 }
 
 .checklist ul {
-  padding:0;
-  margin:0 0 var(--spacing_lg) 0;
+  padding: 0;
+  margin: 0 0 var(--spacing_lg) 0;
   list-style: none;
 }
 
 .checklist input {
-  margin:0 var(--spacing_sm) 0 0;
+  margin: 0 var(--spacing_sm) 0 0;
 }
 
 .checklist input::before {
   font-family: "Distro Bats";
-  content:"~";
-  font-size:25px;
-  width:20px;
-  height:20px;
-  line-height:20px;
-  display:block;
-  position:relative;
-  top:-2px;
-  color:var(--textColorAccent);
+  content: "~";
+  font-size: 25px;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  display: block;
+  position: relative;
+  top: -2px;
+  color: var(--textColorAccent);
   background: var(--darkBackColor);
 }
 
 .checklist input:checked::before {
-  content:"|";
+  content: "|";
 }
 
 /* ------------ menu ------------- */
@@ -404,14 +414,14 @@ img {
   mask-size: contain;
   mask-repeat: no-repeat;
   -webkit-mask-size: contain;
-  -webkit-mask-repeat:no-repeat;
-  width:100%;
-  height:250px;
+  -webkit-mask-repeat: no-repeat;
+  width: 100%;
+  height: 250px;
 }
 
 .list-page .icon,
 .single-page .icon {
-  margin-top:var(--spacing_lg);
+  margin-top: var(--spacing_lg);
 }
 
 #icon-works {
@@ -447,9 +457,9 @@ img {
   width: 120px;
   height: 180px;
   background: var(--lightTextColor);
-  mask-image: url(/img/bio-photo-3-white.png);
+  mask-image: url(/img/bio-photo-4-white.png);
   mask-size: contain;
-  -webkit-mask-image: url(/img/bio-photo-3-white.png);
+  -webkit-mask-image: url(/img/bio-photo-4-white.png);
   -webkit-mask-size: contain;
 }
 
