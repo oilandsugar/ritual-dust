@@ -1,7 +1,7 @@
 +++
 title = "Folk magic wands"
-date = "2020-10-30"
-draft = true
+date = "2021-01-29"
+draft = false
 image = "/img/craft/DSC01461.png"
 desc = "Collection of hand-made folk magic wands"
 +++
