@@ -2,6 +2,7 @@ baseURL = "http://ritualdust.com/"
 languageCode = "en-ca"
 theme = "nodept"
 title = "Ritual dust"
+image = "/img/preview.png"
 
 [markup]
   [markup.goldmark]
