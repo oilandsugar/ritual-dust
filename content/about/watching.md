@@ -12,6 +12,7 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 - [ ] **The Old Dark House** 1932
 - [ ] **Wristcutters** 2006
+- [x] **Koko-di Koko-da** 2019
 - [x] **Valerie and her Week of Wonders** 1970
 - [x] **Hagazussa** 2017
 
