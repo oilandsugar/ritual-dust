@@ -15,3 +15,4 @@ Darkness hides what was obvious to better reveal what was occulted
 ![The inside of a stone building](/img/photo/veil/IMG_5052.jpg)
 ![A subway tunnel ,disappearing in the distance](/img/photo/veil/DSC04521.jpg)
 ![My old apartment, at night](/img/photo/veil/IMG_5884.jpg)
+![A single light outside of an abandonned planetarium](/img/photo/veil/IMG_5555.jpg)
