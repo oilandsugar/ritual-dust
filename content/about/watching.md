@@ -12,6 +12,12 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 - [ ] **The Old Dark House** 1932
 - [ ] **Wristcutters** 2006
+- [ ] **The Night of the Demon** 1957
+- [ ] **Whistle and I'll come to you** 1968
+- [ ] **Rosencrantz and Guildenstern are dead** 1990
+- [ ] **The Green Room** 2015
+- [x] **Willy's Wonderland** 2020
+- [x] **Saint-Maud** 2020
 - [x] **Koko-di Koko-da** 2019
 - [x] **Valerie and her Week of Wonders** 1970
 - [x] **Hagazussa** 2017
