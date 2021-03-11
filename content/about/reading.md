@@ -10,13 +10,12 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 <div class="checklist">
 
-
-- [ ] **Your Psilocybin Mushroom Companion**, Michelle Janikian
 - [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
 - [ ] **The Anarchist's Tool Chest**, Shwartz
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
 - [ ] **No Logo**, Naomi Klein
 - [ ] **The Book of Tea**, Okakura Kakuzō
+- [ ] **Your Psilocybin Mushroom Companion**, Michelle Janikian
 - [x] **I Hope We Choose Love**, Kai Cheng Thom
 - [x] **Psilocybin Production**, Adam Gottlieb
 - [x] **La peste**, Albert Camus
@@ -31,10 +30,13 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **Rituals and Declarations, issue 1**
 - [ ] **Rituals and Declarations, issue 2**
 - [ ] **Black Dog, issue 1**
+- [ ] **Hellebore, Yuletide special**
 - [ ] **Hellebore, Samhain issue**
 - [ ] **Grimoire Silvanus, issue 1**
 - [ ] **Feed the Beast, issue 1**
 - [ ] **Feed the Beast, issue 2**
+- [ ] **Weird Walk, number 4**
+- [x] **Enchantment Dismantled from the Fiddler's Green Leaflets**
 - [x] **Fiddler's Green, volume 2 number 1**
 - [x] **Fiddler's Green, volume 2 number 2**
 - [x] **Weird Walk, number 1**
