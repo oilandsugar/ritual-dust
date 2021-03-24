@@ -6,13 +6,13 @@ intro = "Here is my ever-growing collection of wyrd terms collected online, in b
 +++
 
 ### Downs
-Rolling hills
+Rolling hills in southern England, The name comes from the Old English dūn (“hill”).
 
 ### Genius loci
-Protective spirit of a place
+Protective spirit of a place.
 
 ### Grim
-Old anglo-saxon word for devil
+Old anglo-saxon word for devil.
 
 ### Hauntology
 Refers to the return or persistence of elements from the past, as in the manner of a ghost, introduced by Jacques Derrida.
@@ -21,12 +21,15 @@ Refers to the return or persistence of elements from the past, as in the manner 
 The eeriness of places left behind.
 
 ### Lych
-Old term for corpse
+Old term for corpse.
 
 ### Numinous
 A place rich with the presence of spirit.
 
 To be innumined (hans poutianen)
 Becoming aware of the numinous nature of the landscape around us and the corresponding numinous qualities inside of us. This is where art meets magic.
+
+### To fathom
+To measure with the width of your arms stretched, it creates a strong connection between the body and the space and the land. It is also the action of bringing somebody closer to your heart and embrace them in your arms.
 
 ### Psychogeography
