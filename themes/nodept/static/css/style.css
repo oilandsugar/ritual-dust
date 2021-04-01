@@ -7,11 +7,11 @@
   --spacing_xl: 48px;
 
   /* spring */
-  /* --darkBackColor: #161716;
-  --lightBackColor: #f5d1ad;
-  --lightTextColor: #a27c6a;
-  --darkTextColor: #495249;
-  --textColorAccent: #924723; */
+  --darkBackColor: #1e2016;
+  --lightBackColor: #d9c68f;
+  --lightTextColor: #d9c68f;
+  --darkTextColor: #1e2016;
+  --textColorAccent: #71762a;
 
   /* summer */
   /* --darkBackColor: #161716;
@@ -28,11 +28,11 @@
   --textColorAccent: #924723; */
 
   /* winter */
-  --darkBackColor: #141514;
+  /* --darkBackColor: #141514;
   --lightBackColor: #818181;
   --lightTextColor: #818181;
   --darkTextColor: #000;
-  --textColorAccent: #fff;
+  --textColorAccent: #fff; */
 
   --cardShadow: 0 1px 22px #0000002e;
   --cardShadowRaised: 0 10px 42px #0000007a;
@@ -40,7 +40,8 @@
   --mainFont: "Wremena";
   --blackletterFont: "CalFrakturModern";
   /* --psychFont1: "Juniper Std"; */
-  --psychFont1: "UnifrakturCook";
+  /* --psychFont1: "UnifrakturCook"; */
+  --psychFont1: "Basteleur";
   --psychFont2: "Cooper Std";
 
   --borderRadius: 8px;
@@ -78,6 +79,12 @@ body {
     url("webfonts/36901D_0_0.woff2") format("woff2"),
     url("webfonts/36901D_0_0.woff") format("woff"),
     url("webfonts/36901D_0_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Basteleur";
+  src: url("webfonts/Basteleur-Bold.woff") format("woff"),
+    url("webfonts/Basteleur-Bold.woff2") format("woff2");
 }
 
 @font-face {
@@ -177,8 +184,8 @@ body {
 }
 
 h1 {
-  font-size: 6em;
-  line-height: 0.8em;
+  font-size: 5em;
+  line-height: 0.9em;
   margin-top: 0;
   font-weight: 800;
   font-family: var(--psychFont1);
