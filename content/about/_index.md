@@ -3,7 +3,7 @@ title = "About"
 type = "page"
 +++
 
-I am Lizbeth Poirier, a designer, goth druid, musician and craftsperson.
+I am Lizbeth, a designer, goth druid, musician and craftsperson.
 
 My pronouns are **she/her**.
 
