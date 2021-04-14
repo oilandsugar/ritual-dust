@@ -2,6 +2,6 @@
 title = ""
 type = "page"
 
-name = "Lizbeth"
+name = "Lizbeth Poirier"
 tagline = "Write your own folklore"
 +++

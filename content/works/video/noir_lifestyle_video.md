@@ -14,6 +14,6 @@ A short film to put in moving images the lifestyle upon which Manière Noire was
 
 Production: Manière Noire - https://manierenoireshop.com/  
 Art director: Gen L R - http://cimmerian.co/  
-Director of photography: Lizbeth - http://ritualdust.com/  
+Director of photography: Lizbeth Poirier - http://ritualdust.com/  
 Models: Evey lp & Chanel Willard  
 Music: Stygian by The Devil and the Universe - http://www.thedevilandtheuniverse.com/
