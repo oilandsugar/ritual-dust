@@ -28,19 +28,19 @@ Always best to make sure it’s FSC-certified.
 ### Maple
 Grows in Asia, Europe, North Africa and North America. It’s really hard wood is used for turning, furniture, butcher’s blocks, bows and furniture. Maple is also a tonewood (a wood which carries waves well) which makes it really suitable for making musical instruments. Its wood is also used to smoke food and to make charcoal and the sugar maples are used to make delicious maple syrup.  
 **Subpecies:** Sugar maple, silver maple, sycamore maple  
-**Harvest cycle:**
+**Harvest cycle:** 20-30 years
 
 ### Walnut
 Grows in southeast Europe and Japan and in the western part of North and South America. Very hard and attractive looking wood, mostly used for furniture, turning, and lutherie. The nuts are edible and the nuts shells can be ground and used as an abrasive.
-**Harvest cycle:**
+**Harvest cycle:** 50 years
 
 ### Ash
 Strong hard and heavy wood, grows in North America.  
-**Harvest cycle:**
+**Harvest cycle:** 10-60 years
 
-### Black cherry
+### Cherry
 good alternative to mahogany which is getting more rare.  
-**Harvest cycle:**
+**Harvest cycle:** 50 years
 
 ### Bamboo
 Non FSC certified because it's defined as a grass and not a tree but grows really quickly and can be easily sustainable.  
@@ -50,21 +50,21 @@ Non FSC certified because it's defined as a grass and not a tree but grows reall
 
 ### Douglas Fir
 Native to western North America but the most susceptible to be sustainable comes from the EU. The Douglas fir is a really important source of food for small animals which eats its seeds. It is one of the best construction timber woods, especially useful for large wooden structures. It’s strong and resistant is also used for flooring.  
-**Harvest cycle:**
+**Harvest cycle:** 30 years
 
 ### Pine
-grows in North America
+grows in North America  
 **Harvest cycle:** 50 years
 
 ### Cedar
 Native to the western Himalayas and the mediterranean region
-Cedar wood and oil is a moth repellent which makes it good for chests and closets in which woollens are stored.
-**Harvest cycle:**
+Cedar wood and oil is a moth repellent which makes it good for chests and closets in which woollens are stored.  
+**Harvest cycle:** 30-40 years
 
 ### Cypress
 Cypress grows all over the world, from Japan, to Mexico and North America
-Used for construction timber and furniture making, it’s heartwood is also moth repellant and is used for chests, drawers and closets. It is also used to make long lasting fence posts and bows.
-**Harvest cycle:**
+Used for construction timber and furniture making, it’s heartwood is also moth repellant and is used for chests, drawers and closets. It is also used to make long lasting fence posts and bows.  
+**Harvest cycle:** 30-35 years
 
 ### Fir
-**Harvest cycle:**
+**Harvest cycle:** 
