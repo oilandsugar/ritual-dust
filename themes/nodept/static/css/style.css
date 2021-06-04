@@ -1065,6 +1065,17 @@ img {
   margin: 0;
 }
 
+.row {
+  display:flex;
+  flex-direction:row;
+  margin: 0 -8px;
+}
+
+.half {
+  flex:1;
+  padding: 0 var(--spacing_sm);
+}
+
 /* -------- PADDING ---------*/
 
 .no-padding-left {

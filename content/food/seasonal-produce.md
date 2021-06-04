@@ -42,7 +42,7 @@ Tomatoes
 **from the end of June to the end of September**  
 {{% columns count="4" %}}
 Beans  
-Blueberries
+Blueberries  
 Broccoli  
 Celery  
 Corn  
