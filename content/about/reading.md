@@ -10,12 +10,12 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 <div class="checklist">
 
-- [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
 - [ ] **The Anarchist's Tool Chest**, Shwartz
-- [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
 - [ ] **No Logo**, Naomi Klein
 - [ ] **The Book of Tea**, Okakura Kakuzō
-- [ ] **Your Psilocybin Mushroom Companion**, Michelle Janikian
+- [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
+- [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
+- [x] **Your Psilocybin Mushroom Companion**, Michelle Janikian
 - [x] **I Hope We Choose Love**, Kai Cheng Thom
 - [x] **Psilocybin Production**, Adam Gottlieb
 - [x] **La peste**, Albert Camus
@@ -33,15 +33,17 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **Hellebore, Yuletide special**
 - [ ] **Hellebore, Samhain issue**
 - [ ] **Grimoire Silvanus, issue 1**
-- [ ] **Feed the Beast, issue 1**
 - [ ] **Feed the Beast, issue 2**
-- [ ] **Weird Walk, number 4**
+- [ ] **Feed the Beast, issue 1**
+- [x] **Black Panels Only, issue 2**
+- [x] **Black Panels Only, issue 1**
 - [x] **Enchantment Dismantled from the Fiddler's Green Leaflets**
-- [x] **Fiddler's Green, volume 2 number 1**
 - [x] **Fiddler's Green, volume 2 number 2**
-- [x] **Weird Walk, number 1**
-- [x] **Weird Walk, number 2**
+- [x] **Fiddler's Green, volume 2 number 1**
+- [x] **Weird Walk, number 4**
 - [x] **Weird Walk, number 3**
+- [x] **Weird Walk, number 2**
+- [x] **Weird Walk, number 1**
 - [x] **Airmid's Journal, issue 1**
 
 </div>
