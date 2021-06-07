@@ -4,7 +4,6 @@ tags = ["protein", "cooking-notes"]
 date = "2020-10-20"
 
 images = []
-imageAlt = "Steel-cut oats with pumpkin, spices and chocolate in a metal bowl"
 
 +++
 
