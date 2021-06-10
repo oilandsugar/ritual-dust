@@ -26,7 +26,7 @@ portions = 1
 
 ## Steps
 
-1. In a small pot combine **1 cup of plant-based milk**, **1 tsp of spirulina**, **2 tsp of matcha powder** and **1 tbsp of raw sugar** (fif adding it)
+1. In a small pot combine **1 cup of plant-based milk**, **1 tsp of spirulina**, **2 tsp of matcha powder** and **1 tbsp of raw sugar** (if adding it)
 2. Cook on medium/high until it starts smoking while continuously whisking it, around _5 min_.
 3. Turn off the heat and transfer to a mug, enjoy!
 
