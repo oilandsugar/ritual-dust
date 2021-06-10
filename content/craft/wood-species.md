@@ -20,6 +20,16 @@ The FSC is an independent, non-profit organisation promoting responsible manage
 Other resources on sustainable timber:  
 [https://www.earthsight.org.uk/](https://www.earthsight.org.uk/)
 
+> "Ask the questions that have no answers.
+Invest in the millennium. Plant sequoias.
+Say that your main crop is the forest
+that you did not plant,
+that you will not live to harvest.
+Say that the leaves are harvested
+when they have rotted into the mold.
+Call that profit. Prophesy such returns."  
+**-- The Mad Farmer Liberation Front by Wendell Berry**
+
 ## Hardwoods
 
 ### Oak (chêne)
