@@ -1073,7 +1073,12 @@ img {
 
 .half {
   flex:1;
+  line-height:0;
   padding: 0 var(--spacing_sm);
+}
+
+.half p {
+  margin: 0 0 var(--spacing_md) 0;
 }
 
 /* -------- PADDING ---------*/
@@ -1083,7 +1088,7 @@ img {
 }
 
 .no-padding-bottom {
-  padding-left: 0 !important;
+  padding-bottom: 0 !important;
 }
 
 .small-padding {
