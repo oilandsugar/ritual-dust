@@ -1,7 +1,7 @@
 +++
 title = "Photo gear"
 date = "2021-06-13"
-weight = 3
+weight = 4
 intro = "A summary of the tools I use for taking photos and videos"
 +++
 
