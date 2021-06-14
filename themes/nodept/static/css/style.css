@@ -474,6 +474,10 @@ img {
   margin-top: 0;
 }
 
+.support {
+  margin-top:var(--spacing_md);
+}
+
 .see-all {
   font-size: 18px;
   display: block;
@@ -963,6 +967,7 @@ img {
   padding: 0 2em;
   margin: 0;
   width: 100%;
+  box-sizing:border-box;
 }
 
 .wrap {
@@ -1222,7 +1227,7 @@ img {
 
 .webring {
   display: inline-block;
-  margin-left: auto;
+  margin-right:var(--spacing_md);
 }
 
 .webring svg {

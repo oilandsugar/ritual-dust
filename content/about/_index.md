@@ -15,6 +15,12 @@ I am also [crafting ritual tools](/craft/) and small handcrafted wooden items.
 
 To discuss those, email me at: lizbeth.poirier.m@gmail.com
 
+If you enjoy what I'm posting here and creating and want to support me you can do so over here:
+
+<div class="support">
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#71762a', 'U7U63MLEM');kofiwidget2.draw();</script>
+</div>
+
 ---
 
 This website is part [portfolio](/works/), part [digital garden](/folklore/) and part [recipe blog](/food/). It is where I collect and expand upon my thoughts and discoveries, and where I showcase what I create, craft and conjure.
