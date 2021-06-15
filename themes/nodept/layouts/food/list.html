@@ -24,20 +24,24 @@
     </div>
     <div id="icon-food" class="icon"></div>
   </div>
-  <div class="small-wrap food">
-    <div class="page-title">
-      <span class="dingbats">p</span>
-      <h2 class="psych-1">{{ .Title }}</h2>
-      <span class="dingbats">p</span>
-      <h3 class="psych-2">{{ .Params.subtitle }}</h3>
+  <div>
+    <div class="small-wrap food">
+      <div class="page-title">
+        <span class="dingbats">p</span>
+        <h2 class="psych-1">{{ .Title }}</h2>
+        <span class="dingbats">p</span>
+        <h3 class="psych-2">{{ .Params.subtitle }}</h3>
+      </div>
+      <div class="intro">
+      {{ .Params.intro }}
+      </div>
     </div>
-    <div class="intro">
-    {{ .Params.intro }}
-    </div>
-    <div class="recipes big-padding-top">
-      {{ range where .RegularPages "Type" "food" }}
-        {{ partial "recipeCard.html" . }}
-      {{ end }}
+    <div class="full-wrap">
+      <div class="recipes big-padding-top columns-2">
+        {{ range where .RegularPages "Type" "food" }}
+          {{ partial "recipeCard.html" . }}
+        {{ end }}
+      </div>
     </div>
   </div>
 </div>

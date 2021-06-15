@@ -1,7 +1,7 @@
 {{$cover := index (.Params.images) 0 }}
 
 <a href="{{ .Permalink }}" class="recipe-card {{ range .Params.tags }}{{ . }} {{ end }}">
-  <h4 class="blackletter small-padding-bottom">{{ .Title }}</h4>
+  <h4 class="blackletter">{{ .Title }}</h4>
   <div class="specs psych-2">
     {{ with .Params.prepTime }}<span class="prep-time">{{ . }} to prep</span>
     - {{ end }}

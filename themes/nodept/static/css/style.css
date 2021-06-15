@@ -745,6 +745,9 @@ img {
 .recipe-card {
   margin-bottom: var(--spacing_xl);
   display: block;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
 }
 
 .cooking-notes {
@@ -779,6 +782,7 @@ img {
 }
 
 .recipe-card h4 {
+  line-height: 3rem;
   margin: 0;
   font-size: 3em;
 }
@@ -1064,6 +1068,12 @@ img {
 
 .columns {
   column-count: 3;
+}
+
+.columns-2 {
+  -webkit-column-width: 400px;
+     -moz-column-width: 400px;
+          column-width: 400px;
 }
 
 .columns p {
