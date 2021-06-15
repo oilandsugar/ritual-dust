@@ -884,6 +884,9 @@ img {
   text-decoration: none;
   margin-bottom: var(--spacing_xl);
   display: block;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
 }
 
 .craft-card h4 {
@@ -1072,8 +1075,8 @@ img {
 
 .columns-2 {
   -webkit-column-width: 400px;
-     -moz-column-width: 400px;
-          column-width: 400px;
+  -moz-column-width: 400px;
+  column-width: 400px;
 }
 
 .columns p {
