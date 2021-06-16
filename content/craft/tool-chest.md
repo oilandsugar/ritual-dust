@@ -2,7 +2,7 @@
 title = "Tool chest"
 date = "2021-06-04"
 draft = false
-image = "/img/craft/tool-chest.jpg"
+image = "/img/craft/tool-chest-3.jpg"
 desc = "Wall-mounted tool chest for my hand tools"
 +++
 
