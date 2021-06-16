@@ -6,7 +6,7 @@ image = "/img/craft/tool-chest-3.jpg"
 desc = "Wall-mounted tool chest for my hand tools"
 +++
 
-![Tool chest in process of receiving tools](/img/craft/tool-chest.jpg)
+![Tool chest in process of receiving tools](/img/craft/tool-chest-3.jpg)
 
 After years of thinking about it and pushing the project back, I finally tackled the building of a proper home for my hand tools. I'm trying to use as much of the wood I already have around to make it and the actual structure once was the case containing the first ever modular synth that I put together as a teen.
 
