@@ -28,7 +28,7 @@
     <span class="dingbats">{</span>
     <h3 class="psych-2">{{ .Params.subtitle }}</h3>
   </div>
-  <div class="flex-row flex-wrap old-row big-padding-top">
+  <div class="columns-2 big-padding-top">
     {{ if (eq $.Parent.Title "Works") }}
       {{ range where .Pages "Section" "works" }}
         {{ partial "projectCard.html" . }}

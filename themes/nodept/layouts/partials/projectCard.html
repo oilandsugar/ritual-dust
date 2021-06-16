@@ -1,40 +1,9 @@
-<div class="flex-1 old-project {{ range .Params.tags }}{{ . }} {{ end }}">
-  {{ if in .Params.tags "website" }}
-  <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}">
-    <div class="images">
-      <div class="images-container">
-        <div class="img" style="background-image:url({{ .Params.image }});">
-          <div class="browser-bar"> •••</div>
-        </div>
-      </div>
-    </div>
-  </a>
-  {{ else if in .Params.tags "video" }}
-  <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}">
-    <div class="images">
-      <div class="images-container">
-        <div class="img" style="background-image:url({{ .Params.image }});"></div>
-        {{ with .Params.gif }}
-          <div class="gif" style="background-image:url({{ . }});"></div>
-        {{ end }}
-      </div>
-    </div>
-  </a>
-  {{ else }}
-  <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}">
-    <div class="images hover-slider">
-      <div class="images-container">
-        <div class="img" id="image-1" style="background-image:url({{ .Params.image }});"></div>
-      </div>
-    </div>
-  </a>
-  {{ end }}
-  <div class="title">
-    <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}">
-      <h3 class="psych-2">{{ .Title }}</h3>
-    </a>
+{{$cover := .Params.image }}
+
+<a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}" class="project-card {{ range .Params.tags }}{{ . }} {{ end }}">
+  <div class="picture">
+    <img loading="lazy" src="{{ $cover }}" alt="{{ .Title }}"/>
   </div>
-  {{ with .Params.desc }}
-  <div class="desc">{{ . }}</div>
-  {{ end }}
-</div>
+  <h4 class="blackletter small-padding-bottom">{{ .Title }}</h4>
+  <div class="desc">{{ .Params.desc }}</div>
+</a>

@@ -518,43 +518,6 @@ img {
   line-height: 0;
 }
 
-.category {
-  text-align: center;
-  border-radius: 8px;
-  overflow: hidden;
-  position: relative;
-  min-height: 300px;
-  max-height: 300px;
-  line-height: 300px;
-  margin: var(--spacing_md);
-  box-sizing: border-box;
-  letter-spacing: 5px;
-  transition: 0.5s;
-  cursor: pointer;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.category:hover {
-  letter-spacing: 15px;
-}
-
-.category img {
-  object-fit: cover;
-  width: 100%;
-  mix-blend-mode: multiply;
-}
-
-.category h2 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 1;
-  margin: 0;
-}
-
 /* ---------- taxonomies ----------- */
 
 .tag-page .title {
@@ -609,135 +572,26 @@ img {
   content: ", and ";
 }
 
-/* ---------- works --------------- */
+/* ---------- WORKS --------------- */
 
-.old-project {
-  margin-right: 16px;
-  margin-bottom: 32px;
-  max-width: calc(25% - 16px);
-  min-width: calc(25% - 16px);
-}
-
-.old-project .desc {
-  font-size: 14px;
-  line-height: 18px;
-  padding-top: var(--spacing_sm);
-}
-
-.old-project .images {
-  min-height: 200px;
-  width: 100%;
-  margin-bottom: 16px;
-  border-radius: 4px;
-  position: relative;
-  overflow: hidden;
-}
-
-.old-project.video:hover .img {
-  opacity: 0;
-}
-
-.old-project .img {
-  min-height: 200px;
-  width: 100%;
-  background-size: cover;
-  background-position: center;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 100;
-  opacity: 1;
-  transition: 0.3s;
-}
-.old-project .gif {
-  min-height: 200px;
-  width: 100%;
-  background-size: cover;
-  background-position: center;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-.old-project .title h3 {
-  margin: 0;
-  font-size: 16px;
-}
-
-.old-project.website .browser-bar {
+.project-card {
+  text-decoration: none;
+  margin-bottom: var(--spacing_xl);
   display: block;
-  background: var(--darkTextColor);
+  page-break-inside: avoid;
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
 }
 
-.old-project.website .img {
-  border: 2px solid var(--backColor);
-  background-position: center 24px;
-  box-sizing: border-box;
-  border-radius: 4px;
+.project-card h4 {
+  line-height: 2rem;
+  margin: 0;
+  padding-top:var(--spacing_md);
+  font-size: 3em;
 }
 
-.old-project .indicator {
-  position: absolute;
-  bottom: 8px;
-  left: 8px;
-  width: calc(100% - 16px);
-  display: flex;
-  flex-direction: row;
-  z-index: 1000;
-  opacity: 0;
-  pointer-events: none;
-  transition: 0.3s;
-}
-
-.hover-slider {
-  overflow: hidden;
-  position: relative;
-}
-
-.old-project .indicator .bar {
-  flex: 1;
-  margin: 0 4px;
-  height: 3px;
-  border-radius: 1.5px;
-  background: #000;
-  opacity: 0.1;
-}
-
-.old-project .indicator .bar.active {
-  opacity: 0.5;
-}
-
-.hover-slider .images-container {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  transition: 0.4s;
-  animation-timing-function: ease-in-out;
-}
-
-.browser-bar {
-  -webkit-border-top-left-radius: 2px;
-  -webkit-border-top-right-radius: 2px;
-  -moz-border-radius-topleft: 2px;
-  -moz-border-radius-topright: 2px;
-  border-top-left-radius: 2px;
-  border-top-right-radius: 2px;
-  background: #d4d4d4;
-  color: var(--backColor);
-  position: relative;
-  width: 100%;
-  height: 24px;
-  line-height: 24px;
-  padding-left: 4px;
-  display: none;
-}
-
-.filters {
-  text-align: left;
-  margin-left: auto;
-  margin-bottom: var(--spacing_md);
+.project-card .desc {
+  font-weight: normal;
 }
 
 /* -------- RECIPES ---------*/
@@ -750,9 +604,15 @@ img {
   -webkit-column-break-inside: avoid;
 }
 
+.recipe-card h4 {
+  line-height: 3rem;
+  margin: 0;
+  font-size: 3em;
+}
+
 .cooking-notes {
   border: 2px solid;
-  padding: 14px var(--spacing_lg) 10px var(--spacing_lg);
+  padding: 14px var(--spacing_lg) var(--spacing_lg) var(--spacing_lg);
   border-radius: 12px;
 }
 
@@ -764,8 +624,9 @@ img {
   font-family: var(--psychFont1);
   font-weight: 300;
   font-size: 4em;
-  line-height: 1em;
+  line-height: 3.2rem;
   padding: 0;
+  word-break: break-word;
 }
 
 .cooking-notes h4:before {
@@ -779,12 +640,6 @@ img {
 
 .recipes a {
   text-decoration: none;
-}
-
-.recipe-card h4 {
-  line-height: 3rem;
-  margin: 0;
-  font-size: 3em;
 }
 
 .specs {
@@ -912,7 +767,7 @@ img {
   font-family: var(--psychFont1);
   font-weight: 300;
   margin: 0;
-  line-height: 1em;
+  line-height: 3rem;
 }
 
 .craft-card.notes h4:before {
@@ -1234,10 +1089,6 @@ img {
   line-height: 50px;
 }
 
-.old-row {
-  margin-right: -16px;
-}
-
 .webring {
   display: inline-block;
   margin-right:var(--spacing_md);
@@ -1303,9 +1154,6 @@ img {
   .big-padding-top {
     padding-top: 30px;
   }
-  .old-title {
-    padding-top: 60px;
-  }
   .top-page-row {
     display: block;
   }
@@ -1318,37 +1166,6 @@ img {
     min-width: 80px;
     margin-bottom: 16px;
   }
-  .old-row {
-    margin-right: 0;
-  }
-  .old-project {
-    max-width: 100%;
-    min-width: 100%;
-    margin-right: 0;
-  }
-  .current-row-scroll {
-    margin-bottom: 30px;
-  }
-  .old-title {
-    display: block;
-  }
-  .filters {
-    text-align: left;
-    margin-bottom: 16px;
-  }
-  .tag {
-    display: block;
-  }
-  .shop-row {
-    flex-direction: column;
-  }
-  .product {
-    max-width: 100%;
-    margin-right: 0;
-  }
-  .product-desc p {
-    margin-top: 0;
-  }
   .page-title {
     height: auto;
     line-height: 30px;
@@ -1358,14 +1175,6 @@ img {
   }
   .bio.mobile {
     display: flex;
-  }
-  .old-project .desc {
-    font-size: 16px;
-    line-height: 16px;
-  }
-  .category {
-    min-height: 0;
-    max-height: none;
   }
   .categories .flex-row {
     display: block;
