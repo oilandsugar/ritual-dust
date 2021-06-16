@@ -703,36 +703,6 @@ img {
   line-height: 0;
 }
 
-/* -------- MOVIES ---------*/
-
-.movie {
-  display: flex;
-  flex-direction: row;
-  margin: var(--spacing_lg) 0;
-}
-
-.movie p {
-  margin: 0;
-  flex: 2;
-}
-
-.movie h3 {
-  margin: 0;
-}
-
-.movie em {
-  margin: 0 0 var(--spacing_lg) 0;
-  display: block;
-}
-
-.movie div {
-  padding-left: var(--spacing_lg);
-  flex: 1;
-}
-
-.movie div p {
-}
-
 /* -------- CRAFTS ---------*/
 
 .craft-card {
@@ -784,6 +754,46 @@ img {
   padding: 14px var(--spacing_lg) 10px var(--spacing_lg);
   border-radius: 8px;
   margin-top: var(--spacing_lg);
+}
+
+/* --------- FILMS ----------- */
+
+.film-card {
+  text-decoration: none;
+}
+
+.film-card .movie-wrap {
+  display: flex;
+  flex-direction: row;
+  margin: var(--spacing_lg) 0;
+}
+
+.film-card .director {
+  font-size:18px;
+  padding-bottom:var(--spacing_md);
+  line-height:18px;
+}
+
+.movie {
+  flex:3;
+}
+
+.film-card .desc {
+  font-weight:100;
+}
+
+.film-card h3 {
+  margin: 0;
+}
+
+.film-card em {
+  margin: 0 0 var(--spacing_lg) 0;
+  display: block;
+}
+
+.movie-content {
+  padding-left: var(--spacing_lg);
+  flex: 1;
 }
 
 /* -------- SINGLE PROJECTS ---------*/

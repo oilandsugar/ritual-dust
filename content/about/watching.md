@@ -14,6 +14,7 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 - [ ] **Wristcutters** 2006
 - [ ] **The Night of the Demon** 1957
 - [ ] **Whistle and I'll come to you** 1968
+- [x] **On the silver globe** 1988
 - [x] **In the Earth** 2021
 - [x] **Rosencrantz and Guildenstern are dead** 1990
 - [x] **Sanjuro** 1962
