@@ -1,0 +1,9 @@
+{{$cover := .Params.image }}
+
+<a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}" class="folklore-card {{ range .Params.tags }}{{ . }} {{ end }}">
+  <div class="picture">
+    <img loading="lazy" src="{{ $cover }}" alt="{{ .Title }}"/>
+  </div>
+  <h4 class="blackletter small-padding-bottom">{{ .Title }}</h4>
+  <div class="desc">{{ .Params.desc }}</div>
+</a>

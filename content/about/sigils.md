@@ -5,6 +5,8 @@ weight = 3
 intro = "This page will contain my ongoing work on sigil and symbol making, both as a way of marking and identifying projects and objects but also part of my magical practice."
 +++
 
+> “In the field of the truly esoteric, words are the sigils of power that form as the inner world takes outer form. They develop a greater meaning and purpose as we formulate the grand sum of experience into singular flowing points. Even the act of writing is itself a magical act, a ritualistic focusing and a scriptural act of devotion.”
+
 ![](/img/sigil.svg)
 My new sigil, created as part of my gender transition process breaks away from the rigidity and cleanness of the previous symbol, embracing imperfections and intuition in it's drawing. It's elements intersecting and colliding without being constrained.
 

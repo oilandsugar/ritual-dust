@@ -12,18 +12,24 @@
     </ul>
     <div id="icon-folklore" class="icon"></div>
   </div>
-  <div class="wrap">
-    <div class="page-title">
-      <span class="dingbats">l</span>
-      <h2 class="psych-1">{{ .Title }}</h2>
-      <span class="dingbats">l</span>
-      <h3 class="psych-2">Reflections and wonderings</h3>
+  <div>
+    <div class="small-wrap">
+      <div class="page-title">
+        <span class="dingbats">l</span>
+        <h2 class="psych-1">{{ .Title }}</h2>
+        <span class="dingbats">l</span>
+        <h3 class="psych-2">Reflections and wonderings</h3>
+      </div>
+      <div class="intro">
+        {{ .Params.intro }}
+      </div>
     </div>
-    <div class="intro">
-      {{ .Params.intro }}
-    </div>
-    <div class="big-padding-top">
-      {{ .Content }}
+    <div class="full-wrap">
+      <div class="folklore big-padding-top columns-2">
+        {{ range where .RegularPages "Type" "folklore" }}
+          {{ partial "folkloreCard.html" . }}
+        {{ end }}
+      </div>
     </div>
   </div>
 </div>

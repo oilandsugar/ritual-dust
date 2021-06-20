@@ -2,7 +2,10 @@
 title = "Off-grid living"
 draft = false
 date = "2020-10-31"
+image = "/img/folklore/off-grid.png"
 +++
+
+![Off the grid](/img/folklore/off-grid.png)
 
 This is a very organic gathering of my notes and research on living off-grid, either in a home or in a vehicule (like a boat or a van). I have a dream of building a timber framed house in the woods at some points and to have a van or a boat setup for short-term living so these notes act as preparation, planning and inspiration for those projects.
 

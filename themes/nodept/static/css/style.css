@@ -594,6 +594,56 @@ img {
   font-weight: normal;
 }
 
+/* ---------- FOLKLORE --------------- */
+
+.folklore-card {
+  text-decoration: none;
+  margin-bottom: var(--spacing_xl);
+  display: block;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+}
+
+.folklore-card h4 {
+  line-height: 2rem;
+  margin: 0;
+  padding-top:var(--spacing_md);
+  font-size: 3em;
+}
+
+.folklore-card .desc {
+  font-weight: normal;
+}
+
+.folk-notes {
+  border: 2px solid;
+  padding: 14px var(--spacing_lg) var(--spacing_lg) var(--spacing_lg);
+  border-radius: 12px;
+}
+
+.folk-notes .picture {
+  display: none;
+}
+
+.folk-notes h4 {
+  font-family: var(--psychFont1);
+  font-weight: 300;
+  font-size: 4em;
+  line-height: 3.2rem;
+  padding: 0;
+  word-break: break-word;
+}
+
+.folk-notes h4:before {
+  content: "Folk notes";
+  font-family: var(--psychFont2);
+  font-weight: lighter;
+  font-size: 22px;
+  line-height: 40px;
+  display: block;
+}
+
 /* -------- RECIPES ---------*/
 
 .recipe-card {
