@@ -3,6 +3,7 @@ title = "Way of life"
 date = "2021-06-20"
 image = "/img/folklore/druidism.jpg"
 draft = "true"
+tags = ["folk-notes"]
 +++
 
 What worked for me in life so far, and what I want to try in the future.
