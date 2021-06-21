@@ -6,7 +6,7 @@
       <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
     </div>
     {{ $section := where $.Site.RegularPages "Section" "food"}}
-    <h3 class="accent">Recipes</h3>
+    <h3 class="accent">Recipes and notes</h3>
     <ul class="section-pages">
     {{ range $section }}
       <li>

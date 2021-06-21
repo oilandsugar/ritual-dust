@@ -18,6 +18,8 @@ I can imagine a future where small communities have integrated craft and functio
 
 ### Resources, inspiration and further reading
 
-[https://wiki.lowtechlab.org/wiki/Accueil](https://wiki.lowtechlab.org/wiki/Accueil)  
+[Sustainable interaction design principles](https://branch.climateaction.tech/issues/issue-1/designing-branch-sustainable-interaction-design-principles/)  
+[Designing for low bandwidth](https://diff.wikimedia.org/2017/11/07/designing-for-low-bandwidth/)  
+[Low tech lab](https://wiki.lowtechlab.org/wiki/Accueil)  
 [https://simplifier.neocities.org/](https://simplifier.neocities.org/)  
-[https://wiki.xxiivv.com/site/longtermism.html](https://wiki.xxiivv.com/site/longtermism.html)
+[Long-termism on XXIIVV](https://wiki.xxiivv.com/site/longtermism.html)
