@@ -12,4 +12,8 @@ What worked for me in life so far, and what I want to try in the future.
 - **Learning to listen, name and express my feelings**   
 - **Growing a practice of gratitude**
 
+Readings
+
+https://readsettlers.org/intro.html
+
 ![Hand holding small boline](/img/folklore/druidism.jpg "Hand holding small boline")
