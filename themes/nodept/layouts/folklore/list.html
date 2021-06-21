@@ -4,13 +4,13 @@
   <div class="sidebar">
     <h3 class="accent">Notes</h3>
     <div class="small-padding-bottom">
-    <ul class="section-pages">
-    {{ range .Paginator.Pages }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
-    {{ end }}
-    </ul>
+      <ul class="section-pages">
+      {{ range .Paginator.Pages }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+      </ul>
     </div>
     <div class="small-padding-bottom">
       <h3 class="accent">Deeper knowledge</h3>
