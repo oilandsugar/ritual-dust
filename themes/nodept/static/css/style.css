@@ -189,8 +189,8 @@ h1 {
   margin-top: 0;
   font-weight: 800;
   font-family: var(--psychFont1);
-  -webkit-font-smoothing: none;
-  -moz-osx-font-smoothing: none;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
 }
 
 h2 {
@@ -199,8 +199,8 @@ h2 {
   margin-bottom: 32px;
   font-weight: 500;
   font-family: "Distro Bold";
-  -webkit-font-smoothing: none;
-  -moz-osx-font-smoothing: none;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
 }
 
 h2.blackletter {
@@ -211,8 +211,8 @@ h3 {
   margin-top: 0;
   line-height: 1.2em;
   font-family: "Distro Bold";
-  -webkit-font-smoothing: none;
-  -moz-osx-font-smoothing: none;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
 }
 
 h3.blackletter {
@@ -223,8 +223,8 @@ h3.blackletter {
 
 h4 {
   font-size: 1em;
-  -webkit-font-smoothing: none;
-  -moz-osx-font-smoothing: none;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
 }
 
 h4.blackletter {
