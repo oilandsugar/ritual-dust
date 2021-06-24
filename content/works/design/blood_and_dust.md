@@ -1,6 +1,6 @@
 +++
 title = "Blood and Dust"
-tags = ["design"]
+tags = ["design", "music"]
 date = "2020-10-15"
 image = "/img/blood_and_dust_1.png"
 desc = "Logo and design for a ritualistic horror drone project I'm doing with Hayley Evans."

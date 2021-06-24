@@ -4,6 +4,7 @@ date = "2021-06-12"
 draft = false
 image = "/img/craft/hammer-handle.jpg"
 desc = "Remaking an oak handle for a small ball-peen hammer"
+tags = ["woodworking"]
 +++
 
 ![Small ball-peen hammer with new oak handle](/img/craft/hammer-handle.jpg)

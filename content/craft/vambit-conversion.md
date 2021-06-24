@@ -4,6 +4,7 @@ date = "2021-06-18"
 draft = false
 image = "/img/craft/vambit-11.jpg"
 desc = "Conversion and repaint of a small toy made by some friends"
+tags = ["miniatures"]
 +++
 
 The original vambits were a small run of laser cut acrylic toys designed by the folks at [Hundred Rabbits](100r.co), I had it laying around on my desk for years and it always had a missing art and antler. Since it was already a bit damaged it gave me the idea of making it really rough looking while practicing my miniature painting skills at the same time.

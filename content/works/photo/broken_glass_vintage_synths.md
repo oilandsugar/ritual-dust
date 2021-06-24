@@ -1,6 +1,6 @@
 +++
 title = "Broken Glass & Vintage Synths"
-tags = ["photo"]
+tags = ["photo", "music"]
 date = "2020-10-15"
 
 image = "/img/show_photos.jpg"

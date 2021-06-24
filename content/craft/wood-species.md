@@ -32,6 +32,14 @@ Call that profit. Prophesy such returns."
 
 ## Hardwoods
 
+[Oak](#oak-chêne) •
+[Maple](#maple-érable) •
+[Birch](#birch-bouleau) •
+[Walnut](#walnut-noyer) •
+[Ash](#ash-frêne) •
+[Cherry](#cherry-cerisier) •
+[Bamboo](#bamboo)
+
 ### Oak (chêne)
 Grows in the Americas, Asia, Europe and North Africa with the most diversity in North America. Its wood is very resistant to fungi and insects making it a really good construction and boat-building wood. It’s also traditionally used to make barrels and smoking food. The bark of the white oak is dried and used in medical preparations. Oak bark is also rich in tannin, and is used by tanners for tanning leather. Acorns are used for making flour or roasted for acorn coffee.  
 Always best to make sure it’s FSC-certified.  
@@ -64,6 +72,12 @@ Non FSC certified because it's defined as a grass and not a tree but grows reall
 **Harvest cycle:** 3-5 years
 
 ## Softwoods
+
+[Douglas fir](#douglas-fir-sapin-douglas) •
+[Pine](#pine-pin) •
+[Cedar](#cedar-cèdre) •
+[Cypress](#cypress-cyprès) •
+[Fir](#fir-sapin)
 
 ### Douglas Fir (Sapin douglas)
 Native to western North America but the most susceptible to be sustainable comes from the EU. The Douglas fir is a really important source of food for small animals which eats its seeds. It is one of the best construction timber woods, especially useful for large wooden structures. It’s strong and resistant is also used for flooring.  

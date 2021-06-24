@@ -3,6 +3,7 @@ title = "Tapes"
 date = "2021-06-20"
 weight = 5
 intro = "Just listing all the tapes from my collection here"
+tags = ["music"]
 +++
 
 ![Tape collection](/img/about/tapes.jpg)

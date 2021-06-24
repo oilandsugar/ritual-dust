@@ -1,6 +1,6 @@
 +++
 title = "Summer Solstice 2021"
-tags = ["photo"]
+tags = ["photo", "magic"]
 date = "2021-06-20"
 
 image = "/img/photo/summer-solstice-2021/DSC03246.jpg"

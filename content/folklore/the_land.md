@@ -2,6 +2,7 @@
 title = "The land"
 draft = true
 date = "2021-06-21"
+tags = ["landscape"]
 +++
 
 https://raventrust.com/indigenous-stewardship-is-true-conservation-we-need-to-move-beyond-eco-colonialism/

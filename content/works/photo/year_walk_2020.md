@@ -1,6 +1,6 @@
 +++
 title = "Year Walk 2020"
-tags = ["photo"]
+tags = ["photo", "magic"]
 date = "2020-12-24"
 
 image = "/img/photo/year-walk/DSC02498.jpg"

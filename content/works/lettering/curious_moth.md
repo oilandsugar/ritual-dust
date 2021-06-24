@@ -1,6 +1,6 @@
 +++
 title = "Curious Moth"
-tags = ["lettering"]
+tags = ["lettering", "music", "art"]
 date = "2020-10-15"
 
 image = "/img/curious_moth.png"

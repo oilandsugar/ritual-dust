@@ -1,6 +1,6 @@
 +++
 title = "The Landscape is Listening"
-tags = ["photo"]
+tags = ["photo", "landscape", "magic"]
 date = "2021-03-31"
 
 image = "/img/photo/the-landscape-is-listening/IMG_4916.png"

@@ -1,6 +1,6 @@
 +++
 title = "Grim Howl"
-tags = ["lettering"]
+tags = ["lettering", "music"]
 date = "2020-10-20"
 
 image = "/img/grimhowl.png"

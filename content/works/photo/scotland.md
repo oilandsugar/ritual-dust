@@ -1,6 +1,6 @@
 +++
 title = "Scotland travel photography"
-tags = ["photo"]
+tags = ["photo", "travel"]
 date = "2020-10-16"
 
 image = "/img/photo/scotland/DSC06677.png"

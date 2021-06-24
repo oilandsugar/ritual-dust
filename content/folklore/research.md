@@ -1,8 +1,7 @@
 +++
 title = "Research links"
 date = "2020-10-19"
-image = "/img/folklore/druidism.jpg"
-intro = ""
+tags = ["folk-notes", "ancestry", "magic"]
 +++
 
 Where I keep my references for folklore/ancestry/magic research

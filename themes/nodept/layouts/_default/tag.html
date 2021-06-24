@@ -2,8 +2,15 @@
 
 <div class="flex-row big-padding-top tag-page">
   <div class="sidebar">
-    <h3>All tags</h3>
-  
+    <div class="back-home">
+      <a href="/tags/"><h3>Back to all tags</h3></a>
+    </div>
+    <h3 class="accent">Tags</h3>
+    <ul>
+        {{ range .Site.Taxonomies.tags.ByCount }}
+                <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+        {{ end }}
+    </ul>
   </div>
   <div class="wrap">
     <h1 class="title">{{ .Title }}</h1>

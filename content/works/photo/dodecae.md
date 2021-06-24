@@ -1,6 +1,6 @@
 +++
 title = "Dodecae"
-tags = ["photo"]
+tags = ["photo", "travel", "music"]
 date = "2020-10-25"
 
 image = "/img/photo/dodecae/IMG_9213.jpg"

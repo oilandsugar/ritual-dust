@@ -1,6 +1,6 @@
 +++
 title = "Rites of Blood and Dust"
-tags = ["design"]
+tags = ["design", "music"]
 date = "2021-02-22"
 image = "/img/design/blood-and-dust/DSC02405.jpg"
 desc = "Album cover and cassette sleeve design for the first Blood and Dust release"

@@ -1,6 +1,6 @@
 +++
 title = "Golem Heart dice"
-tags = ["design"]
+tags = ["design", "miniatures"]
 date = "2021-02-21"
 image = "/img/design/golem-heart/logo_web_black.png"
 desc = "Logo for a friend's custom gaming dice project"

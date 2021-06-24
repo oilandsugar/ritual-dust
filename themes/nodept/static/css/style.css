@@ -7,18 +7,18 @@
   --spacing_xl: 48px;
 
   /* spring */
-  --darkBackColor: #1e2016;
+  /* --darkBackColor: #1e2016;
   --lightBackColor: #d9c68f;
   --lightTextColor: #d9c68f;
   --darkTextColor: #1e2016;
-  --textColorAccent: #71762a;
+  --textColorAccent: #71762a; */
 
   /* summer */
-  /* --darkBackColor: #161716;
-  --lightBackColor: #f5d1ad;
-  --lightTextColor: #a27c6a;
-  --darkTextColor: #495249;
-  --textColorAccent: #924723; */
+  --darkBackColor: #fff0b7;
+  --lightBackColor: #fff0b7;
+  --lightTextColor: #b25c02;
+  --darkTextColor: #b25c02;
+  --textColorAccent: #9b3313;
 
   /* fall */
   /* --darkBackColor: #161716;
@@ -245,7 +245,14 @@ hr {
 blockquote {
   margin: var(--spacing_sm) 0 0 0;
   font-size: 1.2em;
-  font-style: italic;
+  color:var(--textColorAccent);
+  padding-left:var(--spacing_md);
+  font-family: "Distro Bold";
+}
+
+blockquote strong {
+  opacity:0.5;
+  font-size:1rem;
 }
 
 a {
@@ -468,6 +475,7 @@ img {
   mask-size: contain;
   -webkit-mask-image: url(/img/bio-photo-4-white.png);
   -webkit-mask-size: contain;
+  display:none;
 }
 
 .bio {

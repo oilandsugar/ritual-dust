@@ -1,6 +1,6 @@
 +++
-title = "Boston travel photography"
-tags = ["photo"]
+title = "New York travel photography"
+tags = ["photo", "Travel"]
 draft = true
 date = "2020-10-31"
 

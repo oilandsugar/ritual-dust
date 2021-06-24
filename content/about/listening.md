@@ -4,6 +4,7 @@ date = "2020-11-25"
 draft = false
 weight = 10
 intro = "This is my listening list, these albums are the ones currently in rotation and newly discovered favorites."
+tags = ["music"]
 +++
 
 ### Albums
