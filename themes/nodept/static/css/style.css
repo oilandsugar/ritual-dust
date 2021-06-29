@@ -1,10 +1,10 @@
 /* ---------- variables ---------- */
 
 :root {
-  --spacing_sm: 8px;
-  --spacing_md: 16px;
-  --spacing_lg: 24px;
-  --spacing_xl: 48px;
+  --spacing_sm: 8px; /* spacing_sm */
+  --spacing_md: 16px; /* spacing_md */
+  --spacing_lg: 24px; /* spacing_lg */
+  --spacing_xl: 48px; /* spacing_xl */
 
   /* spring */
   /*
@@ -40,10 +40,11 @@
   --textColorAccent: #fff;
   */
 
-  --mainFont: "Wremena";
-  --blackletterFont: "CalFrakturModern";
-  --psychFont1: "Basteleur";
-  --psychFont2: "Cooper Std";
+  --mainFont: "Wremena"; /* mainFont */
+  --blackletterFont: "CalFrakturModern"; /* blackletterFont */
+  --psychFont1: "Basteleur"; /* psychFont1 */
+  --psychFont2: "Cooper Std"; /* psychFont2 */
+  --titleFont3: "Distro Bold"; /* titleFont3 */
 
   --border_radius: 8px;
 }
@@ -89,28 +90,12 @@ body {
 }
 
 @font-face {
-  font-family: "Juniper Std";
-  src: url("webfonts/JuniperStd.woff2") format("woff2"),
-    url("webfonts/JuniperStd.woff") format("woff");
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
   font-family: "Cooper Std";
   src: url("webfonts/CooperBlackStd.woff2") format("woff2"),
     url("webfonts/CooperBlackStd.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
-}
-
-@font-face {
-  font-family: "Distro";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Distro"), url("webfonts/DISTRO__.woff") format("woff");
 }
 
 @font-face {
@@ -121,31 +106,10 @@ body {
 }
 
 @font-face {
-  font-family: "Distro Black";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Distro Black"), url("webfonts/DISTROBL.woff") format("woff");
-}
-
-@font-face {
   font-family: "Distro Bats";
   font-style: normal;
   font-weight: normal;
   src: local("Distro Bats"), url("webfonts/DISTROBT.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Distro Heavy";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Distro Heavy"), url("webfonts/DISTROH_.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Distro Light";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Distro Light"), url("webfonts/DISTROL_.woff") format("woff");
 }
 
 @font-face {
@@ -175,15 +139,6 @@ body {
   font-display: swap;
 }
 
-@font-face {
-  font-family: "UnifrakturCook";
-  src: url("UnifrakturCook-Bold.woff2") format("woff2"),
-    url("UnifrakturCook-Bold.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
 h1 {
   font-size: 5em;
   line-height: 0.9em;
@@ -199,7 +154,7 @@ h2 {
   margin-top: 0;
   margin-bottom: 32px;
   font-weight: 500;
-  font-family: "Distro Bold";
+  font-family: "Distro Bold"; /* titleFont3 */
   -webkit-font-smoothing: auto;
   -moz-osx-font-smoothing: auto;
 }
@@ -211,7 +166,7 @@ h2.blackletter {
 h3 {
   margin-top: 0;
   line-height: 1.2em;
-  font-family: "Distro Bold";
+  font-family: "Distro Bold"; /* titleFont3 */
   -webkit-font-smoothing: auto;
   -moz-osx-font-smoothing: auto;
 }
@@ -254,7 +209,7 @@ blockquote {
   font-size: 1.2em;
   color:#9b3313; /* textColorAccent */
   padding-left:16px; /* spacing_md */
-  font-family: "Distro Bold";
+  font-family:"Distro Bold"; /* titleFont3 */
 }
 
 blockquote strong {
@@ -265,7 +220,7 @@ blockquote strong {
 a {
   color: inherit;
   cursor: pointer;
-  font-family: "Wremena";
+  font-family: "Wremena"; /* mainFont */
   font-weight: bold;
 }
 
@@ -274,7 +229,7 @@ a:hover {
 }
 
 strong {
-  font-family: "Wremena";
+  font-family: "Wremena"; /* mainFont */
   font-weight: bold;
 }
 
@@ -393,7 +348,7 @@ img {
   padding-right: 16px; /* spacing_md */
   text-decoration: none;
   position: relative;
-  font-family: "Distro Bold";
+  font-family: "Distro Bold"; /* titleFont3 */
   display: inline-block;
 }
 
