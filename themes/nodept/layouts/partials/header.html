@@ -42,6 +42,8 @@
   </head>
 
   <body class="{{ if eq .Page.Section "food" }}light{{ else }}dark{{ end }}">
-    <div class="wrap">
-      {{ partial "menu" . }}
-    </div>
+    <header>
+      <div class="wrap">
+        {{ partial "menu" . }}
+      </div>
+    </header>

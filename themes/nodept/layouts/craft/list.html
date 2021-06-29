@@ -1,58 +1,62 @@
 {{ partial "header" . }}
 
-<div class="flex-row big-padding-top list-page">
-  <div class="sidebar">
-    {{ if (eq $.Parent.Title "Craft") }}
-    <div class="back-home">
-      <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
-    </div>
-    {{ end }}
-    <h3 class="accent">Artefacts</h3>
-    <div class="small-padding-bottom">
-    <ul>
-      {{ range where .Pages "Section" "craft" }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
+<main>
+  <div class="flex-row big-padding-top list-page">
+    <aside class="sidebar">
+      {{ if (eq $.Parent.Title "Craft") }}
+      <div class="back-home">
+        <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
+      </div>
       {{ end }}
-    </ul>
-    </div>
-    <div class="small-padding-bottom">
-      <h3 class="accent">Deeper knowledge</h3>
-      <a href="https://branch.climateaction.tech/">Branch sustainable internet journal</a><br>
-      <a href="https://www.mortiseandtenonmag.com/">Mortise and tenon mag</a><br>
-    </div>
-    <div id="icon-craft" class="icon"></div>
-  </div>
-  <div>
-    <div class="small-wrap craft">
-      <div class="page-title">
-        <span class="dingbats">{</span>
-        <h2 class="psych-1">{{ .Title }}</h2>
-        <span class="dingbats">{</span>
-        <h3 class="psych-2">{{ .Params.subtitle }}</h3>
+      <h3 class="accent">Artefacts</h3>
+      <div class="small-padding-bottom">
+      <ul>
+        {{ range where .Pages "Section" "craft" }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
       </div>
-      <div class="intro">
-        {{ .Params.intro }}
+      <div class="small-padding-bottom">
+        <h3 class="accent">Deeper knowledge</h3>
+        <ul>
+          <li><a href="https://branch.climateaction.tech/">Branch sustainable internet journal</a></li>
+          <li><a href="https://www.mortiseandtenonmag.com/">Mortise and tenon mag</a></li>
+        </ul>
       </div>
-      <div class="shop-link">
-        Some of these objects are available for purchase over on my <a href="https://www.etsy.com/ca/shop/ritualdust">etsy shop</a>. I am open to making commision work, if you have a need for a specific item reach out to me.
+      <div id="icon-craft" class="icon"></div>
+    </aside>
+    <article>
+      <div class="small-wrap craft">
+        <div class="page-title">
+          <span class="dingbats">{</span>
+          <h1 class="psych-1">{{ .Title }}</h1>
+          <span class="dingbats">{</span>
+          <h2 class="psych-2">{{ .Params.subtitle }}</h2>
+        </div>
+        <div class="intro">
+          {{ .Params.intro }}
+        </div>
+        <div class="shop-link">
+          Some of these objects are available for purchase over on my <a href="https://www.etsy.com/ca/shop/ritualdust">etsy shop</a>. I am open to making commision work, if you have a need for a specific item reach out to me.
+        </div>
       </div>
-    </div>
-    <div class="full-wrap">
-      <div class="big-padding-top columns-2">
-        {{ if (eq $.Parent.Title "Craft") }}
-          {{ range where .Pages "Section" "craft" }}
+      <div class="full-wrap">
+        <div class="big-padding-top columns-2">
+          {{ if (eq $.Parent.Title "Craft") }}
+            {{ range where .Pages "Section" "craft" }}
+              {{ partial "craftCard.html" . }}
+            {{ end }}
+          {{ else }}
+          {{ range where .Site.RegularPages "Section" "craft" }}
             {{ partial "craftCard.html" . }}
           {{ end }}
-        {{ else }}
-        {{ range where .Site.RegularPages "Section" "craft" }}
-          {{ partial "craftCard.html" . }}
-        {{ end }}
-        {{ end }}
+          {{ end }}
+        </div>
       </div>
-    </div>
+    </article>
   </div>
-</div>
+</main>
 
 {{ partial "footer" . }}

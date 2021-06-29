@@ -343,6 +343,16 @@ img {
 
 /* ------------ menu ------------- */
 
+.menu ul {
+  list-style:none;
+  padding:0;
+  margin:0;
+}
+
+.menu ul li {
+  display:inline-block;
+}
+
 .menu a {
   font-size: 20px;
   padding-right: 16px; /* spacing_md */
@@ -357,6 +367,7 @@ img {
   color: #9b3313; /* textColorAccent */
 }
 
+.page-title h1,
 .page-title h2,
 .page-title h3,
 .page-title span {
@@ -364,6 +375,17 @@ img {
   vertical-align: middle;
   margin: 0;
   line-height: inherit;
+}
+
+.page-title h1 {
+  font-size: 1.9em;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.page-title h2 {
+  font-size:1.17em;
 }
 
 .page-title span {
@@ -384,6 +406,12 @@ img {
 
 .home-content .section {
   flex: 1;
+}
+
+.home-content .section ul {
+  padding:0;
+  margin:0;
+  list-style:none;
 }
 
 .home-content h3 {
@@ -448,6 +476,7 @@ img {
 
 .bio {
   margin-top: 0;
+  margin-right: 48px; /* spacing_xl */
 }
 
 .support {

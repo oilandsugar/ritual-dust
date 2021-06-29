@@ -1,43 +1,45 @@
 {{ partial "header" . }}
 
-<div class="flex-row big-padding-top single-page">
-  <div class="sidebar">
-    <div class="back-home">
-      <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
-    </div>
-    <h3>Further reading</h3>
-    {{ $section := where $.Site.RegularPages "Section" "about"}}
-    <ul class="section-pages">
-    {{ range $section }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
-    {{ end }}
-    </ul>
-    <div class="ornament"></div>
-  </div>
-  <div class="wrap">
-    <h1 class="psych-1">{{ .Title }}</h1>
-    {{ with (.GetTerms "tags") }}
-      <ul class="tags">
-        Tagged with {{ range . }}
-        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-        {{ end }}
-      </ul>
-    {{ end }}
-    <div class="intro">
-      {{.Params.intro}}
-    </div>
-    <div class="big-padding-top">
-      {{ .Content }}
-      {{ if not .Lastmod.IsZero }}
-        <div class="last-mod small-padding-top">
-          Last modified on <strong>{{ .Lastmod.Format "2006-01-02" | safeHTML }}</strong>,
-          published on <strong>{{ .Date.Format "2006-01-02" | safeHTML }}</strong>
-        </div>
+<main>
+  <div class="flex-row big-padding-top single-page">
+    <aside class="sidebar">
+      <div class="back-home">
+        <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
+      </div>
+      <h3>Further reading</h3>
+      {{ $section := where $.Site.RegularPages "Section" "about"}}
+      <ul class="section-pages">
+      {{ range $section }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
       {{ end }}
-    </div>
+      </ul>
+      <div class="ornament"></div>
+    </aside>
+    <article class="wrap">
+      <h1 class="psych-1">{{ .Title }}</h1>
+      {{ with (.GetTerms "tags") }}
+        <ul class="tags">
+          Tagged with {{ range . }}
+          <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          {{ end }}
+        </ul>
+      {{ end }}
+      <div class="intro">
+        {{.Params.intro}}
+      </div>
+      <div class="big-padding-top">
+        {{ .Content }}
+        {{ if not .Lastmod.IsZero }}
+          <div class="last-mod small-padding-top">
+            Last modified on <strong>{{ .Lastmod.Format "2006-01-02" | safeHTML }}</strong>,
+            published on <strong>{{ .Date.Format "2006-01-02" | safeHTML }}</strong>
+          </div>
+        {{ end }}
+      </div>
+    </article>
   </div>
-</div>
+</main>
 
 {{ partial "footer" . }}

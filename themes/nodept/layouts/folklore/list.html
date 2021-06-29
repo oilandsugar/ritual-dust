@@ -1,47 +1,51 @@
 {{ partial "header" . }}
 
-<div class="flex-row big-padding-top list-page">
-  <div class="sidebar">
-    <h3 class="accent">Notes</h3>
-    <div class="small-padding-bottom">
-      <ul class="section-pages">
-      {{ range .Paginator.Pages }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
-      {{ end }}
-      </ul>
-    </div>
-    <div class="small-padding-bottom">
-      <h3 class="accent">Deeper knowledge</h3>
-      <a href="https://www.weirdwalk.co.uk/">Weird Walk</a><br>
-      <a href="https://www.fiddlersgreenzine.com/">Fiddler's green</a><br>
-      <a href="https://www.folkloreforresistance.com/">Folklore for resistance</a><br>
-      <a href="https://druidry.org/">Order of bard, ovates and druids</a>
-      <a href="https://www.rewildportland.com/">Rewild Portland</a>
-    </div>
-    <div id="icon-folklore" class="icon"></div>
-  </div>
-  <div>
-    <div class="small-wrap">
-      <div class="page-title">
-        <span class="dingbats">l</span>
-        <h2 class="psych-1">{{ .Title }}</h2>
-        <span class="dingbats">l</span>
-        <h3 class="psych-2">Reflections and wonderings</h3>
-      </div>
-      <div class="intro">
-        {{ .Params.intro }}
-      </div>
-    </div>
-    <div class="full-wrap">
-      <div class="folklore big-padding-top columns-2">
-        {{ range where .RegularPages "Type" "folklore" }}
-          {{ partial "folkloreCard.html" . }}
+<main>
+  <div class="flex-row big-padding-top list-page">
+    <aside class="sidebar">
+      <h3 class="accent">Notes</h3>
+      <div class="small-padding-bottom">
+        <ul class="section-pages">
+        {{ range .Paginator.Pages }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
         {{ end }}
+        </ul>
       </div>
-    </div>
+      <div class="small-padding-bottom">
+        <h3 class="accent">Deeper knowledge</h3>
+        <ul>
+          <li><a href="https://www.weirdwalk.co.uk/">Weird Walk</a></li>
+          <li><a href="https://www.fiddlersgreenzine.com/">Fiddler's green</a></li>
+          <li><a href="https://www.folkloreforresistance.com/">Folklore for resistance</a></li>
+          <li><a href="https://druidry.org/">Order of bard, ovates and druids</a></li>
+          <li><a href="https://www.rewildportland.com/">Rewild Portland</a></li>
+        </ul>
+      </div>
+      <div id="icon-folklore" class="icon"></div>
+    </aside>
+    <article>
+      <div class="small-wrap">
+        <div class="page-title">
+          <span class="dingbats">l</span>
+          <h1 class="psych-1">{{ .Title }}</h1>
+          <span class="dingbats">l</span>
+          <h2 class="psych-2">Reflections and wonderings</h2>
+        </div>
+        <div class="intro">
+          {{ .Params.intro }}
+        </div>
+      </div>
+      <div class="full-wrap">
+        <div class="folklore big-padding-top columns-2">
+          {{ range where .RegularPages "Type" "folklore" }}
+            {{ partial "folkloreCard.html" . }}
+          {{ end }}
+        </div>
+      </div>
+    </article>
   </div>
-</div>
+</main>
 
 {{ partial "footer" . }}
