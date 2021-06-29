@@ -19,6 +19,7 @@ The FSC is an independent, non-profit organisation promoting responsible manage
 
 Other resources on sustainable timber:  
 [https://www.earthsight.org.uk/](https://www.earthsight.org.uk/)
+[Choosing wood species for timber framing](https://timberframehq.com/timber-framing-101/timber-species/)
 
 > "Ask the questions that have no answers.
 Invest in the millennium. Plant sequoias.
