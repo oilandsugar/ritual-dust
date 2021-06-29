@@ -1,0 +1,3 @@
+<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener"{{ end }} aria-label="{{ .Text }}{{ if strings.HasPrefix .Destination "http" }} (opens in a new tab){{ end }}">
+  {{ .Text | safeHTML }}
+</a>

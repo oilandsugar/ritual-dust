@@ -30,3 +30,6 @@ Here is some improvements I'm planning for the future:
 - [ ] Load smaller images by default with an option to get the hi-res ones
 
 </div>
+
+If you're interested in better markup and more accessible websites, go take a look at this little guide:   
+[Html tips by Thomasorus](https://thomasorus.com/html-tips.html)
