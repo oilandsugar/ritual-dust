@@ -1,8 +1,14 @@
+{{ $lowResPath := replace .Destination ".jpg" "-low.jpg" }}
+
 {{ if .Title }}
   <figure>
-    <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+    <img loading="lazy" class="high" src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+    <img loading="lazy" class="low" src="{{ $lowResPath | safeURL }}" alt="{{ .Text }}">
     <figcaption>{{ .Title }}</figcaption>
   </figure>
 {{ else }}
-  <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+  <figure>
+    <img loading="lazy" class="high" src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+    <img loading="lazy" class="low" src="{{ $lowResPath | safeURL }}" alt="{{ .Text }}">
+  </figure>
 {{ end }}

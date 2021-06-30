@@ -1,8 +1,12 @@
-{{$cover := .Params.image }}
+{{ $cover := .Params.image }}
+{{ $lowResCover := replace .Params.image ".jpg" "-low.jpg" }}
 
 <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}" class="folklore-card {{ range .Params.tags }}{{ . }} {{ end }}">
   <div class="picture">
-    <img loading="lazy" src="{{ $cover }}" alt="{{ .Title }}"/>
+    <figure>
+      <img loading="lazy" class="high" src="{{ $cover | safeURL }}" alt="{{ .Title }}">
+      <img loading="lazy" class="low" src="{{ $lowResCover | safeURL }}" alt="{{ .Title }}">
+    </figure>
   </div>
   <h4 class="blackletter small-padding-bottom">{{ .Title }}</h4>
   <div class="desc">{{ .Params.desc }}</div>

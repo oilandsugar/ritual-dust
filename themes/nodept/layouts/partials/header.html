@@ -3,7 +3,7 @@
     nodept theme for hugo by Lizbeth Poirier
     ritualdust.com
 -->
-<html lang="en">
+<html lang="en" id="imghigh">
   <head>
     <meta charset="utf-8">
     <title>{{ .Site.Title }}</title>
@@ -41,9 +41,9 @@
 
   </head>
 
-  <body class="{{ if eq .Page.Section "food" }}light{{ else }}dark{{ end }}">
+  <body id="imglow" class="{{ if eq .Page.Section "food" }}light{{ else }}dark{{ end }}">
     <header>
-      <div class="wrap">
+      <div class="full-wrap">
         {{ partial "menu" . }}
       </div>
     </header>

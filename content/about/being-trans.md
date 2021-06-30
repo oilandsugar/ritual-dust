@@ -39,4 +39,4 @@ Here's a good article on [trans-inclusive design](https://alistapart.com/article
 The website of [Trans care BC](http://www.phsa.ca/our-services/programs-services/trans-care-bc)  
 The [procedure to change your legal name and gender in Qc](http://www.etatcivil.gouv.qc.ca/en/change-sexe.html)
 
-![SHE in black metal lettering](/img/she.jpg)
+![SHE in black metal lettering](/img/about/she.jpg)

@@ -10,6 +10,4 @@ I also make truly devastating and highly emotional music as [Blood and Dust](htt
 
 See what I'm currently [reading](/about/reading/), [watching](/about/watching/) and [listening to](/about/listening/).
 
----
-
-![Desktop altar](/img/desktop-altar.jpg "Desktop altar")
+![Desktop altar](/img/about/now.jpg "Desktop altar")

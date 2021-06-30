@@ -1,4 +1,5 @@
-{{$cover := index (.Params.images) 0 }}
+{{ $cover := index (.Params.images) 0 }}
+{{ $lowResCover := replace $cover ".jpg" "-low.jpg" }}
 
 <a href="{{ .Permalink }}" class="recipe-card {{ range .Params.tags }}{{ . }} {{ end }}">
   <h4 class="blackletter">{{ .Title }}</h4>
@@ -11,6 +12,7 @@
     {{ end}}
   </div>
   <div class="picture">
-    <img loading="lazy" src="{{ $cover }}" alt="{{ .Title }}"/>
+    <img loading="lazy" class="high" src="{{ $cover | safeURL }}" alt="{{ .Title }}">
+    <img loading="lazy" class="low" src="{{ $lowResCover | safeURL }}" alt="{{ .Title }}">
   </div>
 </a>

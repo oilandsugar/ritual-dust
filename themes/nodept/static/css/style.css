@@ -345,6 +345,7 @@ img {
 
 .menu ul {
   list-style:none;
+  display:inline-block;
   padding:0;
   margin:0;
 }
@@ -360,6 +361,36 @@ img {
   position: relative;
   font-family: "Distro Bold"; /* titleFont3 */
   display: inline-block;
+}
+
+.resolution-toggle {
+  margin-left:auto;
+  display:inline-block;
+  float:right;
+}
+
+.high {
+  display:none;
+}
+
+.low {
+  mix-blend-mode:multiply;
+}
+
+a.l {
+  display:none;
+}
+
+html:target .high,
+html:target a.l,
+body:target a.h {
+	display:block;
+}
+
+html:target .low,
+html:target a.h,
+body:target a.l{
+	display:none;
 }
 
 .page-title {

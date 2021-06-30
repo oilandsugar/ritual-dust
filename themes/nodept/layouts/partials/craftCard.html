@@ -1,4 +1,5 @@
 {{$cover := .Params.image }}
+{{ $lowResCover := replace .Params.image ".jpg" "-low.jpg" }}
 
 <a href="{{ .Permalink }}" class="craft-card {{ range .Params.tags }}{{ . }} {{ end }}">
   <div class="picture">

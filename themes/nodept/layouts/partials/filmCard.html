@@ -1,9 +1,11 @@
 {{$cover := .Params.image }}
+{{ $lowResCover := replace .Params.image ".jpg" "-low.jpg" }}
 
 <a href="{{ .Permalink }}" class="film-card {{ range .Params.tags }}{{ . }} {{ end }}">
   <div class="movie-wrap">
     <div class="movie">
-      <img loading="lazy" src="{{ $cover }}" alt="{{ .Title }}"/>
+      <img loading="lazy" class="high" src="{{ $cover | safeURL }}" alt="{{ .Title }}">
+      <img loading="lazy" class="low" src="{{ $lowResCover | safeURL }}" alt="{{ .Title }}">
     </div>
     <div class="movie-content">
       <h3 class="blackletter small-padding-bottom">{{ .Title }} ({{ .Params.year }})</h3>
