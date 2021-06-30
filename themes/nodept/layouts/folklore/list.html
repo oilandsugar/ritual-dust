@@ -2,29 +2,31 @@
 
 <main>
   <div class="flex-row big-padding-top list-page">
-    <aside class="sidebar">
-      <h3 class="accent">Notes</h3>
-      <div class="small-padding-bottom">
-        <ul class="section-pages">
-        {{ range .Paginator.Pages }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
-        </ul>
-      </div>
-      <div class="small-padding-bottom">
-        <h3 class="accent">Deeper knowledge</h3>
-        <ul>
-          <li><a href="https://www.weirdwalk.co.uk/">Weird Walk</a></li>
-          <li><a href="https://www.fiddlersgreenzine.com/">Fiddler's green</a></li>
-          <li><a href="https://www.folkloreforresistance.com/">Folklore for resistance</a></li>
-          <li><a href="https://druidry.org/">Order of bard, ovates and druids</a></li>
-          <li><a href="https://www.rewildportland.com/">Rewild Portland</a></li>
-        </ul>
-      </div>
-      <div id="icon-folklore" class="icon"></div>
-    </aside>
+    <div>
+      <aside class="sidebar">
+        <h3 class="accent">Notes</h3>
+        <div class="small-padding-bottom">
+          <ul class="section-pages">
+          {{ range .Paginator.Pages }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+          </ul>
+        </div>
+        <div class="small-padding-bottom">
+          <h3 class="accent">Deeper knowledge</h3>
+          <ul>
+            <li><a href="https://www.weirdwalk.co.uk/">Weird Walk</a></li>
+            <li><a href="https://www.fiddlersgreenzine.com/">Fiddler's green</a></li>
+            <li><a href="https://www.folkloreforresistance.com/">Folklore for resistance</a></li>
+            <li><a href="https://druidry.org/">Order of bard, ovates and druids</a></li>
+            <li><a href="https://www.rewildportland.com/">Rewild Portland</a></li>
+          </ul>
+        </div>
+        <div id="icon-folklore" class="icon"></div>
+      </aside>
+    </div>
     <article>
       <div class="small-wrap">
         <div class="page-title">

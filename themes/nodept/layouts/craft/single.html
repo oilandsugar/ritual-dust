@@ -2,21 +2,23 @@
 
 <main>
   <div class="flex-row big-padding-top single-page">
-    <aside class="sidebar">
-      <div class="back-home">
-        <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
-      </div>
-      {{ $section := where $.Site.RegularPages "Section" "craft"}}
-      <h3 class="accent">Artefacts</h3>
-      <ul class="section-pages">
-      {{ range $section }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
-      {{ end }}
-      </ul>
-      <div id="icon-craft" class="icon"></div>
-    </aside>
+    <div>
+      <aside class="sidebar">
+        <div class="back-home">
+          <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
+        </div>
+        {{ $section := where $.Site.RegularPages "Section" "craft"}}
+        <h3 class="accent">Artefacts</h3>
+        <ul class="section-pages">
+        {{ range $section }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+        </ul>
+        <div id="icon-craft" class="icon"></div>
+      </aside>
+    </div>
     <article class="wrap single">
       <h1 class="psych-1">{{ .Title }}</h1>
       {{ with (.GetTerms "tags") }}

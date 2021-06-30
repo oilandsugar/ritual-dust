@@ -2,21 +2,23 @@
 
 <main>
   <div class="flex-row big-padding-top single-page">
-    <aside class="sidebar">
-      <div class="back-home">
-        <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
-      </div>
-      <h3>Further reading</h3>
-      {{ $section := where $.Site.RegularPages "Section" "about"}}
-      <ul class="section-pages">
-      {{ range $section }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
-      {{ end }}
-      </ul>
-      <div class="ornament"></div>
-    </aside>
+    <div>
+      <aside class="sidebar">
+        <div class="back-home">
+          <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
+        </div>
+        <h3>Further reading</h3>
+        {{ $section := where $.Site.RegularPages "Section" "about"}}
+        <ul class="section-pages">
+        {{ range $section }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+        </ul>
+        <div class="ornament"></div>
+      </aside>
+    </div>
     <article class="wrap">
       <h1 class="psych-1">{{ .Title }}</h1>
       {{ with (.GetTerms "tags") }}

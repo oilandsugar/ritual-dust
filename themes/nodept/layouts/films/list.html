@@ -2,21 +2,23 @@
 
 <main>
   <div class="flex-row big-padding-top list-page">
-    <aside class="sidebar">
-      {{ if (eq $.Parent.Title "About") }}
-      <div class="back-home">
-        <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
-      </div>
-      {{ end }}
-      <h3 class="accent">Films</h3>
-      <ul>
-        {{ range where .Pages "Type" "films" }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
+    <div>
+      <aside class="sidebar">
+        {{ if (eq $.Parent.Title "About") }}
+        <div class="back-home">
+          <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
+        </div>
         {{ end }}
-      </ul>
-    </aside>
+        <h3 class="accent">Films</h3>
+        <ul>
+          {{ range where .Pages "Type" "films" }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </aside>
+    </div>
     <article>
       <div class="small-wrap craft">
         <div class="page-title">

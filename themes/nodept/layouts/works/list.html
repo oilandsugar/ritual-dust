@@ -2,26 +2,28 @@
 
 <main>
   <div class="flex-row big-padding-top list-page">
-    <aside class="sidebar">
-      {{ if (eq $.Parent.Title "Works") }}
-      <div class="back-home">
-        <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
-      </div>
-      {{ end }}
-      {{ if (eq .Parent.Title "Works") }}
-        <h3 class="accent">Projects</h3>
-      {{ else }}
-        <h3 class="accent">Categories</h3>
-      {{ end }}
-      <ul class="section-pages">
-        {{ range where .Pages "Section" "works" }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
+    <div>
+      <aside class="sidebar">
+        {{ if (eq $.Parent.Title "Works") }}
+        <div class="back-home">
+          <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
+        </div>
         {{ end }}
-      </ul>
-      <div id="icon-works" class="icon"></div>
-    </aside>
+        {{ if (eq .Parent.Title "Works") }}
+          <h3 class="accent">Projects</h3>
+        {{ else }}
+          <h3 class="accent">Categories</h3>
+        {{ end }}
+        <ul class="section-pages">
+          {{ range where .Pages "Section" "works" }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+        <div id="icon-works" class="icon"></div>
+      </aside>
+    </div>
     <article>
     <article>
       <div class="small-wrap works">
