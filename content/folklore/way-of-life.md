@@ -7,9 +7,6 @@ tags = ["folk-notes"]
 
 ![Mushrooms from a cemetery in Scotland](/img/folklore/way-of-life.png)
 
-> "It’s harder to be yourself than it is to be anybody else"
-**- Andrew Jackson Jihad**
-
 This is in no way intended to be general advice or universal truth, it's what worked for me in life so far. These are the result of a long distillation process, introspection, life experiences, therapy and meditation. It will definitely change in the future, like myself.
 
 [Listen to nature](#cultivate-a-relationship-with-nature) •
@@ -30,9 +27,15 @@ Nature is always there somewhere, even in the most brutalist city corners and we
 
 Especially as someone who was raised as a boy and who had very little guidance and examples of the wide range of human emotions, this one was a cornerstone of living a better life. Getting in touch with my feelings, noticing them without judgement and developing the language to talk about them and express them to others opened up doors that allowed me to connect more deeply with myself and the people close to me, develop more nuanced empathy and understanding towards others and myself and get to know what I really wanted for myself.
 
+> “The curious paradox is that when I accept myself just as I am, then I change.”
+**― Carl Rogers**
+
 ### Trust your body and learn to take care of it  
 
-While getting to know my emotional needs, I was also faced with how much stress and emotions were linked to the body, creating tension, pain and changing my posture and breathing. I learned that it doesn't really work to force your body to relax, it has it's own natural ways to do so and getting to know these and integrate them in everyday life seems to bring the more long-lasting change. What helped me in that process is yoga and meditation, starting with guided ones and then growing my own practice from what felt better. 
+While getting to know my emotional needs, I was also faced with how much stress and emotions were linked to the body, creating tension, pain and changing my posture and breathing. I learned that it doesn't really work to force your body to relax, it has it's own natural ways to do so and getting to know these and integrate them in everyday life seems to bring the more long-lasting change. What helped me in that process is yoga and meditation, starting with guided ones and then growing my own practice from what felt better.
+
+> “Listen to me, your body is not a temple. Temples can be destroyed and desecrated. Your body is a forest—thick canopies of maple trees and sweet scented wildflowers sprouting in the underwood. You will grow back, over and over, no matter how badly you are devastated.”
+**― Beau Taplin**
 
 ### Get confortable with setting and respecting boundaries  
 
@@ -50,6 +53,9 @@ We live in an unfair society, and we're born with different kinds of privilege -
 
 Sometimes I react strongly when people point out things in myself that I'm either not aware of or haven't accepted yet. This defensiveness is a sign of unexplored parts in myself. I learned that the more I look inside and tend to these hidden parts and heal the guilt or shame that is often attached to them the more these insecurities take a more background role and have less and less unconscious control over how I interact with others, how I perceive myself and what I'm capable of.
 
+> "It’s harder to be yourself than it is to be anybody else"
+**- Andrew Jackson Jihad**
+
 ### Challenge assumptions and false narratives about yourself  
 
 In the process of tending to my insecurities I had to question parts of my own constructed identify that were conflicting with my true values, feelings and commitments. This is scary and letting go of them can feel like losing myself, but the more I challenge those versions of me that aren't compatible with who I really am te more I realize that I don't need a large set of descriptors and immutable traits to have a strong sense of identity. The more I let go of the ones that don't serve me anymore the more it creates space to grow.
@@ -57,10 +63,6 @@ In the process of tending to my insecurities I had to question parts of my own c
 ### Focus on commitments, dreams and goals instead of tasks  
 
 I have a natural tendency to rationalize, organize and do, which serves me in a lot of ways but can also become a trap. Creating expectations for myself to accomplish a detailed series of tasks in a day to take care of my mind and body is overwhelming and easy to procrastinate away from. It can also feel like work or chores really quickly. Instead I found that writing down and memorizing simple commitments is a lot lighter on the mind, leaves less room for self-disappointment and criticism and allow me to come up with ways that are more healthy to apply these commitments.
-
-
-> “Listen to me, your body is not a temple. Temples can be destroyed and desecrated. Your body is a forest—thick canopies of maple trees and sweet scented wildflowers sprouting in the underwood. You will grow back, over and over, no matter how badly you are devastated.”
-**― Beau Taplin**
 
 
 Readings  
