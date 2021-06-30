@@ -5,4 +5,4 @@ weight = 11
 intro = "Here are the keynote presentations of the talks I have made in the past at design events"
 +++
 
-[![Mtl interractive talk keynote](/img/about/talk-cover.png)](/files/mtlinterractive-illustration-talk.pdf)
+[![Mtl interractive talk keynote](/img/about/talk-cover.jpg)](/files/mtlinterractive-illustration-talk.pdf)
