@@ -14,6 +14,7 @@ This is in no way intended to be general advice or universal truth, it's what wo
 
 [Listen to nature](#cultivate-a-relationship-with-nature) •
 [Know your feelings](#learn-to-listen-name-and-express-feelings) •
+[Trust your body](#learn-to-listen-name-and-express-feelings) •
 [Set boundaries](#get-confortable-with-setting-and-respecting-boundaries) •
 [Practice gratitude](#grow-a-practice-of-gratitude) •
 [Learn your privilege](#develop-an-awareness-of-privilege-and-power-dynamics)  
@@ -28,6 +29,10 @@ Nature is always there somewhere, even in the most brutalist city corners and we
 ### Learn to listen, name and express feelings
 
 Especially as someone who was raised as a boy and who had very little guidance and examples of the wide range of human emotions, this one was a cornerstone of living a better life. Getting in touch with my feelings, noticing them without judgement and developing the language to talk about them and express them to others opened up doors that allowed me to connect more deeply with myself and the people close to me, develop more nuanced empathy and understanding towards others and myself and get to know what I really wanted for myself.
+
+### Trust your body and learn to take care of it  
+
+While getting to know my emotional needs, I was also faced with how much stress and emotions were linked to the body, creating tension, pain and changing my posture and breathing. I learned that it doesn't really work to force your body to relax, it has it's own natural ways to do so and getting to know these and integrate them in everyday life seems to bring the more long-lasting change. What helped me in that process is yoga and meditation, starting with guided ones and then growing my own practice from what felt better. 
 
 ### Get confortable with setting and respecting boundaries  
 
@@ -60,3 +65,4 @@ I have a natural tendency to rationalize, organize and do, which serves me in a 
 
 Readings  
 [Settlers - white history from a non-white perspective](https://readsettlers.org/intro.html)
+[An intro to breathwork](https://psyche.co/guides/how-to-breathe-your-way-to-better-health-and-transcendence)
