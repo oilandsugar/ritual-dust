@@ -6,7 +6,14 @@ weight = 8
 intro = "This is my movie watchlist, I keep it yearly and keep the movies that really impacted me at /about/films"
 +++
 
+
 ### Movies
+
+[To watch](#to-watch) •
+[2021](#2021) •
+[2020](#2020)
+
+#### To watch
 
 <div class="checklist">
 
@@ -14,6 +21,15 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 - [ ] **Wristcutters** 2006
 - [ ] **The Night of the Demon** 1957
 - [ ] **Whistle and I'll come to you** 1968
+- [ ] **Andrei Rublev** 1966
+
+</div>
+
+#### 2021
+
+<div class="checklist">
+
+- [x] **SG̲aawaay Ḵ'uuna (The Edge of the Knife) 2018**
 - [x] **Flowers (TV show)** 2016-2018
 - [x] **Boys from county hell** 2020
 - [x] **Caveat** 2020

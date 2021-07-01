@@ -8,6 +8,14 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 ### Books
 
+[Books to read](#to-read) •
+[Books 2021](#2021) •
+[Books 2020](#2020) •
+[Zines](#zines) •
+[Articles and websites](#articles-and-websites)
+
+#### To read
+
 <div class="checklist">
 
 - [ ] **The Anarchist's Tool Chest**, Shwartz
@@ -18,7 +26,13 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
 - [ ] **The one straw revolution**, Masanobu Fukuoka
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
+
+#### 2021
+
 - [x] **Your Psilocybin Mushroom Companion**, Michelle Janikian
+
+#### 2020
+
 - [x] **I Hope We Choose Love**, Kai Cheng Thom
 - [x] **Psilocybin Production**, Adam Gottlieb
 - [x] **La peste**, Albert Camus
@@ -53,6 +67,9 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 ### Articles and websites
 
+https://www.vox.com/the-highlight/22543858/isabel-fall-attack-helicopter  
+https://lux-magazine.com/article/the-road-to-terfdom/  
+https://cailleachs-herbarium.com/2021/03/self-making-queerness-in-scottish-culture-norse-myth-queer-magic-queer-deities-gay-priest-cults-and-cross-dressing/  
 https://briarpatchmagazine.com/articles/view/land-as-a-social-relationship  
 https://faculty.washington.edu/timbillo/Readings%20and%20documents/Wilderness/Cronon%20The%20trouble%20with%20Wilderness.pdf  
 https://www.bitchmedia.org/article/goodbye-to-the-wellness-grift  
