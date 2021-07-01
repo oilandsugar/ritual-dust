@@ -8,6 +8,12 @@ tags = ["music"]
 
 ![Tape collection](/img/about/tapes.jpg)
 
+[Dark ambient](#dark-ambient) •
+[Synth music](#synth-music) •
+[Metal](#metal) •
+[Dungeon synth](#dungeon-synth) •
+[Folk](#folk)
+
 ### Dark ambient
 
 - **The search for the sulphurous well**, Tommy Creep
