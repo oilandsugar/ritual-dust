@@ -1,40 +1,11 @@
 {{ partial "header" . }}
 
 <main>
-  <div class="wrap big-padding-top">
+  <div class="flex-row big-padding-top list-page">
     <div class="flex-row top-page-row">
-      <div class="flex-1 bio flex-row desktop">
-        <div class="flex-3">
+      <aside class="sidebar flex-1 bio">
         <a href="/about/"><h4 class="name blackletter accent">{{ .Params.name }}</h4></a>
           <p class="lighter">
-          <a href="/about/being-trans/">Trans woman</a>, eclectic designer and witch; goth druid. Currently focusing on <a href="/works/design/">design</a> with a purpose, <a href="/works/lettering/">hand-lettering</a>, <a href="/works/illustration/">illustration</a> and the intersection of the occult, psychedelics and <a href="/folklore/">folklore</a>. Drawing <a href="/about/sigils/">sigils</a> and cooking <a href="/food/">plant-based food</a> in my spare-time.
-        </p>
-          <div class="social">
-            <a href="https://www.instagram.com/ritual.dust/" target="_blank">
-              {{ partial "instaIcon" . }}
-            </a>
-            <a href="https://github.com/oilandsugar" target="_blank">
-              {{ partial "githubIcon" . }}
-            </a>
-            <a href="https://merveilles.town/@ritualdust" target="_blank">
-              {{ partial "mastodonIcon" . }}
-            </a>
-            <a href="http://ritualdust.com/index.xml" target="_blank">
-              {{ partial "rssIcon" . }}
-            </a>
-          </div>
-          <div class="support">
-            <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#9b3313', 'U7U63MLEM');kofiwidget2.draw();</script>
-          </div>
-        </div>
-      </div>
-      <h1 class="flex-3 tagline psych-1 accent">{{ .Params.tagline }}</h1>
-    </div>
-
-    <div class="bio flex-row mobile">
-      <div class="flex-3">
-        <h4 class="name blackletter accent">{{ .Params.name }}</h4>
-        <p class="lighter">
           <a href="/about/being-trans/">Trans woman</a>, eclectic designer and witch; goth druid. Currently focusing on <a href="/works/design/">design</a> with a purpose, <a href="/works/lettering/">hand-lettering</a>, <a href="/works/illustration/">illustration</a> and the intersection of the occult, psychedelics and <a href="/folklore/">folklore</a>. Drawing <a href="/about/sigils/">sigils</a> and cooking <a href="/food/">plant-based food</a> in my spare-time.
         </p>
         <div class="social">
@@ -51,53 +22,57 @@
             {{ partial "rssIcon" . }}
           </a>
         </div>
-      </div>
-    </div>
-
-    <div class="home-content">
-      <div class="flex-row">
-        <div class="section big-padding-right">
-          <div id="icon-works" class="icon"></div>
-          <h2 class="accent">Recent works</h2>
-          <ul>
-          {{ range ( where .Site.RegularPages "Section" "works" | first 5 ) }}
-            <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
-          {{ end }}
-          </ul>
-          <a class="see-all" href="/works/">View all works</a>
+        <div class="support">
+          <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#9b3313', 'U7U63MLEM');kofiwidget2.draw();</script>
         </div>
-        <div class="section big-padding-right">
-          <div id="icon-craft" class="icon"></div>
-          <h2 class="accent">On the workbench</h2>
-          <ul>
-          {{ range ( where .Site.RegularPages "Section" "craft" | first 5 ) }}
-            <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
-          {{ end }}
-          </ul>
-          <a class="see-all" href="/craft/">View all craft</a>
+      </aside>
+      <article>
+        <h1 class="flex-3 tagline psych-1 accent">{{ .Params.tagline }}</h1>
+        <div class="home-content">
+          <div class="flex-row">
+            <div class="section big-padding-right">
+              <div id="icon-works" class="icon"></div>
+              <h2 class="accent">Recent works</h2>
+              <ul>
+              {{ range ( where .Site.RegularPages "Section" "works" | first 5 ) }}
+                <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+              {{ end }}
+              </ul>
+              <a class="see-all" href="/works/">View all works</a>
+            </div>
+            <div class="section big-padding-right">
+              <div id="icon-craft" class="icon"></div>
+              <h2 class="accent">On the workbench</h2>
+              <ul>
+              {{ range ( where .Site.RegularPages "Section" "craft" | first 5 ) }}
+                <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+              {{ end }}
+              </ul>
+              <a class="see-all" href="/craft/">View all craft</a>
+            </div>
+            <div class="section big-padding-right">
+              <div id="icon-folklore" class="icon"></div>
+              <h2 class="accent">New folklore</h2>
+              <ul>
+              {{ range ( where .Site.RegularPages "Section" "folklore" | first 5 ) }}
+                <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+              {{ end }}
+              </ul>
+              <a class="see-all" href="/folklore/">View all folklore</a>
+            </div>
+            <div class="section big-padding-right">
+              <div id="icon-food" class="icon"></div>
+              <h2 class="accent">Recipe book</h2>
+              <ul>
+              {{ range ( where .Site.RegularPages "Section" "food" | first 5 ) }}
+                <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+              {{ end }}
+              </ul>
+              <a class="see-all" href="/food/">View all food</a>
+            </div>
+          </div>
         </div>
-        <div class="section big-padding-right">
-          <div id="icon-folklore" class="icon"></div>
-          <h2 class="accent">New folklore</h2>
-          <ul>
-          {{ range ( where .Site.RegularPages "Section" "folklore" | first 5 ) }}
-            <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
-          {{ end }}
-          </ul>
-          <a class="see-all" href="/folklore/">View all folklore</a>
-        </div>
-        <div class="section big-padding-right">
-          <div id="icon-food" class="icon"></div>
-          <h2 class="accent">Recipe book</h2>
-          <ul>
-          {{ range ( where .Site.RegularPages "Section" "food" | first 5 ) }}
-            <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
-          {{ end }}
-          </ul>
-          <a class="see-all" href="/food/">View all food</a>
-        </div>
-      </div>
-
+      </article>
     </div>
   </div>
 </main>

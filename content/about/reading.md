@@ -21,11 +21,12 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **The Anarchist's Tool Chest**, Shwartz
 - [ ] **No Logo**, Naomi Klein
 - [ ] **The Book of Tea**, Okakura Kakuzō
-- [ ] **Monolithic undertow**, Harry Sword
 - [ ] **Pacific Edge**, Kim Stanley Robinson
 - [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
+- [ ] **CAPS LOCK (How Capitalism Took Hold of Graphic Design, and how to Escape it)**, Ruben Pater
 - [ ] **The one straw revolution**, Masanobu Fukuoka
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
+- [ ] **Monolithic undertow**, Harry Sword
 
 #### 2021
 

@@ -12,8 +12,12 @@ desc = "Occult-themed lifestyle video for my obscure accessory project."
 
 A short film to put in moving images the lifestyle upon which Manière Noire was built.
 
-Production: Manière Noire - https://manierenoireshop.com/  
-Art director: Gen L R - http://cimmerian.co/  
-Director of photography: Lizbeth Poirier - http://ritualdust.com/  
-Models: Evey lp & Chanel Willard  
-Music: Stygian by The Devil and the Universe - http://www.thedevilandtheuniverse.com/
+<div class="credits">
+
+**Producer:** Manière Noire  
+**Art director:** Geneviève Lamarche Reid
+**Director of photography:** Lizbeth Poirier    
+**Models:** Evey lp & Chanel Willard  
+**Music:** Stygian by The Devil and the Universe - http://www.thedevilandtheuniverse.com/
+
+<div>
