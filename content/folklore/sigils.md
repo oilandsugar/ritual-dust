@@ -3,6 +3,7 @@ title = "Sigils and symbols"
 date = "2020-10-19"
 weight = 3
 intro = "This page will contain my ongoing work on sigil and symbol making, both as a way of marking and identifying projects and objects but also part of my magical practice."
+image = "/img/folklore/off-grid.jpg"
 tags = ["magic"]
 +++
 

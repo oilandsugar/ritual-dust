@@ -1,7 +1,7 @@
 +++
 title = "Colophon"
 date = "2020-10-26"
-weight = 10
+weight = 9
 +++
 
 ### Fonts
@@ -27,9 +27,11 @@ Here is some improvements I'm planning for the future:
 
 - [ ] Graceful degradation for older browser not supporting css3
 - [ ] Switch all icons to svg instead of a font
-- [ ] Load smaller images by default with an option to get the hi-res ones
 
 </div>
 
 If you're interested in better markup and more accessible websites, go take a look at this little guide:   
 [Html tips by Thomasorus](https://thomasorus.com/html-tips.html)
+
+> "Technologies aren’t created in isolation. They are imprinted with the ghosts of their past."  
+**-- Jeremy Keith in [Resilient web design](https://resilientwebdesign.com/)**

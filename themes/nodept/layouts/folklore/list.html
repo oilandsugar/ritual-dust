@@ -4,13 +4,27 @@
   <div class="flex-row big-padding-top list-page">
     <div>
       <aside class="sidebar">
+        <h3 class="accent">Pages</h3>
+        <div class="small-padding-bottom">
+          <ul class="section-pages">
+          {{ range .RegularPages }}
+            {{ if not (in .Params.tags "folk-notes") }}
+              <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
+            {{ end }}
+          {{ end }}
+          </ul>
+        </div>
         <h3 class="accent">Notes</h3>
         <div class="small-padding-bottom">
           <ul class="section-pages">
-          {{ range .Paginator.Pages }}
-            <li>
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
+          {{ range .RegularPages }}
+            {{ if in .Params.tags "folk-notes" }}
+              <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
+            {{ end }}
           {{ end }}
           </ul>
         </div>

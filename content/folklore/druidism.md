@@ -3,6 +3,7 @@ title = "Druidism"
 date = "2020-10-19"
 image = "/img/folklore/druidism.jpg"
 tags = ["magic"]
+weight = 3
 +++
 
 Druidism and magic for me is closely tied to the cycles of sprouting, growth, death and decay present in nature and how it reflects our own internal psychological cycles while going through moments of painful growth and also to societal cycles of progress and deep change. The more i become aware of my own cycles, the more i can live in a deliberate way with them and contribute more to societal growth.

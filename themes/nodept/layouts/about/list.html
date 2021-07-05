@@ -4,14 +4,16 @@
   <div class="flex-row big-padding-top list-page">
     <div>
       <aside class="sidebar">
-        <h3>Further reading</h3>
-        <ul class="section-pages">
-        {{ range .Paginator.Pages }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
-        </ul>
+        <h3>Pages</h3>
+        <div class="small-padding-bottom">
+          <ul class="section-pages">
+          {{ range .Paginator.Pages }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+          </ul>
+        </div>
         <div class="ornament"></div>
       </aside>
     </div>

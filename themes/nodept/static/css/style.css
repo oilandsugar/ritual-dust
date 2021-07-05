@@ -210,6 +210,8 @@ blockquote {
   color:#9b3313; /* textColorAccent */
   padding-left:16px; /* spacing_md */
   font-family:"Distro Bold"; /* titleFont3 */
+  max-width:500px;
+  border-left: 2px dotted;
 }
 
 blockquote strong {
@@ -339,6 +341,12 @@ img {
 
 .checklist input:checked::before {
   content: "|";
+}
+
+.table-of-contents {
+  max-width:600px;
+  padding-left: 16px; /* spacing_md */
+  border-left:2px solid;
 }
 
 /* ------------ menu ------------- */

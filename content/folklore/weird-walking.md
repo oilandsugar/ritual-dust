@@ -3,6 +3,7 @@ title = "Weird walking"
 date = "2020-10-26"
 image = "/img/folklore/weird-walk.jpg"
 tags = ["magic", "landscape"]
+weight = 2
 +++
 
 The [Weird Walk zine](https://www.weirdwalk.co.uk/) put a name on something I've always loved to do, wander around cities and nature, following previously unknown paths, keeping my eyes and my mind open for new experiences and noticing weirdness when I encounter it.

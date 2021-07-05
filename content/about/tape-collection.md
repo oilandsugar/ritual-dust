@@ -1,18 +1,22 @@
 +++
 title = "Tapes"
 date = "2021-06-20"
-weight = 5
+weight = 7
 intro = "Just listing all the tapes from my collection here"
 tags = ["music"]
 +++
 
 ![Tape collection](/img/about/tapes.jpg)
 
+<div class="table-of-contents">
+
 [Dark ambient](#dark-ambient) •
 [Synth music](#synth-music) •
 [Metal](#metal) •
 [Dungeon synth](#dungeon-synth) •
 [Folk](#folk)
+
+</div>
 
 ### Dark ambient
 

@@ -8,14 +8,30 @@
           <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
         </div>
         {{ $section := where $.Site.RegularPages "Section" "folklore"}}
+        <h3 class="accent">Pages</h3>
+        <div class="small-padding-bottom">
+          <ul class="section-pages">
+          {{ range $section }}
+            {{ if not (in .Params.tags "folk-notes") }}
+              <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
+            {{ end }}
+          {{ end }}
+          </ul>
+        </div>
         <h3 class="accent">Notes</h3>
-        <ul class="section-pages">
-        {{ range $section }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
-        </ul>
+        <div class="small-padding-bottom">
+          <ul class="section-pages">
+          {{ range $section }}
+            {{ if in .Params.tags "folk-notes" }}
+              <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
+            {{ end }}
+          {{ end }}
+          </ul>
+        </div>
         <div id="icon-folklore" class="icon"></div>
       </aside>
     </div>

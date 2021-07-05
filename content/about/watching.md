@@ -2,7 +2,7 @@
 title = "Watching"
 date = "2020-11-25"
 draft = false
-weight = 8
+weight = 3
 intro = "This is my movie watchlist, I keep it yearly and keep the movies that really impacted me at /about/films"
 +++
 
