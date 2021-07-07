@@ -1254,6 +1254,9 @@ body:target a.l{
   h3 {
     font-size: 20px;
   }
+  figcaption {
+    padding-top: 8px; /* spacing_sm */
+  }
   .dingbats {
     font-size: 35px;
   }
@@ -1264,18 +1267,20 @@ body:target a.l{
   .recipe-card h4 {
     font-size: 2.5em;
     padding-top: 8px; /* spacing_sm */
+    line-height: 2rem;
   }
   .single-page {
     flex-direction:column-reverse;
+    width:100%;
   }
-  .sidebar {
-    max-width:100%;
-  }
-  .section-pages {
-    display: none;
+  .list-page .icon, .single-page .icon {
+    margin-left: auto;
+    margin-right: auto;
+    width: 173px;
   }
   .list-page {
     flex-direction: column-reverse;
+    width:100%;
   }
   .mobile {
     display: block;
@@ -1289,6 +1294,11 @@ body:target a.l{
   .full-wrap,
   .sidebar {
     padding: 0 24px; /* spacing_lg */
+  }
+  .sidebar {
+    max-width:100%;
+    position:static;
+    padding-top: 24px; /* spacing_lg */
   }
   .back-home {
     margin-bottom: 24px; /* spacing_lg */
@@ -1315,6 +1325,7 @@ body:target a.l{
   .page-title {
     height: auto;
     line-height: 30px;
+    text-align:center;
   }
   .page-title h3 {
     display: block;
