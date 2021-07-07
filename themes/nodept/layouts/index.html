@@ -27,48 +27,50 @@
         </div>
       </aside>
       <article>
-        <h1 class="flex-3 tagline psych-1 accent">{{ .Params.tagline }}</h1>
-        <div class="home-content">
-          <div class="flex-row">
-            <div class="section big-padding-right">
-              <div id="icon-works" class="icon"></div>
-              <h2 class="accent">Recent works</h2>
-              <ul>
-              {{ range ( where .Site.RegularPages "Section" "works" | first 5 ) }}
-                <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
-              {{ end }}
-              </ul>
-              <a class="see-all" href="/works/">View all works</a>
-            </div>
-            <div class="section big-padding-right">
-              <div id="icon-craft" class="icon"></div>
-              <h2 class="accent">On the workbench</h2>
-              <ul>
-              {{ range ( where .Site.RegularPages "Section" "craft" | first 5 ) }}
-                <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
-              {{ end }}
-              </ul>
-              <a class="see-all" href="/craft/">View all craft</a>
-            </div>
-            <div class="section big-padding-right">
-              <div id="icon-folklore" class="icon"></div>
-              <h2 class="accent">New folklore</h2>
-              <ul>
-              {{ range ( where .Site.RegularPages "Section" "folklore" | first 5 ) }}
-                <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
-              {{ end }}
-              </ul>
-              <a class="see-all" href="/folklore/">View all folklore</a>
-            </div>
-            <div class="section big-padding-right">
-              <div id="icon-food" class="icon"></div>
-              <h2 class="accent">Recipe book</h2>
-              <ul>
-              {{ range ( where .Site.RegularPages "Section" "food" | first 5 ) }}
-                <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
-              {{ end }}
-              </ul>
-              <a class="see-all" href="/food/">View all food</a>
+        <div class="full-wrap">
+          <h1 class="flex-3 tagline psych-1 accent">{{ .Params.tagline }}</h1>
+          <div class="home-content">
+            <div class="flex-row">
+              <div class="section small-padding-right">
+                <div id="icon-works" class="icon"></div>
+                <h2 class="accent">Recent works</h2>
+                <ul>
+                {{ range ( where .Site.RegularPages "Section" "works" | first 5 ) }}
+                  <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+                {{ end }}
+                </ul>
+                <a class="see-all" href="/works/">View all works</a>
+              </div>
+              <div class="section small-padding-right">
+                <div id="icon-craft" class="icon"></div>
+                <h2 class="accent">On the workbench</h2>
+                <ul>
+                {{ range ( where .Site.RegularPages "Section" "craft" | first 5 ) }}
+                  <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+                {{ end }}
+                </ul>
+                <a class="see-all" href="/craft/">View all craft</a>
+              </div>
+              <div class="section small-padding-right">
+                <div id="icon-folklore" class="icon"></div>
+                <h2 class="accent">New folklore</h2>
+                <ul>
+                {{ range ( where .Site.RegularPages "Section" "folklore" | first 5 ) }}
+                  <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+                {{ end }}
+                </ul>
+                <a class="see-all" href="/folklore/">View all folklore</a>
+              </div>
+              <div class="section small-padding-right">
+                <div id="icon-food" class="icon"></div>
+                <h2 class="accent">Recipe book</h2>
+                <ul>
+                {{ range ( where .Site.RegularPages "Section" "food" | first 5 ) }}
+                  <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+                {{ end }}
+                </ul>
+                <a class="see-all" href="/food/">View all food</a>
+              </div>
             </div>
           </div>
         </div>

@@ -1285,6 +1285,9 @@ body:target a.l{
   .mobile {
     display: block;
   }
+  .tagline {
+    margin-top: 24px; /* spacing_lg */
+  }
   .desktop,
   .flex-row.desktop {
     display: none;
