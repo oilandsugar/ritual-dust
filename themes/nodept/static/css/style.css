@@ -913,6 +913,63 @@ body:target a.l{
   flex: 1;
 }
 
+/* -------- PRODUCTS ---------*/
+
+.product {
+  border:2px solid;
+  padding-top: 24px; /* spacing_lg */
+  padding-right: 24px; /* spacing_lg */
+  padding-bottom: 24px; /* spacing_lg */
+  padding-left: 24px; /* spacing_lg */
+  border-radius: 12px;
+  display:flex;
+  flex-direction:row;
+  max-width: 800px;
+  box-sizing: border-box;
+}
+
+.product .image {
+  min-width:200px;
+  max-width:200px;
+  line-height:0;
+}
+
+.product .desc {
+  padding-left: 24px; /* spacing_lg */
+}
+
+.product button {
+  border:0;
+  padding-top: 8px; /* spacing_sm */
+  padding-right: 16px; /* spacing_md */
+  padding-bottom: 8px; /* spacing_sm */
+  padding-left: 16px; /* spacing_md */
+  background-color: #b25c02; /* lightTextColor */
+  font-weight:bold;
+  border-radius: 4px;
+  cursor:pointer;
+  font-size:18px;
+  color: #fff0b7; /* lightBackColor */
+}
+
+.product button:hover {
+  background-color:#9b3313; /* textColorAccent */
+}
+
+.product h2 {
+  margin-bottom: 16px; /* spacing_md */
+}
+
+.product p {
+  margin-top: 0;
+  margin-bottom: 16px; /* spacing_md */
+}
+
+.product .price {
+  font-weight:bold;
+  font-family: "Distro Bold";  /* titleFont3 */
+}
+
 /* -------- SINGLE PROJECTS ---------*/
 
 .single-page h1 {
@@ -1374,5 +1431,15 @@ body:target a.l{
   }
   .columns {
     column-count: 1 !important;
+  }
+  .product {
+    flex-direction:column;
+  }
+  .product .image {
+    max-width:none;
+  }
+  .product .desc {
+    padding-left:0;
+    padding-top: 16px; /* spacing_md */
   }
 }
