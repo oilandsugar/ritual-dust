@@ -16,11 +16,11 @@
   */
 
   /* summer */
-  --darkBackColor: #fff0b7;
-  --lightBackColor: #fff0b7;
-  --lightTextColor: #b25c02;
-  --darkTextColor: #b25c02;
-  --textColorAccent: #9b3313;
+  --darkBackColor: #fff0b7; /* darkBackColor */
+  --lightBackColor: #fff0b7; /* lightBackColor */
+  --lightTextColor: #b25c02; /* lightTextColor */
+  --darkTextColor: #b25c02; /* darkTextColor */
+  --textColorAccent: #9b3313; /* textColorAccent */
 
   /* fall */
   /*
