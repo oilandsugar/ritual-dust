@@ -11,7 +11,7 @@ Basing myself on a [game](https://jameschip.io/games/treecrets.html) by [James C
 
 ![](/img/illustration/treecrets-1.jpg)
 
-<div class="product hidden">
+<div class="product">
 <div class="image">
 <img src="/img/illustration/treecrets-1.jpg"/>
 </div>
