@@ -1265,6 +1265,10 @@ body:target a.l{
   flex-direction: row;
 }
 
+.hidden {
+  display:none;
+}
+
 /* -------- footer --------- */
 
 .footer {
