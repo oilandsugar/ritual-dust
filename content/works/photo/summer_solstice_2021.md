@@ -4,7 +4,7 @@ tags = ["photo", "magic"]
 date = "2021-06-20"
 
 image = "/img/photo/summer-solstice-2021/DSC03246.jpg"
-desc = "Walking on the longest night, looking inside for what's to come."
+desc = "Pausing and listening to the rhythm of the earth while the burning wheel tumbles down the hill."
 +++
 
 Pausing and listening to the rhythm of the earth while the burning wheel tumbles down the hill.
