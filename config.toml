@@ -1,4 +1,4 @@
-baseURL = "http://ritualdust.com/"
+baseURL = "https://ritualdust.com/"
 languageCode = "en-ca"
 theme = "nodept"
 title = "Ritual dust"

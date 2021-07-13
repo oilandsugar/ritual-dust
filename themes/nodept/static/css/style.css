@@ -282,8 +282,16 @@ strong {
 
 /* -------------- utils ------------- */
 
-.display-none {
+.display-none, .hidden {
   display: none;
+}
+
+.mobile {
+  display: none;
+}
+
+.desktop {
+  display: block;
 }
 
 figure {
@@ -1250,23 +1258,11 @@ body:target a.l{
   margin-bottom: 0 !important;
 }
 
-.mobile {
-  display: none;
-}
-
-.desktop {
-  display: block;
-}
-
 .flex-row.desktop {
   display: -webkit-flex;
   -webkit-flex-direction: row;
   display: flex;
   flex-direction: row;
-}
-
-.hidden {
-  display:none;
 }
 
 /* -------- footer --------- */
