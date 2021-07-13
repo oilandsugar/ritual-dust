@@ -11,31 +11,7 @@ Basing myself on a [game](https://jameschip.io/games/treecrets.html) by [James C
 
 ![](/img/illustration/treecrets-1.jpg)
 
-<div class="product">
-<div class="image">
-<img src="/img/illustration/treecrets-1.jpg"/>
-</div>
-<div class="desc">
-<h2>Treecrets cards</h2>
-<p class="product-desc">
-  Set of 12 cards guiding you and a through this meditative game to be played alone or with a friend in a quiet spot of forest.
-</p>
-<p class="price">20$ CAD</p>
-<button class="snipcart-add-item"
-  data-item-id="treecrets-cards"
-  data-item-price="20"
-  data-item-url="https://ritualdust.com/works/illustration/treecrets"
-  data-item-description="Set of 12 cards guiding you through the game"
-  data-item-image="/img/illustration/treecrets-1.jpg"
-  data-item-name="Treecrets Cards"
-  data-item-weight="41"
-  data-item-length="19"
-  data-item-height="1"
-  data-item-width="14">
-  Add to cart
-</button>
-</div>
-</div>
+{{< product title="Treecrets cards" desc="Set of 12 cards guiding you and a through this meditative game to be played alone or with a friend in a quiet spot of forest." price="20" id="treecrets-cards" image="/img/illustration/treecrets-1.jpg" weight="41" length="19" height="1" width="14" url="https://ritualdust.com/works/illustration/treecrets" >}}
 
 ![](/img/illustration/treecrets-6.jpg)
 ![](/img/illustration/treecrets-2.jpg)
