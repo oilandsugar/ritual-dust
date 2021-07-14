@@ -3,7 +3,7 @@
 
 <a href="{{ .Permalink }}" class="craft-card {{ range .Params.tags }}{{ . }} {{ end }}">
   <div class="picture">
-    <img loading="lazy" class="to-toggle low" src="{{ $lowResCover | safeURL }}" alt="{{ .Title }}">
+    <img class="to-toggle low" src="{{ $lowResCover | safeURL }}" alt="{{ .Title }}">
   </div>
   <h4 class="blackletter small-padding-bottom">{{ .Title }}</h4>
   <div class="desc">{{ .Params.desc }}</div>
