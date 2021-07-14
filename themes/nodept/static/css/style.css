@@ -385,28 +385,8 @@ img {
   float:right;
 }
 
-.high {
-  display:none;
-}
-
 .low {
   mix-blend-mode:multiply;
-}
-
-a.l {
-  display:none;
-}
-
-html:target .high,
-html:target a.l,
-body:target a.h {
-	display:block;
-}
-
-html:target .low,
-html:target a.h,
-body:target a.l{
-	display:none;
 }
 
 .page-title {

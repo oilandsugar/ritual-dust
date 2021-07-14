@@ -3,8 +3,8 @@ title = "Grim Howl"
 tags = ["lettering", "music"]
 date = "2020-10-20"
 
-image = "/img/grimhowl.png"
+image = "/img/lettering/grim-howl/grimhowl.jpg"
 desc = "Hand-drawn logo for the dungeon synth project Grim Howl."
 +++
 
-![Grim Howl logo](/img/grimhowl.png "Grim Howl logo")
+![Grim Howl logo](/img/lettering/grim-howl/grimhowl.jpg "Grim Howl logo")

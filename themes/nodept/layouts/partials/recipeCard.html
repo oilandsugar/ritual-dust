@@ -12,7 +12,6 @@
     {{ end}}
   </div>
   <div class="picture">
-    <img loading="lazy" class="high" src="{{ $cover | safeURL }}" alt="{{ .Title }}">
-    <img loading="lazy" class="low" src="{{ $lowResCover | safeURL }}" alt="{{ .Title }}">
+    <img class="to-toggle low" src="{{ $lowResCover | safeURL }}" alt="{{ .Title }}">
   </div>
 </a>

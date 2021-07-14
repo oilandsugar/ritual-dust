@@ -3,12 +3,10 @@ title = "Cursed Object"
 tags = ["lettering"]
 date = "2020-09-20"
 
-image = "/img/cursed_object.png"
-image2 = "/img/cursed_object_2.png"
-image3 = "/img/cursed_object_3.png"
+image = "/img/lettering/cursed-object/cursed_object.jpg"
 desc = "Hand-drawn lettering, identity system and publisher seal for a publishing company."
 +++
 
-![Cursed object logo](/img/cursed_object.png "Cursed object logo and sigil")
-![Cursed object lettering](/img/cursed_object_2.png "Cursed object lettering")
-![Cursed object publisher's seal](/img/cursed_object_3.png "Cursed object publisher's seal")
+![Cursed object logo](/img/lettering/cursed-object/cursed_object.jpg "Cursed object logo and sigil")
+![Cursed object lettering](/img/lettering/cursed-object/cursed_object_2.jpg "Cursed object lettering")
+![Cursed object publisher's seal](/img/lettering/cursed-object/cursed_object_3.jpg "Cursed object publisher's seal")

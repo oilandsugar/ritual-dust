@@ -2,13 +2,11 @@
 
 {{ if .Title }}
   <figure>
-    <img loading="lazy" class="high" src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
-    <img loading="lazy" class="low" src="{{ $lowResPath | safeURL }}" alt="{{ .Text }}">
+    <img loading="lazy" class="to-toggle low" src="{{ $lowResPath | safeURL }}" alt="{{ .Text }}">
     <figcaption>{{ .Title }}</figcaption>
   </figure>
 {{ else }}
   <figure>
-    <img loading="lazy" class="high" src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
-    <img loading="lazy" class="low" src="{{ $lowResPath | safeURL }}" alt="{{ .Text }}">
+    <img loading="lazy" class="to-toggle low" src="{{ $lowResPath | safeURL }}" alt="{{ .Text }}">
   </figure>
 {{ end }}

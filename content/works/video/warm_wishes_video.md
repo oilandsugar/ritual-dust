@@ -3,8 +3,7 @@ title = "Warm wishes"
 tags = ["video"]
 date = "2020-09-20"
 
-image = "/img/warm_wishes_video.png"
-gif = "/img/warm_wishes_gif.gif"
+image = "/img/movies/warm_wishes_video.png"
 desc = "Iconoclastic short video accompanied by one of my modular synth compositions."
 
 +++
