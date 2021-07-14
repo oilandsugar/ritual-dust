@@ -3,8 +3,7 @@
 
 <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}" class="project-card {{ range .Params.tags }}{{ . }} {{ end }}">
   <div class="picture">
-    <img loading="lazy" class="high" src="{{ $cover | safeURL }}" alt="{{ .Title }}">
-    <img loading="lazy" class="low" src="{{ $cover | safeURL }}" alt="{{ .Title }}">
+    <img loading="lazy" class="to-toggle low" src="{{ $lowResCover | safeURL }}" alt="{{ .Title }}">
   </div>
   <h4 class="blackletter small-padding-bottom">{{ .Title }}</h4>
   <div class="desc">{{ .Params.desc }}</div>

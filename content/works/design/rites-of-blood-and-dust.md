@@ -11,7 +11,7 @@ The texture used as a background to the design was photographed indoors from soi
 
 You can get this cassette and listen to the album over here: https://blood-and-dust.bandcamp.com/album/rites-of-blood-and-dust
 
-![Cover for the digital album Rites of Blood and Dust](/img/design/blood-and-dust/rites-blood-dust.png "Cover for the digital album Rites of Blood and Dust")
+![Cover for the digital album Rites of Blood and Dust](/img/design/blood-and-dust/rites-blood-dust.jpg "Cover for the digital album Rites of Blood and Dust")
 ![Cassette edition of the album](/img/design/blood-and-dust/DSC02405.jpg "Cassette edition of the album")
 ![Back of the cassette](/img/design/blood-and-dust/DSC02408.jpg "Back of the cassette")
 ![Inside of the cassette sleeve](/img/design/blood-and-dust/DSC02409.jpg "Inside of the cassette sleeve")
