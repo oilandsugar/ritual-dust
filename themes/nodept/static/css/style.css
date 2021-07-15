@@ -399,6 +399,20 @@ img {
   float:right;
 }
 
+.resolution-toggle button {
+  border: 2px solid;
+  border-radius:4px;
+  background:transparent;
+  color:#b25c02; /* darkTextColor */
+  font-family: "Distro Bold"; /* titleFont3 */
+}
+
+.resolution-toggle button:hover {
+  background-color:#9b3313; /* textColorAccent */
+  border-color:#9b3313; /* textColorAccent */
+  color:#fff0b7; /* lightBackColor */
+}
+
 .low {
   mix-blend-mode:multiply;
 }
