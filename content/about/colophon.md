@@ -9,7 +9,7 @@ weight = 9
 When selecting fonts for this website, I was looking to combine my love for 70's psychedelia and gothic blackletter while keeping everything mostly legible and accessible.
 
 Fonts used on this website:  
-[**Basteleur**](http://www.velvetyne.fr/fonts/basteleur/) is used for the bigger titles  
+[Basteleur](http://www.velvetyne.fr/fonts/basteleur/) is used for the bigger titles  
 **Cal Fraktur Modern** is used for blackletter titles  
 **Cooper Std** is used for the second level of titles  
 **Distro** is used for the third level of titles  
@@ -36,4 +36,4 @@ If you're interested in better markup and more accessible websites, go take a lo
 [Html tips by Thomasorus](https://thomasorus.com/html-tips.html)
 
 > "Technologies aren’t created in isolation. They are imprinted with the ghosts of their past."  
-**-- Jeremy Keith in [Resilient web design](https://resilientwebdesign.com/)**
+<small>-- Jeremy Keith in [Resilient web design](https://resilientwebdesign.com/)</small>

@@ -40,3 +40,5 @@ portions = 1
 
 </div>
 </div>
+
+![Steel-cut oats vegan sausages, miso and green onions](/img/recipes/miso-oats.jpg)

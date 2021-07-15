@@ -29,7 +29,7 @@ that you will not live to harvest.
 Say that the leaves are harvested
 when they have rotted into the mold.
 Call that profit. Prophesy such returns."  
-**-- The Mad Farmer Liberation Front by Wendell Berry**
+<small>-- The Mad Farmer Liberation Front by Wendell Berry</small>
 
 ## Hardwoods
 

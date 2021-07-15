@@ -222,17 +222,26 @@ blockquote strong {
 a {
   color: inherit;
   cursor: pointer;
-  font-family: "Wremena"; /* mainFont */
+  font-family: "CalFrakturModern"; /* blackletterFont */
   font-weight: bold;
+  font-size:1.3em;
+  text-decoration:none;
+  border-bottom:2px solid transparent;
 }
 
 a:hover {
   color: #9b3313; /* textColorAccent */
+  border-color: #9b3313; /* textColorAccent */
 }
 
 strong {
-  font-family: "Wremena"; /* mainFont */
+  font-family: "CalFrakturModern"; /* blackletterFont */
   font-weight: bold;
+  font-size:1.3em;
+}
+
+small {
+  font-size:16px;
 }
 
 .lighter {
@@ -372,11 +381,16 @@ img {
 
 .menu a {
   font-size: 20px;
-  padding-right: 16px; /* spacing_md */
+  margin-right: 16px; /* spacing_md */
   text-decoration: none;
   position: relative;
   font-family: "Distro Bold"; /* titleFont3 */
   display: inline-block;
+}
+
+.menu a.active {
+  color: #9b3313; /* textColorAccent */
+  border-color: #9b3313; /* textColorAccent */
 }
 
 .resolution-toggle {
@@ -599,6 +613,8 @@ img {
 
 .project-card .desc {
   font-weight: normal;
+  font-size:18px;
+  line-height:1.2em;
 }
 
 .youtube-video-container {
@@ -641,6 +657,8 @@ img {
 
 .folklore-card .desc {
   font-weight: normal;
+  font-size:18px;
+  line-height:1.2em;
 }
 
 .folk-notes {
@@ -659,7 +677,7 @@ img {
 .folk-notes h4 {
   font-family: "Basteleur"; /* psychFont1 */
   font-weight: 300;
-  font-size: 4em;
+  font-size: 3em;
   line-height: 3.2rem;
   padding: 0;
   word-break: break-word;
@@ -706,7 +724,7 @@ img {
 .cooking-notes h4 {
   font-family: "Basteleur"; /* psychFont1 */
   font-weight: 300;
-  font-size: 4em;
+  font-size: 3em;
   line-height: 3.2rem;
   padding: 0;
   word-break: break-word;
@@ -814,6 +832,8 @@ img {
 
 .craft-card .desc {
   font-weight: normal;
+  font-size:18px;
+  line-height:1.2em;
 }
 
 .craft-card.notes {
@@ -976,7 +996,6 @@ img {
 }
 
 .back-home a {
-  transition: 0.3s;
   text-decoration: none;
 }
 
@@ -1035,10 +1054,6 @@ img {
   list-style: none;
   margin: 0;
   padding: 0;
-}
-
-.sidebar a {
-  font-size: inherit;
 }
 
 /* -------- FLEX ---------*/

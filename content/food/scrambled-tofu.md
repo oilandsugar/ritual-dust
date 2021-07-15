@@ -41,3 +41,5 @@ portions = 2
 Really good on it’s own, served with toast, in breakfast tacos or sandwiches
 </div>
 </div>
+
+![Scrambled tofu in a cast iron pan](/img/recipes/scrambled-tofu.jpg)

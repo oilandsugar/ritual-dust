@@ -41,3 +41,5 @@ Follow [this recipe](/food/scrambled-tofu/) to make the chickpeas but replace th
 
 </div>
 </div>
+
+![Easy salad with complex flavours, perfect for summer](/img/recipes/sesame-salad.jpg)

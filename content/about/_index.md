@@ -9,7 +9,7 @@ My pronouns are **she/her**.
 
 ![Lizbeth against a rock background](/img/about/self.jpg "Portrait by Hayley Evans")
 
-I am currently taking commission work for [**design**](/works/design/), [**illustration**](/works/illustration/), [**lettering**](/works/lettering/) and [**web**](/works/websites/) projects (especially anything relating to folklore, occultism, activism music and art).
+I am currently taking commission work for [design](/works/design/), [illustration](/works/illustration/), [lettering](/works/lettering/) and [web](/works/websites/) projects (especially anything relating to folklore, occultism, activism music and art).
 
 I am also [crafting ritual tools](/craft/) and small handcrafted wooden items.
 

@@ -7,7 +7,7 @@ images = []
 
 +++
 
-![](/img/recipes/herbs.jpg)
+![Herbs growing in pots on a balcony bench](/img/recipes/herbs.jpg)
 
 This little guide act as a reminder for our own little balcony garden of fresh herbs so the tips will be tailored for herbs growing in terra cotta pots outside on a balcony.
 

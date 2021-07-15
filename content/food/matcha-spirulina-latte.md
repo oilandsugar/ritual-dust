@@ -32,3 +32,7 @@ portions = 1
 
 </div>
 </div>
+
+![Energizing warm green drink](/img/recipes/matcha-spirulina-latte.jpg)
+![Energizing warm green drink](/img/recipes/matcha-spirulina-latte-2.jpg)
+![Energizing warm green drink](/img/recipes/matcha-spirulina-latte-3.jpg)

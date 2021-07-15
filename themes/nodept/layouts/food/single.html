@@ -6,7 +6,7 @@
     <div>
       <aside class="sidebar">
         <div class="back-home">
-          <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
+          <a href="/{{ .Section }}/">Back to {{ .Section }}</a>
         </div>
         {{ $section := where $.Site.RegularPages "Section" "food"}}
         <h3 class="accent">Recipes and notes</h3>
@@ -38,13 +38,6 @@
         </ul>
       {{ end }}
       {{ .Content | safeHTML }}
-      {{ range .Params.images }}
-        <div class="photo">
-          {{ $lowResImg := replace . ".jpg" "-low.jpg" }}
-          <img class="high" loading="lazy" src="{{ . }}" alt="{{ $imageAlt }}" />
-          <img class="low" loading="lazy" src="{{ $lowResImg }}" alt="{{ $imageAlt }}" />
-        </div>
-      {{ end }}
       {{ if not .Lastmod.IsZero }}
         <div class="last-mod small-padding-top">
           Last modified on <strong>{{ .Lastmod.Format "2006-01-02" | safeHTML }}</strong>,

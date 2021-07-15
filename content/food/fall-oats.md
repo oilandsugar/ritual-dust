@@ -39,3 +39,6 @@ portions = 1
 
 </div>
 </div>
+
+![Steel-cut oats with pumpkin, spices and chocolate in a metal bowl](/img/recipes/fall-oats-1.jpg)
+![Steel-cut oats with pumpkin, spices and chocolate in a metal bowl](/img/recipes/fall-oats-2.jpg)

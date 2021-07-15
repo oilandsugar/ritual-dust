@@ -33,14 +33,14 @@ Nature is always there somewhere, even in the most brutalist city corners and we
 Especially as someone who was raised as a boy and who had very little guidance and examples of the wide range of human emotions, this one was a cornerstone of living a better life. Getting in touch with my feelings, noticing them without judgement and developing the language to talk about them and express them to others opened up doors that allowed me to connect more deeply with myself and the people close to me, develop more nuanced empathy and understanding towards others and myself and get to know what I really wanted for myself.
 
 > “The curious paradox is that when I accept myself just as I am, then I change.”  
-**― Carl Rogers**
+<small>― Carl Rogers</small>
 
 ### Trust your body and learn to take care of it  
 
 While getting to know my emotional needs, I was also faced with how much stress and emotions were linked to the body, creating tension, pain and changing my posture and breathing. I learned that it doesn't really work to force your body to relax, it has it's own natural ways to do so and getting to know these and integrate them in everyday life seems to bring the more long-lasting change. What helped me in that process is yoga and meditation, starting with guided ones and then growing my own practice from what felt better.
 
 > “Listen to me, your body is not a temple. Temples can be destroyed and desecrated. Your body is a forest—thick canopies of maple trees and sweet scented wildflowers sprouting in the underwood. You will grow back, over and over, no matter how badly you are devastated.”  
-**― Beau Taplin**
+<small>― Beau Taplin</small>
 
 ### Get confortable with setting and respecting boundaries  
 
@@ -59,7 +59,7 @@ We live in an unfair society, and we're born with different kinds of privilege -
 Sometimes I react strongly when people point out things in myself that I'm either not aware of or haven't accepted yet. This defensiveness is a sign of unexplored parts in myself. I learned that the more I look inside and tend to these hidden parts and heal the guilt or shame that is often attached to them the more these insecurities take a more background role and have less and less unconscious control over how I interact with others, how I perceive myself and what I'm capable of.
 
 > "It’s harder to be yourself than it is to be anybody else"  
-**- Andrew Jackson Jihad**
+<small>- Andrew Jackson Jihad</small>
 
 ### Challenge assumptions and false narratives about yourself  
 
