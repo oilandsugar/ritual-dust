@@ -240,6 +240,10 @@ strong {
   font-size:1.3em;
 }
 
+small {
+  font-size:16px;
+}
+
 .lighter {
   font-size: 16px;
   line-height: 20px;

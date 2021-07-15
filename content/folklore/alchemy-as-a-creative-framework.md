@@ -6,4 +6,4 @@ tags = ["magic", "art"]
 +++
 
 > "But "art" is not art. "Art" is politics that has created new styles of communication."  
-**-- Malcom Green**
+<small>-- Malcom Green</small>
