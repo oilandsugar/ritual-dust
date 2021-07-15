@@ -18,7 +18,9 @@ const onToggle = (e)=> {
       img.classList.toggle("low");
       let currentSrc = img.src;
       let splitSrc = currentSrc.split(".");
+      console.log(splitSrc, "split")
       let newSrc = [splitSrc[0], "-low.", splitSrc[1]].join("");
+      console.log(newSrc, "new")
       img.src = newSrc;
     });
   }

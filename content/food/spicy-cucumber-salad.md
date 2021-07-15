@@ -37,3 +37,5 @@ portions = 2
 
 </div>
 </div>
+
+![Spicy, fresh and quick to make salad](/img/recipes/cucumber-salad.jpg)

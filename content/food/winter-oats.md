@@ -40,3 +40,5 @@ portions = 1
 
 </div>
 </div>
+
+![Steel-cut oats with cranberries, nuts and spices in a metal bowl](/img/recipes/winter-oats.jpg)

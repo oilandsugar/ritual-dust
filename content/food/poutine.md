@@ -51,3 +51,5 @@ portions = 2
 
 </div>
 </div>
+
+![Plant-based poutine with pickles in a metal bowl](/img/recipes/poutine.jpg)
