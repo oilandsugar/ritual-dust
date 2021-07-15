@@ -9,8 +9,8 @@ imageAlt = "A repertoire of seasonal produce in Québec"
 
 +++
 
-### All year long
-**These are not affected by seasonality**  
+## All year long
+### These are not affected by seasonality  
 {{% columns count="4" %}}
 Beets  
 Carrots  
@@ -24,8 +24,8 @@ Rutabaga
 Sweet potatoes
 {{% /columns %}}
 
-### Spring
-**from the end of March to the end of June**  
+## Spring
+### from the end of March to the end of June    
 {{% columns count="4" %}}
 Apples  
 Asparagus  
@@ -38,8 +38,8 @@ Spinach
 Tomatoes
 {{% /columns %}}
 
-### Summer
-**from the end of June to the end of September**  
+## Summer
+### from the end of June to the end of September    
 {{% columns count="4" %}}
 Beans  
 Blueberries  
@@ -70,8 +70,8 @@ Zucchini
 {{% /columns %}}
 
 
-### Fall
-**from the end of September to the end of December**  
+## Fall
+### from the end of September to the end of December    
 {{% columns count="4" %}}
 Beans  
 Blueberries  
@@ -98,8 +98,8 @@ Turnip
 Watermelon
 {{% /columns %}}
 
-### Winter
-**from the end of December to the end of March**  
+## Winter
+### from the end of December to the end of March    
 {{% columns count="4" %}}
 Endives  
 Jerusalem artichoke  

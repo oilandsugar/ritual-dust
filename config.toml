@@ -4,6 +4,43 @@ theme = "nodept"
 title = "Ritual dust"
 image = "/img/preview.png"
 
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "visual-works"
+    name = "Visual works"
+    url = "/works/"
+    weight = 2
+  [[menu.main]]
+    identifier = "music"
+    name = "Music"
+    url = "https://blood-and-dust.com"
+    weight = 3
+  [[menu.main]]
+    identifier = "craft"
+    name = "Craft"
+    url = "/craft/"
+    weight = 5
+  [[menu.main]]
+    identifier = "folklore"
+    name = "Folklore"
+    url = "/folklore/"
+    weight = 6
+  [[menu.main]]
+    identifier = "food"
+    name = "Food"
+    url = "/food/"
+    weight = 7
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 8
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]

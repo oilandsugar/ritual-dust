@@ -1,47 +1,15 @@
+{{ $currentPage := . }}
 <nav class="menu small-padding-top small-padding-bottom">
   <ul>
-    <li>
-      <a href="/">
-        Home
-      </a>
-    </li>
-    <li>
-      <a href="/works/">
-        Visual works
-      </a>
-    </li>
-    <li>
-      <a href="https://blood-and-dust.com">
-        Music
-      </a>
-    </li>
-    <li>
-      <a href="https://fantomeszine.com">
-        Zine
-      </a>
-    </li>
-    <li>
-      <a href="/craft/">
-        Craft
-      </a>
-    </li>
-    <li>
-      <a href="/folklore/">
-        Folklore
-      </a>
-    </li>
-    <li>
-      <a href="/food/">
-        Food
-      </a>
-    </li>
-    <li>
-      <a href="/about/">
-        About
-      </a>
-    </li>
-  </ul>
-  <div class="resolution-toggle">
-    <a class="h" id="resolution-toggle">Hi-res</a>
-  </div>
+{{ range .Site.Menus.main }}
+  <li>
+    <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">
+      {{ .Name }}
+    </a>
+  </li>
+{{ end }}
+</ul>
+<div class="resolution-toggle">
+  <a class="h" id="resolution-toggle">Hi-res</a>
+</div>
 </nav>

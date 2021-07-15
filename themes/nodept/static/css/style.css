@@ -381,11 +381,16 @@ img {
 
 .menu a {
   font-size: 20px;
-  padding-right: 16px; /* spacing_md */
+  margin-right: 16px; /* spacing_md */
   text-decoration: none;
   position: relative;
   font-family: "Distro Bold"; /* titleFont3 */
   display: inline-block;
+}
+
+.menu a.active {
+  color: #9b3313; /* textColorAccent */
+  border-color: #9b3313; /* textColorAccent */
 }
 
 .resolution-toggle {
