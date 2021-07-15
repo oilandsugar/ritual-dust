@@ -21,6 +21,11 @@ image = "/img/preview.png"
     url = "https://blood-and-dust.com"
     weight = 3
   [[menu.main]]
+    identifier = "zine"
+    name = "Zine"
+    url = "https://fantomeszine.com"
+    weight = 4
+  [[menu.main]]
     identifier = "craft"
     name = "Craft"
     url = "/craft/"

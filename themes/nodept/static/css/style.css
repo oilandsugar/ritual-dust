@@ -613,6 +613,8 @@ img {
 
 .project-card .desc {
   font-weight: normal;
+  font-size:18px;
+  line-height:1.2em;
 }
 
 .youtube-video-container {
@@ -655,6 +657,8 @@ img {
 
 .folklore-card .desc {
   font-weight: normal;
+  font-size:18px;
+  line-height:1.2em;
 }
 
 .folk-notes {
@@ -828,6 +832,8 @@ img {
 
 .craft-card .desc {
   font-weight: normal;
+  font-size:18px;
+  line-height:1.2em;
 }
 
 .craft-card.notes {
