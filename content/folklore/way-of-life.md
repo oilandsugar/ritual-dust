@@ -8,7 +8,7 @@ weight = 1
 
 ![Mushrooms from a cemetery in Scotland](/img/folklore/way-of-life.png)
 
-This is in no way intended to be general advice or universal truth, it's what worked for me in life so far. These are the result of a long distillation process, introspection, life experiences, therapy and meditation. It will definitely change in the future, like myself.
+This is in no way intended to be general advice or universal truth, it's what worked for me in life so far. These are the result of a long distillation process, introspection, life experiences, therapy and meditation. It will definitely change in the future, like myself. It is written in that form as a message from present me to future me.
 
 <div class="table-of-contents">
 
@@ -16,6 +16,7 @@ This is in no way intended to be general advice or universal truth, it's what wo
 [Know your feelings](#learn-to-listen-name-and-express-feelings) •
 [Trust your body](#learn-to-listen-name-and-express-feelings) •
 [Set boundaries](#get-confortable-with-setting-and-respecting-boundaries) •
+[Take accountability](#take-accountability-for-your-actions-and-feelings) •
 [Practice gratitude](#grow-a-practice-of-gratitude) •
 [Learn your privilege](#develop-an-awareness-of-privilege-and-power-dynamics) •
 [Tend to your insecurities](#realize-that-insecurities-comes-from-ignorance-of-self) •
@@ -45,6 +46,10 @@ While getting to know my emotional needs, I was also faced with how much stress 
 ### Get confortable with setting and respecting boundaries  
 
 A boundary, soft or hard is never intended to harm, punish, or deprive someone else of something. It is an act of self-honesty and comes from knowing my own limits and respecting them. The more forward and clear I'm becoming with my boundaries and my availability - in terms of time, energy, or capacity - the easier it becomes to be present and to help and give to others without building resentment or overwhelming myself. The more I learn about my own limits the easier it becomes to recognize and respect the ones of others and also be considerate and check in with other about their boundaries in case they don't express them upfront. Not everyone feels equally safe to express those.
+
+### Take accountability for your actions and feelings  
+
+~
 
 ### Grow a practice of gratitude  
 
