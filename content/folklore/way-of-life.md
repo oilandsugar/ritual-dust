@@ -51,6 +51,9 @@ A boundary, soft or hard is never intended to harm, punish, or deprive someone e
 
 I can, I have and I will cause harm or hurt other people. I need to keep this in mind as I navigate through life in order to be able to see it, to take accountability and learn from it when it happens. Depending in the people whom I have hurt for that only makes it worse so I am committed to integrate self-accountability to my mindfulness practice and explore the way my words and actions can affect others in un-intended ways. From there, if I realize I have hurt someone I will face the fear and the guilt and look into why I did it and how it hurt the person. Without understanding the why and naming clearly the harm perpetrated it's almost impossible to take accountability without centering myself or avoiding parts of it and in the end healing the unconscious need which prompted the hurtful action.
 
+> "Accountability is about making a commitment to the people in our lives to work through destructive behaviors, toward healthier, more egalitarian relationships. Accountability is about the willingness to receive input from and be responsive to the people around us, prioritizing their needs, safety, and emotional health in our actions."
+<small>― [Crimethinc](http://anarchalibrary.blogspot.com/2012/04/thinking-through-perpetrator.html)</small>
+
 ### Grow a practice of gratitude  
 
 An always present source of happiness comes from noticing and appreciating what's already there. By training my mind to appreciate the moments I experience, the people I love, the things I have, and the things I create and noting it down every night it progressively made it easier to walk through every day noticing and appreciating the smallest things and feeling grateful for them. It also allowed me to accept parts of myself that were harder to reconcile with and notice my own growth in the things I do but as importantly in the things I don't do anymore.
@@ -76,6 +79,6 @@ I have a natural tendency to rationalize, organize and do, which serves me in a 
 
 
 ### Readings  
-[A piece on taking accountability](https://transformharm.org/9-ways-to-be-accountable-when-youve-been-abusive/)
+[A piece on taking accountability](https://transformharm.org/9-ways-to-be-accountable-when-youve-been-abusive/)  
 [Settlers - white history from a non-white perspective](https://readsettlers.org/intro.html)  
 [An intro to breathwork](https://psyche.co/guides/how-to-breathe-your-way-to-better-health-and-transcendence)
