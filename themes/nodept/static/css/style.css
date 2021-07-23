@@ -552,6 +552,7 @@ img {
 
 .tag-page .title {
   color: #9b3313; /* textColorAccent */
+  font-size: 1.9em;
 }
 
 .tag {
@@ -1286,7 +1287,7 @@ img {
     margin-right: auto;
     width: 173px;
   }
-  .list-page {
+  .list-page, .tag-page {
     flex-direction: column-reverse;
     width:100%;
   }
@@ -1406,5 +1407,8 @@ img {
   .folk-notes h3,
   .craft-notes h3 {
     font-size:2em;
+  }
+  .last-mod {
+    max-width:225px;
   }
 }

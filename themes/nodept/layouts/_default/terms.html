@@ -1,19 +1,21 @@
 {{ partial "header" . }}
 
-<div class="small-wrap big-padding-top tag-page">
-  <h1 class="title no-margin-bottom">Tags</h1>
-  <div class="intro">
-    All tags used on this site
-  </div>
-  <div class="big-padding-top">
-    <div class="columns">
-    {{ range .Data.Terms.ByCount }}
-      <div>
-        <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+<main>
+  <div class="small-wrap big-padding-top tag-page">
+    <h1 class="title no-margin-bottom">Tags</h1>
+    <div class="intro">
+      All tags used on this site
+    </div>
+    <div class="big-padding-top">
+      <div class="columns">
+      {{ range .Data.Terms.ByCount }}
+        <div>
+          <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+        </div>
+      {{ end }}
       </div>
-    {{ end }}
     </div>
   </div>
-</div>
+</main>
 
 {{ partial "footer" . }}

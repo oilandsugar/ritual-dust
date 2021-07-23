@@ -1,15 +1,19 @@
 {{ partial "header" . }}
-<div class="wrap big-padding-top single">
-  <div class="back-home">
-    <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
+
+<main>
+  <div class="wrap big-padding-top single">
+    <div class="back-home">
+      <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
+    </div>
+    <div class="page-title">
+      <span class="dingbats">{</span>
+      <h2 class="psych-1">{{ .Title }}</h2>
+      <span class="dingbats">{</span>
+    </div>
+    <div class="big-padding-top">
+      {{ .Content }}
+    </div>
   </div>
-  <div class="page-title">
-    <span class="dingbats">{</span>
-    <h2 class="psych-1">{{ .Title }}</h2>
-    <span class="dingbats">{</span>
-  </div>
-  <div class="big-padding-top">
-    {{ .Content }}
-  </div>
-</div>
+</main>
+
 {{ partial "footer" . }}

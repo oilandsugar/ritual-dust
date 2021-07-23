@@ -1,27 +1,29 @@
 {{ partial "header" . }}
 
-<div class="flex-row big-padding-top tag-page">
-  <div class="sidebar">
-    <div class="back-home">
-      <a href="/tags/"><h3>Back to all tags</h3></a>
+<main>
+  <div class="flex-row big-padding-top tag-page">
+    <aside class="sidebar">
+      <div class="back-home">
+        <a href="/tags/"><h3>Back to all tags</h3></a>
+      </div>
+      <h3 class="accent">Tags</h3>
+      <ul>
+          {{ range .Site.Taxonomies.tags.ByCount }}
+                  <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+          {{ end }}
+      </ul>
+    </aside>
+    <div class="wrap">
+      <h1 class="title">{{ .Title }}</h1>
+      <ul>
+      {{ range .Paginator.Pages }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+      </ul>
     </div>
-    <h3 class="accent">Tags</h3>
-    <ul>
-        {{ range .Site.Taxonomies.tags.ByCount }}
-                <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
-        {{ end }}
-    </ul>
   </div>
-  <div class="wrap">
-    <h1 class="title">{{ .Title }}</h1>
-    <ul>
-    {{ range .Paginator.Pages }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
-    {{ end }}
-    </ul>
-  </div>
-</div>
+</main>
 
 {{ partial "footer" . }}
