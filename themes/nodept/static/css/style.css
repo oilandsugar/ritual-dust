@@ -393,12 +393,6 @@ img {
   border-color: #9b3313; /* textColorAccent */
 }
 
-.resolution-toggle {
-  margin-left:auto;
-  display:inline-block;
-  float:right;
-}
-
 .resolution-toggle button {
   border: 2px solid;
   border-radius:4px;
@@ -441,6 +435,7 @@ img {
 
 .page-title h2 {
   font-size:1.17em;
+  line-height:1em;
 }
 
 .page-title span {
@@ -662,10 +657,9 @@ img {
   -webkit-column-break-inside: avoid;
 }
 
-.folklore-card h4 {
-  line-height: 2rem;
+.folklore-card h3 {
+  line-height: 3rem;
   margin: 0;
-  padding-top:16px; /* spacing_md */
   font-size: 3em;
 }
 
@@ -688,7 +682,7 @@ img {
   display: none;
 }
 
-.folk-notes h4 {
+.folk-notes h3 {
   font-family: "Basteleur"; /* psychFont1 */
   font-weight: 300;
   font-size: 3em;
@@ -716,7 +710,7 @@ img {
   -webkit-column-break-inside: avoid;
 }
 
-.recipe-card h4 {
+.recipe-card h3 {
   line-height: 3rem;
   margin: 0;
   font-size: 3em;
@@ -724,7 +718,7 @@ img {
 
 .cooking-notes {
   border: 2px solid;
-  padding-top: 14px;
+  padding-top: 24px; /* spacing_lg */
   padding-right:24px; /* spacing_lg */
   padding-bottom:24px; /* spacing_lg */
   padding-left:24px; /* spacing_lg */
@@ -735,7 +729,7 @@ img {
   display: none;
 }
 
-.cooking-notes h4 {
+.cooking-notes h3 {
   font-family: "Basteleur"; /* psychFont1 */
   font-weight: 300;
   font-size: 3em;
@@ -1007,6 +1001,11 @@ img {
 .sidebar .back-home h3 {
   padding-bottom: 0;
   border-bottom: none;
+}
+
+.sidebar a {
+  font-family: "Distro Bold";
+  font-size:1em;
 }
 
 .back-home a {
@@ -1330,7 +1329,7 @@ img {
     font-size:3em;
     line-height: 2.5rem;
   }
-  .recipe-card h4 {
+  .recipe-card h3 {
     font-size: 2.5em;
     padding-top: 8px; /* spacing_sm */
     line-height: 2rem;
@@ -1379,7 +1378,7 @@ img {
     display: block;
   }
   .bio {
-    margin-top:16px; /* spacing_md */
+    padding-top:0;
   }
   .profile-pic .photo {
     width: 80px;
@@ -1396,11 +1395,12 @@ img {
     line-height: 30px;
     text-align:center;
   }
-  .page-title h3 {
+  .page-title h2 {
     display: block;
+    padding-top: 16px;
   }
-  .bio.mobile {
-    display: flex;
+  .intro {
+    padding-top:16px;
   }
   .categories .flex-row {
     display: block;

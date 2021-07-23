@@ -3,6 +3,7 @@ title = "Off-grid living"
 draft = false
 date = "2020-10-31"
 image = "/img/folklore/off-grid.jpg"
+desc = "Notes on off-grid living"
 tags = ["sustainability"]
 +++
 
