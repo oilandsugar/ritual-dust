@@ -602,9 +602,9 @@ img {
   content: ", and ";
 }
 
-/* ---------- WORKS --------------- */
+/* ---------- ALL CARDS --------------- */
 
-.project-card {
+.card {
   text-decoration: none;
   margin-bottom: 48px; /* spacing_xl */
   display: block;
@@ -613,18 +613,21 @@ img {
   -webkit-column-break-inside: avoid;
 }
 
-.project-card h4 {
-  line-height: 2rem;
+.card h3 {
+  line-height: 3rem;
+  padding-bottom:8px;
   margin: 0;
-  padding-top:16px; /* spacing_md */
   font-size: 3em;
 }
 
-.project-card .desc {
+.card .desc {
   font-weight: normal;
   font-size:18px;
   line-height:1.2em;
+  padding-bottom:8px;
 }
+
+/* ---------- WORKS --------------- */
 
 .youtube-video-container {
   position: relative;
@@ -647,27 +650,6 @@ img {
 }
 
 /* ---------- FOLKLORE --------------- */
-
-.folklore-card {
-  text-decoration: none;
-  margin-bottom: 48px; /* spacing_xl */
-  display: block;
-  page-break-inside: avoid;
-  break-inside: avoid;
-  -webkit-column-break-inside: avoid;
-}
-
-.folklore-card h3 {
-  line-height: 3rem;
-  margin: 0;
-  font-size: 3em;
-}
-
-.folklore-card .desc {
-  font-weight: normal;
-  font-size:18px;
-  line-height:1.2em;
-}
 
 .folk-notes {
   border: 2px solid;
@@ -701,20 +683,6 @@ img {
 }
 
 /* -------- RECIPES ---------*/
-
-.recipe-card {
-  margin-bottom: 48px; /* spacing_xl */
-  display: block;
-  page-break-inside: avoid;
-  break-inside: avoid;
-  -webkit-column-break-inside: avoid;
-}
-
-.recipe-card h3 {
-  line-height: 3rem;
-  margin: 0;
-  font-size: 3em;
-}
 
 .cooking-notes {
   border: 2px solid;
@@ -754,6 +722,7 @@ img {
 .specs {
   margin-bottom: 8px; /* spacing_sm */
   font-size: 18px;
+  line-height:18px;
 }
 
 .ingredients {
@@ -820,23 +789,6 @@ img {
 }
 
 /* -------- CRAFTS ---------*/
-
-.craft-card {
-  text-decoration: none;
-  margin-bottom: 48px; /* spacing_xl */
-  display: block;
-  page-break-inside: avoid;
-  break-inside: avoid;
-  -webkit-column-break-inside: avoid;
-}
-
-.craft-card h4 {
-  margin-top: 16px; /* spacing_md */
-  margin-right:0;
-  margin-bottom: 0;
-  margin-left:0;
-  font-size: 3em;
-}
 
 .craft-card .desc {
   font-weight: normal;
@@ -1325,15 +1277,6 @@ img {
   .dingbats {
     font-size: 35px;
   }
-  .craft-card.notes h4, .cooking-notes h4, .folk-notes h4 {
-    font-size:3em;
-    line-height: 2.5rem;
-  }
-  .recipe-card h3 {
-    font-size: 2.5em;
-    padding-top: 8px; /* spacing_sm */
-    line-height: 2rem;
-  }
   .single-page {
     flex-direction:column-reverse;
     width:100%;
@@ -1450,5 +1393,18 @@ img {
   .product .desc {
     padding-left:0;
     padding-top: 16px; /* spacing_md */
+  }
+  .card {
+    margin-bottom: 16px; /* spacing_md */
+  }
+  .card h3 {
+    font-size: 2.5em;
+    padding-top: 8px; /* spacing_sm */
+    line-height: 2rem;
+  }
+  .cooking-notes h3,
+  .folk-notes h3,
+  .craft-notes h3 {
+    font-size:2em;
   }
 }

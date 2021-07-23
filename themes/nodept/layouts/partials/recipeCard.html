@@ -1,7 +1,7 @@
 {{ $cover := index (.Params.images) 0 }}
 {{ $lowResCover := replace $cover ".jpg" "-low.jpg" }}
 
-<a href="{{ .Permalink }}" class="recipe-card {{ range .Params.tags }}{{ . }} {{ end }}">
+<a href="{{ .Permalink }}" class="recipe-card card {{ range .Params.tags }}{{ . }} {{ end }}">
   <h3 class="blackletter">{{ .Title }}</h3>
   <div class="specs psych-2">
     {{ with .Params.prepTime }}<span class="prep-time">{{ . }} to prep</span>

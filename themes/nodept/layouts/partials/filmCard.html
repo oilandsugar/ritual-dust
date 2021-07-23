@@ -1,7 +1,7 @@
 {{$cover := .Params.image }}
 {{ $lowResCover := replace .Params.image ".jpg" "-low.jpg" }}
 
-<a href="{{ .Permalink }}" class="film-card {{ range .Params.tags }}{{ . }} {{ end }}">
+<a href="{{ .Permalink }}" class="film-card card {{ range .Params.tags }}{{ . }} {{ end }}">
   <div class="movie-wrap">
     <div class="movie">
       <img loading="lazy" class="to-toggle low" src="{{ $lowResCover | safeURL }}" alt="{{ .Title }}">
