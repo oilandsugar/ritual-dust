@@ -12,9 +12,9 @@ Software tools for me are mostly a mean to an end, although I do enjoy building 
 - Darktable for raw file editing  
 - Gimp for photo editing
 - Krita for digital painting  
-- Adobe Illutrator for vector (transitioning to inkscape)
-- Adobe Première for video editing (transitioning to blender)  
-- Adobe InDesign for book layout (looking for an alternative)  
+- Adobe Illutrator **($)** for vector (transitioning to inkscape)
+- Adobe Première **($)** for video editing (transitioning to blender)  
+- Adobe InDesign **($)** for book layout (looking for an alternative)  
 
 ## Coding tools
 
