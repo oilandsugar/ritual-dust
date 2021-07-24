@@ -1193,6 +1193,7 @@ article {
 .webring {
   display: inline-block;
   margin-right:16px; /* spacing_md */
+  border-bottom-style: none;
 }
 
 .webring svg {

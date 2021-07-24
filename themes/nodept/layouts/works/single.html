@@ -1,4 +1,4 @@
-{{ partial "header" . }}
+{{ partialCached "header" . }}
 
 <main>
   <div class="flex-row big-padding-top single-page">
@@ -20,7 +20,7 @@
         <div id="icon-works" class="icon"></div>
       </aside>
     <article class="wrap single">
-      <span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>
+      <span class="dingbats">{{ partialCached "icons/weirdspiral" . }}</span>
       <h1 class="psych-1">{{ .Title }}</h1>
       {{ with (.GetTerms "tags") }}
         <ul class="tags">
@@ -40,4 +40,4 @@
   </div>
 </main>
 
-{{ partial "footer" . }}
+{{ partialCached "footer" . }}

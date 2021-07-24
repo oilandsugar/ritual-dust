@@ -1,4 +1,4 @@
-{{ partial "header" . }}
+{{ partialCached "header" . }}
 
 <main>
   <div class="wrap big-padding-top single">
@@ -6,9 +6,9 @@
       <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
     </div>
     <div class="page-title">
-      <span class="dingbats">{{ partial "icons/flower" . }}</span>
+      <span class="dingbats">{{ partialCached "icons/flower" . }}</span>
       <h2 class="psych-1">{{ .Title }}</h2>
-      <span class="dingbats">{{ partial "icons/flower" . }}</span> 
+      <span class="dingbats">{{ partialCached "icons/flower" . }}</span>
     </div>
     <div class="big-padding-top">
       {{ .Content }}
@@ -16,4 +16,4 @@
   </div>
 </main>
 
-{{ partial "footer" . }}
+{{ partialCached "footer" . }}

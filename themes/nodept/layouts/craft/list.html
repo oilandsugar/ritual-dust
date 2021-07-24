@@ -1,4 +1,4 @@
-{{ partial "header" . }}
+{{ partialCached "header" . }}
 
 <main>
   <div class="flex-row big-padding-top list-page">
@@ -45,9 +45,9 @@
     <article>
       <div class="small-wrap craft">
         <div class="page-title">
-          <span class="dingbats">{{ partial "icons/star" . }}</span>
+          <span class="dingbats">{{ partialCached "icons/star" . }}</span>
           <h1 class="psych-1">{{ .Title }}</h1>
-          <span class="dingbats">{{ partial "icons/star" . }}</span>
+          <span class="dingbats">{{ partialCached "icons/star" . }}</span>
           <h2 class="psych-2">{{ .Params.subtitle }}</h2>
         </div>
         <div class="intro">
@@ -74,4 +74,4 @@
   </div>
 </main>
 
-{{ partial "footer" . }}
+{{ partialCached "footer" . }}

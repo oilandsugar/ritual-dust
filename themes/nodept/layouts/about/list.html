@@ -1,4 +1,4 @@
-{{ partial "header" . }}
+{{ partialCached "header" . }}
 
 <main>
   <div class="flex-row big-padding-top list-page">
@@ -17,9 +17,9 @@
       </aside>
     <article class="small-wrap">
       <div class="page-title">
-        <span class="dingbats">{{ partial "icons/spiral" . }}</span>
+        <span class="dingbats">{{ partialCached "icons/spiral" . }}</span>
         <h1 class="psych-1">{{ .Title }}</h1>
-        <span class="dingbats">{{ partial "icons/spiral" . }}</span>
+        <span class="dingbats">{{ partialCached "icons/spiral" . }}</span>
       </div>
       <div>
       {{.Content}}
@@ -28,4 +28,4 @@
   </div>
 </main>
 
-{{ partial "footer" . }}
+{{ partialCached "footer" . }}
