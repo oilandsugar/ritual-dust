@@ -354,7 +354,7 @@ img {
   border-left:2px solid;
 }
 
-/* ------------ menu ------------- */
+/* ------------ MENU ------------- */
 
 .menu ul {
   list-style:none;
@@ -401,6 +401,8 @@ img {
   mix-blend-mode:multiply;
 }
 
+/* ------------ PAGE TITLE ------------- */
+
 .page-title {
   line-height: 50px;
   color: #9b3313; /* textColorAccent */
@@ -442,10 +444,13 @@ img {
   padding-left:0;
 }
 
-/* ---------- home ----------- */
+/* ---------- HOME ----------- */
 
 .home-content .section {
-  flex: 1;
+  display:inline-block;
+  width:24%;
+  box-sizing:border-box;
+  vertical-align: top;
 }
 
 .home-content .section ul {
@@ -537,16 +542,6 @@ img {
 
 .social svg:hover {
   fill: #9b3313; /* textColorAccent */
-}
-
-.categories {
-  margin: 0 -16px; /* spacing_md */
-}
-
-.categories a {
-  text-decoration: none;
-  flex: 1;
-  line-height: 0;
 }
 
 /* ---------- taxonomies ----------- */
@@ -731,7 +726,9 @@ img {
   max-width: 300px;
   min-width: 300px;
   padding-right: 24px; /* spacing_lg */
-  flex: 1;
+  display:inline-block;
+  vertical-align:top;
+  box-sizing: border-box;
 }
 
 .ingredients ul {
@@ -758,7 +755,8 @@ img {
 }
 
 .steps {
-  flex: 3;
+  display:inline-block;
+  vertical-align: top;
   max-width: 500px;
 }
 
@@ -952,17 +950,6 @@ img {
   margin-bottom: 8px; /* spacing_sm */
 }
 
-.sidebar .back-home h3 {
-  padding-bottom: 0;
-  border-bottom: none;
-}
-
-.sidebar a {
-  font-family: "Distro Bold";
-  font-size:1em;
-  border-bottom-style:none;
-}
-
 .back-home a {
   text-decoration: none;
 }
@@ -982,7 +969,7 @@ img {
   line-height: 1.2em;
 }
 
-/* ------ containers ------ */
+/* -------- STRUCTURE ---------*/
 
 .full-wrap {
   padding: 0 2em;
@@ -1003,14 +990,35 @@ img {
   margin: 0;
 }
 
+aside {
+  display:inline-block;
+  vertical-align:top;
+}
+
 .sidebar {
-  position: sticky;
+  position: static;
   top:24px; /* spacing_lg */
   font-size: 18px;
   line-height: 24px;
   padding: 0 2em;
   max-width: 200px;
   min-width: 200px;
+}
+
+.sidebar .back-home h3 {
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.sidebar a {
+  font-family: "Distro Bold";
+  font-size:1em;
+  border-bottom-style:none;
+}
+
+article {
+  display:inline-block;
+  width: calc(100% - 280px);
 }
 
 .sidebar h3 {
@@ -1022,63 +1030,6 @@ img {
   list-style: none;
   margin: 0;
   padding: 0;
-}
-
-/* -------- FLEX ---------*/
-
-.flex-row {
-  display: -webkit-flex;
-  -webkit-flex-direction: row;
-  display: flex;
-  flex-direction: row;
-}
-
-.flex-col {
-  display: -webkit-flex;
-  -webkit-flex-direction: column;
-  display: flex;
-  flex-direction: column;
-}
-
-.flex-wrap {
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-}
-
-.flex-1 {
-  -webkit-flex: 1;
-  -ms-flex: 1;
-  flex: 1;
-}
-
-.flex-2 {
-  -webkit-flex: 2;
-  -ms-flex: 2;
-  flex: 2;
-}
-
-.flex-3 {
-  -webkit-flex: 3;
-  -ms-flex: 3;
-  flex: 3;
-}
-
-.flex-4 {
-  -webkit-flex: 4;
-  -ms-flex: 4;
-  flex: 4;
-}
-
-.flex-5 {
-  -webkit-flex: 5;
-  -ms-flex: 5;
-  flex: 5;
-}
-
-.flex-6 {
-  -webkit-flex: 6;
-  -ms-flex: 6;
-  flex: 6;
 }
 
 .columns {
@@ -1102,7 +1053,9 @@ img {
 }
 
 .half {
-  flex:1;
+  display:inline-block;
+  box-sizing: border-box;
+  width:50%;
   line-height:0;
   padding-top:0;
   padding-right: 8px; /* spacing_sm */
@@ -1221,13 +1174,6 @@ img {
   margin-bottom: 0 !important;
 }
 
-.flex-row.desktop {
-  display: -webkit-flex;
-  -webkit-flex-direction: row;
-  display: flex;
-  flex-direction: row;
-}
-
 /* -------- footer --------- */
 
 .footer {
@@ -1280,17 +1226,12 @@ img {
   .dingbats {
     font-size: 35px;
   }
-  .single-page {
-    flex-direction:column-reverse;
-    width:100%;
-  }
   .list-page .icon, .single-page .icon {
     margin-left: auto;
     margin-right: auto;
     width: 173px;
   }
-  .list-page, .tag-page {
-    flex-direction: column-reverse;
+  .list-page, .tag-page, .single-page {
     width:100%;
   }
   .mobile {
@@ -1308,6 +1249,10 @@ img {
   .full-wrap,
   .sidebar {
     padding: 0 24px; /* spacing_lg */
+    box-sizing: border-box;
+  }
+  article {
+    width:100%;
   }
   .sidebar {
     max-width:100%;
@@ -1319,9 +1264,6 @@ img {
   }
   .big-padding-top {
     padding-top: 30px;
-  }
-  .top-page-row {
-    display: block;
   }
   .bio {
     padding-top:0;
@@ -1348,20 +1290,17 @@ img {
   .intro {
     padding-top:16px;
   }
-  .categories .flex-row {
+  .categories .flex-row,
+  .footer .flex-row,
+  .food .flex-row,
+  .top-page-row {
     display: block;
   }
   .footer {
     height: auto;
   }
-  .footer .flex-row {
-    display: block;
-  }
   .footer span {
     line-height: 28px;
-  }
-  .food .flex-row {
-    display: block;
   }
   .food .resources {
     margin-top: 48px; /* spacing_xl */
@@ -1375,11 +1314,10 @@ img {
   .recipe-content .steps {
     padding-top: 16px; /* spacing_md */
   }
-  .home-content .flex-row {
-    flex-direction: column;
-  }
   .home-content .section {
     padding-top: 16px; /* spacing_md */
+    display:block;
+    width:100%;
   }
   .ornament {
     display: none;
@@ -1413,4 +1351,106 @@ img {
   .last-mod {
     max-width:225px;
   }
+}
+
+/* -------- PROGRESSIVE ENHANCEMENTS --------- */
+
+@supports (position: sticky) {
+  .sidebar {
+    position: sticky;
+  }
+}
+
+@supports (display: flex) {
+
+  .home-content .section {
+    flex: 1;
+  }
+
+  .ingredients {
+    flex: 1;
+  }
+
+  .steps {
+    flex: 3;
+  }
+
+  .half {
+    flex:1;
+  }
+
+  .flex-row {
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .flex-col {
+    display: -webkit-flex;
+    -webkit-flex-direction: column;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .flex-wrap {
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+  }
+
+  .flex-1 {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+  }
+
+  .flex-2 {
+    -webkit-flex: 2;
+    -ms-flex: 2;
+    flex: 2;
+  }
+
+  .flex-3 {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+  }
+
+  .flex-4 {
+    -webkit-flex: 4;
+    -ms-flex: 4;
+    flex: 4;
+  }
+
+  .flex-5 {
+    -webkit-flex: 5;
+    -ms-flex: 5;
+    flex: 5;
+  }
+
+  .flex-6 {
+    -webkit-flex: 6;
+    -ms-flex: 6;
+    flex: 6;
+  }
+
+  .flex-row.desktop {
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+    display: flex;
+    flex-direction: row;
+  }
+
+  @media screen and (max-width: 599px) {
+
+    .home-content .flex-row {
+      flex-direction: column;
+    }
+
+    .list-page, .tag-page, .single-page {
+      flex-direction: column-reverse;
+    }
+
+  }
+
 }
