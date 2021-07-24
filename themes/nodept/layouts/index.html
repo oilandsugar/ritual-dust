@@ -33,7 +33,7 @@
             <div class="flex-row">
               <div class="section small-padding-right">
                 <div id="icon-works" class="icon"></div>
-                <h2 class="accent">Recent works</h2>
+                <h2 class="accent"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>Recent works</h2>
                 <ul>
                 {{ range ( where .Site.RegularPages "Section" "works" | first 5 ) }}
                   <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
@@ -43,7 +43,7 @@
               </div>
               <div class="section small-padding-right">
                 <div id="icon-craft" class="icon"></div>
-                <h2 class="accent">On the workbench</h2>
+                <h2 class="accent"><span class="dingbats">{{ partial "icons/star" . }}</span>On the workbench</h2>
                 <ul>
                 {{ range ( where .Site.RegularPages "Section" "craft" | first 5 ) }}
                   <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
@@ -53,7 +53,7 @@
               </div>
               <div class="section small-padding-right">
                 <div id="icon-folklore" class="icon"></div>
-                <h2 class="accent">New folklore</h2>
+                <h2 class="accent"><span class="dingbats">{{ partial "icons/diamond" . }}</span>New folklore</h2>
                 <ul>
                 {{ range ( where .Site.RegularPages "Section" "folklore" | first 5 ) }}
                   <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
@@ -63,7 +63,7 @@
               </div>
               <div class="section small-padding-right">
                 <div id="icon-food" class="icon"></div>
-                <h2 class="accent">Recipe book</h2>
+                <h2 class="accent"><span class="dingbats">{{ partial "icons/flower" . }}</span>Recipe book</h2>
                 <ul>
                 {{ range ( where .Site.RegularPages "Section" "food" | first 5 ) }}
                   <li><a href="{{.Permalink}}">{{ .Title }}</a></li>

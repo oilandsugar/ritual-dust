@@ -53,7 +53,7 @@
 
 html {
   font-family: "Wremena"; /* mainFont */
-  font-weight: lighter;
+  font-weight: 400;
   font-size: 22px;
   line-height: 33px;
 }
@@ -103,22 +103,6 @@ body {
   font-style: normal;
   font-weight: normal;
   src: local("Distro Bold"), url("webfonts/DISTROB_.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Distro Bats";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Distro Bats"), url("webfonts/DISTROBT.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Wremena";
-  src: url("webfonts/Wremena-Light.woff2") format("woff2"),
-    url("webfonts/Wremena-Light.woff") format("woff");
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
 }
 
 @font-face {
@@ -273,9 +257,12 @@ small {
 }
 
 .dingbats {
-  font-family: "Distro Bats";
   font-size: 40px;
   color: #9b3313; /* textColorAccent */
+}
+
+.dingbats path {
+  fill: #9b3313; /* textColorAccent */
 }
 
 .ornament {

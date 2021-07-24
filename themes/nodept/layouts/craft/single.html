@@ -20,6 +20,7 @@
       </aside>
     </div>
     <article class="wrap single">
+      <span class="dingbats">{{ partial "icons/star" . }}</span>
       <h1 class="psych-1">{{ .Title }}</h1>
       {{ with (.GetTerms "tags") }}
         <ul class="tags">

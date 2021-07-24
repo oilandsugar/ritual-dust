@@ -21,6 +21,7 @@
       </aside>
     </div>
     <article class="wrap single recipe">
+      <span class="dingbats">{{ partial "icons/flower" . }}</span>
       <h1 class="psych-1 no-margin-bottom">{{.Title}}</h1>
       <div class="specs psych-2">
         {{ with .Params.prepTime }}<span class="prep-time">{{ . }} to prep</span>
