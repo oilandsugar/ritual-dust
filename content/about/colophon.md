@@ -1,7 +1,7 @@
 +++
 title = "Colophon"
 date = "2020-10-26"
-weight = 9
+weight = 11
 +++
 
 ### Fonts
