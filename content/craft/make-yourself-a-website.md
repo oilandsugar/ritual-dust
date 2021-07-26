@@ -44,6 +44,7 @@ Want to read more about this side of the web, I got you covered:
 [A list of magical script fonts, I mean how cool is this](http://www.geocities.ws/nu_isis/fonts.html)
 
 ## Practical knowledge to get you started:  
+[A cool webzine on how to make a website from scratch](https://solarpunk.cool/zines/web-zine-01/table-of-contents.html)  
 [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)  
 [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)  
 [A visual reference for CSS](https://cssreference.io/)  
