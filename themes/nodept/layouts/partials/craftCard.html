@@ -1,10 +1,15 @@
-{{$cover := .Params.image }}
+{{ $cover := .Params.image }}
 {{ $lowResCover := replace .Params.image ".jpg" "-low.jpg" }}
 
 <a href="{{ .Permalink }}" class="craft-card card {{ range .Params.tags }}{{ . }} {{ end }}">
   <h3 class="blackletter small-padding-bottom">{{ .Title }}</h3>
   <div class="desc psych-2">{{ .Params.desc }}</div>
   <div class="picture">
-    <img class="to-toggle low" src="{{ $lowResCover | safeURL }}" alt="{{ .Title }}">
+    <img
+      class="to-toggle low"
+      data-srclow="{{ $lowResCover | safeURL }}"
+      data-srchi="{{ $cover | safeURL }}"
+      src="{{ $lowResCover | safeURL }}"
+      alt="{{ .Title }}">
   </div>
 </a>

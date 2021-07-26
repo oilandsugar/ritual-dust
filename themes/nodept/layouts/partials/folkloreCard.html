@@ -5,6 +5,11 @@
   <h3 class="blackletter">{{ .Title }}</h3>
   <div class="desc psych-2">{{ .Params.desc }}</div>
   <div class="picture">
-    <img class="to-toggle low" src="{{ $lowResCover | safeURL }}" alt="{{ .Title }}">
+    <img
+      class="to-toggle low"
+      data-srclow="{{ $lowResCover | safeURL }}"
+      data-srchi="{{ $cover | safeURL }}"
+      src="{{ $lowResCover | safeURL }}"
+      alt="{{ .Title }}">
   </div>
 </a>
