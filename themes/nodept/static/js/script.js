@@ -9,9 +9,7 @@ const onToggle = (e)=> {
     imgToggleBtn.title = "Load low resolution images";
     imagesToToggle.forEach((img) => {
       img.classList.toggle("low");
-      let currentSrc = img.src;
-      let newSrc = currentSrc.replace("-low", "");
-      img.src = newSrc;
+      img.src = img.dataset.srchi;
     });
   } else {
     imgToggleBtn.classList.toggle("h");
@@ -21,11 +19,7 @@ const onToggle = (e)=> {
     imagesToToggle.forEach((img) => {
       img.classList.toggle("low");
       let currentSrc = img.src;
-      let splitSrc = currentSrc.split(".");
-      console.log(splitSrc, "split")
-      let newSrc = [splitSrc[0], "-low.", splitSrc[1]].join("");
-      console.log(newSrc, "new")
-      img.src = newSrc;
+      img.src = img.dataset.srclow;
     });
   }
 }

@@ -2,11 +2,23 @@
 
 {{ if .Title }}
   <figure>
-    <img loading="lazy" class="to-toggle low" src="{{ $lowResPath | safeURL }}" alt="{{ .Text }}">
+    <img
+      loading="lazy"
+      class="to-toggle low"
+      data-srclow="{{ $lowResPath | safeURL }}"
+      data-srchi="{{ .Destination | safeURL }}"
+      src="{{ $lowResPath | safeURL }}"
+      alt="{{ .Text }}">
     <figcaption>{{ .Title }}</figcaption>
   </figure>
 {{ else }}
   <figure>
-    <img loading="lazy" class="to-toggle low" src="{{ $lowResPath | safeURL }}" alt="{{ .Text }}">
+    <img
+      loading="lazy"
+      class="to-toggle low"
+      data-srclow="{{ $lowResPath | safeURL }}"
+      data-srchi="{{ .Destination | safeURL }}"
+      src="{{ $lowResPath | safeURL }}"
+      alt="{{ .Text }}">
   </figure>
 {{ end }}

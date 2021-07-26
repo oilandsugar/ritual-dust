@@ -84,3 +84,5 @@ https://evergreenreview.com/read/donald-trumps-operation-mindfuck/
 https://c4ss.org/content/53915  
 https://blog.deathtobullshit.com/  
 https://www.lowtechmagazine.com/
+
+https://archive.qzap.org/index.php/Splash/Index
