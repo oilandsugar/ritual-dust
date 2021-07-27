@@ -219,6 +219,10 @@ a:hover {
   color: #9b3313; /* textColorAccent */
 }
 
+a strong {
+  font-size:1em;
+}
+
 strong {
   font-family: "CalFrakturModern"; /* blackletterFont */
   font-weight: bold;

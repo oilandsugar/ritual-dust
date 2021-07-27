@@ -1,7 +1,7 @@
 +++
 title = "Tattoo ideas"
 date = "2021-06-13"
-weight = 6
+weight = 8
 intro = "A list of tattoos I got and I'd like to get"
 +++
 
