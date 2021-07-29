@@ -1,7 +1,7 @@
 +++
 title = "Make yourself a website"
 date = "2021-07-26"
-tags = ["craft", "notes", "websites"]
+tags = ["craft", "notes", "website"]
 weight = 2
 desc = "Escape the boring and controlling grid of social media and give your words, your work and yourself a better place to live on the web"
 +++

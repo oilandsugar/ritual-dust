@@ -16,7 +16,7 @@
     <div class="wrap">
       <h1 class="title">{{ .Title }}</h1>
       <ul>
-      {{ range .Paginator.Pages }}
+      {{ range .Pages }}
         <li>
           <a href="{{ .Permalink }}">{{ .Title }}</a>
         </li>
