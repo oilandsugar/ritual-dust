@@ -1,0 +1,34 @@
+{{ partialCached "header" . }}
+
+{{ $topPages := .Site.Sections }}
+
+<main>
+  <div class="flex-row big-padding-top list-page tree">
+    <article>
+      <div class="full-wrap">
+        <h1 class="accent">{{ .Title }}</h1>
+        <ul>
+          {{ range $topPages }}
+            <li>
+              {{ if eq .Section "works" }}
+                <span class="dingbats">{{ partialCached "icons/weirdspiral" . }}</span>
+              {{ else if eq .Section "folklore" }}
+                <span class="dingbats">{{ partialCached "icons/diamond" . }}</span>
+              {{ else if eq .Section "craft" }}
+                <span class="dingbats">{{ partialCached "icons/star" . }}</span>
+              {{ else if eq .Section "about" }}
+                <span class="dingbats">{{ partialCached "icons/spiral" . }}</span>
+              {{ else if eq .Section "food" }}
+                <span class="dingbats">{{ partialCached "icons/flower" . }}</span>
+              {{ end}}
+              <a href="{{ .Permalink }}"><h2 class="accent">{{ .Title }}</h2></a>{{ if in .Params.tags "notes" }}<span class="note-tag">note</span>{{ end }}
+              {{ partial "treelist.html" (union .Pages .Sections) }}
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    </article>
+  </div>
+</main>
+
+{{ partialCached "footer" . }}

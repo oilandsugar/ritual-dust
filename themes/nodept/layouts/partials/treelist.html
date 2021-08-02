@@ -1,0 +1,21 @@
+{{ if gt (len .) 0 }}
+  <ul>
+    {{ range sort . "File.Path" }}
+      <li>
+        {{ if eq .Section "works" }}
+          <span class="dingbats">{{ partialCached "icons/weirdspiral" . }}</span>
+        {{ else if eq .Section "folklore" }}
+          <span class="dingbats">{{ partialCached "icons/diamond" . }}</span>
+        {{ else if eq .Section "craft" }}
+          <span class="dingbats">{{ partialCached "icons/star" . }}</span>
+        {{ else if eq .Section "about" }}
+          <span class="dingbats">{{ partialCached "icons/spiral" . }}</span>
+        {{ else if eq .Section "food" }}
+          <span class="dingbats">{{ partialCached "icons/flower" . }}</span>
+        {{ end}}
+        <a href="{{ .Permalink }}">{{ .Title }}</a>{{ if in .Params.tags "notes" }}<span class="note-tag">note</span>{{ end }}
+        {{ partial "treelist.html" (union .Pages .Sections) }}
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

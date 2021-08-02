@@ -954,6 +954,17 @@ img {
   background: var(--b_med);
 }
 
+/* -------- TREE ---------*/
+
+.tree h2 {
+  display:inline-block;
+  margin-top: 16px; /* spacing_md */
+}
+
+.tree ul {
+  list-style:none;
+}
+
 /* -------- STRUCTURE ---------*/
 
 .full-wrap {
