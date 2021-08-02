@@ -1,7 +1,7 @@
 +++
 title = "Wyrd terms"
 date = "2020-10-19"
-tags = ["folk-notes"]
+tags = ["notes"]
 
 intro = "Here is my ever-growing collection of wyrd terms collected online, in books and in conversations. Getting familiar with these concepts and integrating these words in my vocabulary is part of my commitment to re-enchantment."
 +++

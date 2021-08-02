@@ -1,0 +1,42 @@
+{{ partialCached "header" . }}
+
+{{ $timeline := .Site.RegularPages.GroupByDate "2006-01" }}
+
+<main>
+  <div class="flex-row big-padding-top list-page timeline">
+      <article>
+        <div class="full-wrap">
+          <h1 class="accent">{{ .Title }}</h1>
+          {{ range $timeline }}
+            <h2 class="accent">{{ .Key }}</h2>
+            <div class="stats">
+            {{ $pagesbysection := .Pages.GroupBy "Section"}}
+            {{ range $pagesbysection }}
+              <div class=stat>
+                {{ len .Pages }} {{ .Key }}
+              </div>
+            {{ end }}
+            </div>
+            <div class="projects medium-padding-bottom">
+              {{ range .Pages}}
+                {{ if eq .Section "works" }}
+                  <span class="dingbats">{{ partialCached "icons/weirdspiral" . }}</span>
+                {{ else if eq .Section "folklore" }}
+                  <span class="dingbats">{{ partialCached "icons/diamond" . }}</span>
+                {{ else if eq .Section "craft" }}
+                  <span class="dingbats">{{ partialCached "icons/star" . }}</span>
+                {{ else if eq .Section "about" }}
+                  <span class="dingbats">{{ partialCached "icons/spiral" . }}</span>
+                {{ else if eq .Section "food" }}
+                  <span class="dingbats">{{ partialCached "icons/flower" . }}</span>
+                {{ end}}
+                <a href="{{ .Permalink }}">{{ .Title }}</a><br/>
+              {{ end }}
+            </div>
+          {{ end }}
+        </div>
+      </article>
+  </div>
+</main>
+
+{{ partialCached "footer" . }}

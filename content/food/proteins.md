@@ -1,6 +1,6 @@
 +++
 title = "Plant-based proteins"
-tags = ["protein", "cooking-notes"]
+tags = ["protein", "notes"]
 date = "2020-10-20"
 
 images = []

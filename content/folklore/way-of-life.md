@@ -2,7 +2,7 @@
 title = "Way of life"
 date = "2021-06-20"
 draft = "false"
-tags = ["folk-notes"]
+tags = ["notes"]
 weight = 1
 +++
 

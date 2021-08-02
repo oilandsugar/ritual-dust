@@ -16,7 +16,7 @@
   --background: #fff0b7;
   --f_high: #9b3313;
   --f_med: #b25c02;
-  --f_low: #b25c02;
+  --b_med: #fffbee;
 }
 
 /* ----------- structure -------------- */
@@ -643,42 +643,9 @@ img {
   height: 100%;
 }
 
-/* ---------- FOLKLORE --------------- */
+/* ----- NOTES ------ */
 
-.folk-notes {
-  border: 2px solid;
-  padding-top: 14px;
-  padding-right: 24px; /* spacing_lg */
-  padding-bottom: 24px; /* spacing_lg */
-  padding-left: 24px; /* spacing_lg */
-  border-radius: 12px;
-}
-
-.folk-notes .picture {
-  display: none;
-}
-
-.folk-notes h3 {
-  font-family: "Basteleur"; /* psychFont1 */
-  font-weight: 300;
-  font-size: 3em;
-  line-height: 3.2rem;
-  padding: 0;
-  word-break: break-word;
-}
-
-.folk-notes h4:before {
-  content: "Folk notes";
-  font-family: "Cooper Std"; /* psychFont2 */
-  font-weight: lighter;
-  font-size: 22px;
-  line-height: 40px;
-  display: block;
-}
-
-/* -------- RECIPES ---------*/
-
-.cooking-notes {
+.notes {
   border: 2px solid;
   padding-top: 24px; /* spacing_lg */
   padding-right:24px; /* spacing_lg */
@@ -687,11 +654,11 @@ img {
   border-radius: 12px;
 }
 
-.cooking-notes .picture {
+.notes .picture {
   display: none;
 }
 
-.cooking-notes h3 {
+.notes h3 {
   font-family: "Basteleur"; /* psychFont1 */
   font-weight: 300;
   font-size: 3em;
@@ -700,13 +667,33 @@ img {
   word-break: break-word;
 }
 
-.cooking-notes h4:before {
-  content: "Cooking note";
+.notes h3:before {
+  content: "Note";
   font-family: "Cooper Std"; /* psychFont2 */
   font-weight: lighter;
   font-size: 22px;
   line-height: 40px;
   display: block;
+}
+
+.notes .desc {
+  margin-top:16px; /* spacing_md */
+}
+
+.notes .picture {
+  display: none;
+}
+
+/* ---------- FOLKLORE --------------- */
+
+.folklore-card.notes h3:before {
+  content: "Folklore note";
+}
+
+/* -------- RECIPES ---------*/
+
+.recipe-card.notes h3:before {
+  content: "Cooking note";
 }
 
 .recipes a {
@@ -793,33 +780,8 @@ img {
   line-height:1.2em;
 }
 
-.craft-card.notes {
-  border: 2px dashed;
-  border-radius: 12px;
-  padding-top:14px;
-  padding-right:24px; /* spacing_lg */
-  padding-bottom:10px;
-  padding-left:24px; /* spacing_lg */
-}
-
-.craft-card.notes .picture {
-  display: none;
-}
-
-.craft-card.notes h4 {
-  font-family: "Basteleur"; /* psychFont1 */
-  font-weight: 300;
-  margin: 0;
-  line-height: 3rem;
-}
-
-.craft-card.notes h4:before {
+.craft-card.notes h3:before {
   content: "Craft note";
-  font-family: "Cooper Std"; /* psychFont2 */
-  font-weight: lighter;
-  font-size: 22px;
-  line-height: 40px;
-  display: block;
 }
 
 .shop-link {
@@ -967,6 +929,29 @@ img {
   opacity: 0.5;
   font-size: 14px;
   line-height: 1.2em;
+}
+
+/* -------- TIMELINE ---------*/
+
+.timeline h2 {
+  margin-bottom: 16px; /* spacing_md */
+}
+
+.stats {
+  font-size:14px;
+  font-weight:bold;
+  font-family: "Distro Bold";
+  margin-bottom: 16px; /* spacing_md */
+}
+
+.stat {
+  display:inline-block;
+  margin-right: 8px; /* spacing_sm */
+  padding-left: 8px; /* spacing_sm */
+  padding-right: 8px; /* spacing_sm */
+  border-radius:4px;
+  background:#fff;
+  background: var(--b_med);
 }
 
 /* -------- STRUCTURE ---------*/

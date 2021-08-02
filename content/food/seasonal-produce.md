@@ -1,6 +1,6 @@
 +++
 title = "Seasonal produce of Québec"
-tags = ["seasonal", "cooking-notes"]
+tags = ["seasonal", "notes"]
 date = "2020-11-05"
 draft = false
 

@@ -1,6 +1,6 @@
 +++
 title = "Growing and harvesting herbs"
-tags = ["gardening", "herbs", "cooking-notes"]
+tags = ["gardening", "herbs", "notes"]
 date = "2021-06-07"
 
 images = []

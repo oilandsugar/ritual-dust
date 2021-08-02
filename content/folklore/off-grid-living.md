@@ -4,7 +4,7 @@ draft = false
 date = "2020-10-31"
 image = "/img/folklore/off-grid.jpg"
 desc = "Notes on off-grid living"
-tags = ["sustainability"]
+tags = ["sustainability", "notes"]
 +++
 
 ![Off the grid](/img/folklore/off-grid.jpg)
