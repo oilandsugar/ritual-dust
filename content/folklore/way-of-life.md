@@ -29,6 +29,10 @@ This is in no way intended to be general advice or universal truth, it's what wo
 
 Nature is always there somewhere, even in the most brutalist city corners and we're part of it. Taking time to notice and appreciate nature thought me a lot about life and myself and brought me a lot of joy and pleasure. Taking walks in the woods, tracing the paths left by termites on a dead log, playing with our cat, basking in the sun.
 
+> “Take your time as the mighty oak tree does, growing tall and strong and glorious in its own due course, fully confident that its great work is immune to the harrying of time. It grows its mighty bows where there is enough light, it puts forth leaves as it pleases and it’s acorns falls to the forest floor when they’re just heavy enough.“
+<small>- Steven Zapata</small>
+
+
 ### Learn to listen, name and express feelings
 
 Especially as someone who was raised as a boy and who had very little guidance and examples of the wide range of human emotions, this one was a cornerstone of living a better life. Getting in touch with my feelings, noticing them without judgement and developing the language to talk about them and express them to others opened up doors that allowed me to connect more deeply with myself and the people close to me, develop more nuanced empathy and understanding towards others and myself and get to know what I really wanted for myself.
