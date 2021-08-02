@@ -25,6 +25,12 @@ If you enjoy what I'm posting here and creating and want to support me you can d
 
 This website is part [portfolio](/works/), part [digital garden](/folklore/) and part [recipe blog](/food/). It is where I collect and expand upon my thoughts and discoveries, and where I showcase what I create, craft and conjure.
 
+Read more on how it was made in the [Colophon](/about/colophon/).
+
+See the whole structure in the [Tree](/tree/).
+
+Explore projects over time in the [Timeline](/timeline/).
+
 ---
 
 My past work experience includes working as a UI/UX and graphic designer in startups such as FoodRelay, Tangea, and l'Institut du Leadership en e-learning.

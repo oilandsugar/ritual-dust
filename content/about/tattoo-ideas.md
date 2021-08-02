@@ -3,6 +3,7 @@ title = "Tattoo ideas"
 date = "2021-06-13"
 weight = 8
 intro = "A list of tattoos I got and I'd like to get"
+tags = ["tattoo"]
 +++
 
 ![Ghost tattoo on my forearm](/img/about/ghost-tattoo.jpg)
