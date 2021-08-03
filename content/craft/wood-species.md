@@ -31,6 +31,8 @@ when they have rotted into the mold.
 Call that profit. Prophesy such returns."  
 <small>-- The Mad Farmer Liberation Front by Wendell Berry</small>
 
+---
+
 ## Hardwoods
 
 [Oak](#oak-chêne) •
@@ -71,6 +73,8 @@ Good alternative to mahogany which is getting more rare.
 ### Bamboo
 Non FSC certified because it's defined as a grass and not a tree but grows really quickly and can be easily sustainable.  
 **Harvest cycle:** 3-5 years
+
+---
 
 ## Softwoods
 

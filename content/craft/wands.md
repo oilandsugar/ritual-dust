@@ -13,10 +13,10 @@ I am also open for custom work and commissions, feel free to reach out about tho
 
 {{% row class="no-padding-bottom" %}}
 {{% half %}}
-![folk wand](/img/craft/wands/DSC01469.jpg "folk wand")
+![a sigil engraved folk magic wand](/img/craft/wands/DSC01469.jpg "a sigil engraved folk magic wand")
 {{% /half %}}
 {{% half %}}
-![folk wand](/img/craft/wands/DSC01470.jpg "folk wand")
+![detail of the sigils](/img/craft/wands/DSC01470.jpg "detail of the sigils")
 {{% /half %}}
 {{% /row %}}
 
@@ -27,10 +27,10 @@ Unknown wood species
 
 {{% row class="no-padding-bottom" %}}
 {{% half %}}
-![folk wand](/img/craft/wands/DSC01461.jpg "folk wand")
+![folk art inspired wand](/img/craft/wands/DSC01461.jpg "folk art inspired wand")
 {{% /half %}}
 {{% half %}}
-![folk wand](/img/craft/wands/DSC01464.jpg "folk wand")
+![detail of the carving](/img/craft/wands/DSC01464.jpg "detail of the carving")
 {{% /half %}}
 {{% /row %}}
 
@@ -41,10 +41,10 @@ Unknown wood species
 
 {{% row class="no-padding-bottom" %}}
 {{% half %}}
-![folk wand](/img/craft/wands/DSC01472.jpg "folk wand")
+![sharp wand for necromantic rites](/img/craft/wands/DSC01472.jpg "sharp wand for necromantic rites")
 {{% /half %}}
 {{% half %}}
-![folk wand](/img/craft/wands/DSC01473.jpg "folk wand")
+![details of the wood patterns](/img/craft/wands/DSC01473.jpg "details of the wood patterns")
 {{% /half %}}
 {{% /row %}}
 
@@ -55,10 +55,10 @@ Unknown wood species
 
 {{% row class="no-padding-bottom" %}}
 {{% half %}}
-![folk wand](/img/craft/wands/DSC01478.jpg "folk wand")
+![termite-eaten folk magic wand](/img/craft/wands/DSC01478.jpg "termite-eaten folk magic wand")
 {{% /half %}}
 {{% half %}}
-![folk wand](/img/craft/wands/DSC01479.jpg "folk wand")
+![detail of the wood patterns](/img/craft/wands/DSC01479.jpg "detail of the wood patterns")
 {{% /half %}}
 {{% /row %}}
 

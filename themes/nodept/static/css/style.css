@@ -1069,6 +1069,11 @@ article {
   margin-left:0;
 }
 
+.half figcaption {
+  display:block;
+  margin-top:16px; /* spacing_md */
+}
+
 /* -------- PADDING ---------*/
 
 .no-padding-left {

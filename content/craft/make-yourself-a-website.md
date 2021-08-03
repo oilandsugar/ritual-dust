@@ -26,6 +26,8 @@ So, all that story to tell you: make yourself a website, start small, you'll  ne
 Want to read more about this side of the web, I got you covered:  
 [My website is a shifting house next to a river of knowledge. What could yours be?](https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/) - a beautiful and inspiring essay on what website can look like
 
+---
+
 ## A list of interesting websites to get lost in:  
 [My friend Devine's wiki](https://wiki.xxiivv.com/site/home.html)  
 [Clement Scott's wiki](https://nchrs.xyz/site/home.html)  
@@ -42,6 +44,8 @@ Want to read more about this side of the web, I got you covered:
 [One of my favorite clothing brand's website, worth to explore](https://online-ceramics.com/)  
 [Sunday sites, a good place to get started](https://sundaysites.cafe/index.html)  
 [A list of magical script fonts, I mean how cool is this](http://www.geocities.ws/nu_isis/fonts.html)
+
+---
 
 ## Practical knowledge to get you started:  
 [A cool webzine on how to make a website from scratch](https://solarpunk.cool/zines/web-zine-01/table-of-contents.html)  
