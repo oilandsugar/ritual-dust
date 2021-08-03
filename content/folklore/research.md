@@ -25,3 +25,6 @@ Where I keep my references for folklore/ancestry/magic research
 
 
 ### Magic
+
+- [The Order of bards, ovates and druids](https://druidry.org/)
+- [An old pagan network](https://www.paganlink.org/index.shtml)

@@ -2,9 +2,10 @@
 title = "Wyrd terms"
 date = "2020-10-19"
 tags = ["notes"]
-
-intro = "Here is my ever-growing collection of wyrd terms collected online, in books and in conversations. Getting familiar with these concepts and integrating these words in my vocabulary is part of my commitment to re-enchantment."
+desc = "My ever-growing collection of wyrd terms collected online, in books and in conversations. A glossary of the occult and the ancient."
 +++
+
+Here is my ever-growing collection of wyrd terms collected online, in books and in conversations. Getting familiar with these concepts and integrating these words in my vocabulary is part of my commitment to re-enchantment.
 
 ### Downs
 Rolling hills in southern England, The name comes from the Old English dūn (“hill”).
