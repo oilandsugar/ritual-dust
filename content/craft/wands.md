@@ -2,7 +2,7 @@
 title = "Folk magic wands"
 date = "2021-01-29"
 draft = false
-image = "/img/craft/DSC01461.png"
+image = "/img/craft/wands/DSC01461.jpg"
 desc = "Collection of hand-made folk magic wands"
 tags = ["woodworking", "magic"]
 +++
