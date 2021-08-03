@@ -14,7 +14,7 @@ A short film to put in moving images the lifestyle upon which Manière Noire was
 <div class="credits">
 
 **Producer:** Manière Noire  
-**Art director:** Geneviève Lamarche Reid
+**Art director:** Geneviève Lamarche Reid  
 **Director of photography:** Lizbeth Poirier    
 **Models:** Evey lp & Chanel Willard  
 **Music:** Stygian by The Devil and the Universe - http://www.thedevilandtheuniverse.com/
