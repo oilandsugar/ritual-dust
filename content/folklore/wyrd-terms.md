@@ -34,3 +34,4 @@ Becoming aware of the numinous nature of the landscape around us and the corresp
 To measure with the width of your arms stretched, it creates a strong connection between the body and the space and the land. It is also the action of bringing somebody closer to your heart and embrace them in your arms.
 
 ### Psychogeography
+The study of specific effects of the geographical environment, consciously organized or not, on the emotions and behaviour of individuals.
