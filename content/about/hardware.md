@@ -3,7 +3,7 @@ title = "Hardware"
 date = "2021-06-13"
 weight = 6
 intro = "A summary of the hardware tools I use for creating images, sounds and websites. Also what I use to enjoy different types of media"
-tags = ["hardware"]
+tags = ["hardware", "photo", "video", "music", "computer"]
 
 +++
 
