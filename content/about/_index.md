@@ -1,6 +1,7 @@
 +++
 title = "About"
 type = "page"
+desc = "I am Lizbeth Poirier, a designer and illustrator, goth druid, musician and craftsperson."
 +++
 
 I am Lizbeth Poirier, a designer and illustrator, goth druid, musician and craftsperson.

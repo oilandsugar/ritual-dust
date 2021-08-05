@@ -4,9 +4,8 @@
     ritualdust.com
 -->
 <html lang="en" id="imghigh">
-  <head>
+  <head itemscope itemtype="{{ .Site.BaseURL }}">
     <meta charset="utf-8" />
-    <title>{{ .Site.Title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     {{ .Hugo.Generator }} {{ with .OutputFormats.Get "rss" -}} {{ printf `
     <link rel="%s" type="%s" href="%s" title="%s" />
@@ -21,30 +20,7 @@
       href="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.css"
     />
     <link rel="stylesheet" href="{{ "css/snipcart-theme.css" | relURL }}">
-    <!-- Facebook Open Graph -->
-    <meta property="og:locale" content="en_CA" />
-    <meta property="og:site_name" content="{{ .Site.Title }}" />
-    <meta property="og:title" content="{{ with .Page.Title }}{{ . }}{{ else }}Home{{ end}}" />
-    <meta property="og:url" content="https://ritualdust.com" />
-    <meta property="og:type" content="website" />
-    <meta property="og:description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else }}{{ .Site.Params.desc }}{{ end}}" />
-    <meta property="og:image" content="{{ with .Page.Params.image }}{{ . }}{{ else }}{{.Site.Params.image }}{{ end }}" />
-
-    <!-- Google+ / Schema.org -->
-    <meta itemprop="name" content="{{ with .Page.Title }}{{ $.Site.Title }} - {{ . }}{{ else }}{{ .Site.Title }} - Home{{ end}}" />
-    <meta itemprop="description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else }}{{ .Site.Params.desc }}{{ end}}" />
-    <meta itemprop="image" content="{{ with .Page.Params.image }}{{ . }}{{ else }}{{.Site.Params.image }}{{ end }}" />
-
-    <!-- Twitter Cards -->
-    <meta name="twitter:title" content="{{ with .Page.Title }}{{ $.Site.Title }} - {{ . }}{{ else }}{{ .Site.Title }} - Home{{ end}}" />
-    <meta name="twitter:url" content="https://ritualdust.com" />
-    <meta name="twitter:description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else }}{{ .Site.Params.desc }}{{ end}}" />
-    <meta name="twitter:image" content="{{ with .Page.Params.image }}{{ . }}{{ else }}{{.Site.Params.image }}{{ end }}" />
-    <meta name="twitter:card" content="summary_large_image" />
-
-    <!-- SEO -->
-    <meta name="description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else }}{{ .Site.Params.desc }}{{ end}}" />
-
+    {{ partial "meta" . }}
     <!-- Theme engine -->
     <script type="text/javascript" src="{{ "js/theme.js" | relURL }}"></script>
   </head>

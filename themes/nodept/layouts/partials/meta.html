@@ -1,0 +1,39 @@
+<!-- locale -->
+<meta property="og:locale" content="en_CA" />
+<meta name="language" content="English">
+
+<!-- title -->
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
+<meta itemprop="name" content="{{ .Title }} - {{ .Site.Title }}" />
+<meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}" />
+<meta name="application-name" content="{{ .Title }} - {{ .Site.Title }}" />
+
+<!-- description -->
+<meta property="og:description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else if .Site.Params.desc }}{{ .Site.Params.desc }}{{ else }}Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore.{{ end }}" />
+<meta itemprop="description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else if .Site.Params.desc }}{{ .Site.Params.desc }}{{ else }}Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore.{{ end }}" />
+<meta name="twitter:description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else if .Site.Params.desc }}{{ .Site.Params.desc }}{{ else }}Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore.{{ end }}" />
+<meta name="description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else }}{{ .Site.Params.desc }}{{ end}}" />
+
+<!-- url -->
+<base href="{{ .Permalink }}">
+<link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
+<meta name="url" content="{{ .Permalink }}" />
+<meta name="twitter:url" content="{{ .Permalink }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+
+<!-- image -->
+<meta property="og:image" content="{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.image }}{{ end }}" />
+<meta itemprop="image" content="{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.image }}{{ end }}" />
+<meta name="twitter:image" content="{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.image }}{{ end }}" />
+<meta name="twitter:image:src" content="{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.image }}{{ end }}" />
+
+<!-- misc -->
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index,follow" />
+<meta name="coverage" content="Worldwide" />
+<meta name="distribution" content="Global" />
+<meta name="HandheldFriendly" content="True" /> 
