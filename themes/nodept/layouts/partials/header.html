@@ -28,18 +28,18 @@
     <meta property="og:url" content="https://ritualdust.com" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="{{ .Site.Params.desc }}" />
-    <meta property="og:image" content="{{ .Site.Params.image }}" />
+    <meta property="og:image" content="{{ with .Page.Params.image }}{{ . }}{{ else }}{{.Site.Params.image }}{{ end }}" />
 
     <!-- Google+ / Schema.org -->
     <meta itemprop="name" content="{{ .Site.Title }}" />
     <meta itemprop="description" content="{{ .Site.Params.desc }}" />
-    <meta itemprop="image" content="{{ .Site.Params.image }}" />
+    <meta itemprop="image" content="{{ with .Page.Params.image }}{{ . }}{{ else }}{{.Site.Params.image }}{{ end }}" />
 
     <!-- Twitter Cards -->
     <meta name="twitter:title" content="{{ .Site.Title }}" />
     <meta name="twitter:url" content="https://ritualdust.com" />
     <meta name="twitter:description" content="{{ .Site.Params.desc }}" />
-    <meta name="twitter:image" content="{{ .Site.Params.image }}" />
+    <meta name="twitter:image" content="{{ with .Page.Params.image }}{{ . }}{{ else }}{{.Site.Params.image }}{{ end }}" />
     <meta name="twitter:card" content="summary_large_image" />
 
     <!-- SEO -->
