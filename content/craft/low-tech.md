@@ -1,9 +1,9 @@
 +++
 title = "Low tech"
-tags = ["low tech", "design", "craft", "notes", "sustainability"]
 date = "2020-11-03"
-draft = false
 desc = "Thoughts, research and resources on low tech solutions"
+tags = ["low tech", "design", "craft", "notes", "sustainability"]
+draft = false
 +++
 
 With the ongoing climate crisis, the destruction brought forth by the unsustainable push for constant growth of capitalism and a world filled with increasingly complex and disposable machines and tools, there is very strong need to scale down and simplify our technology and engineering.

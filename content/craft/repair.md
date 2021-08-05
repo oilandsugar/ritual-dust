@@ -1,9 +1,9 @@
 +++
 title = "Repairable devices"
-tags = ["low tech", "design", "craft", "notes", "sustainability"]
 date = "2020-11-03"
-draft = true
 desc = "Thoughts, research and resources on low tech solutions"
+tags = ["low tech", "design", "craft", "notes", "sustainability"]
+draft = true
 +++
 
 https://frame.work/ca/en

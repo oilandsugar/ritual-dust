@@ -1,9 +1,9 @@
 +++
 title = "Wood species"
-tags = ["craft", "trees", "sustainability", "notes"]
 date = "2021-06-03"
-draft = false
 desc = "Wood species, their uses, notes sustainable lumber and tips on how to find some"
+tags = ["craft", "trees", "sustainability", "notes"]
+draft = false
 +++
 
 First and foremost, the most sustainable form of timber is reclaimed wood.
