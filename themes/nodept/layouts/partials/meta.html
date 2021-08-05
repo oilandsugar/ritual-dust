@@ -3,18 +3,33 @@
 <meta name="language" content="English">
 
 <!-- title -->
-<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ if .IsHome }}
+  <title>{{ .Site.Title }}</title>
+  <meta property="og:title" content="{{ .Site.Title }}" />
+  <meta itemprop="name" content="{{ .Site.Title }}" />
+  <meta name="twitter:title" content="{{ .Site.Title }}" />
+  <meta name="application-name" content="{{ .Site.Title }}" />
+{{ else }}
+  <title>{{ .Title }} - {{ .Site.Title }}</title>
+  <meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
+  <meta itemprop="name" content="{{ .Title }} - {{ .Site.Title }}" />
+  <meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}" />
+  <meta name="application-name" content="{{ .Title }} - {{ .Site.Title }}" />
+{{ end }}
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
-<meta itemprop="name" content="{{ .Title }} - {{ .Site.Title }}" />
-<meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}" />
-<meta name="application-name" content="{{ .Title }} - {{ .Site.Title }}" />
+
+<!-- author -->
+{{- if .Params.author -}}
+<meta name="author" content="{{ .Params.author }}" />
+{{- else -}}
+<meta name="author" content="{{ .Site.Params.author }}" />
+{{- end -}}
 
 <!-- description -->
-<meta property="og:description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else if .Site.Params.desc }}{{ .Site.Params.desc }}{{ else }}Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore.{{ end }}" />
-<meta itemprop="description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else if .Site.Params.desc }}{{ .Site.Params.desc }}{{ else }}Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore.{{ end }}" />
-<meta name="twitter:description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else if .Site.Params.desc }}{{ .Site.Params.desc }}{{ else }}Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore.{{ end }}" />
-<meta name="description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else }}{{ .Site.Params.desc }}{{ end}}" />
+<meta property="og:description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else }}{{ if .Site.Params.desc }}{{ .Site.Params.desc }}{{ else }}Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore.{{ end }}{{ end }}" />
+<meta itemprop="description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else }}{{ if .Site.Params.desc }}{{ .Site.Params.desc }}{{ else }}Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore.{{ end }}{{ end }}" />
+<meta name="twitter:description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else }}{{ if .Site.Params.desc }}{{ .Site.Params.desc }}{{ else }}Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore.{{ end }}{{ end }}" />
+<meta name="description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else }}{{ if .Site.Params.desc }}{{ .Site.Params.desc }}{{ else }}Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore.{{ end }}{{ end }}" />
 
 <!-- url -->
 <base href="{{ .Permalink }}">
@@ -30,10 +45,10 @@
 <meta name="twitter:image:src" content="{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.image }}{{ end }}" />
 
 <!-- misc -->
-<meta property="og:type" content="website" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="robots" content="index,follow" />
 <meta name="googlebot" content="index,follow" />
 <meta name="coverage" content="Worldwide" />
 <meta name="distribution" content="Global" />
-<meta name="HandheldFriendly" content="True" /> 
+<meta name="HandheldFriendly" content="True" />

@@ -5,7 +5,7 @@ title = "Ritual dust"
 [params]
 image = "/img/preview.png"
 desc = "Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore."
-
+author = "Lizbeth Poirier"
 
 [menu]
   [[menu.main]]
