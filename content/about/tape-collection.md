@@ -1,6 +1,7 @@
 +++
 title = "Tapes"
 date = "2021-06-20"
+image = "/img/about/tapes.jpg"
 weight = 7
 intro = "Just listing all the tapes from my collection here"
 tags = ["music"]

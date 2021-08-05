@@ -1,6 +1,7 @@
 +++
 title = "Now"
 date = "2020-10-20"
+image = "/img/about/now.jpg"
 weight = 1
 intro = "I try to keep this page up to date with my current interests and projects, visit often and feel free to reach out to me on mastodon to discuss these."
 +++
