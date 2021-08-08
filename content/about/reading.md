@@ -18,6 +18,7 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 <div class="checklist">
 
+- [ ] **Cosmicomics**, Italo Calvino
 - [ ] **The Anarchist's Tool Chest**, Shwartz
 - [ ] **No Logo**, Naomi Klein
 - [ ] **The Book of Tea**, Okakura Kakuzō
