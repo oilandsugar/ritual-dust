@@ -18,6 +18,7 @@ I can imagine a future where small communities have integrated craft and functio
 
 ### Resources, inspiration and further reading
 
+[Ressources pour l'écoconception et la sobriete numerique](https://www.pikselkraft.com/les-ressources-pour-l-ecoconception-et-la-sobriete-numerique)
 [CollapseOS](https://collapseos.org/)
 [Notes on permacomputing](http://viznut.fi/texts-en/permacomputing.html)
 [Sustainable interaction design principles](https://branch.climateaction.tech/issues/issue-1/designing-branch-sustainable-interaction-design-principles/)  
