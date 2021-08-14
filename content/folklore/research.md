@@ -6,9 +6,13 @@ tags = ["notes", "ancestry", "magic"]
 
 Where I keep my references for folklore/ancestry/magic research
 
+<div class="table-of-contents">
+
 [Folklore](#folklore) •
 [Ancestry](#ancestry) •
 [Magic](#magic)
+
+</div>
 
 ### Folklore
 

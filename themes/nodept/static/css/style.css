@@ -152,6 +152,11 @@ hr {
   margin-bottom:48px; /* spacing_xl */
 }
 
+summary h4 {
+  margin:0;
+  display:inline-block;
+}
+
 blockquote {
   margin-top: 8px; /* spacing_sm */
   margin-left:0;

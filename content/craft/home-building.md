@@ -53,4 +53,5 @@ What makes materials good for this kind of building: local availability, ease of
 
 ## Links and resources
 
-https://www.deltechomes.com/resilient-homes-part-two-sustainability-is-resilient/
+- [Sustainability and resilience](https://www.deltechomes.com/resilient-homes-part-two-sustainability-is-resilient/)
+- [Notes on building resilience](https://www.echotape.com/blog/why-building-resilience-is-the-future-of-sustainable-building/)
