@@ -9,6 +9,7 @@ draft = true
 <div class="table-of-contents">
 
 [Tools](#tools) •
+[Supplies](#supplies) •
 [Technique](#technique) •
 [Safety](#safety)
 
@@ -19,9 +20,8 @@ draft = true
 <div class="table-of-contents">
 
 [Needles](#needles) •
-[Needle types](#neddle-types) •
+[Needle types](#neddle-types-configurations) •
 [Machines](#machines) •
-[Inks](#inks)
 
 </div>
 
@@ -41,7 +41,7 @@ Needles grouped in a circle, good for lines, needles are more tightly packed tog
 
 <details>
 <summary><h4>Flat liners (FL)</h4></summary>
-Single row of needles, used for lining.
+Single row of needles, used for lining and whip shading.
 </details>
 
 <details>
@@ -65,16 +65,19 @@ Needles are needles made using smaller individual needles than standard needles,
 
 ### Machines
 
-There is coil machines and rotary machines. Coil machines use electromagnets in a simple circuit with a spring and contact screw in order to create the reciprocating action needed to tattoo. Coil machines on the other hand use a rotary motor that drives a cam connected to the needle to make it go in and out the skin. More and more, tattoo artists are moving from using coil machines to using rotary machines, the main advantages being ease of setup and tuning, reduced noise and vibration and ability to use needle cartridge and change needles easily on the same machine during a session.
+There is coil machines and rotary machines. Coil machines use electromagnets in a simple circuit with a spring and contact screw in order to create the reciprocating action needed to tattoo. Coil machines on the other hand use a rotary motor that drives a cam connected to the needle to make it go in and out the skin.
+
+More and more, tattoo artists are moving from using coil machines to using rotary machines, the main advantages being ease of setup and tuning, reduced noise and vibration and ability to use needle cartridge and change needles easily on the same machine during a session. The rest of this guide will be oriented towards rotary machines.
 
 Machine accessories to keep in stock:
-- Rubber nipples
-- Rubber bands
-- O-rings
+- Rubber nipples (to connect the needle to the bar)
+- Rubber bands (to keep the needle against the back the tube)
 - Machine bags
 - Cable bags
 
-### Machine types
+### Machine types / configurations
+
+when coil machines were the main type of machines used for tattooing, often artists would have multiple ones, setup differently for different tasks. Here's a list of the different uses and what characteristics are most desirable for the task. Some newer rotary machines have adjustable configurations that allow to do most of those with a single machine.
 
 <details>
 <summary><h4>Liner</h4></summary>
@@ -92,9 +95,35 @@ Used with thinner lining ink, runs fast and has the shortest stroke
 - [Machine tuning tips](https://www.tattoomagic.info/basics/machine-tuning.html)
 - [Course on machine care](https://www.machinemachine.co/courses-page)
 
+## Supplies
+
+<div class="table-of-contents">
+
+[Inks](#inks)
+
+</div>
+
 ### Inks
 
+Tattoo inks are made from pigments suspended in a liquid.
+
 ## Technique
+
+### Skin prep
+
+Before any work can begin, the area of the skin to be tattooed has to be shaved closely and disinfected. This is to avoid pushing hairs or bacteria and viruses that could be living on the skin inside the body and potentially creating infection. It will also prepare the skin to receive the stencil.
+
+### Stencil
+
+A stencil is an image used as a reference while tattooing, it can be either drawn freehand with a skin-safe disposable marker or transferred on the skin with stencil paper. Stencil paper can be used with a thermal printer or by hand by drawing over it.
+
+### Lining
+
+Once the stencil applied
+
+### Shading
+
+Once the lines completed, if the tattoo has any shaded areas,
 
 ## Safety
 
