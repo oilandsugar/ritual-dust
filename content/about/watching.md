@@ -25,7 +25,6 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 - [ ] **Woodlands Dark and Days Bewitched** 2021
 - [ ] **Hellbender** 2021
 - [ ] **All the Moons** 2021
-- [ ] **The Green Kight** 2021
 
 </div>
 
@@ -33,6 +32,7 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
+- [x] **The Green Kight** 2021
 - [x] **Kratt** 2021
 - [x] **Pig** 2021
 - [x] **Gaia** 2020
