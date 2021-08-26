@@ -22,6 +22,8 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 - [ ] **Wristcutters** 2006
 - [ ] **The Night of the Demon** 1957
 - [ ] **Whistle and I'll come to you** 1968
+- [ ] **An Inconvenient Truth** 2006
+- [ ] **L'erreur boréale** 1999
 - [ ] **Andrei Rublev** 1966
 - [ ] **Woodlands Dark and Days Bewitched** 2021
 
