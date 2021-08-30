@@ -17,6 +17,7 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
+- [ ] **Quartermass and the pit** 2021
 - [ ] **Hellbender** 2021
 - [ ] **The Old Dark House** 1932
 - [ ] **Wristcutters** 2006
@@ -33,6 +34,8 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
+- [x] **A Warning to the Curious** 1972
+- [x] **Stigma** 1977
 - [x] **Woodlands Dark and Days Bewitched** 2021
 - [x] **All the Moons** 2021
 - [x] **The Green Kight** 2021

@@ -18,6 +18,7 @@ struggling in a modern life and clutching to the old ways, trying to keep them a
 **Paganism has a way of surviving**
 
 "magic is dead and discredited"
+
 - blood on satan's claw
 
 god is dead, the old gods are back
@@ -38,6 +39,23 @@ Ghosts earthly and physical
 
 ## Folk Horror in movies
 
+- The Wicker Man ()
+
+## Folk Horror on television
+
+- Children of the Stones
+- A warning to the curious - a Ghost story for Christmas from the BBC (1972)
+- Stigma - a Ghost story for Christmas from the BBC (1977)
+
+## Folk Horror documentaries
+
+- Woodlands Dark and Days Bewitched (2021)
+
 ## Folk Horror in literature
 
+- Casting the Runes by M. R. James
+- the Golden Bough
+
 ## Folk Horror in music
+
+-
