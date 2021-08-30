@@ -25,7 +25,7 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 - [ ] **An Inconvenient Truth** 2006
 - [ ] **L'erreur boréale** 1999
 - [ ] **Andrei Rublev** 1966
-- [ ] **Woodlands Dark and Days Bewitched** 2021
+- [ ] **Shadows of Forgotten Ancestors** 1965
 
 </div>
 
@@ -33,6 +33,7 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
+- [x] **Woodlands Dark and Days Bewitched** 2021
 - [x] **All the Moons** 2021
 - [x] **The Green Kight** 2021
 - [x] **Kratt** 2021
