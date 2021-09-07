@@ -133,11 +133,11 @@ console.log(Phases.phase(yyyy, mm, dd));
 let currentPhase = Phases.phase(yyyy, mm, dd);
 
 document.getElementById("phases").innerHTML +=
-  "<span>Currently " +
+  "<a href='/folklore/druidism/#celebrations-and-important-calendar-dates'><span>Currently " +
   currentPhase.season +
   " - " +
   currentPhase.nextHoliday +
-  " is coming</span>";
+  " is coming</span></a>";
 
 /* SWITCH THEME BASED ON THE SEASON */
 

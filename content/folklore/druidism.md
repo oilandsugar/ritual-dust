@@ -29,17 +29,29 @@ The three yearnings of druids:
 
 ## Celebrations and important calendar dates
 
+### Samhuinn/Samhain
+The Druid festival of the Ancestors – a time for honouring those who have died, celebrated around **1st November** in the Northern Hemisphere, 1st May in the Southern. It is that start of the Celtic year, where the wheel starts.
+
+### Yule (winter solstice)
+Held on the shortest day of the year, a celebration of light and warmth in a time of darkness. It is celebrated on **December 20th** in the Northern Hemisphere.
+
 ### Imbolc/Oimelc
-The Druid festival of the Goddess, particularly Brighid, celebrated around 1st February in the Northern Hemisphere, 1st August in the Southern.  
+The Druid festival of the Goddess, particularly Brighid, celebrated around **1st February** in the Northern Hemisphere, 1st August in the Southern. It symbolizes the promise of the return of spring.  
+
+### Ostara (spring equinox)
+Marks the beginning of spring and all things coming back to life. It is celebrated on **March 19th** in the Northern Hemisphere.
 
 ### Beltane/Bealteinne
-The Druid festival dedicated to celebrating Spring and the union of God and Goddess. Meaning ‘The Good Fire’, Beltane celebrations usually include leaping over a bonfire. Celebrated around 1st May in the Northern Hemisphere, 1st October in the Southern.  
+The Druid festival dedicated to celebrating Spring and the union of God and Goddess. Meaning ‘The Good Fire’, Beltane celebrations usually include leaping over a bonfire. Celebrated around **1st May** in the Northern Hemisphere, 1st October in the Southern.  
+
+### Litha (summer solstice)
+Celebrated on the longest day of the year, it marks the start of summer, it is a time of blessings for the crops and of unions and engagements. It is celebrated on **June 19th** in the Northern Hemisphere.
 
 ### Lughnasadh/Lammas
-The Druid festival of the Harvest, celebrated around 1st August in the Northern Hemisphere, 1st February in the Southern.  
+The Druid festival of the Harvest, celebrated around **1st August** in the Northern Hemisphere, 1st February in the Southern.  
 
-### Samhuinn/Samhain
-The Druid festival of the Ancestors – a time for honouring those who have died, celebrated around 1st November in the Northern Hemisphere, 1st May in the Southern.  
+### Mabon (autum equinox)
+The arrival of autumn and the reaping of the harvest. It is a fest of abondance and preparation for the darker times to come. It is celebrated on **Sept 21th** in the Northern Hemisphere.
 
 ---
 
