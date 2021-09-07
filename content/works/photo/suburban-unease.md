@@ -1,5 +1,5 @@
 +++
-title = "suburban unease"
+title = "Suburban unease"
 tags = ["photo"]
 date = "2019-07-08"
 
