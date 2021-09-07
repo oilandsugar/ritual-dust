@@ -1,9 +1,9 @@
 /* IF NO JS */
 
-document.getElementById('hasJavaScript').style.display = 'inline';
-document.getElementById('noscript').style.display = 'none';
+document.getElementById("hasJavaScript").style.display = "inline";
+document.getElementById("noscript").style.display = "none";
 
-/* GET CURRENT MOON PHASE */
+/* GET CURRENT MOON PHASE, SEASON AND NEXT PAGAN HOLIDAY */
 
 var Phases = {
   phases: [
@@ -18,26 +18,81 @@ var Phases = {
   ],
   phase: function (year, month, day) {
     let season;
+    let nextHoliday;
+    let daysToNextHoliday;
+
     switch (month) {
-      case "12":
       case "01":
+        season = "winter";
+        nextHoliday = "Imbolc";
+        break;
       case "02":
-        season = "Winter";
+        season = "winter";
+        if (day < 2) {
+          nextHoliday = "Imbolc";
+        } else {
+          nextHoliday = "Ostara";
+        }
         break;
       case "03":
+        if (day < 19) {
+          season = "winter";
+          nextHoliday = "Ostara";
+        } else {
+          season = "Spring";
+          nextHoliday = "Beltane";
+        }
+        break;
       case "04":
+        season = "spring";
+        nextHoliday = "Beltane";
+        break;
       case "05":
-        season = "Spring";
+        season = "spring";
+        nextHoliday = "Litha";
         break;
       case "06":
+        if (day < 19) {
+          season = "spring";
+          nextHoliday = "Litha";
+        } else {
+          season = "summer";
+          nextHoliday = "Lughnasadh";
+        }
+        break;
       case "07":
+        season = "summer";
+        nextHoliday = "Lughnasadh";
+        break;
       case "08":
-        season = "Summer";
+        season = "summer";
+        nextHoliday = "Mabon";
         break;
       case "09":
+        if (day < 21) {
+          season = "summer";
+          nextHoliday = "Mabon";
+        } else {
+          season = "fall";
+          nextHoliday = "Samhain";
+        }
+        break;
       case "10":
+        season = "fall";
+        nextHoliday = "Samhain";
+        break;
       case "11":
-        season = "Fall";
+        season = "fall";
+        nextHoliday = "Yule";
+        break;
+      case "12":
+        if (day < 20) {
+          season = "fall";
+          nextHoliday = "Yule";
+        } else {
+          season = "winter";
+          nextHoliday = "Imbolc";
+        }
         break;
     }
 
@@ -58,7 +113,13 @@ var Phases = {
     b = Math.round(jd * 8); // scale fraction from 0-8 and round
 
     if (b >= 8) b = 0; // 0 and 8 are the same so turn 8 into 0
-    return { season: season, phase: b, name: Phases.phases[b] };
+    return {
+      season: season,
+      nextHoliday: nextHoliday,
+      daysToNextHoliday: daysToNextHoliday,
+      phase: b,
+      name: Phases.phases[b],
+    };
   },
 };
 
@@ -69,7 +130,14 @@ let yyyy = today.getFullYear();
 
 console.log(Phases.phase(yyyy, mm, dd));
 
-document.getElementById('phases').innerHTML += Phases.phase(yyyy, mm, dd).season
+let currentPhase = Phases.phase(yyyy, mm, dd);
+
+document.getElementById("phases").innerHTML +=
+  "<span>Currently " +
+  currentPhase.season +
+  " - " +
+  currentPhase.nextHoliday +
+  " is coming</span>";
 
 /* SWITCH THEME BASED ON THE SEASON */
 
