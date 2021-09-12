@@ -8,7 +8,7 @@ I am Lizbeth Poirier, a designer and illustrator, goth druid, musician and craft
 
 My pronouns are **she/her**.
 
-![Lizbeth against a rock background](/img/about/me.jpg "Portrait by Hayley Evans")
+![Lizbeth against a rock background](/img/about/me.jpg "Portrait by Hex")
 
 I am currently taking commission work for [design](/works/design/), [illustration](/works/illustration/), [lettering](/works/lettering/) and [web](/works/websites/) projects (especially anything relating to folklore, occultism, activism music and art).
 

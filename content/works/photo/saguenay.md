@@ -14,7 +14,7 @@ Hiking and climing to see the fjords, riding kids bikes down construction lanes,
 ![Grass-roofed cabin](/img/photo/saguenay/DSC03497.jpg "Grass-roofed cabin")
 ![Dying little jumping mouse on a bed of moss](/img/photo/saguenay/DSC03494.jpg "Dying little jumping mouse on a bed of moss")
 ![Mushrooms on log](/img/photo/saguenay/DSC03653.jpg "Mushrooms on log")
-![Hayley capturing my soul](/img/photo/saguenay/DSC03634.jpg "Hayley capturing my soul")
+![Hex capturing my soul](/img/photo/saguenay/DSC03634.jpg "Hex capturing my soul")
 ![A miniature moss forest in a tiny cave](/img/photo/saguenay/DSC03491.jpg "A miniature moss forest in a tiny cave")
 ![Looming cabins](/img/photo/saguenay/DSC03451.jpg "Looming cabins")
 ![Massive lead and wood religious statue hiding behind trees](/img/photo/saguenay/DSC03633.jpg "Massive lead and wood religious statue hiding behind trees")
