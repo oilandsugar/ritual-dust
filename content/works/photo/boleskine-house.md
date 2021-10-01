@@ -2,7 +2,7 @@
 title = "Boleskine house and burial ground"
 tags = ["photo"]
 date = "2019-10-19"
-image = "/img/photo/boleskine-house/DSC06753.jpg"
+image = "/img/photo/boleskine-house/DSC06779.jpg"
 desc = "Exploring the charred remnants of a very old and very cursed house and it's neighbouring cemetery"
 +++
 
