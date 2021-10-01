@@ -12,10 +12,10 @@ function Theme(client) {
 
   this.active = {};
   this.default = {
-    background: "#fff0b7",
-    f_high: "#9b3313",
-    f_med: "#b25c02",
-    f_low: "#b25c02",
+    background: "#626143",
+    f_high: "#3b1c16",
+    f_med: "#b8c5a6",
+    f_low: "#dd783d",
     f_inv: "#111111",
     b_high: "#a1a1a1",
     b_med: "#c1c1c1",
