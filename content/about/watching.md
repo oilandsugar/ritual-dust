@@ -27,6 +27,8 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 - [ ] **L'erreur boréale** 1999
 - [ ] **Andrei Rublev** 1966
 - [ ] **Shadows of Forgotten Ancestors** 1965
+- [ ] **Candyman** 2021
+- [ ] **Candyman** 1992
 
 </div>
 
@@ -34,6 +36,7 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
+- [x] **My Heart can't beat unless you tell it to** 2020
 - [x] **A Warning to the Curious** 1972
 - [x] **Stigma** 1977
 - [x] **Woodlands Dark and Days Bewitched** 2021

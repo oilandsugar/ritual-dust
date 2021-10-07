@@ -24,6 +24,7 @@ Where I keep my references for folklore/ancestry/magic research
 - [The Public domain review](https://publicdomainreview.org/)  
 - [Pictures and engravings from old books](https://www.fromoldbooks.org/)  
 - [A blog on medieval woodworking](https://thomasguild.blogspot.com/)  
+- [A collection of horror stories in the public domain](https://www.steve-calvert.co.uk/public-domain-horror-stories-3/#H)  
 
 ### Ancestry
 
