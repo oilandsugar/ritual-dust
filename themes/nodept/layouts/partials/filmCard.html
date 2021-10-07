@@ -3,15 +3,17 @@
 
 <a href="{{ .Permalink }}" class="film-card card {{ range .Params.tags }}{{ . }} {{ end }}">
   <div class="movie-wrap">
-    <div class="movie">
-      <img
-        loading="lazy"
-        class="to-toggle low"
-        data-srclow="{{ $lowResCover | safeURL }}"
-        data-srchi="{{ $cover | safeURL }}"
-        src="{{ $lowResCover | safeURL }}"
-        alt="{{ .Title }}">
-    </div>
+    {{ if $cover }}
+      <div class="movie">
+        <img
+          loading="lazy"
+          class="to-toggle low"
+          data-srclow="{{ $lowResCover | safeURL }}"
+          data-srchi="{{ $cover | safeURL }}"
+          src="{{ $lowResCover | safeURL }}"
+          alt="{{ .Title }}">
+      </div>
+    {{ end }}
     <div class="movie-content">
       <h3 class="blackletter small-padding-bottom">{{ .Title }} ({{ .Params.year }})</h3>
       <div class="director psych-2">Directed by<br/>{{ .Params.director }}</div>
