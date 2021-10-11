@@ -10,3 +10,5 @@ desc = "Pencil, pen and digital illustrations inspired by folklore."
 ![The green man](/img/illustration/folktober-2021/green-man.jpg "The green man")
 ![Jenny Greenteeth](/img/illustration/folktober-2021/jenny-greenteeth.jpg "Jenny Greenteeth")
 ![Green childen of Woolpit](/img/illustration/folktober-2021/green-children-woolpit.jpg "Green childen of Woolpit")
+![Drawing of standing stones in a forest clearing](/img/illustration/folktober-2021/standing-stones.jpg "Drawing of standing stones in a forest clearing")
+![Photo of the standing stones drawing resting on a large stone](/img/illustration/folktober-2021/standing-stones-photo.jpg "Photo of the standing stones drawing resting on a large stone")

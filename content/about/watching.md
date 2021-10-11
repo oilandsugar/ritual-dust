@@ -22,7 +22,6 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 - [ ] **The Old Dark House** 1932
 - [ ] **Wristcutters** 2006
 - [ ] **The Night of the Demon** 1957
-- [ ] **Whistle and I'll come to you** 1968
 - [ ] **An Inconvenient Truth** 2006
 - [ ] **L'erreur boréale** 1999
 - [ ] **Andrei Rublev** 1966
@@ -36,6 +35,8 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
+- [x] **Whistle and I'll come to you** 1968
+- [x] **Paranormal activity** 2007
 - [x] **My Heart can't beat unless you tell it to** 2020
 - [x] **A Warning to the Curious** 1972
 - [x] **Stigma** 1977
