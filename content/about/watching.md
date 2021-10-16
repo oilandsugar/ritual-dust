@@ -26,6 +26,7 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 - [ ] **L'erreur boréale** 1999
 - [ ] **Andrei Rublev** 1966
 - [ ] **Shadows of Forgotten Ancestors** 1965
+- [ ] **Sightseers** 2012
 - [ ] **Candyman** 2021
 - [ ] **Candyman** 1992
 
