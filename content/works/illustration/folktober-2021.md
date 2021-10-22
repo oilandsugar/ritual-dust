@@ -14,3 +14,4 @@ desc = "Pencil, pen and digital illustrations inspired by folklore."
 ![Photo of the standing stones drawing resting on a large stone](/img/illustration/folktober-2021/standing-stones-photo.jpg "Photo of the standing stones drawing resting on a large stone")
 ![First page of the Jabberwocky poem with the head of the creature poking out](/img/illustration/folktober-2021/jabberwock-1.jpg "First page of the Jabberwocky poem with the head of the creature poking out")
 ![Second page of the Jabberwocky poem with the vorpal sword](/img/illustration/folktober-2021/jabberwock-2.jpg "Second page of the Jabberwocky poem with the vorpal sword")
+![A human horse hybrid demon from scotland, the Nucklavee](/img/illustration/folktober-2021/nucklavee.jpg "A human horse hybrid demon from scotland, the Nucklavee")
