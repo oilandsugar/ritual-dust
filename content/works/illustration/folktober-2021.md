@@ -15,3 +15,4 @@ desc = "Pencil, pen and digital illustrations inspired by folklore."
 ![First page of the Jabberwocky poem with the head of the creature poking out](/img/illustration/folktober-2021/jabberwock-1.jpg "First page of the Jabberwocky poem with the head of the creature poking out")
 ![Second page of the Jabberwocky poem with the vorpal sword](/img/illustration/folktober-2021/jabberwock-2.jpg "Second page of the Jabberwocky poem with the vorpal sword")
 ![A human horse hybrid demon from scotland, the Nucklavee](/img/illustration/folktober-2021/nucklavee.jpg "A human horse hybrid demon from scotland, the Nucklavee")
+![The Wyvern, a bipedal dragon on a shield](/img/illustration/folktober-2021/wyvern.jpg "The Wyvern, a bipedal dragon on a shield")
