@@ -4,7 +4,7 @@ date = "2020-10-19"
 tags = ["notes", "ancestry", "magic"]
 +++
 
-Where I keep my references for folklore/ancestry/magic research
+Where I keep my references for folklore, ancestry and magic research
 
 <div class="table-of-contents">
 
@@ -25,6 +25,7 @@ Where I keep my references for folklore/ancestry/magic research
 - [Pictures and engravings from old books](https://www.fromoldbooks.org/)  
 - [A blog on medieval woodworking](https://thomasguild.blogspot.com/)  
 - [A collection of horror stories in the public domain](https://www.steve-calvert.co.uk/public-domain-horror-stories-3/#H)  
+- [An archive of old irish documents and photographs](https://www.duchas.ie/en)
 
 ### Ancestry
 

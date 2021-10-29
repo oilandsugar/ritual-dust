@@ -11,6 +11,8 @@ tags = ["music"]
 
 <div class="checklist">
 
+- [x] **Cromagnon**, Orgasm
+- [x] **王蜘蛛**, 蜘蛛の巣の中 -spider's house-
 - [x] **The Valerie Project**, The Valerie Project
 - [x] **Mestarin Kynsi**, Oranssi Pazuzu
 - [x] **Winter Rituals EP**, Laura Cannell & Kate Ellis
