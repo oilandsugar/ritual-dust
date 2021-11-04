@@ -26,3 +26,7 @@ Where I keep my references for crafting, woodworking, low-tech, permacomputing a
 
 
 ### Electronics
+
+### Drawing and illustration
+
+- [tool to find animal references in a specific angle](https://x6ud.github.io/#/)
