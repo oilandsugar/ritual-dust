@@ -6,8 +6,7 @@ weight = 1
 intro = "I try to keep this page up to date with my current interests and projects, visit often and feel free to reach out to me on mastodon to discuss these."
 +++
 
-These days I'm [drawing](/works/illustration/) a lot, working on this very [website](), putting together a collaborative ghost story and images zine named [Fantômes](https://fantomeszine.com), learning how to tattoo and building a [tool chest](/craft/tool-chest/) for my hand woodworking tools.
-I also make truly devastating and highly emotional music as [Blood and Dust](http://blood-and-dust.com) with [Hex](http://hayleyevans.net).
+These days I'm [drawing](/works/illustration/), designing [dungeon synth album covers](/works/design/dungeon-synth-covers/), just release the first issue of my [collaborative ghost story zine Fantômes](https://fantomeszine.com), learning how to tattoo and play piano. I also released a [new single](https://blood-and-dust.bandcamp.com/track/around-your-grave-ill-light-a-ring-of-fire) with my band [Blood and Dust](http://blood-and-dust.com).
 
 See what I'm currently [reading](/about/reading/), [watching](/about/watching/) and [listening to](/about/listening/).
 

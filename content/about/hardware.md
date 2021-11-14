@@ -8,7 +8,6 @@ tags = ["hardware", "photo", "video", "music", "computer"]
 
 +++
 
-![Camera and lenses](/img/about/camera.jpg)
 
 <div class="table-of-contents">
 
@@ -18,10 +17,13 @@ tags = ["hardware", "photo", "video", "music", "computer"]
 
 </div>
 
+![Keyboard detail](/img/about/keyboard.jpg)
+
 ## Computing
 
 - **Apple Macbook Pro 13" mid-2014** with 1TB OWC SSD drive
 - **Raspberry Pi 4B+** (I plan to turn it into a [resilient computer](/craft/resilient-computer))
+- **Keychron K6** with green keys
 
 ## Audio
 
@@ -48,6 +50,8 @@ tags = ["hardware", "photo", "video", "music", "computer"]
 ### Headphones
 
 - **Hifiman HE350** (sound quality is good but the open back design can be annoying to others and the cord broke at some point)
+
+![Camera and lenses](/img/about/camera.jpg)
 
 ## Photo and video
 

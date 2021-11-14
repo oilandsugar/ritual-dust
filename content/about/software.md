@@ -23,7 +23,7 @@ Software tools for me are mostly a mean to an end, although I do enjoy building 
 - [**Darktable**](https://www.darktable.org/) for raw file editing  
 - [**Krita**](https://krita.org/en/) for photo editing & digital painting  
 - [**Inkscape**](https://inkscape.org/) for vector
-- **Adobe Première** **($) ©** for video editing (transitioning to blender)  
+- [**Blender**](https://www.blender.org/) for video editing and compositing  
 - **Adobe InDesign** **($) ©** for book layout (looking for an alternative)  
 
 ## Audio tools
@@ -38,7 +38,7 @@ Software tools for me are mostly a mean to an end, although I do enjoy building 
 
 ## Utilities
 
-- **Apple notes app** for notes (might switch to [Left](https://github.com/hundredrabbits/left))
+- [**Left**]((https://github.com/hundredrabbits/left)) for notes and todo lists 
 - **Google calendar** for time management (looking for an alternative)  
 - Working on my own tool for budgeting
 - **Tagr** for mp3 file tagging

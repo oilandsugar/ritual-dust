@@ -6,13 +6,13 @@ weight = 2
 intro = "This is my reading list, it contains the books, zines and long form articles I read or intend to read this year."
 +++
 
-### Books
-
 [Books to read](#to-read) •
 [Books 2021](#2021) •
 [Books 2020](#2020) •
 [Zines](#zines) •
 [Articles and websites](#articles-and-websites)
+
+### Books
 
 #### To read
 
@@ -49,11 +49,14 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **Rituals and Declarations, issue 1**
 - [ ] **Rituals and Declarations, issue 2**
 - [ ] **Black Dog, issue 1**
-- [ ] **Hellebore, Yuletide special**
-- [ ] **Hellebore, Samhain issue**
-- [ ] **Grimoire Silvanus, issue 1**
 - [ ] **Feed the Beast, issue 2**
 - [ ] **Feed the Beast, issue 1**
+- [x] **Grimoire Silvanus, issue 2**
+- [x] **Grimoire Silvanus, issue 1**
+- [x] **Astral Noize, Tolkien issue**
+- [x] **Hellebore, Summoning issue**
+- [x] **Hellebore, Yuletide special**
+- [x] **Hellebore, Samhain issue**
 - [x] **Black Panels Only, issue 2**
 - [x] **Black Panels Only, issue 1**
 - [x] **Enchantment Dismantled from the Fiddler's Green Leaflets**

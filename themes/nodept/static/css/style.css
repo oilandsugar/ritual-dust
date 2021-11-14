@@ -318,7 +318,7 @@ img {
 .checklist input::before {
   font-family: "Distro Bats";
   content: "~";
-  font-size: 25px;
+  font-size: 19px;
   width: 20px;
   height: 20px;
   line-height: 20px;
@@ -328,6 +328,7 @@ img {
   color: #3b1c16; /* f_high */
   color: var(--f_high);
   background: #fff0b7; /* darkBackColor */
+  background: var(--background);
 }
 
 .checklist input:checked::before {

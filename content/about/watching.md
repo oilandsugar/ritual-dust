@@ -29,6 +29,7 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 - [ ] **Sightseers** 2012
 - [ ] **Candyman** 2021
 - [ ] **Candyman** 1992
+- [ ] **Antlers** 2021
 
 </div>
 
@@ -36,6 +37,10 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
+- [x] **Sound of Noise** 2010
+- [x] **Dune** 2021
+- [x] **Penda's Fen** 1974
+- [x] **the Similars** 2015
 - [x] **Whistle and I'll come to you** 1968
 - [x] **Paranormal activity** 2007
 - [x] **My Heart can't beat unless you tell it to** 2020
