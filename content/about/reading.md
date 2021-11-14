@@ -6,6 +6,8 @@ weight = 2
 intro = "This is my reading list, it contains the books, zines and long form articles I read or intend to read this year."
 +++
 
+![Book](/img/about/book.jpg)
+
 [Books to read](#to-read) •
 [Books 2021](#2021) •
 [Books 2020](#2020) •

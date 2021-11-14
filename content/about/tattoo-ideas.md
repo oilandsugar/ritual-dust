@@ -9,6 +9,8 @@ tags = ["tattoo"]
 
 ![Ghost tattoo on my forearm](/img/about/ghost-tattoo.jpg)
 
+<div class="checklist">
+
 - [ ] Oak branches (on my chest)
 - [ ] Stone circle (around belly button)
 - [ ] Skull on hand (by alixe cooper)
@@ -34,3 +36,5 @@ tags = ["tattoo"]
 - [x] Ghost pepper (by Evey lp)
 - [x] Coffee ghost (by Evey lp)
 - [x] Bike gear (by Evey lp)
+
+</div>
