@@ -25,6 +25,8 @@ tags = ["hardware", "photo", "video", "music", "computer"]
 - **Raspberry Pi 4B+** (I plan to turn it into a [resilient computer](/craft/resilient-computer))
 - **Keychron K6** with green keys
 
+![Synthesizer](/img/about/synth.jpg)
+
 ## Audio
 
 ### Synths
