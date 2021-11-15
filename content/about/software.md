@@ -38,10 +38,12 @@ Software tools for me are mostly a mean to an end, although I do enjoy building 
 
 ## Utilities
 
-- [**Left**]((https://github.com/hundredrabbits/left)) for notes and todo lists 
+- [**Left**]((https://github.com/hundredrabbits/left)) for notes and todo lists
 - **Google calendar** for time management (looking for an alternative)  
 - Working on my own tool for budgeting
 - **Tagr** for mp3 file tagging
 
 ## Resources and links
-[List of apps that allow you to keep your own data](https://0data.app/)
+
+- [List of apps that allow you to keep your own data](https://0data.app/)
+- [Nice collection of open source design and web tools](http://osp.kitchen/tools/)

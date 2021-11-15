@@ -74,6 +74,7 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 ### Articles and websites
 
+http://www.johncoulthart.com/feuilleton/2010/03/22/pendas-fen-by-david-rudkin/  
 https://www.vox.com/the-highlight/22543858/isabel-fall-attack-helicopter  
 https://lux-magazine.com/article/the-road-to-terfdom/  
 https://cailleachs-herbarium.com/2021/03/self-making-queerness-in-scottish-culture-norse-myth-queer-magic-queer-deities-gay-priest-cults-and-cross-dressing/  
@@ -92,3 +93,4 @@ https://blog.deathtobullshit.com/
 https://www.lowtechmagazine.com/
 
 https://archive.qzap.org/index.php/Splash/Index
+https://onlinebooks.library.upenn.edu/webbin/serial?id=strandmag
