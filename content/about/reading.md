@@ -94,3 +94,4 @@ https://www.lowtechmagazine.com/
 
 https://archive.qzap.org/index.php/Splash/Index
 https://onlinebooks.library.upenn.edu/webbin/serial?id=strandmag
+https://en.wikipedia.org/wiki/Encounters_with_the_Archdruid
