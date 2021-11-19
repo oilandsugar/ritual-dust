@@ -1,7 +1,7 @@
 {{ partialCached "header" . }}
 
 <main>
-  <div class="flex-row big-padding-top single-page">
+  <div class="flex-row big-padding-top big-padding-bottom single-page">
       <aside class="sidebar">
         <div class="back-home">
           <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
@@ -20,8 +20,8 @@
         <div id="icon-works" class="icon"></div>
       </aside>
     <article class="wrap single">
-      <span class="dingbats">{{ partialCached "icons/weirdspiral" . }}</span>
-      <h1 class="psych-1">{{ .Title }}</h1>
+      <span class="dingbats accent">{{ partialCached "icons/weirdspiral" . }}</span>
+      <h1 class="psych-1 accent">{{ .Title }}</h1>
       {{ with (.GetTerms "tags") }}
         <ul class="tags">
           Tagged with {{ range . }}

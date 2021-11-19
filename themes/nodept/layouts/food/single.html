@@ -2,7 +2,7 @@
 {{ partialCached "header" . }}
 
 <main>
-  <div class="flex-row big-padding-top single-page">
+  <div class="flex-row big-padding-top big-padding-bottom single-page">
       <aside class="sidebar">
         <div class="back-home">
           <a href="/{{ .Section }}/">Back to {{ .Section }}</a>
@@ -19,8 +19,8 @@
         <div id="icon-food" class="icon"></div>
       </aside>
     <article class="wrap single recipe">
-      <span class="dingbats">{{ partialCached "icons/flower" . }}</span>
-      <h1 class="psych-1 no-margin-bottom">{{.Title}}</h1>
+      <span class="dingbats accent">{{ partialCached "icons/flower" . }}</span>
+      <h1 class="psych-1 accent no-margin-bottom">{{.Title}}</h1>
       <div class="specs psych-2">
         {{ with .Params.prepTime }}<span class="prep-time">{{ . }} to prep</span>
         - {{ end }}

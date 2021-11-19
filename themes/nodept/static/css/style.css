@@ -237,6 +237,11 @@ small {
   color: var(--f_high);
 }
 
+.larger {
+  font-size:1.5em;
+  line-height:1.5em;
+}
+
 .dingbats {
   font-size: 40px;
   color: #3b1c16; /* f_high */
@@ -476,6 +481,7 @@ img {
 
 .list-page .home-content .icon {
   margin-left: 0;
+  margin-top:0;
 }
 
 .icon {
@@ -665,6 +671,11 @@ img {
   border-radius: 12px;
 }
 
+.notes:hover {
+  border-color: #3b1c16; /* f_high */
+  border-color: var(--f_low);
+}
+
 .notes .picture {
   display: none;
 }
@@ -688,7 +699,8 @@ img {
 }
 
 .notes .desc {
-  margin-top: 16px; /* spacing_md */
+  margin-top: 24px; /* spacing_lg */
+  padding-bottom:0;
 }
 
 .notes .picture {
@@ -1093,23 +1105,23 @@ article {
 }
 
 .small-padding {
-  padding: 15px;
+  padding: 16px;
 }
 
 .small-padding-left {
-  padding-left: 15px;
+  padding-left: 16px;
 }
 
 .small-padding-right {
-  padding-right: 15px;
+  padding-right: 16px;
 }
 
 .small-padding-top {
-  padding-top: 15px;
+  padding-top: 16px;
 }
 
 .small-padding-bottom {
-  padding-bottom: 15px;
+  padding-bottom: 16px;
 }
 
 .medium-padding {
@@ -1215,6 +1227,107 @@ article {
   height: auto;
 }
 
+/* -------- PROGRESSIVE ENHANCEMENTS --------- */
+
+@supports (position: sticky) {
+  .sidebar {
+    position: sticky;
+  }
+}
+
+@supports (display: flex) {
+  .home-content .section {
+    flex: 1;
+  }
+
+  .ingredients {
+    flex: 1;
+  }
+
+  .steps {
+    flex: 3;
+  }
+
+  .half {
+    flex: 1;
+  }
+
+  .flex-row {
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .flex-col {
+    display: -webkit-flex;
+    -webkit-flex-direction: column;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .flex-wrap {
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+  }
+
+  .flex-1 {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+  }
+
+  .flex-2 {
+    -webkit-flex: 2;
+    -ms-flex: 2;
+    flex: 2;
+  }
+
+  .flex-3 {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+  }
+
+  .flex-4 {
+    -webkit-flex: 4;
+    -ms-flex: 4;
+    flex: 4;
+  }
+
+  .flex-5 {
+    -webkit-flex: 5;
+    -ms-flex: 5;
+    flex: 5;
+  }
+
+  .flex-6 {
+    -webkit-flex: 6;
+    -ms-flex: 6;
+    flex: 6;
+  }
+
+  .flex-row.desktop {
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+    display: flex;
+    flex-direction: row;
+  }
+
+  @media screen and (max-width: 599px) {
+    .home-content .flex-row, .top-page-row {
+      flex-direction: column;
+    }
+
+    .list-page,
+    .tag-page,
+    .single-page {
+      flex-direction: column-reverse;
+    }
+  }
+}
+
+
 /* -------- MOBILE --------- */
 
 @media screen and (max-width: 599px) {
@@ -1307,12 +1420,7 @@ article {
   .intro {
     padding-top: 16px;
   }
-  .categories .flex-row,
-  .footer .flex-row,
-  .food .flex-row,
-  .top-page-row {
-    display: block;
-  }
+
   .footer {
     height: auto;
   }
@@ -1368,104 +1476,16 @@ article {
   .last-mod {
     max-width: 225px;
   }
-}
-
-/* -------- PROGRESSIVE ENHANCEMENTS --------- */
-
-@supports (position: sticky) {
-  .sidebar {
-    position: sticky;
+  .categories .flex-row,
+  .footer .flex-row,
+  .food .flex-row,
+  .top-page-row {
+    display: block;
   }
-}
-
-@supports (display: flex) {
-  .home-content .section {
-    flex: 1;
+  .section .small-padding-left {
+    padding-left:0;
   }
-
-  .ingredients {
-    flex: 1;
-  }
-
-  .steps {
-    flex: 3;
-  }
-
-  .half {
-    flex: 1;
-  }
-
-  .flex-row {
-    display: -webkit-flex;
-    -webkit-flex-direction: row;
-    display: flex;
-    flex-direction: row;
-  }
-
-  .flex-col {
-    display: -webkit-flex;
-    -webkit-flex-direction: column;
-    display: flex;
-    flex-direction: column;
-  }
-
-  .flex-wrap {
-    flex-wrap: wrap;
-    -webkit-flex-wrap: wrap;
-  }
-
-  .flex-1 {
-    -webkit-flex: 1;
-    -ms-flex: 1;
-    flex: 1;
-  }
-
-  .flex-2 {
-    -webkit-flex: 2;
-    -ms-flex: 2;
-    flex: 2;
-  }
-
-  .flex-3 {
-    -webkit-flex: 3;
-    -ms-flex: 3;
-    flex: 3;
-  }
-
-  .flex-4 {
-    -webkit-flex: 4;
-    -ms-flex: 4;
-    flex: 4;
-  }
-
-  .flex-5 {
-    -webkit-flex: 5;
-    -ms-flex: 5;
-    flex: 5;
-  }
-
-  .flex-6 {
-    -webkit-flex: 6;
-    -ms-flex: 6;
-    flex: 6;
-  }
-
-  .flex-row.desktop {
-    display: -webkit-flex;
-    -webkit-flex-direction: row;
-    display: flex;
-    flex-direction: row;
-  }
-
-  @media screen and (max-width: 599px) {
-    .home-content .flex-row {
-      flex-direction: column;
-    }
-
-    .list-page,
-    .tag-page,
-    .single-page {
-      flex-direction: column-reverse;
-    }
+  .section {
+    padding-right:0;
   }
 }

@@ -1,7 +1,17 @@
 {{ partialCached "header" . }}
+<style>
+
+main {
+    {{ with .Params.background }}background:#{{ . }};{{ end }}
+    {{ with .Params.textPrimary }}color:#{{ . }};{{ end }}
+}
+main .accent {
+  {{ with .Params.textSecondary }}color:#{{ . }};{{ end }}
+}
+</style>
 
 <main>
-  <div class="flex-row big-padding-top single-page">
+  <div class="flex-row big-padding-top big-padding-bottom single-page">
       <aside class="sidebar">
         <div class="back-home">
           <a href="/{{ .Section }}/">Back to {{ .Section }}</a>
@@ -34,8 +44,8 @@
         <div id="icon-folklore" class="icon"></div>
       </aside>
     <article class="wrap">
-      <span class="dingbats">{{ partialCached "icons/diamond" . }}</span>
-      <h1 class="psych-1">{{ .Title }}</h1>
+      <span class="dingbats accent">{{ partialCached "icons/diamond" . }}</span>
+      <h1 class="psych-1 accent">{{ .Title }}</h1>
       {{ with (.GetTerms "tags") }}
         <ul class="tags">
           Tagged with {{ range . }}
