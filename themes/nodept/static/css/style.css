@@ -266,6 +266,13 @@ small {
   -webkit-mask-size: contain;
 }
 
+.info {
+  border-radius:8px;
+  border: 2px solid;
+  line-height:1.2em;
+  font-size:16px;
+}
+
 /* -------------- utils ------------- */
 
 .display-none,
@@ -555,6 +562,10 @@ img {
 .social svg:hover {
   fill: #3b1c16; /* f_high */
   fill: var(--f_high);
+}
+
+.image-resolution-info ul {
+  text-align:center;
 }
 
 /* ---------- taxonomies ----------- */
