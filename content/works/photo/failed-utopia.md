@@ -2,7 +2,7 @@
 title = "Failed utopia"
 tags = ["photo"]
 date = "2021-10-18"
-image = "/img/photo/failed-utopia/DSC049340.jpg"
+image = "/img/photo/failed-utopia/DSC04940.jpg"
 desc = "Brutalist ruins of Montreal's olympic stadium and surrounding public spaces"
 +++
 
