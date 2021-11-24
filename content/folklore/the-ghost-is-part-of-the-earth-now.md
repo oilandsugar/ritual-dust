@@ -2,7 +2,7 @@
 title = "The ghost is part of the earth now"
 date = "2021-11-17"
 image = ""
-tags = ["folklore"]
+tags = ["folklore", "notes"]
 weight = 3
 draft = false
 background = "150603"
