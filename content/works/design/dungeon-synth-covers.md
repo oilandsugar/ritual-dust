@@ -2,6 +2,7 @@
 title = "Dungeon Synth Covers"
 tags = ["design", "music", "dungeon synth"]
 date = "2021-11-14"
+
 image = "/img/design/dungeon-synth-covers/silent-gnome.jpg"
 desc = "Cassette sleeve designs for fictional dungeon synth albums"
 +++

@@ -1,9 +1,10 @@
 +++
 title = "Altar of inspiration"
+tags = ["magic"]
 date = "2020-10-30"
+
 image = "/img/craft/inspiration-1.jpg"
 desc = "Small altar made of found and hand-made objects to inspire creativity"
-tags = ["magic"]
 +++
 
 Small altar made of found and hand-made objects to inspire creativity. The little casio keyboard got a ritual burial in the making of [Blood and Dust video](https://www.instagram.com/p/Bzix-zzF11C/).

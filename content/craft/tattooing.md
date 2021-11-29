@@ -1,8 +1,9 @@
 +++
 title = "Tattooing"
-date = "2021-08-14"
-desc = "My notes on tattooing tools, technique and safety"
 tags = ["notes", "craft", "tattooing"]
+date = "2021-08-14"
+
+desc = "My notes on tattooing tools, technique and safety"
 draft = true
 +++
 

@@ -2,6 +2,7 @@
 title = "Vacarme Hurlant"
 tags = ["lettering", "music"]
 date = "2021-10-04"
+
 image = "/img/lettering/vacarme-hurlant/logo-white.jpg"
 desc = "Logo for a blackened death metal band from Quebec"
 +++

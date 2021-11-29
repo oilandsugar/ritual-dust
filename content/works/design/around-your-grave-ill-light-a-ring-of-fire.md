@@ -2,6 +2,7 @@
 title = "Around Your Grave I'll Light a ring of Fire"
 tags = ["design", "music"]
 date = "2021-11-13"
+
 image = "/img/design/blood-and-dust/ring-of-fire-front.jpg"
 desc = "Cover artwork for a new single by Blood and Dust"
 +++

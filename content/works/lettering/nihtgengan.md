@@ -2,6 +2,7 @@
 title = "Nihtgengan"
 tags = ["lettering", "music"]
 date = "2021-08-18"
+
 image = "/img/lettering/nihtgengan/white.jpg"
 desc = "Hand-drawn band logo for the oniric dungeon synth / darkambient project Nihtgengan"
 +++

@@ -2,6 +2,7 @@
 title = "Ariel"
 tags = ["lettering", "music"]
 date = "2020-09-20"
+
 image = "/img/lettering/ariel/ariel-crest.jpg"
 desc = "Hand-drawn lettering and symbol for the neofolk band Ariel."
 +++

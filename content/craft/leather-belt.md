@@ -1,9 +1,10 @@
 +++
 title = "Leather belt"
+tags = ["leather"]
 date = "2021-07-28"
+
 image = "/img/craft/leather-belt.jpg"
 desc = "My day-to-day leather belt"
-tags = ["leather"]
 +++
 
 I made this leather belt out of scraps of leather and metal rings years ago, I recently added some removable chains and straps to it. I carry on it my small sickle, a mask and sometimes I hang other useful things from the rings when I go out.

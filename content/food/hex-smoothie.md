@@ -2,8 +2,8 @@
 title = "Hex's Smoothie"
 tags = ["smoothie", "drink", "spring", "summer", "fall", "winter"]
 date = "2021-10-28"
-draft = "true"
 
+draft = "true"
 images = ["/img/recipes/matcha-spirulina-latte.jpg", "/img/recipes/matcha-spirulina-latte-2.jpg", "/img/recipes/matcha-spirulina-latte-3.jpg"]
 imageAlt = "Energizing warm green drink"
 

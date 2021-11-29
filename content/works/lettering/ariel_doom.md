@@ -2,6 +2,7 @@
 title = "Ariel Doom"
 tags = ["lettering", "art"]
 date = "2021-07-28"
+
 image = "/img/lettering/ariel-doom/logo-white.jpg"
 desc = "A lettering piece made for the black metal-themed art project of a friend."
 +++

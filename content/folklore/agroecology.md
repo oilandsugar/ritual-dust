@@ -1,8 +1,9 @@
 +++
 title = "Agroecology"
-date = "2021-08-05"
-image = ""
 tags = ["sustainability", "agriculture"]
+date = "2021-08-05"
+
+image = ""
 weight = 3
 draft = true
 +++

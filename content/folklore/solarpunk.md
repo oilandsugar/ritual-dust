@@ -1,8 +1,9 @@
 +++
 title = "Solar punk"
-draft = true
+tags = ["politics", "science-fiction", "futurism"]
 date = "2020-10-31"
-tags = ["politics"]
+
+draft = true
 +++
 
 http://www.vegetalcity.net/en/

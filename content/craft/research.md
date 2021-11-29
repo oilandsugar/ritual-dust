@@ -1,8 +1,9 @@
 +++
 title = "Research links"
-date = "2021-08-14"
-desc = "Where I keep my references for crafting, low-tech, permacomputing and low-bandwidth web projects."
 tags = ["notes", "craft", "website", "sustainability"]
+date = "2021-08-14"
+
+desc = "Where I keep my references for crafting, low-tech, permacomputing and low-bandwidth web projects."
 +++
 
 Where I keep my references for crafting, woodworking, low-tech, permacomputing and low-bandwidth web projects.

@@ -1,9 +1,10 @@
 +++
 title = "Make yourself a website"
+tags = ["craft", "notes", "website"]
 date = "2021-07-26"
+
 desc = "Escape the boring and controlling grid of social media and give your words, your work and yourself a better place to live on the web"
 weight = 2
-tags = ["craft", "notes", "website"]
 +++
 
 <div class="table-of-contents">

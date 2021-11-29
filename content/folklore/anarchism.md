@@ -1,8 +1,9 @@
 +++
 title = "Anarchism"
-draft = true
-date = "2020-10-31"
 tags = ["politics"]
+date = "2020-10-31"
+
+draft = true
 +++
 
 Anarchist reading list

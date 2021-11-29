@@ -1,9 +1,10 @@
 +++
 title = "Fox ritual doll"
+tags = ["woodworking", "magic"]
 date = "2020-11-05"
+
 image = "/img/craft/fox-doll-1.jpg"
 desc = "Small fox wooden ritual doll"
-tags = ["woodworking", "magic"]
 +++
 
 The cunning fox escapes the hunter with its prey, crawl underneath brambles to the safety of its lair. Its power lies in its curiosity and ability to see through deceptions.

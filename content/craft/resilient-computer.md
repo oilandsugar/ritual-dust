@@ -1,9 +1,10 @@
 +++
 title = "Resilient computer"
+tags = ["computer", "sustainability"]
 date = "2021-07-19"
+
 image = "/img/craft/computer-1.jpg"
 desc = "Building a resilient, low-power DIY computer"
-tags = ["computer", "sustainability"]
 +++
 
 ![Pelican case and raspberry pi](/img/craft/computer-1.jpg)

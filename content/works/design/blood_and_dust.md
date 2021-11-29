@@ -2,6 +2,7 @@
 title = "Blood and Dust"
 tags = ["design", "music"]
 date = "2020-10-15"
+
 image = "/img/design/blood-and-dust/blood_and_dust_1.jpg"
 desc = "Logo and design for a ritualistic horror drone project I'm doing with Hex."
 +++

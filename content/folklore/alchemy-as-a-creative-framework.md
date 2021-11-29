@@ -1,8 +1,9 @@
 +++
 title = "Alchemy as a creative framework"
-draft = true
-date = "2020-10-31"
 tags = ["magic", "art"]
+date = "2020-10-31"
+
+draft = true
 +++
 
 > "But "art" is not art. "Art" is politics that has created new styles of communication."  

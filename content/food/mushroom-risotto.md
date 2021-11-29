@@ -2,6 +2,7 @@
 title = "Mushroom risotto"
 tags = ["savory", "earthy", "main", "fall", "winter"]
 date = "2021-10-10"
+
 images = ["/img/recipes/risotto.jpg"]
 imageAlt = "An earthy and comforting mushroom risotto, takes time but it's worth it"
 

@@ -2,6 +2,7 @@
 title = "Nicole Marxen"
 tags = ["lettering", "music"]
 date = "2021-08-30"
+
 image = "/img/lettering/nicole-marxen/in-use.jpg"
 desc = "Hand-drawn band logo for the solo project of Nicole Marxen"
 +++

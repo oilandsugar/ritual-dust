@@ -2,6 +2,7 @@
 title = "Moshimoshpit"
 tags = ["lettering"]
 date = "2020-10-05"
+
 image = "/img/lettering/moshimoshpit/logo.jpg"
 desc = "Commissioned lettering for a youtube channel."
 

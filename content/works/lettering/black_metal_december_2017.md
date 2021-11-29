@@ -2,6 +2,7 @@
 title = "Black Metal December 2017"
 tags = ["lettering"]
 date = "2020-09-20"
+
 image = "/img/lettering/black-metal/trve-kvlt.png"
 desc = "Series of 31 black metal inspired lettering pieces, one for every day of the month of December."
 +++

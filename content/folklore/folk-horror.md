@@ -1,8 +1,9 @@
 +++
 title = "Folk Horror"
-draft = true
-date = "2021-08-29"
 tags = ["folklore", "folk horror", "cinema", "music"]
+date = "2021-08-29"
+
+draft = true
 +++
 
 Folk Horror refers to a mode of story-telling, a set of themes and to some extent an aesthetic movement fascinated by exploring the ways in which old rites, traditions, folklore and ways can

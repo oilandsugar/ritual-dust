@@ -1,7 +1,7 @@
 +++
 title = "Research links"
-date = "2020-10-19"
 tags = ["notes", "ancestry", "magic"]
+date = "2020-10-19"
 +++
 
 Where I keep my references for folklore, ancestry and magic research

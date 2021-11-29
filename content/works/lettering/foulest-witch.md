@@ -2,6 +2,7 @@
 title = "Foulest Witch"
 tags = ["lettering", "music"]
 date = "2021-09-06"
+
 image = "/img/lettering/foulest-witch/sigil-white.jpg"
 desc = "Hand-drawn logo, sigil and illustrations for Foulest Witch, a black metal, dark ambient and ritual music label"
 +++

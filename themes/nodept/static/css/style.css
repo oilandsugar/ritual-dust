@@ -414,6 +414,11 @@ img {
 
 .low {
   mix-blend-mode: multiply;
+  width:100%;
+  image-rendering: optimizeSpeed;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -o-crisp-edges;
+  image-rendering: -webkit-optimize-contrast;
 }
 
 /* ------------ PAGE TITLE ------------- */
@@ -1091,6 +1096,10 @@ article {
   padding-right: 8px; /* spacing_sm */
   padding-bottom: 0;
   padding-left: 8px; /* spacing_sm */
+}
+
+.half.normal-line-height {
+  line-height: 1.5em;
 }
 
 .half p {

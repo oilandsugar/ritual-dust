@@ -1,10 +1,10 @@
 +++
 title = "Folk magic wands"
+tags = ["woodworking", "magic"]
 date = "2021-01-29"
+
 image = "/img/craft/wands/DSC01461.jpg"
 desc = "Collection of hand-made folk magic wands"
-tags = ["woodworking", "magic"]
-draft = false
 +++
 
 All of my ritual tools are crafted by hand using hand tools with respect to the tree from which they came from. They are finished with natural linseed oil and wax for durability. After being completed they are cleansed over a flame. Unless specified, they are not created with a specific magical practice in mind and it is up to you to imbue them with your own personal meaning.

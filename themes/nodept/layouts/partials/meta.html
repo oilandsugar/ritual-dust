@@ -3,27 +3,12 @@
 <meta name="language" content="English">
 
 <!-- title -->
-{{ if .IsHome }}
-  <title>{{ .Site.Title }}</title>
-  <meta property="og:title" content="{{ .Site.Title }}" />
-  <meta itemprop="name" content="{{ .Site.Title }}" />
-  <meta name="twitter:title" content="{{ .Site.Title }}" />
-  <meta name="application-name" content="{{ .Site.Title }}" />
-{{ else }}
-  <title>{{ .Title }} - {{ .Site.Title }}</title>
-  <meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
-  <meta itemprop="name" content="{{ .Title }} - {{ .Site.Title }}" />
-  <meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}" />
-  <meta name="application-name" content="{{ .Title }} - {{ .Site.Title }}" />
-{{ end }}
+<title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+<meta property="og:title" content="{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
+<meta itemprop="name" content="{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
+<meta name="twitter:title" content="{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
+<meta name="application-name" content="{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-
-<!-- author -->
-{{- if .Params.author -}}
-<meta name="author" content="{{ .Params.author }}" />
-{{- else -}}
-<meta name="author" content="{{ .Site.Params.author }}" />
-{{- end -}}
 
 <!-- description -->
 <meta property="og:description" content="{{ if .Params.desc }}{{ .Params.desc }}{{ else }}{{ if .Site.Params.desc }}{{ .Site.Params.desc }}{{ else }}Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore.{{ end }}{{ end }}" />

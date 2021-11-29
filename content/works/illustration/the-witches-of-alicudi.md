@@ -2,6 +2,7 @@
 title = "The Witches of Alicudi"
 tags = ["illustration"]
 date = "2021-11-14"
+
 image = "/img/illustration/witches-of-alicudi.jpg"
 desc = "Illustration inspired by the folklore of the flying witches of Alicudi made for cvstomer service zine, a folk-horror zine"
 +++

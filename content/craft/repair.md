@@ -1,8 +1,9 @@
 +++
 title = "Repairable devices"
+tags = ["low tech", "design", "craft", "notes", "sustainability", "repair"]
 date = "2020-11-03"
+
 desc = "Thoughts, research and resources on low tech solutions"
-tags = ["low tech", "design", "craft", "notes", "sustainability"]
 draft = true
 +++
 

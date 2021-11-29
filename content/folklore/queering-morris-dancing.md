@@ -1,5 +1,7 @@
 +++
 title = "Queer morris dancing"
-draft = true
+tags = ["folklore"]
 date = "2020-10-31"
+
+draft = true
 +++

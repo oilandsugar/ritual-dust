@@ -1,8 +1,9 @@
 +++
 title = "Weird walking"
-date = "2020-10-26"
-image = "/img/folklore/weird-walk.jpg"
 tags = ["magic", "landscape"]
+date = "2020-10-26"
+
+image = "/img/folklore/weird-walk.jpg"
 weight = 2
 +++
 

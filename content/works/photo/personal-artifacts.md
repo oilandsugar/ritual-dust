@@ -2,6 +2,7 @@
 title = "Personal artifacts"
 tags = ["photo"]
 date = "2021-10-23"
+
 image = "/img/photo/artifacts/DSC04973.jpg"
 desc = "Curating and documenting a collection of personal artifacts"
 draft = "true"

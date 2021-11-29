@@ -2,6 +2,7 @@
 title = "Black Magic Black Coffee patch"
 date = "2018-01-01"
 draft = "true"
+
 image = "/img/craft/black-coffee-patch.jpg"
 desc = "An ambigram patch"
 tags = ["leather"]

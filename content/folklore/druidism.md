@@ -1,8 +1,9 @@
 +++
 title = "Druidism"
-date = "2020-10-19"
-image = "/img/folklore/druidism.jpg"
 tags = ["magic", "druidism"]
+date = "2020-10-19"
+
+image = "/img/folklore/druidism.jpg"
 weight = 3
 +++
 

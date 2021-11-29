@@ -1,10 +1,10 @@
 +++
 title = "Tool chest"
+tags = ["woodworking"]
 date = "2021-06-04"
+
 image = "/img/craft/tool-chest-3.jpg"
 desc = "Wall-mounted tool chest for my hand tools"
-tags = ["woodworking"]
-draft = false
 +++
 
 ![Tool chest in process of receiving tools](/img/craft/tool-chest-3.jpg)

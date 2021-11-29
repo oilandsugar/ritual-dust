@@ -1,7 +1,8 @@
 +++
 title = "Wyrd terms"
-date = "2020-10-19"
 tags = ["notes"]
+date = "2020-10-19"
+
 desc = "My ever-growing collection of wyrd terms collected online, in books and in conversations. A glossary of the occult and the ancient."
 +++
 
