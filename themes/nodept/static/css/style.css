@@ -220,7 +220,6 @@ small {
 
 .blackletter {
   font-family: "CalFrakturModern"; /* blackletterFont */
-  -webkit-font-smoothing: none;
 }
 
 .psych-1 {
