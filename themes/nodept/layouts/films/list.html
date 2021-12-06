@@ -1,32 +1,13 @@
-{{ partialCached "header" . }}
+{{ partial "header" . }}
 
 <main>
   <div class="flex-row big-padding-top list-page">
     <div>
-      <aside class="sidebar">
-        {{ if (eq $.Parent.Title "About") }}
-        <div class="back-home">
-          <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
-        </div>
-        {{ end }}
-        <h3 class="accent">Films</h3>
-        <ul>
-          {{ range where .Pages "Type" "films" }}
-            <li>
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
-          {{ end }}
-        </ul>
-      </aside>
+    {{ partial "sidebars/filmsList" . }}
     </div>
     <article>
       <div class="small-wrap craft">
-        <div class="page-title">
-          <span class="dingbats">{{ partialCached "icons/diamond" . }}</span>
-          <h2 class="psych-1">{{ .Title }}</h2>
-          <span class="dingbats">{{ partialCached "icons/diamond" . }}</span>
-          <h3 class="psych-2">{{ .Params.subtitle }}</h3>
-        </div>
+        {{ partial "listPageTitle" . }}
         <div class="intro">
           {{ .Params.desc }}
         </div>

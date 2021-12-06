@@ -27,6 +27,7 @@ Where I keep my references for folklore, ancestry and magic research
 - [A collection of horror stories in the public domain](https://www.steve-calvert.co.uk/public-domain-horror-stories-3/#H)  
 - [An archive of old irish documents and photographs](https://www.duchas.ie/en)
 - [An in-depth article about polish painted cottages](https://lamusdworski.wordpress.com/2018/06/08/painted-cottages/)
+- [A great video on wassailing](https://youtu.be/ic4qWguBYEM)
 
 ### Ancestry
 

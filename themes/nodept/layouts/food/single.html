@@ -1,23 +1,9 @@
 {{ $imageAlt := .Params.imageAlt }}
-{{ partialCached "header" . }}
+{{ partial "header" . }}
 
 <main>
   <div class="flex-row big-padding-top big-padding-bottom single-page">
-      <aside class="sidebar">
-        <div class="back-home">
-          <a href="/{{ .Section }}/">Back to {{ .Section }}</a>
-        </div>
-        {{ $section := where $.Site.RegularPages "Section" "food"}}
-        <h3 class="accent">Recipes and notes</h3>
-        <ul class="section-pages">
-        {{ range $section }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
-        </ul>
-        <div id="icon-food" class="icon"></div>
-      </aside>
+    {{ partial "sidebars/foodSingle" . }}
     <article class="wrap single recipe">
       <span class="dingbats accent">{{ partialCached "icons/flower" . }}</span>
       <h1 class="psych-1 accent no-margin-bottom">{{.Title}}</h1>

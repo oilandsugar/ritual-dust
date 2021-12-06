@@ -1,22 +1,8 @@
-{{ partialCached "header" . }}
+{{ partial "header" . }}
 
 <main>
   <div class="flex-row big-padding-top single-page">
-      <aside class="sidebar">
-        <div class="back-home">
-          <a href="/{{ .Section }}/">Back to {{ .Section }}</a>
-        </div>
-        {{ $section := where $.Site.RegularPages "Section" "craft"}}
-        <h3 class="accent">Artefacts</h3>
-        <ul class="section-pages">
-        {{ range $section }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
-        </ul>
-        <div id="icon-craft" class="icon"></div>
-      </aside>
+    {{ partial "sidebars/craftSingle" . }}
     <article class="wrap single">
       <span class="dingbats">{{ partialCached "icons/star" . }}</span>
       <h1 class="psych-1">{{ .Title }}</h1>

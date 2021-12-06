@@ -1,4 +1,4 @@
-{{ partialCached "header" . }}
+{{ partial "header" . }}
 <style>
 
 main {
@@ -18,37 +18,7 @@ main .low {
 
 <main>
   <div class="flex-row big-padding-top big-padding-bottom single-page">
-      <aside class="sidebar">
-        <div class="back-home">
-          <a href="/{{ .Section }}/">Back to {{ .Section }}</a>
-        </div>
-        {{ $section := where $.Site.RegularPages "Section" "folklore"}}
-        <h3 class="accent">Pages</h3>
-        <div class="small-padding-bottom">
-          <ul class="section-pages">
-          {{ range $section }}
-            {{ if not (in .Params.tags "folk-notes") }}
-              <li>
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-              </li>
-            {{ end }}
-          {{ end }}
-          </ul>
-        </div>
-        <h3 class="accent">Notes</h3>
-        <div class="small-padding-bottom">
-          <ul class="section-pages">
-          {{ range $section }}
-            {{ if in .Params.tags "folk-notes" }}
-              <li>
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-              </li>
-            {{ end }}
-          {{ end }}
-          </ul>
-        </div>
-        <div id="icon-folklore" class="icon"></div>
-      </aside>
+    {{ partialCached "sidebars/folkloreSingle" . }}
     <article class="wrap">
       <span class="dingbats accent">{{ partialCached "icons/diamond" . }}</span>
       <h1 class="psych-1 accent">{{ .Title }}</h1>

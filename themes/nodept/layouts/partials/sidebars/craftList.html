@@ -1,0 +1,38 @@
+<aside class="sidebar">
+  {{ if (eq $.Parent.Title "Craft") }}
+    {{ partial "sidebars/utils/back" . }}
+  {{ end }}
+  <h3 class="accent">Artefacts</h3>
+  <div class="small-padding-bottom">
+    <ul>
+      {{ range where .Pages "Section" "craft" }}
+        {{ if not (in .Params.tags "notes") }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+  <h3 class="accent">Notes</h3>
+  <div class="small-padding-bottom">
+    <ul>
+      {{ range where .Pages "Section" "craft" }}
+        {{ if in .Params.tags "notes" }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+  <div class="small-padding-bottom">
+    <h3 class="accent">Deeper knowledge</h3>
+    <ul>
+      <li><a href="https://branch.climateaction.tech/">Branch sustainable internet journal</a></li>
+      <li><a href="https://www.mortiseandtenonmag.com/">Mortise and tenon mag</a></li>
+      <li><a href="https://homethingspast.com/">Home things past</a></li>
+    </ul>
+  </div>
+  <div id="icon-craft" class="icon"></div>
+</aside>

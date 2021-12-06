@@ -1,4 +1,4 @@
-{{ partialCached "header" . }}
+{{ partial "header" . }}
 
 {{ $topPages := .Site.Sections }}
 
@@ -6,7 +6,7 @@
   <div class="flex-row big-padding-top list-page tree">
     <article>
       <div class="full-wrap">
-        <h1 class="accent">{{ .Title }}</h1>
+        {{ partial "listPageTitle" . }}
         <ul>
           {{ range $topPages }}
             <li>

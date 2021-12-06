@@ -4,7 +4,7 @@ date = "2021-06-13"
 image = "/img/about/ghost-tattoo.jpg"
 weight = 8
 intro = "A list of tattoos I got and I'd like to get"
-tags = ["tattoo"]
+tags = ["tattoo", "notes"]
 +++
 
 ![Ghost tattoo on my forearm](/img/about/ghost-tattoo.jpg)

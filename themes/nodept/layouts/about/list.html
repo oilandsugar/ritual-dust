@@ -1,26 +1,10 @@
-{{ partialCached "header" . }}
+{{ partial "header" . }}
 
 <main>
   <div class="flex-row big-padding-top list-page">
-      <aside class="sidebar">
-        <h3 class="accent">Pages</h3>
-        <div class="small-padding-bottom">
-          <ul class="section-pages">
-          {{ range .Pages }}
-            <li>
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
-          {{ end }}
-          </ul>
-        </div>
-        <div class="ornament"></div>
-      </aside>
+    {{ partial "sidebars/aboutList" . }}
     <article class="small-wrap">
-      <div class="page-title">
-        <span class="dingbats">{{ partialCached "icons/spiral" . }}</span>
-        <h1 class="psych-1">{{ .Title }}</h1>
-        <span class="dingbats">{{ partialCached "icons/spiral" . }}</span>
-      </div>
+      {{ partial "listPageTitle" . }}
       <div>
       {{.Content}}
       </div>

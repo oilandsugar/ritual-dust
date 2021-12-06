@@ -1,4 +1,4 @@
-{{ partialCached "header" . }}
+{{ partial "header" . }}
 
 {{ $timeline := .Site.RegularPages.GroupByDate "2006-01" }}
 
@@ -6,7 +6,8 @@
   <div class="flex-row big-padding-top list-page timeline">
       <article>
         <div class="full-wrap">
-          <h1 class="accent">{{ .Title }}</h1>
+          {{ partial "listPageTitle" . }}
+          <div class="medium-padding-top">
           {{ range $timeline }}
             <h2 class="accent">{{ .Key }}</h2>
             <div class="stats">
@@ -34,6 +35,7 @@
               {{ end }}
             </div>
           {{ end }}
+          </div>
         </div>
       </article>
   </div>

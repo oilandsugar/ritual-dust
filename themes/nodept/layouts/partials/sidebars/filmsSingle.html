@@ -1,0 +1,13 @@
+<aside class="sidebar">
+  {{ partial "sidebars/utils/back" . }}
+  <h3>Further reading</h3>
+  {{ $section := where $.Site.RegularPages "Section" "films"}}
+  <ul class="section-pages">
+  {{ range $section }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+  {{ end }}
+  </ul>
+  <div class="ornament"></div>
+</aside>

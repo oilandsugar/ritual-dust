@@ -9,6 +9,8 @@ desc = "Walking on the longest night, looking inside for what's to come."
 
 Walking on the longest night, looking inside for what's to come.
 
+I put on my ritual leaf crown, grabbed a lantern and ventured out in the cold empty streets and alleyways of Montreal. This was a walk I had to do alone. It was a moment I gave myself to thread new paths, going down the darkest routes without any map, open to what I could find around and inside of me. I became more comfortable with some of my fears in the process and discovered a renewed creative flow of ideas.
+
 ![Shadows and bones dancing together](/img/photo/year-walk/DSC02479.jpg "Shadows and bones dancing together")
 ![A menacing insect head, spilled on the asphalt](/img/photo/year-walk/DSC02481.jpg "A menacing insect head, spilled on the asphalt")
 ![Abandonned childhood hideout](/img/photo/year-walk/DSC02482.jpg "Abandonned childhood hideout")

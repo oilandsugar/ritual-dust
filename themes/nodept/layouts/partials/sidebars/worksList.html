@@ -1,0 +1,18 @@
+<aside class="sidebar">
+  {{ if (eq $.Parent.Title "Works") }}
+    {{ partial "sidebars/utils/back" . }}
+  {{ end }}
+  {{ if (eq .Parent.Title "Works") }}
+    <h3 class="accent">Projects</h3>
+  {{ else }}
+    <h3 class="accent">Types of works</h3>
+  {{ end }}
+  <ul class="section-pages">
+    {{ range where .Pages "Section" "works" }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ul>
+  <div id="icon-works" class="icon"></div>
+</aside>

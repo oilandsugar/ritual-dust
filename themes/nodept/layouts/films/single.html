@@ -1,23 +1,9 @@
-{{ partialCached "header" . }}
+{{ partial "header" . }}
 
 <main>
   <div class="flex-row big-padding-top single-page">
     <div>
-      <aside class="sidebar">
-        <div class="back-home">
-          <a href="/{{ .Section }}/">Back to {{ .Section }}</a>
-        </div>
-        <h3>Further reading</h3>
-        {{ $section := where $.Site.RegularPages "Section" "films"}}
-        <ul class="section-pages">
-        {{ range $section }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
-        </ul>
-        <div class="ornament"></div>
-      </aside>
+    {{ partial "sidebars/filmsSingle" . }}
     </div>
     <article class="wrap">
       <h1 class="psych-1">{{ .Title }}</h1>

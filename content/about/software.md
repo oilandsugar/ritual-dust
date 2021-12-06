@@ -3,7 +3,7 @@ title = "Software"
 date = "2021-07-19"
 weight = 7
 intro = "The software I use to create and complete my daily tasks"
-tags = ["software", "open source"]
+tags = ["software", "open source", "notes"]
 +++
 
 <div class="table-of-contents">

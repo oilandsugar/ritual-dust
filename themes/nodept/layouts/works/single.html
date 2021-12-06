@@ -1,24 +1,8 @@
-{{ partialCached "header" . }}
+{{ partial "header" . }}
 
 <main>
   <div class="flex-row big-padding-top big-padding-bottom single-page">
-      <aside class="sidebar">
-        <div class="back-home">
-          <a href="/{{ .Section }}/"><h3>Back to {{ .Section }}</h3></a>
-        </div>
-        <h3 class="accent">Categories</h3>
-        {{ $section := where $.Site.Pages "Section" "works"}}
-        {{ $section := $section | intersect (where $.Site.Pages "IsSection" true)}}
-        {{ $section := $section | intersect (where $.Site.Pages "Title" "!=" "Works")}}
-        <ul class="section-pages">
-        {{ range $section }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
-        </ul>
-        <div id="icon-works" class="icon"></div>
-      </aside>
+    {{ partial "sidebars/worksSingle" . }}
     <article class="wrap single">
       <span class="dingbats accent">{{ partialCached "icons/weirdspiral" . }}</span>
       <h1 class="psych-1 accent">{{ .Title }}</h1>

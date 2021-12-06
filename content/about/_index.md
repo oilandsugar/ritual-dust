@@ -1,5 +1,6 @@
 +++
-title = "About"
+title = "Films"
+subtitle = "My favorite movies"
 type = "page"
 desc = "I am Lizbeth Poirier, a designer and illustrator, goth druid, musician and craftsperson."
 +++
