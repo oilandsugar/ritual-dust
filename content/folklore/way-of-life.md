@@ -3,6 +3,7 @@ title = "Way of life"
 tags = ["notes"]
 date = "2021-06-20"
 
+desc = "Personal learnings from life experiences, introspection, teachings and conversations"
 weight = 1
 +++
 

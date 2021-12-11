@@ -2,6 +2,7 @@
 title = "Research links"
 tags = ["notes", "ancestry", "magic"]
 date = "2020-10-19"
+desc = "Where I keep my references for folklore, ancestry and magic research"
 +++
 
 Where I keep my references for folklore, ancestry and magic research
@@ -36,3 +37,5 @@ Where I keep my references for folklore, ancestry and magic research
 
 - [The Order of bards, ovates and druids](https://druidry.org/)
 - [An old pagan network](https://www.paganlink.org/index.shtml)
+- [Independent publisher of occult books](https://fulgur.co.uk/)
+- [Hermetic library](https://hermetic.com/index)

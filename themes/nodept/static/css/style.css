@@ -728,6 +728,22 @@ img {
   content: "Folklore note";
 }
 
+.dictionary .entry {
+  break-inside: avoid-column;
+}
+
+.columns.dictionary p {
+  margin-bottom:16px;
+}
+
+.dictionary h3 {
+  margin:0;
+  font-size:18px;
+  display:inline;
+  color: #3b1c16;
+  color: var(--f_high);
+}
+
 /* -------- RECIPES ---------*/
 
 .recipe-card.notes h3:before {
