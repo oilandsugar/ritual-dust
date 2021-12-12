@@ -20,6 +20,7 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 <div class="checklist">
 
+- [ ] **Fantasy : the golden age of fantastic illustration**, Bridgid Peppin
 - [ ] **The Wild Places**, Robert Macfarlane
 - [ ] **The Old Straight Track**, Alfred Watkins
 - [ ] **Cosmicomics**, Italo Calvino
