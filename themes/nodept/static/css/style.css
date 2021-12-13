@@ -420,6 +420,10 @@ img {
   image-rendering: -webkit-optimize-contrast;
 }
 
+.mastodon {
+  display:none;
+}
+
 /* ------------ PAGE TITLE ------------- */
 
 .page-title {
