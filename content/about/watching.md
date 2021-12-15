@@ -37,6 +37,8 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
+- [x] **The Strings** 2020
+- [x] **Lamb** 2021
 - [x] **Sound of Noise** 2010
 - [x] **Dune** 2021
 - [x] **Penda's Fen** 1974

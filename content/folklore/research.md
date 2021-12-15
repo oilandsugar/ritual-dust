@@ -39,3 +39,4 @@ Where I keep my references for folklore, ancestry and magic research
 - [An old pagan network](https://www.paganlink.org/index.shtml)
 - [Independent publisher of occult books](https://fulgur.co.uk/)
 - [Hermetic library](https://hermetic.com/index)
+- [The Museum of Witchcraft and Magic](https://museumofwitchcraftandmagic.co.uk/)
