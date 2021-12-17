@@ -18,7 +18,7 @@ The same way as I can't imagine living in a space designed and decorated by some
 
 During my early experiments in building websites and forums I spent a lot of time inspecting the code of other websites I liked, stealing little bits of html and css and mashing them together in this creative assemblage that took life on my screen.
 
-Then came adulthood and getting a job. At that point I had been messing around on the web for quite a while and everyone was looking for a "web person" to make their small business website. I learned wordpress, made my own theme base and started spurting out copies of it with slightly different branding applied on top for my clients. The more I made websites that way the less I could feel that sense of freedom and wonder that I use to see as a foundational part of the web as a kid. It all become hollow and meaningless.
+Then came adulthood and getting a job. At that point I had been messing around on the web for quite a while and everyone was looking for a "web person" to make their small business website. I learned Wordpress, made my own theme base and started spurting out copies of it with slightly different branding applied on top for my clients. The more I made websites that way the less I could feel that sense of freedom and wonder that I use to see as a foundational part of the web as a kid. It all become hollow and meaningless.
 
 Up until I joined the [Merveilles community](https://merveilles.town/) again and rediscovered that web. The wild web of weird personal websites, [webrings](https://webring.xxiivv.com/#random) and [wikis](https://wiki.xxiivv.com/site/about.html). Not only did it brought back that creativity and inspiration to create on the web in a more personal manner, I also realized that this corner of the web, even if it had shrunk since my childhood, had developed some new branches: [digital gardens](https://tomcritchlow.com/2019/02/17/building-digital-garden/), [websites built like a flow of thoughts](http://npanzer.com/bog/cirzi.html) or [list of links](http://daywreckers.com/), [free-form websites](https://www.cellestialstudios.com/), and explored new considerations: low-bandwidth and highly accessible websites, [energy-aware websites](https://branch.climateaction.tech/), [net art](http://archive.rhizome.org/), and more. I'm still discovering new interesting websites by the day through talking with people on mastodon and going down link rabbit holes and then I keep up to date with them through the use of a RSS feed reader, an old piece of technology that gives me what those social media timelines should, The latest from the websites and people I care about.
 
@@ -26,6 +26,9 @@ So, all that story to tell you: make yourself a website, start small, you'll  ne
 
 Want to read more about this side of the web, I got you covered:  
 [My website is a shifting house next to a river of knowledge. What could yours be?](https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/) - a beautiful and inspiring essay on what website can look like
+
+>"But on a more communal level, I suspect that cultures of digital detox — in >suggesting that the online world is inherently corrupting and cannot be >improved — discourage us from seeking alternative models for what the internet >could look like."  
+>-- Lauren Collee, from https://reallifemag.com/the-great-offline/
 
 ---
 
