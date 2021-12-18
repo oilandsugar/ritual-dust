@@ -1,11 +1,13 @@
 +++
 title = "Watching"
 date = "2020-11-25"
-draft = false
 weight = 3
-intro = "This is my movie watchlist, I keep it yearly and keep the movies that really impacted me at /about/films"
+tags = ["movies", "films"]
 +++
 
+  ![Still from the opening sequence of the wicker man](/img/about/watching.jpg "Still from the opening sequence of the wicker man")
+
+This is my movie watchlist, I keep it yearly and keep the movies that really impacted me in the [films section](/about/films).
 
 ### Movies
 
@@ -45,6 +47,8 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 #### 2021
 
+I watched quite a bit of folk-horror movies in 2021 and the best documentary on the genre I've seen so far, 2 movies Starring Nicholas Cage, some great TV movie adaptations of M.R. James ghost stories, my favourites are highlighted in the list below.
+
 <div class="checklist">
 
 - [x] **What we do in the Shadows(TV show)**, Jemaine Clement - 2016-2021
@@ -52,35 +56,35 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 - [x] **The Strings**, Ryan Glover - 2020
 - [x] **Lamb**, Valdimar Jóhannsson - 2021
 - [x] **Sound of Noise**, Ola Simonsson & Johannes Stjärne Nilsson - 2010
-- [x] **Dune**, Denis Villeneuve - 2021
-- [x] **Penda's Fen**, Alan Clarke - 1974
+  - [x] **Dune**, Denis Villeneuve - 2021
+  - [x] **Penda's Fen**, Alan Clarke - 1974
 - [x] **The Similars**, Isaac Ezban - 2015
 - [x] **Whistle and I'll come to you**, Jonathan Miller - 1968
 - [x] **Paranormal activity**, Oren Peli - 2007
 - [x] **My Heart can't beat unless you tell it to**, Jonathan Cuartas - 2020
 - [x] **A Warning to the Curious**, Lawrence Gordon Clark - 1972
-- [x] **Stigma**, Lawrence Gordon Clark - 1977
-- [x] **Woodlands Dark and Days Bewitched**, Kier-La Janisse - 2021
+  - [x] **Stigma**, Lawrence Gordon Clark - 1977
+  - [x] **Woodlands Dark and Days Bewitched**, Kier-La Janisse - 2021
 - [x] **All the Moons**, Igor Legarreta - 2021
-- [x] **The Green Kight**, David Lowery - 2021
+  - [x] **The Green Kight**, David Lowery - 2021
 - [x] **Kratt**, Rasmus Merivoo - 2020
 - [x] **Pig**, Michael Sarnoski - 2021
 - [x] **Gaia**, Jaco Bouwer - 2021
-- [x] **SG̲aawaay Ḵ'uuna (The Edge of the Knife)**, Gwaai Edenshaw, Helen Haig-Brown - 2018
-- [x] **Flowers (TV show)**, Will Sharpe - 2016-2018
+  - [x] **SG̲aawaay Ḵ'uuna (The Edge of the Knife)**, Gwaai Edenshaw, Helen Haig-Brown - 2018
+  - [x] **Flowers (TV show)**, Will Sharpe - 2016-2018
 - [x] **Boys from county hell**, Chris Baugh - 2020
 - [x] **Caveat**, Damian Mc Carthy - 2020
-- [x] **On the silver globe**, Andrzej Zulawski - 1988
-- [x] **In the Earth**, Ben Wheatley - 2021
+  - [x] **On the silver globe**, Andrzej Zulawski - 1988
+  - [x] **In the Earth**, Ben Wheatley - 2021
 - [x] **Rosencrantz and Guildenstern are dead**, Tom Stoppard - 1990
 - [x] **Sanjuro**, Akira Kurosawa - 1962
 - [x] **Hard Candy**, David Slade - 2005
-- [x] **The Green Room**, Jeremy Saulnier - 2015
+  - [x] **The Green Room**, Jeremy Saulnier - 2015
 - [x] **Willy's Wonderland**, Kevin Lewis - 2020
 - [x] **Saint-Maud**, Rose Glass - 2020
-- [x] **Koko-di Koko-da**, Johannes Nyholm - 2019
-- [x] **Valerie and her Week of Wonders**, Jaromil Jires - 1970
-- [x] **Hagazussa**, Lukas Feigelfeld - 2017
+  - [x] **Koko-di Koko-da**, Johannes Nyholm - 2019
+  - [x] **Valerie and her Week of Wonders**, Jaromil Jires - 1970
+  - [x] **Hagazussa**, Lukas Feigelfeld - 2017
 
 </div>
 
@@ -88,20 +92,20 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
-- [x] **La Casa Lobo**, Joaquín Cociña - 2018
+  - [x] **La Casa Lobo**, Joaquín Cociña - 2018
 - [x] **A Dark Song**, Liam Gavin - 2016
 - [x] **Friday the 13th**, Sean S. Cunningham - 1980
-- [x] **Nostalghia**, Andrei Tarkovsky - 1983
+  - [x] **Nostalghia**, Andrei Tarkovsky - 1983
 - [x] **The House of Usher**, Roger Corman - 1960
-- [x] **Let the Right One In**, Tomas Alfredson - 2008
-- [x] **Raw**, Julia Ducournau - 2016
-- [x] **La Jetée**, Chris Marker - 1962
-- [x] **Holy Motors**, Leos Carax - 2012
+  - [x] **Let the Right One In**, Tomas Alfredson - 2008
+  - [x] **Raw**, Julia Ducournau - 2016
+  - [x] **La Jetée**, Chris Marker - 1962
+  - [x] **Holy Motors**, Leos Carax - 2012
 - [x] **Wild at Heart**, David Lynch - 1990
 - [x] **Shadow of the Vampire**, E. Elias Merhige - 2000
-- [x] **Color out of Space**, Richard Stanley - 2019
-- [x] **Offret (Sacrifice)**, Andrei Tarkovsky - 1986
-- [x] **Horror Noire**, Zandashé Brown, Robin Givens, Rob Greenlea, Kimani Ray Smith - 2019
-- [x] **It Follows**, David Robert Mitchell - 2014
+  - [x] **Color out of Space**, Richard Stanley - 2019
+  - [x] **Offret (Sacrifice)**, Andrei Tarkovsky - 1986
+  - [x] **Horror Noire**, Zandashé Brown, Robin Givens, Rob Greenlea, Kimani Ray Smith - 2019
+  - [x] **It Follows**, David Robert Mitchell - 2014
 
 </div>

@@ -322,6 +322,20 @@ img {
   list-style: none;
 }
 
+.checklist ul ul {
+  padding: 0;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom:0;
+  margin-left: 0;
+  list-style: none;
+}
+
+.checklist ul ul li {
+  color: #3b1c16; /* f_high */
+  color: var(--f_low);
+}
+
 .checklist input {
   margin-top: 8px; /* spacing_sm */
 }

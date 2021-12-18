@@ -4,10 +4,12 @@ date = "2020-11-25"
 draft = false
 weight = 4
 intro = "This is my listening list, these albums are the ones currently in rotation and newly discovered favorites."
-tags = ["music",]
+tags = ["music"]
 +++
 
 ### Albums
+
+You can all find all the albums I got chronologically on my [Bandcamp collection](https://bandcamp.com/ritualdust)
 
 <div class="checklist">
 
