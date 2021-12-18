@@ -10,6 +10,7 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 ### Movies
 
 [To watch](#to-watch) •
+[2022](#2022) •
 [2021](#2021) •
 [2020](#2020)
 
@@ -17,19 +18,28 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
-- [ ] **Quartermass and the pit** 2021
-- [ ] **Hellbender** 2021
-- [ ] **The Old Dark House** 1932
-- [ ] **Wristcutters** 2006
-- [ ] **The Night of the Demon** 1957
-- [ ] **An Inconvenient Truth** 2006
-- [ ] **L'erreur boréale** 1999
-- [ ] **Andrei Rublev** 1966
-- [ ] **Shadows of Forgotten Ancestors** 1965
-- [ ] **Sightseers** 2012
-- [ ] **Candyman** 2021
-- [ ] **Candyman** 1992
-- [ ] **Antlers** 2021
+- [ ] **The Unbearable Weight of Massive Talent**, Tom Gormican - 1966
+- [ ] **Sedmikrásky (Daisies)**, Věra Chytilová - 1966
+- [ ] **Quartermass and the pit**, Roy Ward Baker - 1967
+- [ ] **Hellbender**, John Adams, Zelda Adams, Toby Poser - 2021
+- [ ] **The Old Dark House**, James Whale - 1932
+- [ ] **Wristcutters**, Goran Dukic - 2006
+- [ ] **The Night of the Demon**, Jacques Tourneur - 1957
+- [ ] **An Inconvenient Truth**, Davis Guggenheim - 2006
+- [ ] **L'erreur boréale**, Richard Desjardins - 1999
+- [ ] **Andrei Rublev**, Andrei Tarkovsky - 1966
+- [ ] **Shadows of Forgotten Ancestors**, Sergei Parajanov - 1965
+- [ ] **Sightseers**, Ben Wheatley - 2012
+- [ ] **Candyman**, Nia DaCosta - 2021
+- [ ] **Candyman**, Bernard Rose - 1992
+- [ ] **Antlers**, Scott Cooper - 2021
+- [ ] **The Mezzotint**, Mark Gatiss - 2021
+
+</div>
+
+#### 2022
+
+<div class="checklist">
 
 </div>
 
@@ -37,38 +47,40 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
-- [x] **The Strings** 2020
-- [x] **Lamb** 2021
-- [x] **Sound of Noise** 2010
-- [x] **Dune** 2021
-- [x] **Penda's Fen** 1974
-- [x] **the Similars** 2015
-- [x] **Whistle and I'll come to you** 1968
-- [x] **Paranormal activity** 2007
-- [x] **My Heart can't beat unless you tell it to** 2020
-- [x] **A Warning to the Curious** 1972
-- [x] **Stigma** 1977
-- [x] **Woodlands Dark and Days Bewitched** 2021
-- [x] **All the Moons** 2021
-- [x] **The Green Kight** 2021
-- [x] **Kratt** 2021
-- [x] **Pig** 2021
-- [x] **Gaia** 2020
-- [x] **SG̲aawaay Ḵ'uuna (The Edge of the Knife)** 2018
-- [x] **Flowers (TV show)** 2016-2018
-- [x] **Boys from county hell** 2020
-- [x] **Caveat** 2020
-- [x] **On the silver globe** 1988
-- [x] **In the Earth** 2021
-- [x] **Rosencrantz and Guildenstern are dead** 1990
-- [x] **Sanjuro** 1962
-- [x] **Hard Candy** 2005
-- [x] **The Green Room** 2015
-- [x] **Willy's Wonderland** 2020
-- [x] **Saint-Maud** 2020
-- [x] **Koko-di Koko-da** 2019
-- [x] **Valerie and her Week of Wonders** 1970
-- [x] **Hagazussa** 2017
+- [x] **What we do in the Shadows(TV show)**, Jemaine Clement - 2016-2021
+- [x] **Titane**, Julia Ducournau - 2021
+- [x] **The Strings**, Ryan Glover - 2020
+- [x] **Lamb**, Valdimar Jóhannsson - 2021
+- [x] **Sound of Noise**, Ola Simonsson & Johannes Stjärne Nilsson - 2010
+- [x] **Dune**, Denis Villeneuve - 2021
+- [x] **Penda's Fen**, Alan Clarke - 1974
+- [x] **The Similars**, Isaac Ezban - 2015
+- [x] **Whistle and I'll come to you**, Jonathan Miller - 1968
+- [x] **Paranormal activity**, Oren Peli - 2007
+- [x] **My Heart can't beat unless you tell it to**, Jonathan Cuartas - 2020
+- [x] **A Warning to the Curious**, Lawrence Gordon Clark - 1972
+- [x] **Stigma**, Lawrence Gordon Clark - 1977
+- [x] **Woodlands Dark and Days Bewitched**, Kier-La Janisse - 2021
+- [x] **All the Moons**, Igor Legarreta - 2021
+- [x] **The Green Kight**, David Lowery - 2021
+- [x] **Kratt**, Rasmus Merivoo - 2020
+- [x] **Pig**, Michael Sarnoski - 2021
+- [x] **Gaia**, Jaco Bouwer - 2021
+- [x] **SG̲aawaay Ḵ'uuna (The Edge of the Knife)**, Gwaai Edenshaw, Helen Haig-Brown - 2018
+- [x] **Flowers (TV show)**, Will Sharpe - 2016-2018
+- [x] **Boys from county hell**, Chris Baugh - 2020
+- [x] **Caveat**, Damian Mc Carthy - 2020
+- [x] **On the silver globe**, Andrzej Zulawski - 1988
+- [x] **In the Earth**, Ben Wheatley - 2021
+- [x] **Rosencrantz and Guildenstern are dead**, Tom Stoppard - 1990
+- [x] **Sanjuro**, Akira Kurosawa - 1962
+- [x] **Hard Candy**, David Slade - 2005
+- [x] **The Green Room**, Jeremy Saulnier - 2015
+- [x] **Willy's Wonderland**, Kevin Lewis - 2020
+- [x] **Saint-Maud**, Rose Glass - 2020
+- [x] **Koko-di Koko-da**, Johannes Nyholm - 2019
+- [x] **Valerie and her Week of Wonders**, Jaromil Jires - 1970
+- [x] **Hagazussa**, Lukas Feigelfeld - 2017
 
 </div>
 
@@ -76,20 +88,20 @@ intro = "This is my movie watchlist, I keep it yearly and keep the movies that r
 
 <div class="checklist">
 
-- [x] **La Casa Lobo** 2018
-- [x] **A Dark Song** 2016
-- [x] **Friday the 13th** 1980
-- [x] **Nostalghia** 1983
-- [x] **The House of Usher** 1960
-- [x] **Let the Right One In** 2008
-- [x] **Raw** 2016
-- [x] **La Jetée** 1962
-- [x] **Holy Motors** 2012
-- [x] **Wild at Heart** 1990
-- [x] **Shadow of the Vampire** 2000
-- [x] **Color out of Space** 2019
-- [x] **Offret** 1986
-- [x] **Horror Noire** 2019
-- [x] **It Follows** 2014
+- [x] **La Casa Lobo**, Joaquín Cociña - 2018
+- [x] **A Dark Song**, Liam Gavin - 2016
+- [x] **Friday the 13th**, Sean S. Cunningham - 1980
+- [x] **Nostalghia**, Andrei Tarkovsky - 1983
+- [x] **The House of Usher**, Roger Corman - 1960
+- [x] **Let the Right One In**, Tomas Alfredson - 2008
+- [x] **Raw**, Julia Ducournau - 2016
+- [x] **La Jetée**, Chris Marker - 1962
+- [x] **Holy Motors**, Leos Carax - 2012
+- [x] **Wild at Heart**, David Lynch - 1990
+- [x] **Shadow of the Vampire**, E. Elias Merhige - 2000
+- [x] **Color out of Space**, Richard Stanley - 2019
+- [x] **Offret (Sacrifice)**, Andrei Tarkovsky - 1986
+- [x] **Horror Noire**, Zandashé Brown, Robin Givens, Rob Greenlea, Kimani Ray Smith - 2019
+- [x] **It Follows**, David Robert Mitchell - 2014
 
 </div>
