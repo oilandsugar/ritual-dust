@@ -6,9 +6,7 @@
     <ul class="section-pages">
     {{ range $section }}
       {{ if not (in .Params.tags "notes") }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
       {{ end }}
     {{ end }}
     </ul>
@@ -18,9 +16,7 @@
     <ul class="section-pages">
     {{ range $section }}
       {{ if in .Params.tags "notes" }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
       {{ end }}
     {{ end }}
     </ul>

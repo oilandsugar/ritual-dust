@@ -7,9 +7,7 @@
   <h3 class="accent">Films</h3>
   <ul>
     {{ range where .Pages "Type" "films" }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
+      {{ partial "sidebars/utils/sidebarMenuItem" . }}
     {{ end }}
   </ul>
 </aside>

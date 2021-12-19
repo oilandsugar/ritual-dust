@@ -24,9 +24,7 @@
     <ul class="section-pages">
     {{ range .RegularPages }}
       {{ if in .Params.tags "notes" }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
       {{ end }}
     {{ end }}
     </ul>
@@ -35,7 +33,7 @@
     <h3 class="accent">Other recipe blogs</h3>
     <ul>
       <li><a href="https://grimgrains.com/">Grim Grains</a></li>
-      <li><a href="https://thefirstmess.com/">the first mess</a></li>
+      <li><a href="https://thefirstmess.com/">The first mess</a></li>
       <li><a href="https://www.theppk.com/">the post-punk kitchen</a></li>
       <li><a href="https://minimalistbaker.com">minimalist baker</a></li>
       <li><a href="https://nicrunicuit.com/">Ni cru, ni cuit (fermentation)</a></li>

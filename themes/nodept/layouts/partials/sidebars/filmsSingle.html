@@ -4,9 +4,7 @@
   {{ $section := where $.Site.RegularPages "Section" "films"}}
   <ul class="section-pages">
   {{ range $section }}
-    <li>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
+    {{ partial "sidebars/utils/sidebarMenuItem" . }}
   {{ end }}
   </ul>
   <div class="ornament"></div>

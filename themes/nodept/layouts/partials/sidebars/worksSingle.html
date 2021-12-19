@@ -6,10 +6,18 @@
   {{ $section := $section | intersect (where $.Site.Pages "Title" "!=" "Works")}}
   <ul class="section-pages">
   {{ range $section }}
-    <li>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
+    {{ partial "sidebars/utils/sidebarMenuItem" . }}
   {{ end }}
   </ul>
+  <h3 class="accent">Notes</h3>
+  <div class="small-padding-bottom">
+    <ul class="section-pages">
+    {{ range $section }}
+      {{ if in .Params.tags "notes" }}
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
+      {{ end }}
+    {{ end }}
+    </ul>
+  </div>
   <div id="icon-works" class="icon"></div>
 </aside>

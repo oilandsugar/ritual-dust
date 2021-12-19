@@ -7,9 +7,7 @@
     <ul>
       {{ range where .Pages "Section" "craft" }}
         {{ if not (in .Params.tags "notes") }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
+          {{ partial "sidebars/utils/sidebarMenuItem" . }}
         {{ end }}
       {{ end }}
     </ul>
@@ -19,9 +17,7 @@
     <ul>
       {{ range where .Pages "Section" "craft" }}
         {{ if in .Params.tags "notes" }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
+          {{ partial "sidebars/utils/sidebarMenuItem" . }}
         {{ end }}
       {{ end }}
     </ul>

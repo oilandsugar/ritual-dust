@@ -2,12 +2,24 @@
   {{ partial "sidebars/utils/back" . }}
   <h3>Further reading</h3>
   {{ $section := where $.Site.RegularPages "Section" "about"}}
-  <ul class="section-pages">
-  {{ range $section }}
-    <li>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
-  {{ end }}
-  </ul>
+  <div class="small-padding-bottom">
+    <ul class="section-pages">
+    {{ range $section }}
+      {{ if not (in .Params.tags "notes") }}
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
+      {{ end }}
+    {{ end }}
+    </ul>
+  </div>
+  <h3 class="accent">Notes</h3>
+  <div class="small-padding-bottom">
+    <ul class="section-pages">
+      {{ range $section }}
+        {{ if in .Params.tags "notes" }}
+          {{ partial "sidebars/utils/sidebarMenuItem" . }}
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
   <div class="ornament"></div>
 </aside>

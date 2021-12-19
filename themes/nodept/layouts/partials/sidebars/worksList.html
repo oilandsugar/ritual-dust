@@ -9,9 +9,7 @@
   {{ end }}
   <ul class="section-pages">
     {{ range where .Pages "Section" "works" }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
+      {{ partial "sidebars/utils/sidebarMenuItem" . }}
     {{ end }}
   </ul>
   <div id="icon-works" class="icon"></div>

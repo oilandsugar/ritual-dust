@@ -3,24 +3,20 @@
   {{ $section := where $.Site.RegularPages "Section" "craft"}}
   <h3 class="accent">Artefacts</h3>
   <div class="small-padding-bottom">
-  <ul class="section-pages">
-  {{ range $section }}
-    {{ if not (in .Params.tags "notes") }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
+    <ul class="section-pages">
+    {{ range $section }}
+      {{ if not (in .Params.tags "notes") }}
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
+      {{ end }}
     {{ end }}
-  {{ end }}
-  </ul>
+    </ul>
   </div>
   <h3 class="accent">Notes</h3>
   <div class="small-padding-bottom">
     <ul class="section-pages">
     {{ range $section }}
       {{ if in .Params.tags "notes" }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
       {{ end }}
     {{ end }}
     </ul>

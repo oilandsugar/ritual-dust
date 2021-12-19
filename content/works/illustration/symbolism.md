@@ -19,6 +19,12 @@ Symbolism was an art movement from the late 19th century of French, Russian and 
 
 One key aspect of symbolic works of art is their detachment from direct representation of things that exist but instead try to convey emotions, dreams and ideas through the use of symbols and codified visual language.
 
+## Pre-19th century artists that would have been at home in the movement
+
+- Salvator Rosa
+- Gustave Doré
+- Francisco Goya
+
 ## Notable 19th century artists
 
 - Akseli Gallen-Kallela  
@@ -46,3 +52,7 @@ One key aspect of symbolic works of art is their detachment from direct represen
 
 - [Denis Forkas Kostromitin](https://www.denisforkas.com/about)
 - [Glyn Smyth](https://www.stagandserpent.com/)
+- [Zdzisław Beksiński](https://www.shopbeksinski.com/)
+- [Jordi Diaz Alama](https://diazalama.com/)
+- [HR Giger](https://www.hrgiger.com/)
+- [Vergvoktre](https://vergvoktre.blogspot.com/)
