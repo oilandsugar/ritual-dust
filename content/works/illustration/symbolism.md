@@ -56,3 +56,4 @@ One key aspect of symbolic works of art is their detachment from direct represen
 - [Jordi Diaz Alama](https://diazalama.com/)
 - [HR Giger](https://www.hrgiger.com/)
 - [Vergvoktre](https://vergvoktre.blogspot.com/)
+- [Adam Robert Martin](https://www.instagram.com/art.of.lore/)

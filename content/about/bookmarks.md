@@ -42,6 +42,38 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Androidarts](http://androidarts.com/)
 - [Ubuweb](https://ubuweb.com/film/index.html)
 - [Teagan White](https://www.teaganwhite.com/)
+- [Adam Robert Martin](https://www.instagram.com/art.of.lore/)
+- [ﻝᵤｌԁ𝖆 ቡﺄⱬ𝑊𝖆𝗋𝖆](https://manuscriptmedieval.bigcartel.com/)
+- [Karmazid](https://www.karmazid.com/)
+
+### Tattoo artists
+
+- [Amandine Anyr larbaz](https://www.instagram.com/la.spectre/) (Montréal)
+- [Empousai](https://www.instagram.com/_empousai_/) (Montréal)
+- [Matt Chaos](https://instagram.com/mattchaos_ttt) (Montréal)
+- [Meagan](https://instagram.com/baroquebabetattoos)(Montréal)
+- [Alixe Cooper](https://instagram.com/alixecooper)(Montréal)
+- [Christopher Jade](https://www.instagram.com/xcjxtattooer/)(Los Angeles)
+- [Alexander Grim](https://www.alexandergrim.com/)(Prague)
+- [살보](https://instagram.com/sarvo_art)(Seoul)
+- [Placide Aventia](https://instagram.com/placideavantia)(Aix-en-Provence)
+- [Jacko](https://instagram.com/fucksunjack)(??)
+- [Lipa](https://www.instagram.com/_lipa_/)(Warsaw)
+- [Sasha](https://www.instagram.com/naphulaa/)(Warsaw)
+- [Muk](https://www.instagram.com/mukart.blackwork/)(Korea)
+- [Voziakova Aleksandra](https://www.instagram.com/aleksdarkink/)(Saint-Petersburg)
+- [Leny Tusfey](https://www.instagram.com/lenytusfey/)(Cannes)
+- [Liev (Trinket keeper)](https://www.instagram.com/trinketkeeper/)(Portland)
+- [Maldenti](https://www.instagram.com/maldenti_/)(Berlin)
+- [Mishla](https://instagram.com/mishlatattooillustration)(England)
+- [B.Ignorant](https://instagram.com/b.ignorant)(Leipzig)
+- [L'hérétique](https://instagram.com/lheretique)(Strasbourg)
+- [Micah Ulrich](https://instagram.com/micah_ulrich)(Detroit)
+- [Knive](https://instagram.com/k.n.i.v.ek)(Belgium)
+- [Leaf](https://instagram.com/reverendleaf)(Brooklyn)
+- [Laura Nahna](https://instagram.com/the.girl.with.the.matchsticks)(Berlin)
+- [Sofa Oblina](https://instagram.com/sofa_oblina)(Berlin)
+- [Michael Cooper](https://instagram.com/yallerybrowntattoo)(UK)
 
 ### Design, fonts
 
