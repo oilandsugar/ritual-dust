@@ -28,6 +28,8 @@ Where I keep my references for crafting, woodworking, low-tech, permacomputing a
 
 ### Electronics
 
+- [How to broadcast to a CRT TV with a raspberry pi](https://www.tomshardware.com/news/raspberry-pi-broadcasts-uhf-to-crt-tvs)
+
 ### Drawing and illustration
 
 - [tool to find animal references in a specific angle](https://x6ud.github.io/#/)

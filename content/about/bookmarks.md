@@ -9,6 +9,22 @@ tags = ["bookmarks"]
 
 My bookmarks of interesting / useful / beautiful websites. I've also included some links to my topic specific lists of resources at the end of this page. Most of the links on this page we're first saved in my local notes on my computer then moved in one of those pages on here.
 
+<div class="table-of-contents">
+
+[Websites](#personal-websites-and-wikis) •
+[Publications](#zines-and-publications) •
+[Bookstores](#bookstores-and-publishers) •
+[Art](#art) •
+[Tattoo](#tattoo-artists) •
+[Design](#design-fonts) •
+[Food](#food-and-recipe-blogs) •
+[Tech](#tech-low-tech-no-tech) •
+[Resources](#resource-and-link-pages) •
+
+</div>
+
+<div class="columns-2">
+
 ### Personal websites and wikis
 
 - [XXIIVV](https://wiki.xxiivv.com/)
@@ -45,6 +61,10 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Adam Robert Martin](https://www.instagram.com/art.of.lore/)
 - [ﻝᵤｌԁ𝖆 ቡﺄⱬ𝑊𝖆𝗋𝖆](https://manuscriptmedieval.bigcartel.com/)
 - [Karmazid](https://www.karmazid.com/)
+- [Moritz Brebs](https://instagram.com/blackcrabart)
+- [Vladimir Chebakov](https://instagram.com/vladimirchebakov)
+- [Aaron Horkey](https://thevacvvm.com/collections/aaron-horkey)
+- [Brandon Holt](https://thevacvvm.com/collections/brandon-holt)
 
 ### Tattoo artists
 
@@ -53,27 +73,30 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Matt Chaos](https://instagram.com/mattchaos_ttt) (Montréal)
 - [Meagan](https://instagram.com/baroquebabetattoos)(Montréal)
 - [Alixe Cooper](https://instagram.com/alixecooper)(Montréal)
+- [Jeremy](https://instagram.com/stabrrien)(Sherbrooke)
 - [Christopher Jade](https://www.instagram.com/xcjxtattooer/)(Los Angeles)
+- [Micah Ulrich](https://instagram.com/micah_ulrich)(Detroit)
+- [Leaf](https://instagram.com/reverendleaf)(Brooklyn)
+- [Liev (Trinket keeper)](https://www.instagram.com/trinketkeeper/)(Portland)
 - [Alexander Grim](https://www.alexandergrim.com/)(Prague)
 - [살보](https://instagram.com/sarvo_art)(Seoul)
 - [Placide Aventia](https://instagram.com/placideavantia)(Aix-en-Provence)
 - [Jacko](https://instagram.com/fucksunjack)(??)
 - [Lipa](https://www.instagram.com/_lipa_/)(Warsaw)
 - [Sasha](https://www.instagram.com/naphulaa/)(Warsaw)
+- [Fabian Staniec](https://instagram.com/snail_trail__)(Poland)
 - [Muk](https://www.instagram.com/mukart.blackwork/)(Korea)
 - [Voziakova Aleksandra](https://www.instagram.com/aleksdarkink/)(Saint-Petersburg)
 - [Leny Tusfey](https://www.instagram.com/lenytusfey/)(Cannes)
-- [Liev (Trinket keeper)](https://www.instagram.com/trinketkeeper/)(Portland)
 - [Maldenti](https://www.instagram.com/maldenti_/)(Berlin)
 - [Mishla](https://instagram.com/mishlatattooillustration)(England)
 - [B.Ignorant](https://instagram.com/b.ignorant)(Leipzig)
 - [L'hérétique](https://instagram.com/lheretique)(Strasbourg)
-- [Micah Ulrich](https://instagram.com/micah_ulrich)(Detroit)
 - [Knive](https://instagram.com/k.n.i.v.ek)(Belgium)
-- [Leaf](https://instagram.com/reverendleaf)(Brooklyn)
 - [Laura Nahna](https://instagram.com/the.girl.with.the.matchsticks)(Berlin)
 - [Sofa Oblina](https://instagram.com/sofa_oblina)(Berlin)
 - [Michael Cooper](https://instagram.com/yallerybrowntattoo)(UK)
+- [Alberto Santi](https://instagram.com/ruraltattooing)(Italy)
 
 ### Design, fonts
 
@@ -99,3 +122,5 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 
 - [Folklore and magic research](/folklore/research)
 - [Craft and tech research](/craft/research)
+
+</div>

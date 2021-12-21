@@ -77,6 +77,8 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 ### Articles and websites
 
+https://newalchemists.net/publications/new-alchemy-1971-1991/  
+https://thecreativeindependent.com/people/writer-and-forester-peter-wohlleben-on-what-nature-can-teach-us-about-creativity/  
 https://reallifemag.com/the-great-offline/  
 http://www.johncoulthart.com/feuilleton/2010/03/22/pendas-fen-by-david-rudkin/  
 https://www.vox.com/the-highlight/22543858/isabel-fall-attack-helicopter  

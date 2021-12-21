@@ -51,6 +51,8 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 <div class="checklist">
 
+- [x] **[The Alchemists of Sound](https://www.ubu.com/film/alchemists.html)**, Roger Pomphrey - 2003
+  - [x] **The Thing**, John Carpenter - 1982
 - [x] **What we do in the Shadows(TV show)**, Jemaine Clement - 2016-2021
 - [x] **Titane**, Julia Ducournau - 2021
 - [x] **The Strings**, Ryan Glover - 2020
