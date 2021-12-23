@@ -26,9 +26,14 @@ Where I keep my references for crafting, woodworking, low-tech, permacomputing a
 ### Woodworking
 
 
+### Tools
+
+- [A very complete website on billhooks](https://www.billhooks.co.uk/)
+
 ### Electronics
 
 - [How to broadcast to a CRT TV with a raspberry pi](https://www.tomshardware.com/news/raspberry-pi-broadcasts-uhf-to-crt-tvs)
+- [Tool to develop and prototype eurorack modules](https://github.com/ohmtech-rdi/eurorack-blocks)
 
 ### Drawing and illustration
 

@@ -2,14 +2,16 @@
 {{ $lowResCover := replace .Params.image ".jpg" "-low.jpg" }}
 
 <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}" class="folklore-card card {{ range .Params.tags }}{{ . }} {{ end }}">
-  <h3 class="blackletter">{{ .Title }}</h3>
-  <div class="desc psych-2">{{ .Params.desc }}</div>
   <div class="picture">
-    <img
-      class="to-toggle low"
-      data-srclow="{{ $lowResCover | safeURL }}"
-      data-srchi="{{ $cover | safeURL }}"
-      src="{{ $lowResCover | safeURL }}"
-      alt="{{ .Title }}">
+    <div class="image-background">
+      <img
+        class="to-toggle low"
+        data-srclow="{{ $lowResCover | safeURL }}"
+        data-srchi="{{ $cover | safeURL }}"
+        src="{{ $lowResCover | safeURL }}"
+        alt="{{ .Title }}">
+    </div>
   </div>
+  <h3 class="blackletter small-padding-bottom small-padding-top">{{ .Title }}</h3>
+  <div class="desc psych-2">{{ .Params.desc }}</div>
 </a>

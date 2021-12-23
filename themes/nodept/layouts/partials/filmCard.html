@@ -5,13 +5,15 @@
   <div class="movie-wrap">
     {{ if $cover }}
       <div class="movie">
-        <img
-          loading="lazy"
-          class="to-toggle low"
-          data-srclow="{{ $lowResCover | safeURL }}"
-          data-srchi="{{ $cover | safeURL }}"
-          src="{{ $lowResCover | safeURL }}"
-          alt="{{ .Title }}">
+        <div class="image-background">
+          <img
+            loading="lazy"
+            class="to-toggle low"
+            data-srclow="{{ $lowResCover | safeURL }}"
+            data-srchi="{{ $cover | safeURL }}"
+            src="{{ $lowResCover | safeURL }}"
+            alt="{{ .Title }}">
+        </div>
       </div>
     {{ end }}
     <div class="movie-content">

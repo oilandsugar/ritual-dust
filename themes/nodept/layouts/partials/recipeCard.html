@@ -2,7 +2,17 @@
 {{ $lowResCover := replace $cover ".jpg" "-low.jpg" }}
 
 <a href="{{ .Permalink }}" class="recipe-card card {{ range .Params.tags }}{{ . }} {{ end }}">
-  <h3 class="blackletter">{{ .Title }}</h3>
+  <div class="picture">
+    <div class="image-background">
+      <img
+        class="to-toggle low"
+        data-srclow="{{ $lowResCover | safeURL }}"
+        data-srchi="{{ $cover | safeURL }}"
+        src="{{ $lowResCover | safeURL }}"
+        alt="{{ .Title }}">
+    </div>
+  </div>
+  <h3 class="blackletter small-padding-bottom small-padding-top">{{ .Title }}</h3>
   <div class="specs psych-2">
     {{ with .Params.prepTime }}<span class="prep-time">{{ . }} to prep</span>
     - {{ end }}
@@ -10,13 +20,5 @@
     - {{ end }}
     {{ with .Params.portions }}<span class="portions">{{ . }} portion(s)</span>
     {{ end}}
-  </div>
-  <div class="picture">
-    <img
-      class="to-toggle low"
-      data-srclow="{{ $lowResCover | safeURL }}"
-      data-srchi="{{ $cover | safeURL }}"
-      src="{{ $lowResCover | safeURL }}"
-      alt="{{ .Title }}">
   </div>
 </a>

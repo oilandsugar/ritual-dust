@@ -12,12 +12,18 @@
   --psychFont2: "Cooper Std"; /* psychFont2 */
   --titleFont3: "Distro Bold"; /* titleFont3 */
 
-  /* current theme */
-  --background: #626143;
-  --f_high: #3b1c16; /* f_high */
-  --f_med: #b8c5a6;
-  --f_low: #dd783d;
-  --b_med: #4e4d32;
+  /* current theme, replace every season */
+  --background: #1e1f20; /* back */
+
+  --f_high: #e4eff0; /* f_high */
+  --f_med: #96b8ac; /* f_med */
+  --f_low: #a874e8; /* f_low */
+  --f_inv: #e4eff0; /* f_inv */
+
+  --b_high: #96b8ac; /* b_high */
+  --b_med: #373c42; /* b_med */
+  --b_low: #2c2d2e; /* b_low */
+  --b_inv: #e4eff0; /* b_inv */
 }
 
 /* ----------- structure -------------- */
@@ -30,7 +36,7 @@ html {
 }
 
 body {
-  background: #fff0b7; /* darkBackColor */
+  background: #1e1f20; /* back */
   background: var(--background);
   color: #b25c02; /*lightTextColor */
   color: var(--f_med);
@@ -297,6 +303,7 @@ figcaption {
   line-height: 14px;
   font-weight: normal;
   opacity: 0.4;
+  padding-top: 8px; /* spacing_sm */
 }
 
 img {
@@ -352,7 +359,7 @@ img {
   top: -2px;
   color: #3b1c16; /* f_high */
   color: var(--f_high);
-  background: #fff0b7; /* darkBackColor */
+  background: #1e1f20; /* back */
   background: var(--background);
 }
 
@@ -364,6 +371,35 @@ img {
   max-width: 600px;
   padding-left: 16px; /* spacing_md */
   border-left: 2px solid;
+}
+
+table {
+  border: 2px solid;
+  border-color: #3b1c16; /* f_high */
+  border-color: var(--f_high);
+}
+
+th, td {
+  border: 1px solid;
+  border-color: #3b1c16; /* f_high */
+  border-color: var(--f_high);
+  text-align:left;
+}
+
+th, td {
+  padding: 8px 16px;
+  height:16px;
+  font-size:16px;
+  line-height:1.2em;
+}
+
+th {
+
+}
+
+tr:hover td {
+  background-color: #4e4d32; /* b_med */
+  background-color: var(--b_med); /* b_med */
 }
 
 /* ------------ MENU ------------- */
@@ -432,6 +468,13 @@ img {
   image-rendering: -moz-crisp-edges;
   image-rendering: -o-crisp-edges;
   image-rendering: -webkit-optimize-contrast;
+}
+
+.image-background {
+  background: #96b8ac; /* b_high */
+  background: var(--b_high);
+  line-height:0;
+  border-radius:8px;
 }
 
 .mastodon {
