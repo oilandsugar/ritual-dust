@@ -8,7 +8,7 @@
 
   --mainFont: "Wremena"; /* mainFont */
   --blackletterFont: "Wittenberger"; /* blackletterFont */
-  --psychFont1: "Basteleur"; /* psychFont1 */
+  --psychFont1: "medieval-pixel"; /* psychFont1 */
   --psychFont2: "Cooper Std"; /* psychFont2 */
   --titleFont3: "Distro Bold"; /* titleFont3 */
 
@@ -61,6 +61,12 @@ body {
 }
 
 @font-face {
+  font-family: "medieval-pixel";
+  src: url("webfonts/Medieval-Pixel.woff") format("woff"),
+    url("webfonts/Medieval-Pixel.woff2") format("woff2");
+}
+
+@font-face {
   font-family: "Cooper Std";
   src: url("webfonts/CooperBlackStd.woff2") format("woff2"),
     url("webfonts/CooperBlackStd.woff") format("woff");
@@ -99,7 +105,7 @@ h1 {
   line-height: 0.9em;
   margin-top: 0;
   font-weight: 800;
-  font-family: "Basteleur"; /* psychFont1 */
+  font-family: "medieval-pixel"; /* psychFont1 */
   -webkit-font-smoothing: auto;
   -moz-osx-font-smoothing: auto;
 }
@@ -229,7 +235,7 @@ small {
 }
 
 .psych-1 {
-  font-family: "Basteleur"; /* psychFont1 */
+  font-family: "medieval-pixel"; /* psychFont1 */
   font-weight: 300;
 }
 
@@ -757,7 +763,7 @@ tr:hover td {
 }
 
 .notes h3 {
-  font-family: "Basteleur"; /* psychFont1 */
+  font-family: "medieval-pixel"; /* psychFont1 */
   font-weight: 300;
   font-size: 3em;
   line-height: 3.2rem;
