@@ -9,6 +9,8 @@ tags = ["tattoo", "notes"]
 
 ![Ghost tattoo on my forearm](/img/about/ghost-tattoo.jpg)
 
+I see my skin as my personal grimoire, adding to it as I make discoveries, have revelations, find talismans and artefacts, come up with new sigils and live new experiences. I also keep a list of tattoo ideas and things I'd like to add to the grimoire over time.
+
 <div class="checklist">
 
 - [ ] Stone circle (around belly button)
@@ -17,6 +19,7 @@ tags = ["tattoo", "notes"]
 - [ ] Oak leaves on branch with spider webs (on my chest)
 - [ ] Poe with lantern from zelda
 - [ ] FOLK LORE on fingers
+- [ ] GRIM OIRE on lower fingers
 - [ ] Datajack on the neck
 - [ ] Goblin
 - [ ] Black swirl on elbow

@@ -28,3 +28,5 @@ As I did in [2017](/works/black-metal-december-2017), I'm making a black metal i
 ![Veil](/img/lettering/black-metal-2021/veil.jpg "Veil")
 ![Ruined Tower](/img/lettering/black-metal-2021/ruined-tower.jpg "Ruined Tower")
 ![Nazgul](/img/lettering/black-metal-2021/nazgul.jpg "Nazgul")
+![Bog Body](/img/lettering/black-metal-2021/bog-body.jpg "Bog Body")
+![Chthonien](/img/lettering/black-metal-2021/chthonien-dark.jpg "Chthonien")

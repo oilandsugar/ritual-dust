@@ -31,11 +31,11 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
 - [ ] **CAPS LOCK (How Capitalism Took Hold of Graphic Design, and how to Escape it)**, Ruben Pater
 - [ ] **The one straw revolution**, Masanobu Fukuoka
-- [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
-- [ ] **Monolithic undertow**, Harry Sword
 
 #### 2021
 
+- [ ] **Monolithic undertow**, Harry Sword
+- [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
 - [x] **Your Psilocybin Mushroom Companion**, Michelle Janikian
 
 #### 2020
@@ -77,6 +77,11 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 ### Articles and websites
 
+https://www.autostraddle.com/consent-asexuality-angela-chen/  
+https://neustadt.fr/essays/the-small-web/  
+https://garbados.github.io/my-blog/software_from_another_world.html  
+https://paper.dropbox.com/doc/Codex-Vitae-rRJ8akyi4ky4Sdc8CQscV  
+https://newsocialist.org.uk/eco-politics-sublime-nature-environmentalism-and-covid-ecology/  
 https://newalchemists.net/publications/new-alchemy-1971-1991/  
 https://thecreativeindependent.com/people/writer-and-forester-peter-wohlleben-on-what-nature-can-teach-us-about-creativity/  
 https://reallifemag.com/the-great-offline/  

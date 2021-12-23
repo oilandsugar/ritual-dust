@@ -29,6 +29,8 @@ Where I keep my references for folklore, ancestry and magic research
 - [An archive of old irish documents and photographs](https://www.duchas.ie/en)
 - [An in-depth article about polish painted cottages](https://lamusdworski.wordpress.com/2018/06/08/painted-cottages/)
 - [A great video on wassailing](https://youtu.be/ic4qWguBYEM)
+- [The Spirit Photographs of William Hope](https://publicdomainreview.org/collection/the-spirit-photographs-of-william-hope)
+- [A website on the occult sides and folkore of Paris](https://paris-sortileges.fr/paris-sortileges/)
 
 ### Ancestry
 
@@ -40,3 +42,4 @@ Where I keep my references for folklore, ancestry and magic research
 - [Independent publisher of occult books](https://fulgur.co.uk/)
 - [Hermetic library](https://hermetic.com/index)
 - [The Museum of Witchcraft and Magic](https://museumofwitchcraftandmagic.co.uk/)
+- [The internet sacred text archive](https://www.sacred-texts.com/index.htm)

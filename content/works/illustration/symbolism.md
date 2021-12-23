@@ -50,6 +50,7 @@ One key aspect of symbolic works of art is their detachment from direct represen
 
 ## Contemporary artists working in this path
 
+- [Bethany White](https://www.bethanywhite.co.uk/shop)
 - [Denis Forkas Kostromitin](https://www.denisforkas.com/about)
 - [Glyn Smyth](https://www.stagandserpent.com/)
 - [Zdzisław Beksiński](https://www.shopbeksinski.com/)
@@ -57,3 +58,4 @@ One key aspect of symbolic works of art is their detachment from direct represen
 - [HR Giger](https://www.hrgiger.com/)
 - [Vergvoktre](https://vergvoktre.blogspot.com/)
 - [Adam Robert Martin](https://www.instagram.com/art.of.lore/)
+- [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
