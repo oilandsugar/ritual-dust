@@ -7,7 +7,7 @@
   --spacing_xl: 48px; /* spacing_xl */
 
   --mainFont: "Wremena"; /* mainFont */
-  --blackletterFont: "CalFrakturModern"; /* blackletterFont */
+  --blackletterFont: "Wittenberger"; /* blackletterFont */
   --psychFont1: "Basteleur"; /* psychFont1 */
   --psychFont2: "Cooper Std"; /* psychFont2 */
   --titleFont3: "Distro Bold"; /* titleFont3 */
@@ -55,9 +55,9 @@ body {
 }
 
 @font-face {
-  font-family: "Basteleur";
-  src: url("webfonts/Basteleur-Bold.woff") format("woff"),
-    url("webfonts/Basteleur-Bold.woff2") format("woff2");
+  font-family: "Wittenberger";
+  src: url("webfonts/WittenbergerFrakturMTStd.woff") format("woff"),
+    url("webfonts/WittenbergerFrakturMTStd.woff2") format("woff2");
 }
 
 @font-face {
@@ -186,9 +186,9 @@ blockquote strong {
 a {
   color: inherit;
   cursor: pointer;
-  font-family: "CalFrakturModern"; /* blackletterFont */
+  font-family: "Wittenberger"; /* blackletterFont */
   font-weight: bold;
-  font-size: 1.3em;
+  font-size: 1em;
   text-decoration: none;
   border-bottom: 2px dashed #3b1c1650; /* f_high */
   border-bottom: 2px dashed var(--f_high);
@@ -206,9 +206,9 @@ a strong {
 }
 
 strong {
-  font-family: "CalFrakturModern"; /* blackletterFont */
+  font-family: "Wittenberger"; /* blackletterFont */
   font-weight: bold;
-  font-size: 1.3em;
+  font-size: 1em;
 }
 
 small {
@@ -225,7 +225,7 @@ small {
 }
 
 .blackletter {
-  font-family: "CalFrakturModern"; /* blackletterFont */
+  font-family: "Wittenberger"; /* blackletterFont */
 }
 
 .psych-1 {

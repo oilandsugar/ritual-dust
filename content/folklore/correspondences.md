@@ -1,8 +1,7 @@
 +++
 title = "Magical Correspondences"
-tags = ["magic"]
+tags = ["magic", "notes"]
 date = "2021-12-23"
-
 +++
 
 Correspondences are links between different symbolic ideas, objects, moments and ingredients. These are useful in different magical and alchemical practices to enhance the effect of a spell or ritual. I also find them useful as reference to create [symbolic artworks](/works/illustration/symbolism/), create [sigils](/folklore/sigils/) or to be used as a guide and tool for introspection and self-discovery.
