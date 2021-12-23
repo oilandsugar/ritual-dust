@@ -399,13 +399,24 @@ th, td {
   line-height:1.2em;
 }
 
-th {
-
-}
-
 tr:hover td {
   background-color: #4e4d32; /* b_med */
   background-color: var(--b_med); /* b_med */
+}
+
+.themes {
+  display:flex;
+  flex-direction:row;
+  padding-bottom: 16px; /* spacing_md */
+  justify-content: flex-start;
+}
+
+.theme {
+  padding-right:16px; /* spacing_md */
+}
+
+.theme h4 {
+  margin:0;
 }
 
 /* ------------ MENU ------------- */
@@ -765,8 +776,8 @@ tr:hover td {
 .notes h3 {
   font-family: "medieval-pixel"; /* psychFont1 */
   font-weight: 300;
-  font-size: 3em;
-  line-height: 3.2rem;
+  font-size: 3.5em;
+  line-height: 0.8em;
   padding: 0;
   word-break: break-word;
 }
@@ -778,6 +789,7 @@ tr:hover td {
   font-size: 22px;
   line-height: 40px;
   display: block;
+  padding-bottom: 16px; /* spacing_md */
 }
 
 .notes .desc {
