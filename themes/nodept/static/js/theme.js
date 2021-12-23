@@ -11,16 +11,18 @@ function Theme(client) {
   this.el.type = "text/css";
 
   this.active = {};
+
+  // update when changing theme
   this.default = {
-    background: "#626143",
-    f_high: "#3b1c16",
-    f_med: "#b8c5a6",
-    f_low: "#dd783d",
-    f_inv: "#111111",
-    b_high: "#a1a1a1",
-    b_med: "#c1c1c1",
-    b_low: "#ffffff",
-    b_inv: "#ffb545",
+    background: "#1e1f20",
+    f_high: "#e4eff0",
+    f_med: "#96b8ac",
+    f_low: "#a874e8",
+    f_inv: "#e4eff0",
+    b_high: "#96b8ac",
+    b_med: "#373c42",
+    b_low: "#2c2d2e",
+    b_inv: "#e4eff0",
   };
 
   // Callbacks
