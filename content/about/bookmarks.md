@@ -68,6 +68,8 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Vladimir Chebakov](https://instagram.com/vladimirchebakov)
 - [Aaron Horkey](https://thevacvvm.com/collections/aaron-horkey)
 - [Brandon Holt](https://thevacvvm.com/collections/brandon-holt)
+- [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
+- [Bethany White](https://www.bethanywhite.co.uk/shop)
 
 ### Tattoo artists
 
