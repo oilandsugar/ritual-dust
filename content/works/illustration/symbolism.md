@@ -19,11 +19,18 @@ Symbolism was an art movement from the late 19th century of French, Russian and 
 
 One key aspect of symbolic works of art is their detachment from direct representation of things that exist but instead try to convey emotions, dreams and ideas through the use of symbols and codified visual language.
 
-## Pre-19th century artists that would have been at home in the movement
+## Contemporary artists working in this path
 
-- Salvator Rosa
-- Gustave Doré
-- Francisco Goya
+- [Bethany White](https://www.bethanywhite.co.uk/shop)
+- [Denis Forkas Kostromitin](https://www.denisforkas.com/about)
+- [Glyn Smyth](https://www.stagandserpent.com/)
+- [Zdzisław Beksiński](https://www.shopbeksinski.com/)
+- [Jordi Diaz Alama](https://diazalama.com/)
+- [HR Giger](https://www.hrgiger.com/)
+- [Vergvoktre](https://vergvoktre.blogspot.com/)
+- [Adam Robert Martin](https://www.instagram.com/art.of.lore/)
+- [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
+- [Rowan E. Cassidy](https://rowanecassidy.com/)
 
 ## Notable 19th century artists
 
@@ -48,14 +55,8 @@ One key aspect of symbolic works of art is their detachment from direct represen
 - Viktor Vasnetsov  
 - William Blake
 
-## Contemporary artists working in this path
+## Pre-19th century artists that would have been at home in the movement
 
-- [Bethany White](https://www.bethanywhite.co.uk/shop)
-- [Denis Forkas Kostromitin](https://www.denisforkas.com/about)
-- [Glyn Smyth](https://www.stagandserpent.com/)
-- [Zdzisław Beksiński](https://www.shopbeksinski.com/)
-- [Jordi Diaz Alama](https://diazalama.com/)
-- [HR Giger](https://www.hrgiger.com/)
-- [Vergvoktre](https://vergvoktre.blogspot.com/)
-- [Adam Robert Martin](https://www.instagram.com/art.of.lore/)
-- [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
+- Salvator Rosa
+- Gustave Doré
+- Francisco Goya

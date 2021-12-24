@@ -112,5 +112,5 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 </div>
 
->"I don’t know why people expect art to make sense when they accept that life doesn’t make sense"
-- David Lynch
+>"I don’t know why people expect art to make sense when they accept that life doesn’t make sense"  
+<small>- David Lynch</small>

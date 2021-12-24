@@ -7,7 +7,7 @@ desc = "Personal learnings from life experiences, introspection, teachings and c
 weight = 1
 +++
 
-![Mushrooms from a cemetery in Scotland](/img/folklore/way-of-life.png)
+![Mushrooms from a cemetery in Scotland](/img/folklore/way-of-life.jpg)
 
 This is in no way intended to be general advice or universal truth, it's what worked for me in life so far. These are the result of a long distillation process, introspection, life experiences, therapy and meditation. It will definitely change in the future, like myself. It is written in that form as a message from present me to future me.
 
@@ -30,7 +30,7 @@ This is in no way intended to be general advice or universal truth, it's what wo
 
 Nature is always there somewhere, even in the most brutalist city corners and we're part of it. Taking time to notice and appreciate nature thought me a lot about life and myself and brought me a lot of joy and pleasure. Taking walks in the woods, tracing the paths left by termites on a dead log, playing with our cat, basking in the sun.
 
-> “Take your time as the mighty oak tree does, growing tall and strong and glorious in its own due course, fully confident that its great work is immune to the harrying of time. It grows its mighty bows where there is enough light, it puts forth leaves as it pleases and it’s acorns falls to the forest floor when they’re just heavy enough.“
+> “Take your time as the mighty oak tree does, growing tall and strong and glorious in its own due course, fully confident that its great work is immune to the harrying of time. It grows its mighty bows where there is enough light, it puts forth leaves as it pleases and it’s acorns falls to the forest floor when they’re just heavy enough.“  
 <small>- Steven Zapata</small>
 
 ## Learn to listen, name and express feelings
@@ -75,7 +75,7 @@ Sometimes I react strongly when people point out things in myself that I'm eithe
 
 ## Challenge assumptions and false narratives about yourself  
 
-In the process of tending to my insecurities I had to question parts of my own constructed identify that were conflicting with my true values, feelings and commitments. This is scary and letting go of them can feel like losing myself, but the more I challenge those versions of me that aren't compatible with who I really am te more I realize that I don't need a large set of descriptors and immutable traits to have a strong sense of identity. The more I let go of the ones that don't serve me anymore the more it creates space to grow.
+In the process of tending to my insecurities I had to question parts of my own constructed identify that were conflicting with my true values, feelings and commitments. This is scary and letting go of them can feel like losing myself, but the more I challenge those versions of me that aren't compatible with who I really am the more I realize that I don't need a large set of descriptors and immutable traits to have a strong sense of identity. The more I let go of the ones that don't serve me anymore the more it creates space to grow.
 
 ## Focus on commitments, dreams and goals instead of tasks  
 
