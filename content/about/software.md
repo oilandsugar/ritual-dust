@@ -22,6 +22,8 @@ Software tools for me are mostly a mean to an end, although I do enjoy building 
 
 - [**Darktable**](https://www.darktable.org/) for raw file editing  
 - [**Krita**](https://krita.org/en/) for photo editing & digital painting  
+- [**Noodle**](https://100r.co/site/noodle.html) for low-resolution digital painting  
+- [**Nasu**](https://100r.co/site/nasu.html) for making pixel art and game tiles  
 - [**Inkscape**](https://inkscape.org/) for vector
 - [**Blender**](https://www.blender.org/) for video editing and compositing  
 - **Adobe InDesign** **($) ©** for book layout (looking for an alternative)  
@@ -47,3 +49,4 @@ Software tools for me are mostly a mean to an end, although I do enjoy building 
 
 - [List of apps that allow you to keep your own data](https://0data.app/)
 - [Nice collection of open source design and web tools](http://osp.kitchen/tools/)
+- [Airdrop alternative for linux](https://medium.com/geekculture/the-iphone-to-linux-airdrop-alternative-you-need-804a082fec9e https://github.com/seemoo-lab/owl)

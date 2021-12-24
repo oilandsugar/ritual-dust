@@ -31,6 +31,9 @@ Where I keep my references for folklore, ancestry and magic research
 - [A great video on wassailing](https://youtu.be/ic4qWguBYEM)
 - [The Spirit Photographs of William Hope](https://publicdomainreview.org/collection/the-spirit-photographs-of-william-hope)
 - [A website on the occult sides and folkore of Paris](https://paris-sortileges.fr/paris-sortileges/)
+- [Irish traditionnal music archive](https://www.itma.ie/)
+- [The English collections at the Pitt rivers musem](http://england.prm.ox.ac.uk/index.html)
+- [London Burial Grounds](https://www.gutenberg.org/files/56832/56832-h/56832-h.htm)
 
 ### Ancestry
 

@@ -46,6 +46,9 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 </div>
 
+>"He saw the Expriest stumbling across the bones and holding aloft a cross he’d fashioned out of the shins of a ram and he’d lashed them together with strips of hide and he was holding the thing before him like some mad dowser in the bleak of desert and calling out in a tongue both alien and extinct"
+-- Cormac McCarthy in Blood Meridian
+
 ### Zines
 
 <div class="checklist">
@@ -77,6 +80,9 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 ### Articles and websites
 
+https://medium.com/@malkekvmachashayfele/not-relationship-anarchism-but-relationship-communism-a27b89884fa8  
+https://www.gamedeveloper.com/art/romanticism-and-the-art-of-dark-souls-iii  
+https://lareviewofbooks.org/article/metabolic-survivors-on-mckenzie-warks-sensoria-thinkers-for-the-twenty-first-century/  
 https://www.autostraddle.com/consent-asexuality-angela-chen/  
 https://neustadt.fr/essays/the-small-web/  
 https://garbados.github.io/my-blog/software_from_another_world.html  

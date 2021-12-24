@@ -25,6 +25,7 @@ Where I keep my references for crafting, woodworking, low-tech, permacomputing a
 
 ### Woodworking
 
+- [Reproductions of early furniture](https://www.earlyoakreproductions.co.uk/detail-quality/)
 
 ### Tools
 
@@ -34,6 +35,7 @@ Where I keep my references for crafting, woodworking, low-tech, permacomputing a
 
 - [How to broadcast to a CRT TV with a raspberry pi](https://www.tomshardware.com/news/raspberry-pi-broadcasts-uhf-to-crt-tvs)
 - [Tool to develop and prototype eurorack modules](https://github.com/ohmtech-rdi/eurorack-blocks)
+- [PCB manufacturing website](https://www.elecrow.com/pcb-manufacturing.html)
 
 ### Drawing and illustration
 

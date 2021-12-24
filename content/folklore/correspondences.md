@@ -50,7 +50,7 @@ Correspondences are links between different symbolic ideas, objects, moments and
     </tr>
     <tr>
       <td>Thursday</td>
-      <td>intent</td>
+      <td>Intentions, abondance, goals, opportunities</td>
       <td>Jupiter</td>
       <td>Sagittarius, Pisces</td>
       <td>Fire</td>

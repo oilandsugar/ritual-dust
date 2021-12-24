@@ -26,6 +26,11 @@ This page will contain my ongoing work on sigil and symbol making, both as a way
 
 The work of Austin Osman Spare, a British artist and occultist informed a lot of what we call sigil magic today. We can see references to his own system to make sigils out of combined letters in contemporary chaos magick. I'm especially interested in how he integrated aspects of Art Nouveau and Symbolism in the characters and symbols he drew, there is something strong that draws me to these types of organic and line-based shapes.
 
+## Other practices using Sigils
+
+Donald Michael Kraig has a technique early on in Modern Magick called IOB which is short for Identify, Objectify, Banish. The TLDR on it is find the thing you want to unbind or its root, create a drawing/art/sigil/signifier, do a banishing of your choice taking care to have your stand-in object outside of the field of banishment. Watch the objectified thing whither in your mind's eye.
+You can also use this technique to visualize / sense where there are connections to the thing. If it's bound to you, for example, intuiting where on my body/chakra/whatever it connects and cutting it (again, in visualization).
+
 ## My own sigil work
 
 ### A sigil for the self, as a signature

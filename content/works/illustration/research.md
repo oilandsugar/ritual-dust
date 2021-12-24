@@ -18,10 +18,14 @@ References, archives and research material on illustration and art
 
 ## Essays and interviews
 
-[Interview – Denis Forkas Kostromitin – Exploring Death Through Occultism And Art](https://acourseindying.com/interview-denis-forkas-kostromitin-exploring-death-through-occultism-and-art/)
+- [Interview – Denis Forkas Kostromitin – Exploring Death Through Occultism And Art](https://acourseindying.com/interview-denis-forkas-kostromitin-exploring-death-through-occultism-and-art/)
 
 ## Archives
 
-[The ISFDB is a community effort to catalog works of science fiction, fantasy, and horror](http://www.isfdb.org/cgi-bin/index.cgi)
+- [The ISFDB is a community effort to catalog works of science fiction, fantasy, and horror](http://www.isfdb.org/cgi-bin/index.cgi)
 
 ## References
+
+- [Portraits of trees](https://publicdomainreview.org/collection/sylva-britannica)
+- [Human anatomy for artists](https://www.human-anatomy-for-artist.com/)
+- [A collection of old book illustrations](https://www.flickr.com/search/?user_id=internetarchivebookimages&tags=bookidhandbookoforname1900meye&view_all=1)

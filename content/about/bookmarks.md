@@ -31,6 +31,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Hundred Rabbits](https://wiki.xxiivv.com/)
 - [Thomasaurus](https://www.thomasorus.com/)
 - [cblgh](https://cblgh.org/)
+- [Heydon works](https://heydonworks.com/)
 
 ### Zines and publications
 
@@ -70,6 +71,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Brandon Holt](https://thevacvvm.com/collections/brandon-holt)
 - [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
 - [Bethany White](https://www.bethanywhite.co.uk/shop)
+- [Elisabeth Nicula](https://elisabethnicula.com/)
 
 ### Tattoo artists
 
@@ -110,6 +112,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [George Saralis-Wheatley](https://gsw.cargo.site/)
 - [Folk Pile](https://folkpile.bigcartel.com/)
 - [Practical Typography](https://practicaltypography.com/)
+- [Maud Bausier](https://maudbausier.com/index.html)
 
 ### Food and recipe blogs
 
@@ -122,6 +125,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 ### Tech, low-tech, no-tech
 
 - [Low-Tech Magazine](https://solar.lowtechmagazine.com/)
+- [Calculateur de profil énergétique](https://lite.framacalc.org/profil-energetique---hlt)
 
 ### Resource and link pages
 
