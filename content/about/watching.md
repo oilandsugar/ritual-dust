@@ -111,3 +111,6 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
   - [x] **It Follows**, David Robert Mitchell - 2014
 
 </div>
+
+>"I don’t know why people expect art to make sense when they accept that life doesn’t make sense"
+- David Lynch
