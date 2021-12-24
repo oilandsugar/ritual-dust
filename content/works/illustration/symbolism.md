@@ -31,6 +31,7 @@ One key aspect of symbolic works of art is their detachment from direct represen
 - [Adam Robert Martin](https://www.instagram.com/art.of.lore/)
 - [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
 - [Rowan E. Cassidy](https://rowanecassidy.com/)
+- [David Chaim Smith](https://www.davidchaimsmith.com/)
 
 ## Notable 19th century artists
 

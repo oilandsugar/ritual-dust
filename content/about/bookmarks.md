@@ -47,12 +47,16 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 
 ### Bookstores and publishers
 #### Occult books
+
 - [Rahus Press](http://raphuspress.weebly.com/)
+- [Anathema publishing](https://www.anathemapublishing.com/)
 - [Troy books](https://www.troybooks.co.uk/)
+- [Scarlet Imprint](https://scarletimprint.com/)
 - [Nemglan Press](https://nemglan.com/)
 - [Jerusalem Press, specifically of works by Austin Osman Spare](https://www.troybooks.co.uk/)
 - [Miskatonic books](https://www.miskatonicbooks.com/)
 - [Fulgur press](https://fulgur.co.uk/)
+- [Cyclic Law](https://www.cycliclaw.com/)
 - [Weiser Antiquarian](https://www.weiserantiquarian.com/)
 
 #### Others
