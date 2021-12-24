@@ -46,13 +46,18 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Fantômes](https://fantomeszine.com/)
 
 ### Bookstores and publishers
-
-- [Weiser Antiquarian](https://www.weiserantiquarian.com/)
+#### Occult books
 - [Rahus Press](http://raphuspress.weebly.com/)
+- [Troy books](https://www.troybooks.co.uk/)
+- [Nemglan Press](https://nemglan.com/)
+- [Jerusalem Press, specifically of works by Austin Osman Spare](https://www.troybooks.co.uk/)
+- [Miskatonic books](https://www.miskatonicbooks.com/)
+- [Fulgur press](https://fulgur.co.uk/)
+- [Weiser Antiquarian](https://www.weiserantiquarian.com/)
+
+#### Others
+
 - [Unit Editions](https://www.uniteditions.com/)
-- [Troy books - occult publisher](https://www.troybooks.co.uk/)
-- [Nemglan Press - occult publisher](https://nemglan.com/)
-- [Jerusalem Press - occult publisher, specifically of works by Austin Osman Spare](https://www.troybooks.co.uk/)
 
 ### Art
 
