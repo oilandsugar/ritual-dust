@@ -1171,6 +1171,10 @@ article {
   column-width: 400px;
 }
 
+.columns.no-margin-inside ul {
+  margin:0;
+}
+
 .columns p {
   margin: 0;
 }

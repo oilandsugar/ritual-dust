@@ -1,6 +1,7 @@
 <aside class="sidebar">
   {{ partial "sidebars/utils/back" . }}
   <h3 class="accent">Types of work</h3>
+  <div class="small-padding-bottom">
   {{ $section := where $.Site.Pages "Section" "works"}}
   {{ $section := $section | intersect (where $.Site.Pages "IsSection" true)}}
   {{ $section := $section | intersect (where $.Site.Pages "Title" "!=" "Works")}}
@@ -9,6 +10,7 @@
     {{ partial "sidebars/utils/sidebarMenuItem" . }}
   {{ end }}
   </ul>
+  </div>
   <h3 class="accent">Notes</h3>
   <div class="small-padding-bottom">
     <ul class="section-pages">
