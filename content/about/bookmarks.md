@@ -7,7 +7,7 @@ tags = ["bookmarks"]
 
   ![Castle ruins in Scotland, a reminder that nothing last forever, especially links](/img/about/bookmarks.jpg "Castle ruins in Scotland, a reminder that nothing last forever, especially links")
 
-My bookmarks of interesting / useful / beautiful websites. I've also included some links to my topic specific lists of resources at the end of this page. Most of the links on this page we're first saved in my local notes on my computer then moved in one of those pages on here.
+My bookmarks of interesting / useful / beautiful websites. I've also included some links to my topic specific lists of resources at the end of this page. Most of the links on this page were first saved in my local notes on my computer then moved in one of those pages on here.
 
 <div class="table-of-contents">
 
