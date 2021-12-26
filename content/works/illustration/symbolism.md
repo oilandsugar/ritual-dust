@@ -65,6 +65,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - Gustav Adolf Mossa  
 - Gustav Klimt  
 - Gustave Moreau  
+- Jean Delville
 - John Duncan  
 - Karl Wilhelm Diefenbach  
 - Maximilian Pirner
