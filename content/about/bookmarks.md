@@ -114,6 +114,11 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Michael Cooper](https://instagram.com/yallerybrowntattoo)(UK)
 - [Alberto Santi](https://instagram.com/ruraltattooing)(Italy)
 
+### Miniatures and dioramas
+
+- [Gardens of Hecate](https://gardensofhecate.com/)
+- [28 mag](https://28-mag.com/)
+
 ### Design, fonts
 
 - [Velvetyne](https://www.velvetyne.fr/)
