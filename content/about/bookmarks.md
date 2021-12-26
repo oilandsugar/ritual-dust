@@ -32,6 +32,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Thomasaurus](https://www.thomasorus.com/)
 - [cblgh](https://cblgh.org/)
 - [Heydon works](https://heydonworks.com/)
+- [Tatjana J. van Vark](http://www.tatjavanvark.nl/index.html)
 
 ### Zines and publications
 
@@ -62,6 +63,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 #### Others
 
 - [Unit Editions](https://www.uniteditions.com/)
+- [Cadabra Records - beautiful audio books with scores](https://cadabrarecords.com/)
 
 ### Art
 

@@ -6,6 +6,8 @@ intro = "The software I use to create and complete my daily tasks"
 tags = ["software", "open source", "notes"]
 +++
 
+![View of my computer desktop](/img/about/desktop.jpg)
+
 <div class="table-of-contents">
 
 [Visual tools](#visual-tools) •
