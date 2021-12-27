@@ -47,4 +47,4 @@ portions = 6
 </div>
 </div>
 
-![A bowl of potato soup with kale and sausages](irish-potato-soup.jpg)
+![A bowl of potato soup with kale and sausages](/img/recipes/irish-potato-soup.jpg)
