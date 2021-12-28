@@ -45,6 +45,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - [Rowan E. Cassidy](https://rowanecassidy.com/)
 - [David Chaim Smith](https://www.davidchaimsmith.com/)
 - [Benjamin A. Vierling](https://bvierling.com/)
+- [Santiago Caruso](https://santiagocaruso.com.ar/)
 
 </div>
 
@@ -84,3 +85,4 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - Gustave Doré
 - Francisco Goya
 - Caspar David Friedrich
+- John Martin

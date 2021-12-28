@@ -16,7 +16,8 @@ My main goal with it is to have a backup computer if my macbook crashes.
 ### Inspirations:
 https://back7.co/home/the-raspberry-pi-quick-kit  
 http://opacity.ru/cyberdeck  
-https://cyberdeck.cafe/build
+https://cyberdeck.cafe/build  
+https://alternativebit.fr/posts/ultimate-writer/
 
 ## It needs to
 - run all the software tools I need to daily and creative tasks

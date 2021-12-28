@@ -83,6 +83,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
 - [Bethany White](https://www.bethanywhite.co.uk/shop)
 - [Elisabeth Nicula](https://elisabethnicula.com/)
+- [Santiago Caruso](https://santiagocaruso.com.ar/)
 
 ### Tattoo artists
 
