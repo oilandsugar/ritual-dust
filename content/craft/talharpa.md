@@ -8,8 +8,8 @@ desc = "Building a bass talharpa"
 draft = "true"
 +++
 
-Main body made of ash
-Soundboard made of thin spruce
+Main body made of ash or maple
+Soundboard made of thin spruce or fir
 Add bass bar underneath the lowest string
 Add support underneath the bridge where the highest string is
 
