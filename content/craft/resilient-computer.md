@@ -3,11 +3,11 @@ title = "Resilient computer"
 tags = ["computer", "sustainability"]
 date = "2021-07-19"
 
-image = "/img/craft/computer-1.jpg"
+image = "/img/craft/computer/computer-1.jpg"
 desc = "Building a resilient, low-power DIY computer"
 +++
 
-![Pelican case and raspberry pi](/img/craft/computer-1.jpg)
+![Pelican case and raspberry pi](/img/craft/computer/computer-1.jpg)
 
 I've been thinking about making a portable low-power resilient computer for
 quite a while and have been slowly assembling the parts that i'll use to make it.

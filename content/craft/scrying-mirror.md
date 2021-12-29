@@ -3,13 +3,13 @@ title = "Scrying mirror"
 tags = ["woodworking", "magic"]
 date = "2021-02-22"
 
-image = "/img/craft/DSC02310.jpg"
+image = "/img/craft/scrying/DSC02310.jpg"
 desc = "Hand made frame for an obsidian scrying mirror"
 +++
 
 A mirror to look into the darkest depths. I made this scrying mirror frame out of two pieces of black-painted spruce wood tied together with waxed string - as above, so below. The pieces were carved hollow to hold the mirror without any glue - held safe but still free.
 
-![Scrying mirror](/img/craft/DSC02308.jpg)
-![Scrying mirror](/img/craft/DSC02310.jpg)
-![Top detail](/img/craft/DSC02311.jpg)
-![Engraving of sigils on the back](/img/craft/DSC02312.jpg)
+![Scrying mirror](/img/craft/scrying/DSC02308.jpg)
+![Scrying mirror](/img/craft/scrying/DSC02310.jpg)
+![Top detail](/img/craft/scrying/DSC02311.jpg)
+![Engraving of sigils on the back](/img/craft/scrying/DSC02312.jpg)

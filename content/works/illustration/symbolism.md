@@ -47,6 +47,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - [Benjamin A. Vierling](https://bvierling.com/)
 - [Santiago Caruso](https://santiagocaruso.com.ar/)
 - [Remedios Varo](https://en.wikipedia.org/wiki/Remedios_Varo)
+- [Eliran Kantor](https://www.elirankantor.com/)
 
 </div>
 

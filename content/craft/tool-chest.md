@@ -3,11 +3,11 @@ title = "Tool chest"
 tags = ["woodworking"]
 date = "2021-06-04"
 
-image = "/img/craft/tool-chest-3.jpg"
+image = "/img/craft/tool-chest/tool-chest-3.jpg"
 desc = "Wall-mounted tool chest for my hand tools"
 +++
 
-![Tool chest in process of receiving tools](/img/craft/tool-chest-3.jpg)
+![Tool chest in process of receiving tools](/img/craft/tool-chest/tool-chest-3.jpg)
 
 After years of thinking about it and pushing the project back, I finally tackled the building of a proper home for my hand tools. I'm trying to use as much of the wood I already have around to make it and the actual structure once was the case containing the first ever modular synth that I put together as a teen.
 
@@ -20,9 +20,9 @@ This is still very much a work in progress. Once I'll be done with the main cabi
 
 {{% row %}}
 {{% half %}}
-![](/img/craft/tool-chest-detail-1.jpg)
+![](/img/craft/tool-chest/tool-chest-detail-1.jpg)
 {{% /half %}}
 {{% half %}}
-![](/img/craft/tool-chest-detail-2.jpg)
+![](/img/craft/tool-chest/tool-chest-detail-2.jpg)
 {{% /half %}}
 {{% /row %}}

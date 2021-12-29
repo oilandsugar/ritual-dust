@@ -20,6 +20,7 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 <div class="checklist">
 
+- [ ] **The Art of Decadence: European Fantasy Art of the Fin-De-Siècle**, Hiroshi Unno
 - [ ] **Fantasy : the golden age of fantastic illustration**, Bridgid Peppin
 - [ ] **The Wild Places**, Robert Macfarlane
 - [ ] **The Old Straight Track**, Alfred Watkins
@@ -31,9 +32,12 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
 - [ ] **CAPS LOCK (How Capitalism Took Hold of Graphic Design, and how to Escape it)**, Ruben Pater
 - [ ] **The one straw revolution**, Masanobu Fukuoka
+- [ ] **Voyage au centre de la terre**, Jules Verne
 
 #### 2021
 
+- [ ] **Macbeth**, William Shakespeare
+- [ ] **Come as you are**, Emily Nagoski
 - [ ] **Monolithic undertow**, Harry Sword
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
 - [x] **Your Psilocybin Mushroom Companion**, Michelle Janikian
