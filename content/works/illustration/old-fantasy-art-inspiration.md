@@ -17,7 +17,7 @@ draft = true
 <div class="table-of-contents">
 
 [The Genre](#an-introduction-to-the-genre) •
-[Artists](#notable-artists) •
+[Artists](#contemporary-artists-exploring-this-style) •
 [Role-Playing Games](#old-school-role-playing-games) •
 [Books and Magazines](#fantasy-books-and-magazines) •
 [Video Games](#video-games) •
@@ -29,7 +29,17 @@ draft = true
 
 
 
-### Notable artists
+### Contemporary artists exploring this style
+
+<div class="columns medium-padding-bottom no-margin-inside">
+
+- [Steven Zapata](https://www.stevenzapata.com/)
+- [Katerina Karamalikova](https://www.instagram.com/kara_malikova.art/)
+- [Mark Jarell](https://markjarrellart.com)
+
+</div>
+
+### Old-school artists
 
 <div class="columns medium-padding-bottom no-margin-inside">
 
@@ -44,12 +54,15 @@ draft = true
 
 ### Old School Role-Playing Games
 
+Mordheim
 
 ### Fantasy Books and Magazines
 
+White Dwarf
 
 ### Video Games
 
+Legend of Zelda
 
 ### Links and References
 

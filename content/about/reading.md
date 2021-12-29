@@ -2,7 +2,7 @@
 title = "Reading"
 date = "2020-11-16"
 draft = false
-weight = 2
+weight = 3
 intro = "This is my reading list, it contains the books, zines and long form articles I read or intend to read this year."
 +++
 

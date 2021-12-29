@@ -33,21 +33,22 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 
 <div class="columns medium-padding-bottom no-margin-inside">
 
-- [Bethany White](https://www.bethanywhite.co.uk/shop)
-- [Denis Forkas Kostromitin](https://www.denisforkas.com/about)
-- [Glyn Smyth](https://www.stagandserpent.com/)
-- [Zdzisław Beksiński](https://www.shopbeksinski.com/)
-- [Jordi Diaz Alama](https://diazalama.com/)
-- [HR Giger](https://www.hrgiger.com/)
-- [Vergvoktre](https://vergvoktre.blogspot.com/)
 - [Adam Robert Martin](https://www.instagram.com/art.of.lore/)
-- [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
-- [Rowan E. Cassidy](https://rowanecassidy.com/)
-- [David Chaim Smith](https://www.davidchaimsmith.com/)
 - [Benjamin A. Vierling](https://bvierling.com/)
-- [Santiago Caruso](https://santiagocaruso.com.ar/)
-- [Remedios Varo](https://en.wikipedia.org/wiki/Remedios_Varo)
+- [Bethany White](https://www.bethanywhite.co.uk/shop)
+- [David Chaim Smith](https://www.davidchaimsmith.com/)
+- [Denis Forkas Kostromitin](https://www.denisforkas.com/about)
 - [Eliran Kantor](https://www.elirankantor.com/)
+- [Glyn Smyth](https://www.stagandserpent.com/)
+- [HR Giger](https://www.hrgiger.com/)
+- [Jordi Diaz Alama](https://diazalama.com/)
+- [Remedios Varo](https://en.wikipedia.org/wiki/Remedios_Varo)
+- [Rowan E. Cassidy](https://rowanecassidy.com/)
+- [Santiago Caruso](https://santiagocaruso.com.ar/)
+- [Steven Zapata](https://www.stevenzapata.com/)
+- [Vergvoktre](https://vergvoktre.blogspot.com/)
+- [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
+- [Zdzisław Beksiński](https://www.shopbeksinski.com/)
 
 </div>
 
