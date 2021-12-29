@@ -1,21 +1,44 @@
 +++
-title = "Old-School Fantasy Art Research"
+title = "Old-School Fantasy Art"
 tags = ["illustration", "notes"]
 date = "2021-11-13"
 
-image = "/img/illustration/weapons.jpg"
+image = "/img/illustration/fantasy-art/FrankFrazetta-The-Death-Dealer-II-1986.jpg"
 desc = "A deep dive in old-school fantasy art and illustration in books, role-playing games and video games"
 draft = true
 +++
 
-![](/img/illustration/weapons.jpg)
+<div class="half">
+
+![The Death Dealer II by Frank Frazetta](/img/illustration/fantasy-art/FrankFrazetta-The-Death-Dealer-II-1986.jpg "The Death Dealer II by Frank Frazetta")
+
+</div>
 
 <div class="table-of-contents">
 
+[The Genre](#an-introduction-to-the-genre) •
+[Artists](#notable-artists) •
 [Role-Playing Games](#old-school-role-playing-games) •
 [Books and Magazines](#fantasy-books-and-magazines) •
 [Video Games](#video-games) •
 [Links](#links-and-references)
+
+</div>
+
+### An introduction to the genre
+
+
+
+### Notable artists
+
+<div class="columns medium-padding-bottom no-margin-inside">
+
+- Frank Frazeta
+- Brain Froud
+- Alan Lee
+- John Howe
+- Moebius
+- Jeffrey Catherine Jones
 
 </div>
 

@@ -1,6 +1,6 @@
 +++
 title = "Symbolism in art"
-tags = ["notes"]
+tags = ["notes", "art", "painting"]
 date = "2021-12-10"
 
 desc = "Some notes on the late 19th century art movement called Symbolism and a collection of inspiring works and artists"
@@ -46,6 +46,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - [David Chaim Smith](https://www.davidchaimsmith.com/)
 - [Benjamin A. Vierling](https://bvierling.com/)
 - [Santiago Caruso](https://santiagocaruso.com.ar/)
+- [Remedios Varo](https://en.wikipedia.org/wiki/Remedios_Varo)
 
 </div>
 
@@ -72,6 +73,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - Maximilian Pirner
 - Mstislav Dobuzhinsky  
 - Mikalojus Konstantinas Ciurlionis  
+- Mikhail Vrubel
 - Odilon Redon  
 - Victor hugo  
 - Viktor Vasnetsov  
