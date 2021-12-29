@@ -4,7 +4,7 @@ tags = ["miniatures", "sculpting", "art"]
 date = "2021-12-29"
 
 image = "/img/craft/vampire-lock/DSC05463.jpg"
-desc = "Conversion and repaint of a small toy made by some friends"
+desc = "A working vampiric lock, recovered from the depths of the abyss"
 +++
 
 I sculpted this vampiric lock on top of a real steel padlock and kept it functional. The inspiration for it was a drawing I made last year which you can find in my [Sketchbook of December 2020](/works/sketchbook-december-2020/). My intent was to make something that feels old and a bit out of time and slightly threatening, something you think twice before unlocking.
