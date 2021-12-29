@@ -33,6 +33,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [cblgh](https://cblgh.org/)
 - [Heydon works](https://heydonworks.com/)
 - [Tatjana J. van Vark](http://www.tatjavanvark.nl/index.html)
+- [Patrick Woodroffe](http://www.patrickwoodroffe-world.com/archive/)
 
 ### Zines and publications
 
@@ -84,6 +85,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Bethany White](https://www.bethanywhite.co.uk/shop)
 - [Elisabeth Nicula](https://elisabethnicula.com/)
 - [Santiago Caruso](https://santiagocaruso.com.ar/)
+- [Iris Compiet](https://iriscompiet.art/)
 
 ### Tattoo artists
 

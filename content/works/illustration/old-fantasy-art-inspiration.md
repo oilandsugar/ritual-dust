@@ -36,6 +36,8 @@ draft = true
 - [Steven Zapata](https://www.stevenzapata.com/)
 - [Katerina Karamalikova](https://www.instagram.com/kara_malikova.art/)
 - [Mark Jarell](https://markjarrellart.com)
+- [Iris Compiet](https://iriscompiet.art/)
+- [Anato Finnstark](https://anto-finnstark.artstation.com/)
 
 </div>
 
@@ -66,8 +68,9 @@ Legend of Zelda
 
 ### Links and References
 
-[Ressource on vintage RPGs](https://www.vintagerpg.com/)  
-[First edition fantasy and sci-fi book collection blog](http://firsteditionfantasy.blogspot.com/)  
-[Huge database of old book covers](https://www.coverbrowser.com/)  
-[Beautiful book on fantasy art](https://www.taschen.com/pages/en/catalogue/graphic_design/all/01182/facts.masterpieces_of_fantasy_art.htm)  
-[Vintage book sellers with good quality photos](https://www.lwcurrey.com/)
+- [List of science-fiction and fantasy artists](https://en.wikipedia.org/wiki/List_of_science_fiction_and_fantasy_artists)
+- [Ressource on vintage RPGs](https://www.vintagerpg.com/)  
+- [First edition fantasy and sci-fi book collection blog](http://firsteditionfantasy.blogspot.com/)  
+- [Huge database of old book covers](https://www.coverbrowser.com/)  
+- [Beautiful book on fantasy art](https://www.taschen.com/pages/en/catalogue/graphic_design/all/01182/facts.masterpieces_of_fantasy_art.htm)  
+- [Vintage book sellers with good quality photos](https://www.lwcurrey.com/)
