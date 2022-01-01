@@ -34,9 +34,14 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 <div class="columns medium-padding-bottom no-margin-inside">
 
 - [Adam Robert Martin](https://www.instagram.com/art.of.lore/)
+- [Adrian Baxter](https://adrianbaxterillustration.bigcartel.com/)
 - [Benjamin A. Vierling](https://bvierling.com/)
 - [Bethany White](https://www.bethanywhite.co.uk/shop)
+- [Christopher Ulrich](https://www.christopherulrich.com/)
+- [Cristina Francov](https://cristinafrancov.squarespace.com/digital-art)
+- [Daria Kropacheva](https://dariakropacheva.com/)
 - [David Chaim Smith](https://www.davidchaimsmith.com/)
+- [Daniele Valeriani](https://www.instagram.com/valeriani.art/)
 - [Denis Forkas Kostromitin](https://www.denisforkas.com/about)
 - [Eliran Kantor](https://www.elirankantor.com/)
 - [Glyn Smyth](https://www.stagandserpent.com/)
@@ -56,19 +61,27 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 
 <div class="columns medium-padding-bottom no-margin-inside">
 
+- Agnes Slott-Moller
 - Akseli Gallen-Kallela  
 - Austin Osman Spare  
+- Arnold Böcklin
 - Alexander Rothaug
 - Boleslas Biegas  
 - Carlos Schwabe  
+- Carlo Farneti
+- Cayley Robinson
+- Elihu Vedder
 - Edvard Munch  
 - Lady Frieda Harris  
 - Ferdynand Ruszczyc  
 - Fernand Khnopff  
+- Franz Von Stuck
+- Gaston de Latenay
 - George Frederick Watts  
 - Gustav Adolf Mossa  
 - Gustav Klimt  
 - Gustave Moreau  
+- Hans Thomas
 - Jean Delville
 - John Duncan  
 - Karl Wilhelm Diefenbach  
@@ -90,3 +103,8 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - Francisco Goya
 - Caspar David Friedrich
 - John Martin
+
+## Links and reference
+
+- [A lot of great pieces by Diefenbach](https://www.tuttartpitturasculturapoesiamusica.com/2014/05/Karl-Wilhelm-Diefenbach.html)
+- [Heavy music artwork](https://heavymusicartwork.com/)

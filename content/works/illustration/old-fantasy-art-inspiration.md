@@ -38,6 +38,7 @@ draft = true
 - [Mark Jarell](https://markjarrellart.com)
 - [Iris Compiet](https://iriscompiet.art/)
 - [Anato Finnstark](https://anto-finnstark.artstation.com/)
+- [Michael Whelan](https://www.michaelwhelan.com/)
 
 </div>
 
