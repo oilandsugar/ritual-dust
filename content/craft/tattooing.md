@@ -1,6 +1,6 @@
 +++
 title = "Tattooing"
-tags = ["notes", "craft", "tattooing"]
+tags = ["notes", "craft", "tattoo"]
 date = "2021-08-14"
 
 desc = "My notes on tattooing tools, technique and safety"
@@ -9,12 +9,33 @@ draft = true
 
 <div class="table-of-contents">
 
+[Terms](#terms) •
 [Tools](#tools) •
 [Supplies](#supplies) •
 [Technique](#technique) •
 [Safety](#safety)
 
 </div>
+
+## Terms
+
+{{< columns class="dictionary" >}}
+
+{{< entry term="CYCLE" definition="Refers to the cycle of motion of the motor of the tattoo machine, pushing the needle out and back in the tube." >}}
+
+{{< entry term="DWELL TIME" definition="How long the needle is staying in the skin during it's cycle." >}}
+
+{{< entry term="GIVE (or SPRINGYNESS)" definition="The less dwell time a machine has the more springiness or give it has. This is desirable because it reduces the chances of damaging the skin by dragging needles inside the skin while tattooing." >}}
+
+{{< entry term="STROKE LENGTH" definition="How much the needle travels in and out of the tip during the cycle, measured in mm." >}}
+
+{{< entry term="THROW (or HANG)" definition="How much of the needle hangs out of the tip when the machine is at rest." >}}
+
+{{< entry term="LINING" definition="Tattooing the solid lines of a tattoo." >}}
+
+{{< entry term="SHADING" definition="Tattooing the shaded, gradient parts of a tattoo." >}}
+
+{{</ columns >}}
 
 ## Tools
 
@@ -66,15 +87,15 @@ Needles are needles made using smaller individual needles than standard needles,
 
 ### Machines
 
-There is coil machines and rotary machines. Coil machines use electromagnets in a simple circuit with a spring and contact screw in order to create the reciprocating action needed to tattoo. Coil machines on the other hand use a rotary motor that drives a cam connected to the needle to make it go in and out the skin.
+There is coil machines and rotary machines. Coil machines use electromagnets in a simple circuit with a spring and contact screw in order to create the reciprocating action needed to tattoo. Coil machines on the other hand use a rotary motor that drives a cam connected to the needle to make it go in and out of the skin.
 
 More and more, tattoo artists are moving from using coil machines to using rotary machines, the main advantages being ease of setup and tuning, reduced noise and vibration and ability to use needle cartridge and change needles easily on the same machine during a session. The rest of this guide will be oriented towards rotary machines.
 
 Machine accessories to keep in stock:
 - Rubber nipples (to connect the needle to the bar)
-- Rubber bands (to keep the needle against the back the tube)
 - Machine bags
 - Cable bags
+- tape for machine bags
 
 ### Machine types / configurations
 
@@ -82,11 +103,12 @@ when coil machines were the main type of machines used for tattooing, often arti
 
 <details>
 <summary><h4>Liner</h4></summary>
-Used with thinner lining ink, runs fast and has the shortest stroke
+Runs fast and has usually a longer stroke length to get the ink in in one pass.
 </details>
 
 <details>
 <summary><h4>Shader</h4></summary>
+Runs slower and has a shorter stroke length in order to make smoother gradients and transitions. Running the machine extra-slowly can be useful for techniques like whip shading.
 </details>
 
 <details>
@@ -116,7 +138,7 @@ Before any work can begin, the area of the skin to be tattooed has to be shaved 
 
 ### Stencil
 
-A stencil is an image used as a reference while tattooing, it can be either drawn freehand with a skin-safe disposable marker or transferred on the skin with stencil paper. Stencil paper can be used with a thermal printer or by hand by drawing over it.
+A stencil is an image used as a reference while tattooing, it can be either drawn freehand with a skin-safe disposable marker or transferred on the skin with stencil paper. Stencil paper can be used with a thermal printer or by hand by drawing over it. Once the skin has been shaved and disinfected, a stencil transfer fluid is applied (I use stencil stuff for that) following it's instructions and then the stencil paper is applied to the skin and held in place until it transfers. For larger stencils it can be useful to dry fit it before and draw little registration marks on the skin and stencil in order to put it back to the good location. If the stencil isn't applied correctly it can be removed with rubbing alcohol and applied again.
 
 ### Lining
 
@@ -150,7 +172,7 @@ Once the lines completed, if the tattoo has any shaded areas,
 ### Sharps and sharps disposal
 
 - Always use single use and disposable sharps (needles, razors, etc)
-- Inspect packaging of pre-sterilize sharps to make sure it’s not been compromised
+- Inspect packaging of pre-sterilized sharps to make sure it’s not been compromised
 - Dispose immediately after use in a sharps container
 - Dispose of the full sharps container when it’s 3/4 full
 - Install the sharps container on a proper wall mount as close as practical to the use area

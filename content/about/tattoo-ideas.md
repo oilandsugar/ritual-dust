@@ -13,6 +13,8 @@ I see my skin as my personal grimoire, adding to it as I make discoveries, have 
 
 <div class="checklist">
 
+- [ ] Magic Square - SATOR AREPO
+- [ ] Magic circles
 - [ ] Stone circle (around belly button)
 - [ ] Skull on hand (by alixe cooper)
 - [ ] Sigils over elbows

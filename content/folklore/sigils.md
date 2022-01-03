@@ -3,7 +3,7 @@ title = "Sigils and occult symbols"
 tags = ["magic", "sigils"]
 date = "2020-10-19"
 
-image = "/img/folklore/off-grid.jpg"
+image = "/img/folklore/sigils.png"
 desc = "This page will contain my ongoing work on sigil and symbol making, both as a way of marking and identifying projects and objects but also part of my magical practice."
 weight = 3
 +++
@@ -25,6 +25,21 @@ This page will contain my ongoing work on sigil and symbol making, both as a way
 ## Austin Osman Spare
 
 The work of Austin Osman Spare, a British artist and occultist informed a lot of what we call sigil magic today. We can see references to his own system to make sigils out of combined letters in contemporary chaos magick. I'm especially interested in how he integrated aspects of Art Nouveau and Symbolism in the characters and symbols he drew, there is something strong that draws me to these types of organic and line-based shapes.
+
+## Making sigils intuitively
+
+## Making sigils from rose cross
+
+## Making sigils using planetary squares
+
+Sigils can be drawn using planetary squares.
+Refer to [this page on planetary magic](/folklore/planetary-magic/) for the squares.
+
+<div class="columns-2">
+
+
+
+</div>
 
 ## Other practices using Sigils
 
