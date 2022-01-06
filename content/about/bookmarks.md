@@ -86,6 +86,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Elisabeth Nicula](https://elisabethnicula.com/)
 - [Santiago Caruso](https://santiagocaruso.com.ar/)
 - [Iris Compiet](https://iriscompiet.art/)
+- [Ikosidio](https://www.etsy.com/shop/ikosidio/)
 
 ### Tattoo artists
 

@@ -8,14 +8,20 @@ draft = false
 <div class="table-of-contents">
 
 [Classical planets](#the-seven-classical-planets) •
+[Modern planets](#modern-planets) •
 [Links and references](#links-and-references)
 
 </div>
 
 ## The seven classical planets
 
-### The Sun
-Representative of the ego, the self, the identity. Strong and powerful.
+### The Sun ☉
+Representative of the ego, the self, the identity. Strong and powerful.  
+The modern symbol of the sun, the *circumpunct*, was first used during the Renaissance, it represents Apollo's golden shield with a boss. The older medieval symbol (and alchemical symbol of gold) was a disk with a ray 🜚.  
+Associated metal: **Gold**  
+Associated day: **Sunday**  
+Associated color: **Gold**
+Associated organ: **Heart**
 
 >"The Days and Hours of the Sun are very good for perfecting experiments regarding temporal wealth, hope, gain, fortune, divination, the favour of princes, to dissolve hostile feeling, and to make friends."  
 <small>- the Key of Solomon</small>
@@ -46,8 +52,14 @@ Representative of the ego, the self, the identity. Strong and powerful.
 
 ---
 
-### The Moon
-Mysterious and divinatory, intuition and emotions.
+### The Moon ☾
+Mysterious and divinatory, intuition and emotions.  
+The crescent as been used to represent the moon since the earliest time, first with it's horns pointing upwards, then pointing to the side.  
+Associated metal: **Silver**  
+Associated day: **Monday**  
+Associated color: **Purple**  
+Associated organ: **Brain**
+
 
 >"The Days and Hours of the Moon are good for embassies; voyages; envoys; messages; navigation; reconciliation; love, and the acquisition of merchandise by water."  
 <small>- the Key of Solomon</small>
@@ -87,8 +99,13 @@ Mysterious and divinatory, intuition and emotions.
 
 ---
 
-### Mars
+### Mars ♂
 Aggression and war
+The symbol of mars is an arrow emerging from a circle, it represents the spear and shield of the god Mars and was used as the symbol of iron in alchemy.  
+Associated metal: **Iron**  
+Associated day: **Tuesday**  
+Associated color: **Red**  
+Associated organ: **Gall blader**
 
 >"In the Days and Hours of Mars thou canst make experiments regarding War; to arrive at military honour; to acquire courage; to overthrow enemies; and further to cause ruin, slaughter, cruelty, discord; to wound and to give death."  
 <small>- the Key of Solomon</small>
@@ -116,8 +133,13 @@ Aggression and war
 
 ---
 
-### Mercury
-Communication, deceit, trickery
+### Mercury ☿
+Communication, deceit, trickery.  
+The symbol for mercury is a caduceus, a staff intertwined with two serpents carried by the god Mercury. The cross was later added to make it seem more christian.  
+Associated metal: **Mercury**  
+Associated day: **Wednesday**  
+Associated color: **Orange**  
+Associated organ: **Lungs**
 
 >"The Days and Hours of Mercury are good to operate for eloquence and intelligence; promptitude in business; science and divination; wonders; apparitions; and answers regarding the future. Thou canst also operate under this Planet for thefts; writings; deceit; and merchandise."  
 <small>- the Key of Solomon</small>
@@ -154,8 +176,13 @@ Communication, deceit, trickery
 
 ---
 
-### Jupiter
-Growth, expansion
+### Jupiter ♃
+Growth, expansion.
+The symbol for Jupiter is the greek letter Zeta with a stroke to indicate that it is used as an abbreviation for the god Zeus.  
+Associated metal: **Tin**  
+Associated day: **Thursday**  
+Associated color: **Blue**  
+Associated organ: **Liver**
 
 >"The Days and Hours of Jupiter are proper for obtaining honours, acquiring riches; contracting friendships, preserving health; and arriving at all that thou canst desire."  
 <small>- the Key of Solomon</small>
@@ -180,8 +207,13 @@ Growth, expansion
 
 ---
 
-### Venus
-Love, beauty and sex
+### Venus ♀
+Love, beauty and sex.  
+The symbol for Venus is a circle with a small cross below, representing the mirror of the goddess Venus, older versions did not have a cross at the bottom.  
+Associated metal: **Copper**  
+Associated day: **Friday**  
+Associated color: **Green**  
+Associated organ: **Kidneys**
 
 >"The Days and Hours of Venus are good for forming friendships; for kindness and love; for joyous and pleasant undertakings, and for traveling."  
 <small>- the Key of Solomon</small>
@@ -215,8 +247,13 @@ Love, beauty and sex
 
 ---
 
-### Saturn
-Discipline, limits and time
+### Saturn ♄
+Discipline, limits and time.  
+The symbol for Saturn is based on the lower case eta greek letter with the abbreviation stroke only surviving as the curve at the bottom. It also got it's cross like the other symbols, to appear more christian.  
+Associated metal: **Lead**  
+Associated day: **Saturday**  
+Associated color: **Black**  
+Associated organ: **Spleen**
 
 >"In the Days and Hours of Saturn, thou canst perform experiments…to cause good or ill success to business, possessions, goods, seeds, fruits and similar things, in order to acquire learning; to bring destruction and give death, and to sow hatred and discord."  
 <small>- the Key of Solomon</small>
@@ -238,7 +275,25 @@ Discipline, limits and time
 
 ---
 
+## Modern planets
+
+### Uranus ⛢
+The symbol for Uranus comes from the combination of the Iron and Gold alchemical symbols, creating the one for platinum. Another symbol was proposed, an orb with the letter H over it ♅.  
+Associated color: **Black**
+
+### Earth 🜨
+The symbol for Earth is a circle crossed by two lines representing the world divided by four rivers. A medieval European variant was the *globus cruciger* ♁ the globe surmounted by a cross.
+
+### Neptune ♆
+The symbol for Neptune is the trident of the god Neptune.
+
+### Pluto ♇
+The symbol of Pluto is a monogram of the letters P and L. An alternative symbol is a bident surmounted by an orb. The alchemical symbol of Pluto can be read as spirit over mind, transcending matter.
+
+## Asteroids and minor planets
+
 ## Links and references
 
 - Look up the Seven spears approach
+- [More information on planetary symbols](https://en.wikipedia.org/wiki/Planet_symbols)
 - [Introduction to planetary magic](https://www.youtube.com/watch?v=axsswFJp9j0)

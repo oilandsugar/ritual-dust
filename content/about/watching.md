@@ -38,12 +38,19 @@ This is my movie watchlist, I keep it yearly and keep the movies that really imp
 - [ ] **Candyman**, Bernard Rose - 1992
 - [ ] **Antlers**, Scott Cooper - 2021
 - [ ] **The Mezzotint**, Mark Gatiss - 2021
+- [ ] **The Cabinet of Doctor Caligari**, Robert Wiene - 1920
+- [ ] **Metropolis**, Fritz Lang - 1927
+- [ ] **Throne of Blood**, Akira Kurosawa - 1957
+- [ ] **Macbeth**, Orson Welles - 1948
 
 </div>
 
 #### 2022
 
 <div class="checklist">
+
+- [x] **Journey To The Center Of The Earth**, Henry Levin - 1959
+- [x] **L'Inferno**, Francesco Bertolini - 1911
 
 </div>
 
