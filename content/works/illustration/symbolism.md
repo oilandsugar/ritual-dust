@@ -73,6 +73,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - Elihu Vedder
 - Edvard Munch  
 - Lady Frieda Harris  
+- Félicien Rops
 - Ferdynand Ruszczyc  
 - Fernand Khnopff  
 - Franz Von Stuck

@@ -13,7 +13,8 @@ draft = true
 [Tools](#tools) •
 [Supplies](#supplies) •
 [Technique](#technique) •
-[Safety](#safety)
+[Safety](#safety) •
+[Links](#links-and-references) •
 
 </div>
 
@@ -115,9 +116,6 @@ Runs slower and has a shorter stroke length in order to make smoother gradients 
 <summary><h4>Color-packer</h4></summary>
 </details>
 
-- [Machine tuning tips](https://www.tattoomagic.info/basics/machine-tuning.html)
-- [Course on machine care](https://www.machinemachine.co/courses-page)
-
 ## Supplies
 
 <div class="table-of-contents">
@@ -177,3 +175,10 @@ Once the lines completed, if the tattoo has any shaded areas,
 - Dispose of the full sharps container when it’s 3/4 full
 - Install the sharps container on a proper wall mount as close as practical to the use area
 - Look into service that picks up biohazard waste
+
+## Links and References
+
+- [Machine tuning tips](https://www.tattoomagic.info/basics/machine-tuning.html)
+- [Course on machine care](https://www.machinemachine.co/courses-page)
+- [Toronto safety guidelines for tattooing](https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/bodysafe/about-bodysafe/tattooing-infection-prevention-and-control/)
+- [Safety details for cartridge needles](https://www.toronto.ca/wp-content/uploads/2017/09/90d1-tph-bodysafe-tattoo-needle-cartridge-system-11-1-2016.pdf)

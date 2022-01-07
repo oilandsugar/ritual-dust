@@ -34,6 +34,7 @@ Where I keep my references for folklore, ancestry and magic research
 - [Irish traditionnal music archive](https://www.itma.ie/)
 - [The English collections at the Pitt rivers musem](http://england.prm.ox.ac.uk/index.html)
 - [London Burial Grounds](https://www.gutenberg.org/files/56832/56832-h/56832-h.htm)
+- [Special collections of the St-Andrews University](https://special-collections.wp.st-andrews.ac.uk/)
 
 ### Ancestry
 

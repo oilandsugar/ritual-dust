@@ -34,6 +34,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Heydon works](https://heydonworks.com/)
 - [Tatjana J. van Vark](http://www.tatjavanvark.nl/index.html)
 - [Patrick Woodroffe](http://www.patrickwoodroffe-world.com/archive/)
+- [Codex 99](http://codex99.com/archive.html)
 
 ### Zines and publications
 
@@ -133,6 +134,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Folk Pile](https://folkpile.bigcartel.com/)
 - [Practical Typography](https://practicaltypography.com/)
 - [Maud Bausier](https://maudbausier.com/index.html)
+- [Edward Tufte, book design](https://www.edwardtufte.com/tufte/)
 
 ### Food and recipe blogs
 
