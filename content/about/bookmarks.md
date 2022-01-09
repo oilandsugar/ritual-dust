@@ -136,6 +136,9 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Maud Bausier](https://maudbausier.com/index.html)
 - [Edward Tufte, book design](https://www.edwardtufte.com/tufte/)
 
+### Internet and code
+- [Tufte css, css classes inspired by book design](https://edwardtufte.github.io/tufte-css/)
+
 ### Food and recipe blogs
 
 - [Grim Grains](https://grimgrains.com/)
