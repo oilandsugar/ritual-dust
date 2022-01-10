@@ -32,7 +32,6 @@ This is my movie watchlist, I keep it yearly and keep the movies that really imp
 - [ ] **An Inconvenient Truth**, Davis Guggenheim - 2006
 - [ ] **L'erreur boréale**, Richard Desjardins - 1999
 - [ ] **Andrei Rublev**, Andrei Tarkovsky - 1966
-- [ ] **Shadows of Forgotten Ancestors**, Sergei Parajanov - 1965
 - [ ] **Sightseers**, Ben Wheatley - 2012
 - [ ] **Candyman**, Nia DaCosta - 2021
 - [ ] **Candyman**, Bernard Rose - 1992
@@ -41,7 +40,9 @@ This is my movie watchlist, I keep it yearly and keep the movies that really imp
 - [ ] **The Cabinet of Doctor Caligari**, Robert Wiene - 1920
 - [ ] **Metropolis**, Fritz Lang - 1927
 - [ ] **Throne of Blood**, Akira Kurosawa - 1957
+- [ ] **The Tragedy of Macbeth**, Joel Coen - 2021
 - [ ] **Macbeth**, Orson Welles - 1948
+- [ ] **Shadows of Forgotten Ancestors**, Sergei Parajanov - 1965
 
 </div>
 
@@ -49,6 +50,8 @@ This is my movie watchlist, I keep it yearly and keep the movies that really imp
 
 <div class="checklist">
 
+- [x] **Marianne (Series)**, Samuel Bodin - 2019
+- [x] **An American Werewolf in London**, John Landis - 1981
 - [x] **Journey To The Center Of The Earth**, Henry Levin - 1959
 - [x] **L'Inferno**, Francesco Bertolini - 1911
 
@@ -62,7 +65,7 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 - [x] **[The Alchemists of Sound](https://www.ubu.com/film/alchemists.html)**, Roger Pomphrey - 2003
   - [x] **The Thing**, John Carpenter - 1982
-- [x] **What we do in the Shadows(TV show)**, Jemaine Clement - 2016-2021
+- [x] **What we do in the Shadows(Series)**, Jemaine Clement - 2016-2021
 - [x] **Titane**, Julia Ducournau - 2021
 - [x] **The Strings**, Ryan Glover - 2020
 - [x] **Lamb**, Valdimar Jóhannsson - 2021
