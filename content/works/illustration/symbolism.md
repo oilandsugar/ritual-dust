@@ -47,10 +47,13 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - [Glyn Smyth](https://www.stagandserpent.com/)
 - [HR Giger](https://www.hrgiger.com/)
 - [Jordi Diaz Alama](https://diazalama.com/)
+- Orryelle Defenestrate-Bascule
+- Peter Proksch
 - [Remedios Varo](https://en.wikipedia.org/wiki/Remedios_Varo)
 - [Rowan E. Cassidy](https://rowanecassidy.com/)
 - [Santiago Caruso](https://santiagocaruso.com.ar/)
 - [Steven Zapata](https://www.stevenzapata.com/)
+- Sveta Dorosheva
 - [Vergvoktre](https://vergvoktre.blogspot.com/)
 - [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
 - [Zdzisław Beksiński](https://www.shopbeksinski.com/)
@@ -108,5 +111,6 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 
 ## Links and reference
 
+- [Contemporary artists influenced by alchemy](https://www.alchemywebsite.com/contemp_artists.html)
 - [A lot of great pieces by Diefenbach](https://www.tuttartpitturasculturapoesiamusica.com/2014/05/Karl-Wilhelm-Diefenbach.html)
 - [Heavy music artwork](https://heavymusicartwork.com/)
