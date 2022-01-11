@@ -20,6 +20,7 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 <div class="checklist">
 
+- [ ] **Psychology and alchemy**, C.G. Jung
 - [ ] **Drive Your Plow over the Bones of the Dead**, Olga Tokarczuk
 - [ ] **Prelude to chemistry**, John Read
 - [ ] **The Design of Books**, Adrian Wilson

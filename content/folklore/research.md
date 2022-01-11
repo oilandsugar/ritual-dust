@@ -39,8 +39,10 @@ Where I keep my references for folklore, ancestry and magic research
 ### Ancestry
 
 
-### Magic
+### Magic and alchemy
 
+- [A very deep website on alchemichal symbolism](https://www.alchemywebsite.com/)
+- [Ambix, a publication on alchemy](https://www.ambix.org/publications/ambix/)
 - [The Order of bards, ovates and druids](https://druidry.org/)
 - [An old pagan network](https://www.paganlink.org/index.shtml)
 - [Independent publisher of occult books](https://fulgur.co.uk/)
