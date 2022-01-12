@@ -19,6 +19,7 @@ References, archives and research material on illustration and art
 ## Essays and interviews
 
 - [Interview – Denis Forkas Kostromitin – Exploring Death Through Occultism And Art](https://acourseindying.com/interview-denis-forkas-kostromitin-exploring-death-through-occultism-and-art/)
+- [The travelling theory of art](https://psyche.co/ideas/when-art-transports-us-where-do-we-actually-go)
 
 ## Archives
 

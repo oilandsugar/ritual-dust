@@ -90,6 +90,8 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 ### Articles and websites
 
+https://en.wikipedia.org/wiki/Book_of_Veles  
+https://slatestarcodex.com/2014/07/30/meditations-on-moloch  
 https://medium.com/@malkekvmachashayfele/not-relationship-anarchism-but-relationship-communism-a27b89884fa8  
 https://www.gamedeveloper.com/art/romanticism-and-the-art-of-dark-souls-iii  
 https://lareviewofbooks.org/article/metabolic-survivors-on-mckenzie-warks-sensoria-thinkers-for-the-twenty-first-century/  
