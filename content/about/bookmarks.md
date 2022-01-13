@@ -89,6 +89,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Santiago Caruso](https://santiagocaruso.com.ar/)
 - [Iris Compiet](https://iriscompiet.art/)
 - [Ikosidio](https://www.etsy.com/shop/ikosidio/)
+- [Toteninsel, a website dedicated to the isle of the dead painting](http://www.toteninsel.net/home.php)
 
 ### Tattoo artists
 

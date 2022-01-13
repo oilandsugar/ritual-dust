@@ -90,6 +90,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - John Duncan  
 - Karl Wilhelm Diefenbach  
 - Maximilian Pirner
+- Max Klinger
 - Mstislav Dobuzhinsky  
 - Mikalojus Konstantinas Ciurlionis  
 - Mikhail Vrubel
@@ -111,6 +112,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 
 ## Links and reference
 
+- [Toteninsel, a website dedicated to the isle of the dead painting](http://www.toteninsel.net/home.php)
 - [Contemporary artists influenced by alchemy](https://www.alchemywebsite.com/contemp_artists.html)
 - [A lot of great pieces by Diefenbach](https://www.tuttartpitturasculturapoesiamusica.com/2014/05/Karl-Wilhelm-Diefenbach.html)
 - [Heavy music artwork](https://heavymusicartwork.com/)
