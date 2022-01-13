@@ -67,8 +67,10 @@ White Dwarf
 
 Legend of Zelda
 
+
 ### Links and References
 
+- [The CRPG Book](https://crpgbook.wordpress.com/)
 - [List of science-fiction and fantasy artists](https://en.wikipedia.org/wiki/List_of_science_fiction_and_fantasy_artists)
 - [Ressource on vintage RPGs](https://www.vintagerpg.com/)  
 - [First edition fantasy and sci-fi book collection blog](http://firsteditionfantasy.blogspot.com/)  
