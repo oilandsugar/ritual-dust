@@ -42,10 +42,10 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 #### 2021
 
-- [ ] **Macbeth**, William Shakespeare
 - [ ] **Come as you are**, Emily Nagoski
 - [ ] **Monolithic undertow**, Harry Sword
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
+- [x] **Macbeth**, William Shakespeare
 - [x] **Your Psilocybin Mushroom Companion**, Michelle Janikian
 
 #### 2020
