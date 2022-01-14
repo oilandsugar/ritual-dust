@@ -36,6 +36,7 @@ I am part of the Montréal interactive community and I've done [talks](/about/ta
 - Curious Moth
 - Foulest Witch
 - Vacarme Hurlant
+- Hex Ritual
 
 </div>
 
@@ -65,16 +66,6 @@ I am part of the Montréal interactive community and I've done [talks](/about/ta
 ### Education
 
 - BFA at UQAM (Canada)
-
----
-
-This website is part [portfolio](/works/), part [digital garden](/folklore/) and part [recipe blog](/food/). It is where I collect and expand upon my thoughts and discoveries, and where I showcase what I create, craft and conjure.
-
-Read more on how it was made in the [Colophon](/about/colophon/).
-
-See the whole structure in the [Tree](/tree/).
-
-Explore projects over time in the [Timeline](/timeline/).
 
 ---
 

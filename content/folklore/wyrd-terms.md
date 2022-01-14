@@ -40,4 +40,6 @@ Here is my ever-growing collection of wyrd terms collected online, in books and 
 
 {{< entry term="SIGIL" definition="A sign, word, or device held to have occult power in astrology or magic." >}}
 
+{{< entry term="TENEBRISM" definition="A style of painting using very pronounced chiaroscuro, with darkness a dominating feature of the image." >}}
+
 {{</ columns >}}
