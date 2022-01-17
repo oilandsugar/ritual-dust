@@ -40,7 +40,6 @@ This is my movie watchlist, I keep it yearly and keep the movies that really imp
 - [ ] **The Cabinet of Doctor Caligari**, Robert Wiene - 1920
 - [ ] **Metropolis**, Fritz Lang - 1927
 - [ ] **Throne of Blood**, Akira Kurosawa - 1957
-- [ ] **The Tragedy of Macbeth**, Joel Coen - 2021
 - [ ] **Macbeth**, Orson Welles - 1948
 - [ ] **Shadows of Forgotten Ancestors**, Sergei Parajanov - 1965
 
@@ -50,6 +49,8 @@ This is my movie watchlist, I keep it yearly and keep the movies that really imp
 
 <div class="checklist">
 
+- [ ] **Yellowjackets (series)**, Ashley Lyle - 2021
+- [x] **The Tragedy of Macbeth**, Joel Coen - 2021
 - [x] **Marianne (Series)**, Samuel Bodin - 2019
 - [x] **An American Werewolf in London**, John Landis - 1981
 - [x] **Journey To The Center Of The Earth**, Henry Levin - 1959
