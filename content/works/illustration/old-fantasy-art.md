@@ -47,6 +47,7 @@ draft = true
 <div class="columns medium-padding-bottom no-margin-inside">
 
 - Frank Frazeta
+- Frank C. Papé
 - Brain Froud
 - Alan Lee
 - John Howe
