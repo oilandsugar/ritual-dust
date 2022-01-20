@@ -29,24 +29,34 @@ I am part of the Montréal interactive community and I've done [talks](/about/ta
 
 <div class="columns-2">
 
-- Nicole Marxen
+- [Nicole Marxen](https://www.nicolemarxen.com/)
 - Nithgengan
 - Ariel
 - Grim Howl
 - Curious Moth
-- Foulest Witch
 - Vacarme Hurlant
 - Hex Ritual
+- Foulest Witch
+- Library of the Occult
 
 </div>
 
+### Game designers I've worked with
+
+- [James Chip](https://jameschip.io/)
+- [The Travel Log](https://twitter.com/dndtravellog)
+
 ### Exhibitions
 
-- Part of a Tarot-themed group exhibit at ?? galerie
-- Entre Deux Feux
-- Part of group exhibit at the Cégep du Vieux-Montréal
-- Passage à Découvert 2011, Galerie de l'UQAM
-- Solo exhibit at the Bibliothèque T.-A.-St-Germain
+- 2017 - *Marrow Tarot*, Marrow PDX, Portland
+- 2011 - *Entre Deux Feux*, New City Gas, Montréal
+- 2011 - *Group exhibit*, Cégep du Vieux-Montréal, Montréal
+- 2011 - *Exhibit*, Mtl Tattoo, Montréal
+- 2011 - *Passage à Découvert*, Galerie de l'UQAM, Montréal
+- 2010 - *Bibliomanes*, Bibliothèque des arts de l'UQAM, Montréal
+- 2008 - *Époque Indéfinie* Librairie T.-A.-St-Germain, Saint-Hyacinthe
+- 2008 - *Prêt à emporter*, Galerie Circulaire, Montréal
+- 2008 - *Arnaque*, Centre Expression, Saint-Hyacinthe
 
 ### Publications and mentions
 
@@ -54,7 +64,7 @@ I am part of the Montréal interactive community and I've done [talks](/about/ta
 - [Hellebore - No.4](https://helleborezine.bigcartel.com/) (cover and page 2)
 - [Cvstomerservice zine - Volume V](https://cvstomerservice.bigcartel.com/category/zine) (page 24)
 - Black Panels Only zine ()
-- Steampunk magazine
+- Steampunk magazine ()
 - Passage à Découvert 2011 (page 68)
 
 ### Teaching

@@ -91,6 +91,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Ikosidio](https://www.etsy.com/shop/ikosidio/)
 - [Toteninsel, a website dedicated to the isle of the dead painting](http://www.toteninsel.net/home.php)
 - [Lost keep](https://www.lostkeep.com/)
+- [Maria Chronopoulos](http://mariachronopoulos.com/)
 
 ### Tattoo artists
 

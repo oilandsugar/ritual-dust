@@ -89,6 +89,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - Jean Delville
 - John Duncan  
 - Karl Wilhelm Diefenbach  
+- Maria Yakunchikova
 - Maximilian Pirner
 - Max Klinger
 - Mstislav Dobuzhinsky  
@@ -98,6 +99,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - R. H. Ives Gammell
 - Victor hugo  
 - Viktor Vasnetsov  
+
 
 </div>
 
