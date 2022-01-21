@@ -10,6 +10,8 @@ Here is my ever-growing collection of wyrd terms collected online, in books and 
 
 {{< columns class="dictionary" >}}
 
+{{< entry term="ARBORGLYPH" definition="The carving of shapes and symbols in the bark of living trees." >}}
+
 {{< entry term="TO DITHER" definition="To tremble of shiver with cold (provincialism from Yorkshire)." >}}
 
 {{< entry term="DOLMEN" definition="A structure consisting of one large unhewn stone resting on two or more unhewn stones placed erect in the earth: a term also frequently used as synonymous with cromlech." >}}

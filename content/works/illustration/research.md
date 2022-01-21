@@ -27,6 +27,7 @@ References, archives and research material on illustration and art
 
 ## References
 
+- [Paper sizes](https://papersizes.io/)
 - [Diverse body templates for tattoos](https://www.dwamdwamdwam.com/produits/fullpackage)
 - [Portraits of trees](https://publicdomainreview.org/collection/sylva-britannica)
 - [Human anatomy for artists](https://www.human-anatomy-for-artist.com/)

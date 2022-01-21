@@ -35,6 +35,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Tatjana J. van Vark](http://www.tatjavanvark.nl/index.html)
 - [Patrick Woodroffe](http://www.patrickwoodroffe-world.com/archive/)
 - [Codex 99](http://codex99.com/archive.html)
+- [The Tolkien Gateway](http://tolkiengateway.net/)
 
 ### Zines and publications
 
@@ -64,6 +65,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 
 #### Others
 
+- [Heavy music artwork](https://heavymusicartwork.com/publications/)
 - [Unit Editions](https://www.uniteditions.com/)
 - [Cadabra Records - beautiful audio books with scores](https://cadabrarecords.com/)
 - [Gost books](https://gostbooks.com/current-titles/)
@@ -140,6 +142,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Practical Typography](https://practicaltypography.com/)
 - [Maud Bausier](https://maudbausier.com/index.html)
 - [Edward Tufte, book design](https://www.edwardtufte.com/tufte/)
+- [List of fonts used for DnD books](http://www.hahnlibrary.net/rpgs/tsrfonts.html)
 
 ### Internet and code
 - [Tufte css, css classes inspired by book design](https://edwardtufte.github.io/tufte-css/)
