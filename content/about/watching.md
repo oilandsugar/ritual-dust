@@ -32,7 +32,6 @@ This is my movie watchlist, I keep it yearly and keep the movies that really imp
 - [ ] **An Inconvenient Truth**, Davis Guggenheim - 2006
 - [ ] **L'erreur boréale**, Richard Desjardins - 1999
 - [ ] **Andrei Rublev**, Andrei Tarkovsky - 1966
-- [ ] **Sightseers**, Ben Wheatley - 2012
 - [ ] **Candyman**, Nia DaCosta - 2021
 - [ ] **Candyman**, Bernard Rose - 1992
 - [ ] **Antlers**, Scott Cooper - 2021
@@ -49,7 +48,8 @@ This is my movie watchlist, I keep it yearly and keep the movies that really imp
 
 <div class="checklist">
 
-- [ ] **Yellowjackets (series)**, Ashley Lyle - 2021
+- [x] **Sightseers**, Ben Wheatley - 2012
+- [x] **Yellowjackets (series)**, Ashley Lyle - 2021
 - [x] **The Tragedy of Macbeth**, Joel Coen - 2021
 - [x] **Marianne (Series)**, Samuel Bodin - 2019
 - [x] **An American Werewolf in London**, John Landis - 1981
