@@ -4,7 +4,7 @@ tags = ["oats", "sweet", "main", "fall", "winter"]
 date = "2022-01-23"
 
 images = ["/img/recipes/apple-crisp-oats.jpg"]
-imageAlt = "Steel-cut oats with pumpkin, spices and chocolate in a metal bowl"
+imageAlt = "Apple crisp oats in a small bowl"
 
 prepTime = "5 min"
 cookTime = "13 min"
