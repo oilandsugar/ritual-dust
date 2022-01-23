@@ -97,6 +97,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - Mikhail Vrubel
 - Odilon Redon  
 - R. H. Ives Gammell
+- Sascha Schneider
 - Victor hugo  
 - Viktor Vasnetsov  
 
