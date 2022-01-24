@@ -78,7 +78,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Androidarts](http://androidarts.com/)
 - [Ubuweb](https://ubuweb.com/film/index.html)
 - [Teagan White](https://www.teaganwhite.com/)
-- [Adam Robert Martin](https://www.instagram.com/art.of.lore/)
+- [Adam Robert Martin (Art of Lore)](https://oflore.art/)
 - [ﻝᵤｌԁ𝖆 ቡﺄⱬ𝑊𝖆𝗋𝖆](https://manuscriptmedieval.bigcartel.com/)
 - [Karmazid](https://www.karmazid.com/)
 - [Moritz Brebs](https://instagram.com/blackcrabart)
