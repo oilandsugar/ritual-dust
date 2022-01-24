@@ -3,7 +3,7 @@ title = "Noir Lifestyle"
 tags = ["video"]
 date = "2020-09-20"
 
-image = "/img/movies/noir_lifestyle_video.png"
+image = "/img/video/noir-lifestyle.jpg"
 desc = "Occult-themed lifestyle video for my obscure accessory project."
 +++
 
@@ -11,7 +11,8 @@ desc = "Occult-themed lifestyle video for my obscure accessory project."
 
 A short film to put in moving images the lifestyle upon which Manière Noire was built.
 
-<div class="credits">
+<div class="credits medium-padding-top">
+<small>Credits</small>  
 
 **Producer:** Manière Noire  
 **Art director:** Geneviève Lamarche Reid  
