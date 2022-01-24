@@ -36,6 +36,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Patrick Woodroffe](http://www.patrickwoodroffe-world.com/archive/)
 - [Codex 99](http://codex99.com/archive.html)
 - [The Tolkien Gateway](http://tolkiengateway.net/)
+- [Vladh](https://vladh.net/)
 
 ### Zines and publications
 
@@ -146,6 +147,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 
 ### Internet and code
 - [Tufte css, css classes inspired by book design](https://edwardtufte.github.io/tufte-css/)
+- [Every layout](https://every-layout.dev/)
 
 ### Food and recipe blogs
 
