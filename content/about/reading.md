@@ -20,6 +20,8 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 <div class="checklist">
 
+- [ ] **If on a Winter's Night a Traveler**, Italo Calvino
+- [ ] **Powers of Darkness: The Lost Version of Dracula**, Bram Stoker, Vladimar Asmundsson
 - [ ] **Psychology and alchemy**, C.G. Jung
 - [ ] **Drive Your Plow over the Bones of the Dead**, Olga Tokarczuk
 - [ ] **Prelude to chemistry**, John Read
