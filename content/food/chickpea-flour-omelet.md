@@ -1,7 +1,7 @@
 +++
 title = "Chickpea flour omelet"
 tags = ["main", "spring", "summer", "fall", "winter"]
-date = "2022-01-23"
+date = "2022-01-24"
 
 images = ["/img/recipes/chickpea-omelet.jpg"]
 imageAlt = "A chickpea flour omelet in a plate"
