@@ -1,0 +1,7 @@
+<a href="{{.Get "link"}}">
+  <div class="recipe medium-padding-bottom {{ with .Get "class" }}{{ . }}{{ end }}">
+    <img src="{{ .Get "image"}}"/>
+    <h3>{{ .Get "name"}}</h3>
+    {{ .Get "note"}}
+  </div>
+</a>
