@@ -20,6 +20,7 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 <div class="checklist">
 
+- [ ] **Then and Now** C.S. Lewis
 - [ ] **If on a Winter's Night a Traveler**, Italo Calvino
 - [ ] **Powers of Darkness: The Lost Version of Dracula**, Bram Stoker, Vladimar Asmundsson
 - [ ] **Psychology and alchemy**, C.G. Jung
