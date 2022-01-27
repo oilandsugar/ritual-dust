@@ -45,9 +45,10 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 #### 2021
 
-- [ ] **Come as you are**, Emily Nagoski
 - [ ] **Monolithic undertow**, Harry Sword
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
+- [ ] **Come as you are**, Emily Nagoski
+- [x] **The Story of the Necronomicon**, H.P. Lovecraft
 - [x] **Macbeth**, William Shakespeare
 - [x] **Your Psilocybin Mushroom Companion**, Michelle Janikian
 
