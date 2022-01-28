@@ -96,6 +96,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Lost keep](https://www.lostkeep.com/)
 - [Maria Chronopoulos](http://mariachronopoulos.com/)
 - [Karl Wennergren](https://www.karlwennergren.com/)
+- [Larry MacDougal](https://larrymacdougallart.bigcartel.com/)
 
 ### Tattoo artists
 
