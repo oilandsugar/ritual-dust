@@ -48,6 +48,7 @@ This is my movie watchlist, I keep it yearly and keep the movies that really imp
 
 <div class="checklist">
 
+  - [x] **Wilczyca (the she-wolf)**, Marek Piestrak - 1983
 - [x] **Sightseers**, Ben Wheatley - 2012
 - [x] **Yellowjackets (series)**, Ashley Lyle - 2021
 - [x] **The Tragedy of Macbeth**, Joel Coen - 2021
