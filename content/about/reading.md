@@ -43,12 +43,15 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **The one straw revolution**, Masanobu Fukuoka
 - [ ] **Voyage au centre de la terre**, Jules Verne
 
+#### 2022
+
+- [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
+- [ ] **Monolithic undertow**, Harry Sword
+- [x] **Come as you are**, Emily Nagoski
+- [x] **The Story of the Necronomicon**, H.P. Lovecraft
+
 #### 2021
 
-- [ ] **Monolithic undertow**, Harry Sword
-- [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
-- [ ] **Come as you are**, Emily Nagoski
-- [x] **The Story of the Necronomicon**, H.P. Lovecraft
 - [x] **Macbeth**, William Shakespeare
 - [x] **Your Psilocybin Mushroom Companion**, Michelle Janikian
 
