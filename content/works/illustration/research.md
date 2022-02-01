@@ -24,6 +24,7 @@ References, archives and research material on illustration and art
 ## Archives
 
 - [The ISFDB is a community effort to catalog works of science fiction, fantasy, and horror](http://www.isfdb.org/cgi-bin/index.cgi)
+- [Artvee, archive of public domain classical artworks](https://artvee.com/)
 
 ## References
 
@@ -32,3 +33,6 @@ References, archives and research material on illustration and art
 - [Portraits of trees](https://publicdomainreview.org/collection/sylva-britannica)
 - [Human anatomy for artists](https://www.human-anatomy-for-artist.com/)
 - [A collection of old book illustrations](https://www.flickr.com/search/?user_id=internetarchivebookimages&tags=bookidhandbookoforname1900meye&view_all=1)
+
+> "Invention, it must be humbly admitted, does not consist in creating out of void but out of chaos."
+<small>- Mary Shelley</small>
