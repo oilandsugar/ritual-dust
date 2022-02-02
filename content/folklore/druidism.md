@@ -51,7 +51,7 @@ The Druid festival of the Ancestors – a time for honouring those who have died
 ### Yule (winter solstice)
 Held on the shortest day of the year, a celebration of light and warmth in a time of darkness. It is celebrated on **December 20th** in the Northern Hemisphere.
 
-### Imbolc/Oimelc
+### [Imbolc/Oimelc](/folklore/imbolc)
 The Druid festival of the Goddess, particularly Brighid, celebrated around **1st February** in the Northern Hemisphere, 1st August in the Southern. It symbolizes the promise of the return of spring.  
 
 ### Ostara (spring equinox)
