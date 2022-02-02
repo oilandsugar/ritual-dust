@@ -80,6 +80,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Spanakopita" link="https://avirtualvegan.com/vegan-spanakopita/" image="" >}}
 {{< recipe name="Wellington" link="https://thekoreanvegan.com/vegan-wellington" image="" >}}
 {{< recipe name="Mushroom quesadillas" link="https://myquietkitchen.com/vegan-quesadillas-easy-cashew-cheese/" image="" >}}
+{{< recipe name="Loaded baked potatoes" link="https://eatplant-based.com/loaded-vegan-potato-skin-bites/" image="" >}}
 
 
 {{% /columns %}}
