@@ -50,3 +50,4 @@ Where I keep my references for folklore, ancestry and magic research
 - [Hermetic library](https://hermetic.com/index)
 - [The Museum of Witchcraft and Magic](https://museumofwitchcraftandmagic.co.uk/)
 - [The internet sacred text archive](https://www.sacred-texts.com/index.htm)
+- [Putressence, hermal alchemy for death rituals](https://putressence.com/)
