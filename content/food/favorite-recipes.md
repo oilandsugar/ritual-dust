@@ -47,7 +47,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Butternut squash pasta" link="https://cookieandkate.com/creamy-vegan-butternut-squash-linguine-with-fried-sage/" image="/img/recipes/favorites/butternut-pasta.jpg" >}}
 {{< recipe name="Gochujang mushroom pasta" link="https://thekoreanvegan.com/mushroom-gochujang-pasta/" image="/img/recipes/favorites/gochujang-pasta.jpg" >}}
 {{< recipe name="Alfredo truffle pasta" link="https://www.theppk.com/2021/03/truffled-almond-alfredo-with-really-garlicky-broccoli/" image="/img/recipes/favorites/alfredo-truffle-pasta.jpg" >}}
-{{< recipe name="Gnocchi" link="https://thekoreanvegan.com/gnocchi" image="" >}}
+{{< recipe name="Tuscan gnocchi" link="https://www.noracooks.com/vegan-gnocchi/" image="" >}}
 {{< recipe name="Tuna casserole" link="https://theyummyvegan.com/blog/fishfreetunacasserole" image="" >}}
 
 {{% /columns %}}
@@ -92,6 +92,8 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Tempeh Reuben Sandwich" link="https://www.halfbakedharvest.com/healthier-tempeh-reuben/" image="/img/recipes/favorites/reuben.jpg" >}}
 {{< recipe name="Banh mi" link="https://www.loveandlemons.com/banh-mi/" image="" >}}
 {{< recipe name="Jerk wrap" link="https://daytimevegan.com/jerk-spiced-eggplant-wrap/" image="" >}}
+{{< recipe name="''Chicken'' ceasar wrap" link="https://www.deliciou.com/blogs/recipes/chicken-caesar-wrap
+" image="" >}}
 
 {{% /columns %}}
 
