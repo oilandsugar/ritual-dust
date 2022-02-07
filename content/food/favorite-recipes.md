@@ -48,6 +48,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Gochujang mushroom pasta" link="https://thekoreanvegan.com/mushroom-gochujang-pasta/" image="/img/recipes/favorites/gochujang-pasta.jpg" >}}
 {{< recipe name="Alfredo truffle pasta" link="https://www.theppk.com/2021/03/truffled-almond-alfredo-with-really-garlicky-broccoli/" image="/img/recipes/favorites/alfredo-truffle-pasta.jpg" >}}
 {{< recipe name="Gnocchi" link="https://thekoreanvegan.com/gnocchi" image="" >}}
+{{< recipe name="Tuna casserole" link="https://theyummyvegan.com/blog/fishfreetunacasserole" image="" >}}
 
 {{% /columns %}}
 
