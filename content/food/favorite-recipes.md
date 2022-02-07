@@ -17,6 +17,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 [Comfort food](#comfort-food) •
 [Sandwiches](#sandwiches) •
 [Desserts](#desserts)
+[Bread](#bread)
 
 
 </div>
@@ -26,6 +27,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 
 {{< recipe name="Vegan buttermilk pancakes" link="https://itslivb.com/2019/01/23/fluffy-vegan-buttermilk-pancakes/" image="/img/recipes/favorites/pancakes.jpg" >}}
 {{< recipe name="Date bread" link="https://food52.com/recipes/27865-vegan-date-nut-bread" image="/img/recipes/favorites/date-bread.jpg" >}}
+{{< recipe name="Latkes" link="https://www.thekitchn.com/how-to-make-latkes-at-home-251997" image="" >}}
 
 {{% /columns %}}
 
@@ -49,6 +51,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Alfredo truffle pasta" link="https://www.theppk.com/2021/03/truffled-almond-alfredo-with-really-garlicky-broccoli/" image="/img/recipes/favorites/alfredo-truffle-pasta.jpg" >}}
 {{< recipe name="Tuscan gnocchi" link="https://www.noracooks.com/vegan-gnocchi/" image="" >}}
 {{< recipe name="Tuna casserole" link="https://theyummyvegan.com/blog/fishfreetunacasserole" image="" >}}
+{{< recipe name="Peanut tofu noodle bowls" link="https://www.budgetbytes.com/peanut-tofu-noodle-bowls/" image="" >}}
 
 {{% /columns %}}
 
@@ -58,6 +61,8 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Southern fried cabbage" link="https://healthiersteps.com/recipe/vegan-southern-fried-cabbage/" image="" >}}
 {{< recipe name="Zuppa toscana" link="https://www.budgetbytes.com/zuppa-toscana/" image="" >}}
 {{< recipe name="Japanese curry" link="https://www.connoisseurusveg.com/vegan-japanese-curry/" image="" >}}
+{{< recipe name="Spicy vegetable stew" link="https://themodernproper.com/spiced-vegetable-stew" image="" >}}
+{{< recipe name="Spanish rice with chickpeas" link="https://www.budgetbytes.com/rice-cooker-spanish-chickpeas-and-rice/" image="" >}}
 
 {{% /columns %}}
 
@@ -68,6 +73,13 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Creamy mushroom ramen" link="https://www.budgetbytes.com/vegan-creamy-mushroom-ramen/" image="" >}}
 {{< recipe name="Potato and leek soup" link="https://veganhuggs.com/creamy-vegan-potato-leek-soup/" image="" >}}
 {{< recipe name="Broccoli and cheese soup" link="https://ohsheglows.com/2017/01/20/vegan-broccoli-and-cheese-soup/" image="" >}}
+
+{{% /columns %}}
+
+## Salads
+{{% columns count="4" %}}
+
+{{< recipe name="Roasted carrots and chickpea salad" link="https://www.thekitchn.com/chickpea-salad-roasted-carrots-recipe-256169" image="" >}}
 
 {{% /columns %}}
 
@@ -82,6 +94,8 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Wellington" link="https://thekoreanvegan.com/vegan-wellington" image="" >}}
 {{< recipe name="Mushroom quesadillas" link="https://myquietkitchen.com/vegan-quesadillas-easy-cashew-cheese/" image="" >}}
 {{< recipe name="Loaded baked potatoes" link="https://eatplant-based.com/loaded-vegan-potato-skin-bites/" image="" >}}
+{{< recipe name="Cauliflower and butternut squash gratin" link="https://www.onegreenplanet.org/vegan-recipe/spicy-cauliflower-and-butternut-squash-gratin/" image="" >}}
+{{< recipe name="Mushroom lentil loaf" link="http://pumpkinandpeanutbutter.com/2015/03/19/mushroom-lentil-loaf/" image="" >}}
 
 
 {{% /columns %}}
@@ -109,6 +123,43 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Peanut butter cookies" link="https://simple-veganista.com/vegan-peanut-butter-cookies/" image="" >}}
 {{< recipe name="Tofu chocolate mousse" link="https://aseasyasapplepie.com/silken-tofu-chocolate-mousse/" image="" >}}
 {{< recipe name="Pumpkin cake" link="https://lovingitvegan.com/vegan-pumpkin-cake/" image="" >}}
+{{< recipe name="Butternut squash pudding" link="https://www.loveandlemons.com/creamy-vegan-butternut-squash-pudding/" image="" >}}
+{{< recipe name="Cinnamon rolls" link="https://minimalistbaker.com/the-worlds-easiest-cinnamon-rolls/" image="" >}}
+{{< recipe name="Welsh cakes" link="https://oakden.co.uk/vegan-welsh-cakes/" image="" >}}
 
+{{% /columns %}}
+
+## Vegan cheese
+{{% columns count="4" %}}
+
+{{< recipe name="Cashew camembert" link="http://gourmetvegetariankitchen.com/2020/01/02/vegan-cheese-cashew-camembert/" image="" >}}
+{{< recipe name="Vegan camembert" link="https://lovingitvegan.com/vegan-camembert/" image="" >}}
+
+- [cheese making supplies](https://www.ateliersfromagers.com/)
+
+{{% /columns %}}
+
+## Sauces
+{{% columns count="4" %}}
+
+{{< recipe name="Marinara sauce" link="https://cookieandkate.com/simple-marinara-sauce-recipe/" image="" >}}
+{{< recipe name="Mushroom ketchup" link="https://www.greatbritishchefs.com/recipes/mushroom-ketchup-recipe" image="" >}}
+{{< recipe name="Peanut sauce" link="https://www.budgetbytes.com/peanut-tofu-noodle-bowls/" image="" >}}
+
+{{% /columns %}}
+
+## Dips and butters
+{{% columns count="4" %}}
+
+{{< recipe name="Vegan nutella" link="https://lovingitvegan.com/easy-3-ingredient-vegan-nutella/" image="" >}}
+
+{{% /columns %}}
+
+## Bread
+{{% columns count="4" %}}
+
+{{< recipe name="Sourdough starter" link="http://www.thekitchn.com/how-to-make-your-own-sourdough-starter-cooking-lessons-from-the-kitchn-47337" image="" >}}
+{{< recipe name="Breakfast sausage bread" link="https://www.tasteofhome.com/recipes/breakfast-sausage-bread/" image="" >}}
+{{< recipe name="Borodinski bread" link="https://www.rbth.com/russian-kitchen/329854-cook-legendary-borodinsky-bread" image="" >}}
 
 {{% /columns %}}
