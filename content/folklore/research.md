@@ -36,6 +36,7 @@ Where I keep my references for folklore, ancestry and magic research
 - [London Burial Grounds](https://www.gutenberg.org/files/56832/56832-h/56832-h.htm)
 - [Special collections of the St-Andrews University](https://special-collections.wp.st-andrews.ac.uk/)
 - [Plant lore, legends and lyrics](https://www.gutenberg.org/files/44638/44638-h/44638-h.htm)
+- [Collection of standing stone photos](https://maenhir.neocities.org/)
 
 ### Ancestry
 
