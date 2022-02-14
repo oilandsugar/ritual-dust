@@ -47,6 +47,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - [Glyn Smyth](https://www.stagandserpent.com/)
 - [HR Giger](https://www.hrgiger.com/)
 - [Jordi Diaz Alama](https://diazalama.com/)
+- [Mahlon Blaine](http://www.mahlonblaine.com/)
 - Orryelle Defenestrate-Bascule
 - Peter Proksch
 - [Remedios Varo](https://en.wikipedia.org/wiki/Remedios_Varo)

@@ -20,6 +20,7 @@ This is the list of games I played or want to play, I keep it yearly and highlig
 - [ ] **Witchaven**
 - [ ] **Darkest Dungeon**
 - [ ] **Blasphemous**
+- [ ] **[Gray Dawn](http://gray-dawn.com/)**
 
 </div>
 
@@ -46,7 +47,7 @@ This is the list of games I played or want to play, I keep it yearly and highlig
 
 <div class="checklist">
 
-- [x] **Darkwood**
+- [x] **[Darkwood](http://www.darkwoodgame.com/)**
 - [x] **Gris**
 
 </div>
