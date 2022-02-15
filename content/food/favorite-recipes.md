@@ -88,15 +88,14 @@ desc = "My collection of favourite plant-based recipes from the internet"
 
 {{< recipe name="Lasagna" link="https://www.noracooks.com/best-vegan-lasagna/" image="/img/recipes/favorites/lasagna.jpg" >}}
 {{< recipe name="Curry mac and cheese" link="https://thevietvegan.com/red-curry-mac-cheese/" image="/img/recipes/favorites/mac-and-cheese.jpg" >}}
-{{< recipe name="Tofu ribs" link="https://www.theppk.com/2016/11/tofu-short-ribs-with-gingery-mashed-root-veggies/" image="/img/recipes/tofu-ribs" >}}
+{{< recipe name="Tofu ribs" link="https://www.theppk.com/2016/11/tofu-short-ribs-with-gingery-mashed-root-veggies/" image="/img/recipes/favorites/tofu-ribs.jpg" >}}
 {{< recipe name="Cauliflower buffalo wings" link="http://www.foodnetwork.ca/recipe/cauliflower-buffalo-wings-and-vegan-ranch-dip/15226/" image="/img/recipes/favorites/cauliflower-wings.jpg" >}}
 {{< recipe name="Spanakopita" link="https://avirtualvegan.com/vegan-spanakopita/" image="/img/recipes/favorites/spanakopita.jpg" >}}
 {{< recipe name="Wellington" link="https://thekoreanvegan.com/vegan-wellington" image="/img/recipes/favorites/wellington.jpg" >}}
 {{< recipe name="Mushroom quesadillas" link="https://myquietkitchen.com/vegan-quesadillas-easy-cashew-cheese/" image="/img/recipes/favorites/quesadillas.jpg" >}}
 {{< recipe name="Loaded baked potatoes" link="https://eatplant-based.com/loaded-vegan-potato-skin-bites/" image="/img/recipes/favorites/loaded-potatoes.jpg" >}}
-{{< recipe name="Cauliflower and butternut squash gratin" link="https://www.onegreenplanet.org/vegan-recipe/spicy-cauliflower-and-butternut-squash-gratin/" image="/img/recipes/squash-gratin.jpg" >}}
+{{< recipe name="Cauliflower and butternut squash gratin" link="https://www.onegreenplanet.org/vegan-recipe/spicy-cauliflower-and-butternut-squash-gratin/" image="/img/recipes/favorites/squash-gratin.jpg" >}}
 {{< recipe name="Mushroom lentil loaf" link="http://pumpkinandpeanutbutter.com/2015/03/19/mushroom-lentil-loaf/" image="/img/recipes/favorites/lentil-loaf.jpg" >}}
-
 
 {{% /columns %}}
 
