@@ -27,7 +27,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 
 {{< recipe name="Vegan buttermilk pancakes" link="https://itslivb.com/2019/01/23/fluffy-vegan-buttermilk-pancakes/" image="/img/recipes/favorites/pancakes.jpg" >}}
 {{< recipe name="Date bread" link="https://food52.com/recipes/27865-vegan-date-nut-bread" image="/img/recipes/favorites/date-bread.jpg" >}}
-{{< recipe name="Latkes" link="https://www.thekitchn.com/how-to-make-latkes-at-home-251997" image="" >}}
+{{< recipe name="Latkes" link="https://www.thekitchn.com/how-to-make-latkes-at-home-251997" image="/img/recipes/favorites/latkes.jpg" >}}
 
 {{% /columns %}}
 
@@ -49,53 +49,53 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Butternut squash pasta" link="https://cookieandkate.com/creamy-vegan-butternut-squash-linguine-with-fried-sage/" image="/img/recipes/favorites/butternut-pasta.jpg" >}}
 {{< recipe name="Gochujang mushroom pasta" link="https://thekoreanvegan.com/mushroom-gochujang-pasta/" image="/img/recipes/favorites/gochujang-pasta.jpg" >}}
 {{< recipe name="Alfredo truffle pasta" link="https://www.theppk.com/2021/03/truffled-almond-alfredo-with-really-garlicky-broccoli/" image="/img/recipes/favorites/alfredo-truffle-pasta.jpg" >}}
-{{< recipe name="Tuscan gnocchi" link="https://www.noracooks.com/vegan-gnocchi/" image="" >}}
-{{< recipe name="Tuna casserole" link="https://theyummyvegan.com/blog/fishfreetunacasserole" image="" >}}
-{{< recipe name="Peanut tofu noodle bowls" link="https://www.budgetbytes.com/peanut-tofu-noodle-bowls/" image="" >}}
+{{< recipe name="Tuscan gnocchi" link="https://www.noracooks.com/vegan-gnocchi/" image="/img/recipes/favorites/gnocchi.jpg" >}}
+{{< recipe name="Tuna casserole" link="https://theyummyvegan.com/blog/fishfreetunacasserole" image="/img/recipes/favorites/tuna-casserole.jpg" >}}
+{{< recipe name="Peanut tofu noodle bowls" link="https://www.budgetbytes.com/peanut-tofu-noodle-bowls/" image="/img/recipes/favorites/peanut-tofu-bowl.jpg" >}}
 
 {{% /columns %}}
 
 ## Stews
 {{% columns count="4" %}}
 
-{{< recipe name="Southern fried cabbage" link="https://healthiersteps.com/recipe/vegan-southern-fried-cabbage/" image="" >}}
-{{< recipe name="Zuppa toscana" link="https://www.budgetbytes.com/zuppa-toscana/" image="" >}}
-{{< recipe name="Japanese curry" link="https://www.connoisseurusveg.com/vegan-japanese-curry/" image="" >}}
-{{< recipe name="Spicy vegetable stew" link="https://themodernproper.com/spiced-vegetable-stew" image="" >}}
-{{< recipe name="Spanish rice with chickpeas" link="https://www.budgetbytes.com/rice-cooker-spanish-chickpeas-and-rice/" image="" >}}
+{{< recipe name="Southern fried cabbage" link="https://healthiersteps.com/recipe/vegan-southern-fried-cabbage/" image="/img/recipes/favorites/braised-cabbage.jpg" >}}
+{{< recipe name="Japanese curry" link="https://www.connoisseurusveg.com/vegan-japanese-curry/" image="/img/recipes/favorites/japanese-curry.jpg" >}}
+{{< recipe name="Spicy vegetable stew" link="https://themodernproper.com/spiced-vegetable-stew" image="/img/recipes/favorites/veggie-stew.jpg" >}}
+{{< recipe name="Spanish rice with chickpeas" link="https://www.budgetbytes.com/rice-cooker-spanish-chickpeas-and-rice/" image="/img/recipes/favorites/spanish-rice.jpg" >}}
 
 {{% /columns %}}
 
 ## Soups
 {{% columns count="4" %}}
 
+{{< recipe name="Zuppa toscana" link="https://www.budgetbytes.com/zuppa-toscana/" image="/img/recipes/favorites/zuppa-toscana.jpg" >}}
 {{< recipe name="Coconut Curry soup" link="https://www.veggiesdontbite.com/20-minute-vegan-coconut-curry-soup/#recipe" image="/img/recipes/favorites/curry-soup.jpg" >}}
-{{< recipe name="Creamy mushroom ramen" link="https://www.budgetbytes.com/vegan-creamy-mushroom-ramen/" image="" >}}
-{{< recipe name="Potato and leek soup" link="https://veganhuggs.com/creamy-vegan-potato-leek-soup/" image="" >}}
-{{< recipe name="Broccoli and cheese soup" link="https://ohsheglows.com/2017/01/20/vegan-broccoli-and-cheese-soup/" image="" >}}
+{{< recipe name="Creamy mushroom ramen" link="https://www.budgetbytes.com/vegan-creamy-mushroom-ramen/" image="/img/recipes/favorites/mushroom-ramen.jpg" >}}
+{{< recipe name="Potato and leek soup" link="https://veganhuggs.com/creamy-vegan-potato-leek-soup/" image="/img/recipes/favorites/potato-leek-soup.jpg" >}}
+{{< recipe name="Broccoli and cheese soup" link="https://ohsheglows.com/2017/01/20/vegan-broccoli-and-cheese-soup/" image="/img/recipes/favorites/brocoli-cheese-soup.jpg" >}}
 
 {{% /columns %}}
 
 ## Salads
 {{% columns count="4" %}}
 
-{{< recipe name="Roasted carrots and chickpea salad" link="https://www.thekitchn.com/chickpea-salad-roasted-carrots-recipe-256169" image="" >}}
+{{< recipe name="Roasted carrots and chickpea salad" link="https://www.thekitchn.com/chickpea-salad-roasted-carrots-recipe-256169" image="/img/recipes/favorites/carrot-salad.jpg" >}}
 
 {{% /columns %}}
 
 ## Comfort food
 {{% columns count="4" %}}
 
-{{< recipe name="Lasagna" link="https://www.noracooks.com/best-vegan-lasagna/" image="" >}}
-{{< recipe name="Curry mac and cheese" link="https://thevietvegan.com/red-curry-mac-cheese/" image="" >}}
-{{< recipe name="Tofu ribs" link="https://www.theppk.com/2016/11/tofu-short-ribs-with-gingery-mashed-root-veggies/" image="" >}}
-{{< recipe name="Cauliflower buffalo wings" link="http://www.foodnetwork.ca/recipe/cauliflower-buffalo-wings-and-vegan-ranch-dip/15226/" image="" >}}
-{{< recipe name="Spanakopita" link="https://avirtualvegan.com/vegan-spanakopita/" image="" >}}
-{{< recipe name="Wellington" link="https://thekoreanvegan.com/vegan-wellington" image="" >}}
-{{< recipe name="Mushroom quesadillas" link="https://myquietkitchen.com/vegan-quesadillas-easy-cashew-cheese/" image="" >}}
-{{< recipe name="Loaded baked potatoes" link="https://eatplant-based.com/loaded-vegan-potato-skin-bites/" image="" >}}
-{{< recipe name="Cauliflower and butternut squash gratin" link="https://www.onegreenplanet.org/vegan-recipe/spicy-cauliflower-and-butternut-squash-gratin/" image="" >}}
-{{< recipe name="Mushroom lentil loaf" link="http://pumpkinandpeanutbutter.com/2015/03/19/mushroom-lentil-loaf/" image="" >}}
+{{< recipe name="Lasagna" link="https://www.noracooks.com/best-vegan-lasagna/" image="/img/recipes/favorites/lasagna.jpg" >}}
+{{< recipe name="Curry mac and cheese" link="https://thevietvegan.com/red-curry-mac-cheese/" image="/img/recipes/favorites/mac-and-cheese.jpg" >}}
+{{< recipe name="Tofu ribs" link="https://www.theppk.com/2016/11/tofu-short-ribs-with-gingery-mashed-root-veggies/" image="/img/recipes/tofu-ribs" >}}
+{{< recipe name="Cauliflower buffalo wings" link="http://www.foodnetwork.ca/recipe/cauliflower-buffalo-wings-and-vegan-ranch-dip/15226/" image="/img/recipes/favorites/cauliflower-wings.jpg" >}}
+{{< recipe name="Spanakopita" link="https://avirtualvegan.com/vegan-spanakopita/" image="/img/recipes/favorites/spanakopita.jpg" >}}
+{{< recipe name="Wellington" link="https://thekoreanvegan.com/vegan-wellington" image="/img/recipes/favorites/wellington.jpg" >}}
+{{< recipe name="Mushroom quesadillas" link="https://myquietkitchen.com/vegan-quesadillas-easy-cashew-cheese/" image="/img/recipes/favorites/quesadillas.jpg" >}}
+{{< recipe name="Loaded baked potatoes" link="https://eatplant-based.com/loaded-vegan-potato-skin-bites/" image="/img/recipes/favorites/loaded-potatoes.jpg" >}}
+{{< recipe name="Cauliflower and butternut squash gratin" link="https://www.onegreenplanet.org/vegan-recipe/spicy-cauliflower-and-butternut-squash-gratin/" image="/img/recipes/squash-gratin.jpg" >}}
+{{< recipe name="Mushroom lentil loaf" link="http://pumpkinandpeanutbutter.com/2015/03/19/mushroom-lentil-loaf/" image="/img/recipes/favorites/lentil-loaf.jpg" >}}
 
 
 {{% /columns %}}
@@ -104,10 +104,9 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{% columns count="4" %}}
 
 {{< recipe name="Tempeh Reuben Sandwich" link="https://www.halfbakedharvest.com/healthier-tempeh-reuben/" image="/img/recipes/favorites/reuben.jpg" >}}
-{{< recipe name="Banh mi" link="https://www.loveandlemons.com/banh-mi/" image="" >}}
-{{< recipe name="Jerk wrap" link="https://daytimevegan.com/jerk-spiced-eggplant-wrap/" image="" >}}
-{{< recipe name="''Chicken'' ceasar wrap" link="https://www.deliciou.com/blogs/recipes/chicken-caesar-wrap
-" image="" >}}
+{{< recipe name="Banh mi" link="https://www.loveandlemons.com/banh-mi/" image="/img/recipes/favorites/banh-mi.jpg" >}}
+{{< recipe name="Jerk wrap" link="https://daytimevegan.com/jerk-spiced-eggplant-wrap/" image="/img/recipes/favorites/jerk-wrap.jpg" >}}
+{{< recipe name="Chicken ceasar wrap" link="https://www.deliciou.com/blogs/recipes/chicken-caesar-wrap" image="/img/recipes/favorites/chicken-wrap.jpg" >}}
 
 {{% /columns %}}
 

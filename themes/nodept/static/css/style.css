@@ -905,6 +905,15 @@ tr:hover td {
   line-height: 0;
 }
 
+.recipe-insert {
+  display:inline-block;
+  border-bottom:0;
+}
+
+.recipe-insert:hover {
+  border-bottom:0;
+}
+
 /* -------- CRAFTS ---------*/
 
 .craft-card .desc {
