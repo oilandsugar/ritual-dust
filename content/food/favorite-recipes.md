@@ -2,7 +2,7 @@
 title = "My favourite recipes"
 tags = ["notes"]
 date = "2022-01-24"
-draft = true
+draft = false
 images = []
 desc = "My collection of favourite plant-based recipes from the internet"
 +++
@@ -96,6 +96,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Loaded baked potatoes" link="https://eatplant-based.com/loaded-vegan-potato-skin-bites/" image="/img/recipes/favorites/loaded-potatoes.jpg" >}}
 {{< recipe name="Cauliflower and butternut squash gratin" link="https://www.onegreenplanet.org/vegan-recipe/spicy-cauliflower-and-butternut-squash-gratin/" image="/img/recipes/favorites/squash-gratin.jpg" >}}
 {{< recipe name="Mushroom lentil loaf" link="http://pumpkinandpeanutbutter.com/2015/03/19/mushroom-lentil-loaf/" image="/img/recipes/favorites/lentil-loaf.jpg" >}}
+{{< recipe name="Corn Pone" link="https://grimgrains.com/site/corn_pone.html" image="/img/recipes/favorites/corn-pone.jpg" >}}
 
 {{% /columns %}}
 
@@ -112,26 +113,26 @@ desc = "My collection of favourite plant-based recipes from the internet"
 ## Desserts
 {{% columns count="4" %}}
 
-{{< recipe name="Depression cake" link="https://www.budgetbytes.com/chocolate-depression-cake/" image="" >}}
-{{< recipe name="Cinnamon rolls" link="https://nutriciously.com/vegan-cinnamon-rolls/" image="" >}}
-{{< recipe name="Brownies" link="https://www.noracooks.com/vegan-brownies-recipe/" image="" >}}
-{{< recipe name="Banana bread" link="https://www.ambitiouskitchen.com/vegan-banana-bread/" image="" >}}
-{{< recipe name="Fruit cake" link="https://www.mouthwateringvegan.com/2014/12/13/best-ever-vegan-christmas-fruit-cake/" image="" >}}
-{{< recipe name="Oatmeal raisin cookies" link="https://lovingitvegan.com/vegan-oatmeal-raisin-cookies/" image="" >}}
-{{< recipe name="Peanut butter cookies" link="https://simple-veganista.com/vegan-peanut-butter-cookies/" image="" >}}
-{{< recipe name="Tofu chocolate mousse" link="https://aseasyasapplepie.com/silken-tofu-chocolate-mousse/" image="" >}}
-{{< recipe name="Pumpkin cake" link="https://lovingitvegan.com/vegan-pumpkin-cake/" image="" >}}
-{{< recipe name="Butternut squash pudding" link="https://www.loveandlemons.com/creamy-vegan-butternut-squash-pudding/" image="" >}}
-{{< recipe name="Cinnamon rolls" link="https://minimalistbaker.com/the-worlds-easiest-cinnamon-rolls/" image="" >}}
-{{< recipe name="Welsh cakes" link="https://oakden.co.uk/vegan-welsh-cakes/" image="" >}}
+{{< recipe name="Depression cake" link="https://www.budgetbytes.com/chocolate-depression-cake/" image="/img/recipes/favorites/depression-cake.jpg" >}}
+{{< recipe name="Cinnamon rolls" link="https://nutriciously.com/vegan-cinnamon-rolls/" image="/img/recipes/favorites/cinnamon-roll.jpg" >}}
+{{< recipe name="Brownies" link="https://www.noracooks.com/vegan-brownies-recipe/" image="/img/recipes/favorites/brownie.jpg" >}}
+{{< recipe name="Banana bread" link="https://www.ambitiouskitchen.com/vegan-banana-bread/" image="/img/recipes/favorites/banana-bread.jpg" >}}
+{{< recipe name="Fruit cake" link="https://www.mouthwateringvegan.com/2014/12/13/best-ever-vegan-christmas-fruit-cake/" image="/img/recipes/favorites/fruit-cake.jpg" >}}
+{{< recipe name="Oatmeal raisin cookies" link="https://lovingitvegan.com/vegan-oatmeal-raisin-cookies/" image="/img/recipes/favorites/oatmeal-cookies.jpg" >}}
+{{< recipe name="Peanut butter cookies" link="https://simple-veganista.com/vegan-peanut-butter-cookies/" image="/img/recipes/favorites/peanut-butter-cookies.jpg" >}}
+{{< recipe name="Tofu chocolate mousse" link="https://aseasyasapplepie.com/silken-tofu-chocolate-mousse/" image="/img/recipes/favorites/choco-mousse.jpg" >}}
+{{< recipe name="Pumpkin cake" link="https://lovingitvegan.com/vegan-pumpkin-cake/" image="/img/recipes/favorites/pumpkin-cake.jpg" >}}
+{{< recipe name="Butternut squash pudding" link="https://www.loveandlemons.com/creamy-vegan-butternut-squash-pudding/" image="/img/recipes/favorites/squash-pudding.jpg" >}}
+{{< recipe name="Cinnamon rolls" link="https://minimalistbaker.com/the-worlds-easiest-cinnamon-rolls/" image="/img/recipes/favorites/cinnamon-roll-2.jpg" >}}
+{{< recipe name="Welsh cakes" link="https://oakden.co.uk/vegan-welsh-cakes/" image="/img/recipes/favorites/welsh-cake.jpg" >}}
 
 {{% /columns %}}
 
 ## Vegan cheese
 {{% columns count="4" %}}
 
-{{< recipe name="Cashew camembert" link="http://gourmetvegetariankitchen.com/2020/01/02/vegan-cheese-cashew-camembert/" image="" >}}
-{{< recipe name="Vegan camembert" link="https://lovingitvegan.com/vegan-camembert/" image="" >}}
+{{< recipe name="Cashew camembert" link="http://gourmetvegetariankitchen.com/2020/01/02/vegan-cheese-cashew-camembert/" image="/img/recipes/favorites/cashew-camenbert.jpg" >}}
+{{< recipe name="Vegan camembert" link="https://lovingitvegan.com/vegan-camembert/" image="/img/recipes/favorites/camenbert.jpg" >}}
 
 - [cheese making supplies](https://www.ateliersfromagers.com/)
 
@@ -140,24 +141,24 @@ desc = "My collection of favourite plant-based recipes from the internet"
 ## Sauces
 {{% columns count="4" %}}
 
-{{< recipe name="Marinara sauce" link="https://cookieandkate.com/simple-marinara-sauce-recipe/" image="" >}}
-{{< recipe name="Mushroom ketchup" link="https://www.greatbritishchefs.com/recipes/mushroom-ketchup-recipe" image="" >}}
-{{< recipe name="Peanut sauce" link="https://www.budgetbytes.com/peanut-tofu-noodle-bowls/" image="" >}}
+{{< recipe name="Marinara sauce" link="https://cookieandkate.com/simple-marinara-sauce-recipe/" image="/img/recipes/favorites/marinara.jpg" >}}
+{{< recipe name="Mushroom ketchup" link="https://www.greatbritishchefs.com/recipes/mushroom-ketchup-recipe" image="/img/recipes/favorites/mushroom-ketchup.jpg" >}}
+{{< recipe name="Peanut sauce" link="https://www.budgetbytes.com/peanut-tofu-noodle-bowls/" image="/img/recipes/favorites/peanut-sauce.jpg" >}}
 
 {{% /columns %}}
 
 ## Dips and butters
 {{% columns count="4" %}}
 
-{{< recipe name="Vegan nutella" link="https://lovingitvegan.com/easy-3-ingredient-vegan-nutella/" image="" >}}
+{{< recipe name="Vegan nutella" link="https://lovingitvegan.com/easy-3-ingredient-vegan-nutella/" image="/img/recipes/favorites/nutella.jpg" >}}
 
 {{% /columns %}}
 
 ## Bread
 {{% columns count="4" %}}
 
-{{< recipe name="Sourdough starter" link="http://www.thekitchn.com/how-to-make-your-own-sourdough-starter-cooking-lessons-from-the-kitchn-47337" image="" >}}
-{{< recipe name="Breakfast sausage bread" link="https://www.tasteofhome.com/recipes/breakfast-sausage-bread/" image="" >}}
-{{< recipe name="Borodinski bread" link="https://www.rbth.com/russian-kitchen/329854-cook-legendary-borodinsky-bread" image="" >}}
+{{< recipe name="Sourdough starter" link="http://www.thekitchn.com/how-to-make-your-own-sourdough-starter-cooking-lessons-from-the-kitchn-47337" image="/img/recipes/favorites/sourdough-starter.jpg" >}}
+{{< recipe name="Breakfast sausage bread" link="https://www.tasteofhome.com/recipes/breakfast-sausage-bread/" image="/img/recipes/favorites/sausage-bread.jpg" >}}
+{{< recipe name="Borodinski bread" link="https://www.rbth.com/russian-kitchen/329854-cook-legendary-borodinsky-bread" image="/img/recipes/favorites/russian-bread.jpg" >}}
 
 {{% /columns %}}
