@@ -54,6 +54,7 @@ draft = true
 - John Howe
 - Moebius
 - Jeffrey Catherine Jones
+- Mark Harrison
 
 </div>
 
