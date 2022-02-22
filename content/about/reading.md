@@ -20,6 +20,7 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 <div class="checklist">
 
+- [ ] **Radical Mycology** Peter McCoy
 - [ ] **Then and Now** C.S. Lewis
 - [ ] **If on a Winter's Night a Traveler**, Italo Calvino
 - [ ] **Powers of Darkness: The Lost Version of Dracula**, Bram Stoker, Vladimar Asmundsson
@@ -38,7 +39,6 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **No Logo**, Naomi Klein
 - [ ] **The Book of Tea**, Okakura Kakuzō
 - [ ] **Pacific Edge**, Kim Stanley Robinson
-- [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
 - [ ] **CAPS LOCK (How Capitalism Took Hold of Graphic Design, and how to Escape it)**, Ruben Pater
 - [ ] **The one straw revolution**, Masanobu Fukuoka
 - [ ] **Voyage au centre de la terre**, Jules Verne
@@ -46,7 +46,8 @@ intro = "This is my reading list, it contains the books, zines and long form art
 #### 2022
 
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
-- [ ] **Monolithic undertow**, Harry Sword
+- [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
+- [x] **Monolithic undertow**, Harry Sword
 - [x] **Come as you are**, Emily Nagoski
 - [x] **The Story of the Necronomicon**, H.P. Lovecraft
 

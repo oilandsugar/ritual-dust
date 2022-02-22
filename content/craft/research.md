@@ -31,6 +31,7 @@ Where I keep my references for crafting, woodworking, low-tech, permacomputing a
 
 - [A very complete website on billhooks](https://www.billhooks.co.uk/)
 - [A website with a lot of instructions on how to make things, all kinds of things](https://simplifier.neocities.org/)
+- [The museum of other things](http://otherthingsmuseum.com/collection)
 
 ### Electronics
 
