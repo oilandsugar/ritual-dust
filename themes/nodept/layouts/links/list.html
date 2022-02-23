@@ -1,0 +1,16 @@
+{{ partial "header-minimal" . }}
+
+{{ $topPages := .Site.Sections }}
+
+<main>
+  <div class="flex-row big-padding-top list-page links">
+    <article>
+      <div class="full-wrap">
+        {{ partial "listPageTitle" . }}
+        {{ .Content }}
+      </div>
+    </article>
+  </div>
+</main>
+
+{{ partialCached "footer-minimal" . }}
