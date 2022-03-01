@@ -31,7 +31,6 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **The Night of the Demon**, Jacques Tourneur - 1957
 - [ ] **An Inconvenient Truth**, Davis Guggenheim - 2006
 - [ ] **L'erreur boréale**, Richard Desjardins - 1999
-- [ ] **Andrei Rublev**, Andrei Tarkovsky - 1966
 - [ ] **Candyman**, Nia DaCosta - 2021
 - [ ] **Candyman**, Bernard Rose - 1992
 - [ ] **Antlers**, Scott Cooper - 2021
@@ -40,7 +39,7 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **Metropolis**, Fritz Lang - 1927
 - [ ] **Throne of Blood**, Akira Kurosawa - 1957
 - [ ] **Macbeth**, Orson Welles - 1948
-- [ ] **Shadows of Forgotten Ancestors**, Sergei Parajanov - 1965
+- [ ] **Andrei Rublev**, Andrei Tarkovsky - 1966
 
 </div>
 
@@ -48,6 +47,8 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 
 <div class="checklist">
 
+  - [x] **Shadows of Forgotten Ancestors**, Sergei Parajanov - 1965
+- [x] **Euphoria (series)**, Sam Levinson - 2019-
 - [x] **Hawkwind, do not panic**, Simon Chu - 2007
   - [x] **Wilczyca (the she-wolf)**, Marek Piestrak - 1983
 - [x] **Sightseers**, Ben Wheatley - 2012
