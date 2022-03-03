@@ -97,6 +97,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Cauliflower and butternut squash gratin" link="https://www.onegreenplanet.org/vegan-recipe/spicy-cauliflower-and-butternut-squash-gratin/" image="/img/recipes/favorites/squash-gratin.jpg" >}}
 {{< recipe name="Mushroom lentil loaf" link="http://pumpkinandpeanutbutter.com/2015/03/19/mushroom-lentil-loaf/" image="/img/recipes/favorites/lentil-loaf.jpg" >}}
 {{< recipe name="Corn Pone" link="https://grimgrains.com/site/corn_pone.html" image="/img/recipes/favorites/corn-pone.jpg" >}}
+{{< recipe name="Hard tacos with beyond meat" link="https://www.trifectanutrition.com/blog/the-only-vegan-taco-recipe-youll-ever-need" image="/img/recipes/favorites/hard-tacos.jpg" >}}
 
 {{% /columns %}}
 
