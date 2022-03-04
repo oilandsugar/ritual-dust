@@ -1,9 +1,9 @@
 +++
-title = "Home building"
-tags = ["craft", "notes", "sustainability"]
-date = "2020-11-03"
+title = "Resilient Home Building and Restoration"
+tags = ["craft", "notes", "sustainability", "building"]
+date = "2022-03-03"
 
-desc = "Approaches and techniques for sustainable and resilient home building"
+desc = "Approaches and techniques for sustainable and resilient home building and restoration, and some considerations and knowledge about the process"
 draft = true
 +++
 
@@ -11,48 +11,57 @@ draft = true
 
 [Philosophy](#philosophy) •
 [Location](#location) •
+[Permits](#permits) •
+[Services](#services) •
 [Materials](#materials) •
-[Timber framing terminology](#timber-framing-terminology) •
 [Links](#links-and-resources)
 
 </div>
 
+This page is a living document which contains the approaches and techniques I know of for sustainable and resilient home building and restoration, and some considerations and knowledge about the process from finding a good location, securing permits needed, construction and maintenance.
+
+To go along with this note, I made [another one specifically on off-grid living](/craft/off-grid-living/), either in a boat, van or small home.
+
 ## Philosophy
 
-Sustainable and resilient are two pretty general terms that can mean a lot of things, especially in the context of building and construction.
+Sustainable and resilient are two pretty general terms that can mean a lot of things, especially in the context of building, construction and restoration. My specific approach is focussed on reducing the need for new materials, building for longevity and making sure the house adapts to the realities of the current climate crisis in the context of the region where it is built. Additionally, other considerations I keep in mind for building a home are: how it fits the needs of it's inhabitants, how cozy and comfortable it is, how good it looks.
 
 ## Location
 
-Choosing a good location to build is as important as what and how you're building it.
+Choosing a good location to build is as important as what and how you're building it. The location defines how easy it will be to access, how much sunlight the house will have depending on the different seasons, how the rainwater will be diverted from it's flat surfaces and directed into the ground and how safe the house is.
+
+Flooding, forest fires
+
+Access to site, right of way, community
+
+## Permits
+
+
+
+## Services
+
+Services refer to the amenities that a modern house usually have access too, **sewage disposal**, **running water**, **heating** and **electricity**. These can be provided by a municipal grid, or off-grid alternatives for example a septic tank or composting system for sewage, a well for water, a wood stove for heating and solar power for electricity.
+
+### Sewage
+
+
+### Water
+
+
+### Heating
+
+
+### Electricity
+
 
 ## Materials
 
 What makes materials good for this kind of building: local availability, ease of repair / replacement, durability.
 
-## Timber framing terminology
-
-### Beam types
-
-- **Post**: Vertical beam
-- **Girt**: horizontal beam supported by the post, going along the width of the building
-- **Plate**: horizontal beam supported by the posts, going along the length of the structure
-- **Wall plate**: plate at the base of a roof
-- **Ridge plate**: plate at the top of a roof
-- **Knee-brace**: angled piece strengthening corner joints
-- **King post**:
-- **Rafter**: Smaller beam supporting the roof
-- **Floor joist**: smaller beam supporting the floor planks
-
-### Joinery
-
-- **Mortise**: Hole cut through a beam made to receive a tenon in order to create a joint
- - **Through-mortise**: mortise cut through the whole beam, often to allow joining a beam on each side of a post
- - **Hunched-tenon**:
-- **Pocket**: Hole cut to accomodate a full beam inset in another one.
-- **Tenon**:
-- **Bird's mouth**: joint between rafters and plates holding them in place vertically
-
 ## Links and resources
 
+- [videos on sustainable home restoration and building](https://faircompanies.com/)
+- [old house restoration tips](https://www.oldhouseonline.com/repairs-and-how-to/35-tips-for-restoring-old-houses/)
+- [Buying a rural site in ireland](https://www.youtube.com/watch?v=NpVDHoVAI4g)
 - [Sustainability and resilience](https://www.deltechomes.com/resilient-homes-part-two-sustainability-is-resilient/)
 - [Notes on building resilience](https://www.echotape.com/blog/why-building-resilience-is-the-future-of-sustainable-building/)
