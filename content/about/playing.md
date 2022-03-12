@@ -28,6 +28,7 @@ This is the list of games I played or want to play, I keep it yearly and highlig
 
 <div class="checklist">
 
+- [ ] **Banjo Kazooie**
 - [ ] **Dark Souls**
 - [ ] **Diablo II**
 - [ ] **Starfox 64**
