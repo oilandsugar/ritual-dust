@@ -40,6 +40,7 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **Throne of Blood**, Akira Kurosawa - 1957
 - [ ] **Macbeth**, Orson Welles - 1948
 - [ ] **Andrei Rublev**, Andrei Tarkovsky - 1966
+- [ ] **le diable probablement**, Robert Bresson - 1977
 
 </div>
 
@@ -47,6 +48,8 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 
 <div class="checklist">
 
+  - [x] **The Taking of Deborah Logan**, Adam Robitel - 2014
+- [x] **Adventure Time (series)**, Pendleton Ward, 2010-2018
   - [x] **Shadows of Forgotten Ancestors**, Sergei Parajanov - 1965
 - [x] **Euphoria (series)**, Sam Levinson - 2019-
 - [x] **Hawkwind, do not panic**, Simon Chu - 2007
