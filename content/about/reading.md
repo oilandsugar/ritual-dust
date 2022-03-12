@@ -42,9 +42,11 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **CAPS LOCK (How Capitalism Took Hold of Graphic Design, and how to Escape it)**, Ruben Pater
 - [ ] **The one straw revolution**, Masanobu Fukuoka
 - [ ] **Voyage au centre de la terre**, Jules Verne
+- [ ] **The Book of Trespass**, Nick Hayes
 
 #### 2022
 
+- [ ] **Prehistoric Avebury**
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
 - [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
 - [x] **Monolithic undertow**, Harry Sword
