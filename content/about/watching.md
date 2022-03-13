@@ -40,6 +40,25 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **Throne of Blood**, Akira Kurosawa - 1957
 - [ ] **Macbeth**, Orson Welles - 1948
 - [ ] **Andrei Rublev**, Andrei Tarkovsky - 1966
+- [ ] **The Fog**, John Carpenter - 1980
+- [ ] **The Juniper Tree**, Nietzchka Keene - 1990
+- [ ] **Tilbury**, Viðar Víkingsson - 1987
+- [ ] **The Dunwich Horror**, Daniel Haller - 1970
+- [ ] **Picnic at Hanging Rock**, Peter Weir - 1975
+- [ ] **Requiem for a Village**, David Gladwell - 1976
+- [ ] **The Hungry Grass**, Archie Reid - 1981
+- [ ] **Psychomania**, Don Sharp - 1973
+- [ ] **The Lair of the White Worm**, Ken Russel - 1988
+- [ ] **The White Reindeer**, Erik Blomberg - 1952
+- [ ] **Solitudo**, Pino Borselli - 2008
+- [ ] **Border**, Ali Abbasi - 2018
+- [ ] **Witchhammer**, Otakar Vávra - 1970
+- [ ] **Pelican Blood**, Karl Golden - 2010
+- [ ] **Wake Wood**, David Keating - 2009
+- [ ] **Marketa lazarova**, František Vláčil - 1967
+- [ ] **Dark Waters**,
+- [ ] **Sleepy Hollow**, Sam Weiss - 1972
+- [ ] **The Stalls of Barchester**, Lawrence Gordon Clark - 1971
 - [ ] **le diable probablement**, Robert Bresson - 1977
 
 </div>
