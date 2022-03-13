@@ -59,6 +59,7 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **Dark Waters**,
 - [ ] **Sleepy Hollow**, Sam Weiss - 1972
 - [ ] **The Stalls of Barchester**, Lawrence Gordon Clark - 1971
+- [ ] **Pastoral: to die in the country**, Shūji Terayama - 1974
 - [ ] **le diable probablement**, Robert Bresson - 1977
 - [ ] **The Moon and the Sledgehammer**, Philip Trevelyan - 1971
 
