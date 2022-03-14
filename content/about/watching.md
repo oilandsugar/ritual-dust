@@ -46,7 +46,6 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **The Dunwich Horror**, Daniel Haller - 1970
 - [ ] **Picnic at Hanging Rock**, Peter Weir - 1975
 - [ ] **Requiem for a Village**, David Gladwell - 1976
-- [ ] **The Hungry Grass**, Archie Reid - 1981
 - [ ] **Psychomania**, Don Sharp - 1973
 - [ ] **The Lair of the White Worm**, Ken Russel - 1988
 - [ ] **The White Reindeer**, Erik Blomberg - 1952
@@ -58,7 +57,6 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **Marketa lazarova**, František Vláčil - 1967
 - [ ] **Dark Waters**,
 - [ ] **Sleepy Hollow**, Sam Weiss - 1972
-- [ ] **The Stalls of Barchester**, Lawrence Gordon Clark - 1971
 - [ ] **Pastoral: to die in the country**, Shūji Terayama - 1974
 - [ ] **le diable probablement**, Robert Bresson - 1977
 - [ ] **The Moon and the Sledgehammer**, Philip Trevelyan - 1971
@@ -69,6 +67,9 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 
 <div class="checklist">
 
+- [x] **The Hungry Grass**, Archie Reid - 1981
+  - [x] **Demon**, Marcin Wrona - 2015
+- [x] **The Stalls of Barchester**, Lawrence Gordon Clark - 1971
   - [x] **The Taking of Deborah Logan**, Adam Robitel - 2014
 - [x] **Adventure Time (series)**, Pendleton Ward, 2010-2018
   - [x] **Shadows of Forgotten Ancestors**, Sergei Parajanov - 1965

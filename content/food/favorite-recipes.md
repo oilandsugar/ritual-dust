@@ -119,13 +119,15 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Brownies" link="https://www.noracooks.com/vegan-brownies-recipe/" image="/img/recipes/favorites/brownie.jpg" >}}
 {{< recipe name="Banana bread" link="https://www.ambitiouskitchen.com/vegan-banana-bread/" image="/img/recipes/favorites/banana-bread.jpg" >}}
 {{< recipe name="Fruit cake" link="https://www.mouthwateringvegan.com/2014/12/13/best-ever-vegan-christmas-fruit-cake/" image="/img/recipes/favorites/fruit-cake.jpg" >}}
-{{< recipe name="Oatmeal raisin cookies" link="https://lovingitvegan.com/vegan-oatmeal-raisin-cookies/" image="/img/recipes/favorites/oatmeal-cookies.jpg" >}}
-{{< recipe name="Peanut butter cookies" link="https://simple-veganista.com/vegan-peanut-butter-cookies/" image="/img/recipes/favorites/peanut-butter-cookies.jpg" >}}
 {{< recipe name="Tofu chocolate mousse" link="https://aseasyasapplepie.com/silken-tofu-chocolate-mousse/" image="/img/recipes/favorites/choco-mousse.jpg" >}}
 {{< recipe name="Pumpkin cake" link="https://lovingitvegan.com/vegan-pumpkin-cake/" image="/img/recipes/favorites/pumpkin-cake.jpg" >}}
 {{< recipe name="Butternut squash pudding" link="https://www.loveandlemons.com/creamy-vegan-butternut-squash-pudding/" image="/img/recipes/favorites/squash-pudding.jpg" >}}
 {{< recipe name="Cinnamon rolls" link="https://minimalistbaker.com/the-worlds-easiest-cinnamon-rolls/" image="/img/recipes/favorites/cinnamon-roll-2.jpg" >}}
 {{< recipe name="Welsh cakes" link="https://oakden.co.uk/vegan-welsh-cakes/" image="/img/recipes/favorites/welsh-cake.jpg" >}}
+{{< recipe name="Oatmeal raisin cookies" link="https://lovingitvegan.com/vegan-oatmeal-raisin-cookies/" image="/img/recipes/favorites/oatmeal-cookies.jpg" >}}
+{{< recipe name="Peanut butter cookies" link="https://simple-veganista.com/vegan-peanut-butter-cookies/" image="/img/recipes/favorites/peanut-butter-cookies.jpg" >}}
+{{< recipe name="Choco chips cookies" link="https://lovingitvegan.com/soft-chewy-vegan-chocolate-chip-cookies/" image="/img/recipes/favorites/choco-chips-cookies.jpg" >}}
+{{< recipe name="Gingersnaps" link="https://pastryathome.com/vegan-gingersnaps/" image="/img/recipes/gingersnaps.jpg" >}}
 
 {{% /columns %}}
 
