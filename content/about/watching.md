@@ -34,7 +34,6 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **Candyman**, Nia DaCosta - 2021
 - [ ] **Candyman**, Bernard Rose - 1992
 - [ ] **Antlers**, Scott Cooper - 2021
-- [ ] **The Mezzotint**, Mark Gatiss - 2021
 - [ ] **The Cabinet of Doctor Caligari**, Robert Wiene - 1920
 - [ ] **Metropolis**, Fritz Lang - 1927
 - [ ] **Throne of Blood**, Akira Kurosawa - 1957
@@ -43,7 +42,6 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **The Fog**, John Carpenter - 1980
 - [ ] **The Juniper Tree**, Nietzchka Keene - 1990
 - [ ] **Tilbury**, Viðar Víkingsson - 1987
-- [ ] **The Dunwich Horror**, Daniel Haller - 1970
 - [ ] **Picnic at Hanging Rock**, Peter Weir - 1975
 - [ ] **Requiem for a Village**, David Gladwell - 1976
 - [ ] **Psychomania**, Don Sharp - 1973
@@ -60,6 +58,7 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **Pastoral: to die in the country**, Shūji Terayama - 1974
 - [ ] **le diable probablement**, Robert Bresson - 1977
 - [ ] **The Moon and the Sledgehammer**, Philip Trevelyan - 1971
+- [ ] **The Void**, Jeremy Gillespie, Steven Kostanski - 2017
 
 </div>
 
@@ -67,6 +66,9 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 
 <div class="checklist">
 
+- [x] **The Mezzotint**, Mark Gatiss - 2021
+- [x] **The Dunwich Horror**, Daniel Haller - 1970
+- [x] **For Sama**, Waad Al-Kateab, Edward Watts - 2019
 - [x] **The Hungry Grass**, Archie Reid - 1981
   - [x] **Demon**, Marcin Wrona - 2015
 - [x] **The Stalls of Barchester**, Lawrence Gordon Clark - 1971
