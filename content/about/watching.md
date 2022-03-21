@@ -39,12 +39,10 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **Throne of Blood**, Akira Kurosawa - 1957
 - [ ] **Macbeth**, Orson Welles - 1948
 - [ ] **Andrei Rublev**, Andrei Tarkovsky - 1966
-- [ ] **The Fog**, John Carpenter - 1980
 - [ ] **The Juniper Tree**, Nietzchka Keene - 1990
 - [ ] **Tilbury**, Viðar Víkingsson - 1987
 - [ ] **Picnic at Hanging Rock**, Peter Weir - 1975
 - [ ] **Requiem for a Village**, David Gladwell - 1976
-- [ ] **Psychomania**, Don Sharp - 1973
 - [ ] **The Lair of the White Worm**, Ken Russel - 1988
 - [ ] **The White Reindeer**, Erik Blomberg - 1952
 - [ ] **Solitudo**, Pino Borselli - 2008
@@ -59,6 +57,7 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **le diable probablement**, Robert Bresson - 1977
 - [ ] **The Moon and the Sledgehammer**, Philip Trevelyan - 1971
 - [ ] **The Void**, Jeremy Gillespie, Steven Kostanski - 2017
+- [ ] **Psychomania**, Don Sharp - 1973
 
 </div>
 
@@ -66,6 +65,7 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 
 <div class="checklist">
 
+- [x] **The Fog**, John Carpenter - 1980
 - [x] **The Mezzotint**, Mark Gatiss - 2021
 - [x] **The Dunwich Horror**, Daniel Haller - 1970
 - [x] **For Sama**, Waad Al-Kateab, Edward Watts - 2019

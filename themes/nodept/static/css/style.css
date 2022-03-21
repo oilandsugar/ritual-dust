@@ -7,8 +7,8 @@
   --spacing_xl: 48px; /* spacing_xl */
 
   --mainFont: "Wremena"; /* mainFont */
-  --blackletterFont: "Wittenberger"; /* blackletterFont */
-  --psychFont1: "medieval-pixel"; /* psychFont1 */
+  --blackletterFont: "Basteleur"; /* blackletterFont */
+  --psychFont1: "Basteleur"; /* psychFont1 */
   --psychFont2: "Cooper Std"; /* psychFont2 */
   --titleFont3: "Distro Bold"; /* titleFont3 */
 
@@ -70,6 +70,15 @@ body {
   font-family: "Cooper Std";
   src: url("webfonts/CooperBlackStd.woff2") format("woff2"),
     url("webfonts/CooperBlackStd.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Basteleur";
+  src: url("webfonts/Basteleur-Bold.woff2") format("woff2"),
+    url("webfonts/Basteleur-Bold.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -231,11 +240,11 @@ small {
 }
 
 .blackletter {
-  font-family: "Wittenberger"; /* blackletterFont */
+  font-family: "Basteleur"; /* blackletterFont */
 }
 
 .psych-1 {
-  font-family: "medieval-pixel"; /* psychFont1 */
+  font-family: "Basteleur"; /* psychFont1 */
   font-weight: 300;
 }
 
@@ -623,6 +632,7 @@ tr:hover td {
 .bio .name {
   margin: 0;
   font-size: 34px;
+  line-height:34px;
 }
 
 .social {
@@ -774,10 +784,10 @@ tr:hover td {
 }
 
 .notes h3 {
-  font-family: "medieval-pixel"; /* psychFont1 */
+  font-family: "Basteleur"; /* psychFont1 */
   font-weight: 300;
   font-size: 3.5em;
-  line-height: 0.8em;
+  line-height: 1em;
   padding: 0;
   word-break: break-word;
 }

@@ -19,8 +19,7 @@ Explore projects over time in the [Timeline](/timeline/).
 When selecting fonts for this website, I was looking to combine my love for 70's psychedelia and gothic blackletter while keeping everything mostly legible and accessible.
 
 Fonts used on this website:  
-**Medieval pixel** for the larger titles
-**Wittenberger** is used for blackletter titles  
+**Basteleur** for the larger titles
 **Cooper Std** is used for the second level of titles  
 **Distro** is used for the third level of titles  
 **Wrenema** is used for body text
@@ -34,6 +33,12 @@ This website changes color theme every season. For doing so I'm using a theming 
 Here are the themes I've made so far
 
 <div class="themes">
+<div class="theme">
+  <a href="/themes/ritualdust-spring.svg" download>
+    <img src="/themes/ritualdust-spring.svg"/>
+    <h4>Spring</h4>
+  </a>
+</div>
 <div class="theme">
   <a href="/themes/ritualdust-summer.svg" download>
     <img src="/themes/ritualdust-summer.svg"/>
