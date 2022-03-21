@@ -65,6 +65,7 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 
 <div class="checklist">
 
+- [x] **Into Eternity**, Michael Madsen - 2010
 - [x] **The Fog**, John Carpenter - 1980
 - [x] **The Mezzotint**, Mark Gatiss - 2021
 - [x] **The Dunwich Horror**, Daniel Haller - 1970
