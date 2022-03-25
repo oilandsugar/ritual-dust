@@ -46,6 +46,7 @@ There is a very long list of movies and television shows using the mode and them
 - **Penda's Fen**, Alan Clarke - 1974
 - **The Stalls of Barchester**, Lawrence Gordon Clark - 1971
 - **The Owl Service**, Peter Plummer - 1969-1970
+- **Robin Redbreast**, James MacTaggart - 1970
 - **Whistle and I'll come to you**, Jonathan Miller - 1968
 - **Quartermass and the pit**, Roy Ward Baker - 1967
 
@@ -54,6 +55,7 @@ There is a very long list of movies and television shows using the mode and them
 - **Woodlands Dark and Days Bewitched**, Kier-La Janisse - 2021
 - **In the Earth**, Ben Wheatley - 2021
 - **Midsommar**, Ari Aster - 2019  
+- **La Llorona**, Jayro Bustamante - 2019
 - **Koko-di Koko-da**, Johannes Nyholm - 2019
 - **SG̲aawaay Ḵ'uuna (The Edge of the Knife)**, Gwaai Edenshaw, Helen Haig-Brown - 2018
 - **The VVitch**, Robert Eggers - 2015
@@ -64,7 +66,7 @@ There is a very long list of movies and television shows using the mode and them
 - **The Lair of the White Worm**, Ken Russel - 1988
 - **Wilczyca (the she-wolf)**, Marek Piestrak - 1983
 - **The Hungry Grass**, Archie Reid - 1981
-- **VIY**, Konstantin Ershov and Georgiy Kropachyov - 1967 
+- **VIY**, Konstantin Ershov and Georgiy Kropachyov - 1967
 - **Shadows of Forgotten Ancestors**, Sergei Parajanov - 1965
 
 ## Folk Horror in music
@@ -79,9 +81,24 @@ Strangely, I first heard of the term folk horror used to describe music, since t
 
 ## Folk Horror in literature
 
+### Fiction and tales
+
 - **Damnable Tales: A Folk Horror Anthology** by Richard Wells
+- **The Fiends in the Furrows: An Anthology of Folk Horror** by Steve Toase
 - **Casting the Runes** by M. R. James
-- the Golden Bough
+- **Harvest Home** by Thomas Tryon
+- Works by Nathaniel Hawthorne
+
+### Writing about folk horror
+
+- **Folk Horror: Hours Dreadful and Things Strange** by Adam Scovell
+- **We Don't Go Back** by Howard David Ingham
+
+### Old anthropological texts
+
+- **The Golden Bough** by James Fraser
+- **The Witch-Cult in Western Europe** by Margaret Alice Murray
+
 
 ## Links and Resources
 

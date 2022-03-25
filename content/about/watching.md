@@ -160,9 +160,10 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 <div class="checklist">
 
+  - [x] **La Llorona**, Jayro Bustamante - 2019
   - [x] **Children of the Stones (series)**, Peter Graham Scott - 1977
   - [x] **Midsommar**, Ari Aster - 2019
-  - [x] **VIY**, Konstantin Ershov and Georgiy Kropachyov - 1967 
+  - [x] **VIY**, Konstantin Ershov and Georgiy Kropachyov - 1967
 
 </div>
 
