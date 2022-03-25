@@ -3,7 +3,7 @@ title = "Folk Horror"
 tags = ["folklore", "folk horror", "cinema", "literature", "music"]
 date = "2022-03-25"
 image = "/img/folklore/folk-horror.jpg"
-desc = "My collected knowledge on my favorite more of story-telling, rising from the furrows and from the fields. "
+desc = "My collected knowledge on my favorite mode of story-telling, rising from the forest, from the furrow and from the fields. "
 +++
 
 ![The sun symbol from the titles of the Wicker Man movie](/img/folklore/folk-horror.jpg "The sun symbol from the titles of the Wicker Man movie")
@@ -19,6 +19,9 @@ desc = "My collected knowledge on my favorite more of story-telling, rising from
 </div>
 
 Folk Horror refers to a mode of story-telling, a set of themes and to some extent an aesthetic movement fascinated by exploring the ways in which old rites, traditions and folklore can embed itself in the land and places, it digs for the ways in which humans over thousands of generations have imprinted the landscape and also how the landscape leave impressions on the human psyche.
+
+> "Hail Behemoth spirit of the dark. Take thou my blood, my flesh, my skin and walk. Holy Behemoth father of my life speak now, come now, rise now from the forest, from the furrow, from the fields and live!"  
+<small>- from Blood on Satan's Claw</small>
 
 It initially arose from the tension between modern life and the old ways, between the city and the countryside. Folk Horror plays with our yearning for nature and a return to the land and ideas of pastoral life while at the same time shining a light on the more dreadful side of rural living with its superstitions, repression, cults and real or metaphorical sacrifices.
 
@@ -36,15 +39,32 @@ There is a very long list of movies and television shows using the mode and them
 - **Blood on Satan's Claw**, Piers Haggard - 1971
 - **Witchfinder General**, Michael Reeves - 1968
 
-### More important movies and TV shows
+### First Wave of British Folk Horror
 
-- **Woodlands Dark and Days Bewitched**, Kier-La Janisse - 2021
-- **In the Earth**, Ben Wheatley - 2021
-- **Midsommar**, Ari Aster - 2019
-- **Wilczyca (the she-wolf)**, Marek Piestrak - 1983
 - **Children of the Stones (series)**, Peter Graham Scott - 1977
 - **Stigma**, Lawrence Gordon Clark - 1977
 - **Penda's Fen**, Alan Clarke - 1974
+- **The Stalls of Barchester**, Lawrence Gordon Clark - 1971
+- **The Owl Service**, Peter Plummer - 1969-1970
+- **Whistle and I'll come to you**, Jonathan Miller - 1968
+- **Quartermass and the pit**, Roy Ward Baker - 1967
+
+### Folk Horror Revival
+
+- **Woodlands Dark and Days Bewitched**, Kier-La Janisse - 2021
+- **In the Earth**, Ben Wheatley - 2021
+- **Midsommar**, Ari Aster - 2019  
+- **Koko-di Koko-da**, Johannes Nyholm - 2019
+- **SG̲aawaay Ḵ'uuna (The Edge of the Knife)**, Gwaai Edenshaw, Helen Haig-Brown - 2018
+- **The VVitch**, Robert Eggers - 2015
+- **A Field in England**, Ben Wheatley - 2013
+
+### Other notable movies
+
+- **The Lair of the White Worm**, Ken Russel - 1988
+- **Wilczyca (the she-wolf)**, Marek Piestrak - 1983
+- **The Hungry Grass**, Archie Reid - 1981
+- **Shadows of Forgotten Ancestors**, Sergei Parajanov - 1965
 
 ## Folk Horror in music
 
