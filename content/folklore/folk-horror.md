@@ -87,6 +87,7 @@ Strangely, I first heard of the term folk horror used to describe music, since t
 - **The Fiends in the Furrows: An Anthology of Folk Horror** by Steve Toase
 - **Casting the Runes** by M. R. James
 - **Harvest Home** by Thomas Tryon
+- **Randalls Round** by Eleanor Scott
 - Works by Nathaniel Hawthorne
 
 ### Writing about folk horror

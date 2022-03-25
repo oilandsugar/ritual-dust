@@ -97,7 +97,7 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 - [x] **[The Alchemists of Sound](https://www.ubu.com/film/alchemists.html)**, Roger Pomphrey - 2003
   - [x] **The Thing**, John Carpenter - 1982
-- [x] **What we do in the Shadows(Series)**, Jemaine Clement - 2016-2021
+- [x] **What we do in the Shadows (series)**, Jemaine Clement - 2016-2021
 - [x] **Titane**, Julia Ducournau - 2021
 - [x] **The Strings**, Ryan Glover - 2020
 - [x] **Lamb**, Valdimar Jóhannsson - 2021
@@ -130,7 +130,6 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 - [x] **Saint-Maud**, Rose Glass - 2020
   - [x] **Koko-di Koko-da**, Johannes Nyholm - 2019
   - [x] **Valerie and her Week of Wonders**, Jaromil Jires - 1970
-  - [x] **Hagazussa**, Lukas Feigelfeld - 2017
 
 </div>
 
@@ -153,6 +152,23 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
   - [x] **Offret (Sacrifice)**, Andrei Tarkovsky - 1986
   - [x] **Horror Noire**, Zandashé Brown, Robin Givens, Rob Greenlea, Kimani Ray Smith - 2019
   - [x] **It Follows**, David Robert Mitchell - 2014
+  - [x] **Parasite**, Bong Joon-ho - 2019
+- [x] **The Love Witch**, Anna Biller - 2016
+- [x] **The Owl Service**, Peter Plummer - 1969-1970
+- [x] **Salem's Lot**, Tobe Hooper - 1979
+- [x] **The Cook, the Thief, His Wife & Her Lover**, Peter Greenaway - 1989
+  - [x] **The Crow**, Alex Proyas - 1994
+  - [x] **Chernobyl (series)**, Craig Mazin - 2019
+- [x] **Kiki's Delivery Service**, Hayao Miyazaki - 1989
+- [x] **The Omen**, Richard Donner - 1976
+- [x] **Solaris**, Andrei Tarkovsky - 1972
+  - [x] **Fantastic Mr. Fox**, Wes Anderson - 2009
+  - [x] **Tangerine**, Sean S. Baker - 2015
+  - [x] **Nausicaä of the Valley of the Wind**, Hayao Miyazaki - 1984
+  - [x] **The Color of Pomegranates**, Serjei Parajanov - 1969
+  - [x] **Hagazussa**, Lukas Feigelfeld - 2017
+- [x] **The Secret of Nimh**, Don Bluth - 1982
+- [x] **The Tomb of Ligeia**, Roger Corman - 1964
 
 </div>
 
@@ -160,12 +176,52 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 <div class="checklist">
 
+- [x] **Children of the Corn**, Fritz Kiersch - 1984
+- [x] **Faust**, F.W. Murnau - 1926
   - [x] **La Llorona**, Jayro Bustamante - 2019
   - [x] **Children of the Stones (series)**, Peter Graham Scott - 1977
+  - [x] **The Stone Tape**, Peter Sasdy - 1972
   - [x] **Midsommar**, Ari Aster - 2019
   - [x] **VIY**, Konstantin Ershov and Georgiy Kropachyov - 1967
+  - [x] **November**, Rainer Sarnet - 2017
+  - [x] **The Babadook**, Jennifer Kent - 2014
+  - [x] **The Lighthouse**, Robert Eggers - 2019
+  - [x] **Get Out**, Jordan Peele - 2017
+  - [x] **Mandy**, Panos Cosmatos - 2018
+  - [x] **Begotten**, E. Elias Merhige - 1989
+  - [x] **Twin Peaks (series)**, David Lynch - 1990-1991
 
 </div>
+
+#### 2018
+
+<div class="checklist">
+
+  - [x] **Hereditary**, Ari Aster - 2018
+  - [x] **Häxan**, Benjamin Christensen - 1922
+
+</div>
+
+#### 2017
+
+<div class="checklist">
+
+  - [x] **Häxan**, Benjamin Christensen - 1922
+  - [x] **Suspiria**, Dario Argento - 1977
+  - [x] **In The Mouth of Madness**, John Carpenter - 1994
+- [x] **Black Sunday / The Mask of Satan**, Mario Bava - 1960
+
+</div>
+
+#### 2016
+
+<div class="checklist">
+
+  - [x] **Mad Max: Furry Road**, George Miller - 2015
+  - [x] **The VVitch**, Robbert Eggers - 2015
+
+</div>
+
 
 >"I don’t know why people expect art to make sense when they accept that life doesn’t make sense"  
 <small>- David Lynch</small>
