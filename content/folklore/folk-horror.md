@@ -99,7 +99,6 @@ Strangely, I first heard of the term folk horror used to describe music, since t
 - **The Golden Bough** by James Fraser
 - **The Witch-Cult in Western Europe** by Margaret Alice Murray
 
-
 ## Links and Resources
 
 - [Folk Horror Revival](https://folkhorrorrevival.com/)
