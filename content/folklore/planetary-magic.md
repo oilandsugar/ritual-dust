@@ -2,7 +2,7 @@
 title = "Planetary magic"
 tags = ["magic", "notes"]
 date = "2021-12-23"
-draft = false
+desc = "A reference for planetary magic, including correspondences, symbols and magic squares"
 +++
 
 <div class="table-of-contents">
