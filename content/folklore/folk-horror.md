@@ -64,6 +64,7 @@ There is a very long list of movies and television shows using the mode and them
 - **The Lair of the White Worm**, Ken Russel - 1988
 - **Wilczyca (the she-wolf)**, Marek Piestrak - 1983
 - **The Hungry Grass**, Archie Reid - 1981
+- **VIY**, Konstantin Ershov and Georgiy Kropachyov - 1967 
 - **Shadows of Forgotten Ancestors**, Sergei Parajanov - 1965
 
 ## Folk Horror in music
@@ -78,7 +79,8 @@ Strangely, I first heard of the term folk horror used to describe music, since t
 
 ## Folk Horror in literature
 
-- Casting the Runes by M. R. James
+- **Damnable Tales: A Folk Horror Anthology** by Richard Wells
+- **Casting the Runes** by M. R. James
 - the Golden Bough
 
 ## Links and Resources
