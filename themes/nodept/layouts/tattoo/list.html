@@ -1,0 +1,20 @@
+{{ partial "header" . }}
+
+<main>
+  <div class="flex-row big-padding-top list-page">
+    {{ partial "sidebars/worksList" . }}
+    <article>
+      <div class="small-wrap works">
+        {{ partial "listPageTitle" . }}
+        <div class="intro">
+          {{ .Params.desc }}
+        </div>
+      </div>
+      <div class="full-wrap">
+        {{ .Content }}
+      </div>
+    </article>
+  </div>
+</main>
+
+{{ partialCached "footer" . }}

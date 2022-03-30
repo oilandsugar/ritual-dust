@@ -14,9 +14,14 @@ author = "Lizbeth Poirier"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "visual-works"
-    name = "Visual works"
+    identifier = "artwork"
+    name = "Artwork"
     url = "/works/"
+    weight = 2
+  [[menu.main]]
+    identifier = "tattoo"
+    name = "Tattoo"
+    url = "/tattoo/"
     weight = 2
   [[menu.main]]
     identifier = "music"

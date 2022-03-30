@@ -7,7 +7,7 @@ tags = ["movies", "films"]
 
   ![Still from the opening sequence of the wicker man](/img/about/watching.jpg "Still from the opening sequence of the wicker man")
 
-This is my movie watchlist, I keep it yearly, highlight the mvoies that really stayed with me and keep the movies that really impacted me in the [films section](/about/films).
+This is my movie watchlist, I keep it yearly, highlight the movies that really stayed with me and keep the movies that really impacted me in the [films section](/about/films).
 
 ### Movies
 
@@ -50,7 +50,6 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 - [ ] **Witchhammer**, Otakar Vávra - 1970
 - [ ] **Pelican Blood**, Karl Golden - 2010
 - [ ] **Wake Wood**, David Keating - 2009
-- [ ] **Marketa lazarova**, František Vláčil - 1967
 - [ ] **Dark Waters**,
 - [ ] **Sleepy Hollow**, Sam Weiss - 1972
 - [ ] **Pastoral: to die in the country**, Shūji Terayama - 1974
@@ -65,6 +64,7 @@ This is my movie watchlist, I keep it yearly, highlight the mvoies that really s
 
 <div class="checklist">
 
+- [x] **Marketa lazarova**, František Vláčil - 1967
 - [x] **Into Eternity**, Michael Madsen - 2010
 - [x] **The Fog**, John Carpenter - 1980
 - [x] **The Mezzotint**, Mark Gatiss - 2021
@@ -206,10 +206,10 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 <div class="checklist">
 
+- [x] **Black Sunday / The Mask of Satan**, Mario Bava - 1960
   - [x] **Häxan**, Benjamin Christensen - 1922
   - [x] **Suspiria**, Dario Argento - 1977
   - [x] **In The Mouth of Madness**, John Carpenter - 1994
-- [x] **Black Sunday / The Mask of Satan**, Mario Bava - 1960
 
 </div>
 
