@@ -17,6 +17,14 @@ To discuss those, email me at: lizbeth.poirier.m@gmail.com
 
 ---
 
+If you enjoy what I'm posting here and creating and want to support me you become a patron here:
+
+<div class="support">
+<a href="https://www.patreon.com/bePatron?u=2525073" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+</div>
+
+---
+
 My past work experience includes working as a UI/UX and graphic designer in startups such as FoodRelay, Tangea, and l'Institut du Leadership en e-learning.
 
 I have studied visual and media arts at UQAM, focussing primarily on print (from screen printing to lithography) and the intersection of design, writing and art to explore themes of identity, gender and politics.
@@ -76,11 +84,3 @@ I am part of the Montréal interactive community and I've done [talks](/about/ta
 ### Education
 
 - BFA at UQAM (Canada)
-
----
-
-If you enjoy what I'm posting here and creating and want to support me you can do so over here:
-
-<div class="support">
-  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#3a4603', 'U7U63MLEM');kofiwidget2.draw();</script>
-</div>
