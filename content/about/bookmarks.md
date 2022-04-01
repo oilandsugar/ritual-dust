@@ -17,6 +17,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 [Art](#art) •
 [Tattoo](#tattoo-artists) •
 [Design](#design-fonts) •
+[Politics](#politics) •
 [Food](#food-and-recipe-blogs) •
 [Tech](#tech-low-tech-no-tech) •
 [Resources](#resource-and-link-pages) •
@@ -147,6 +148,10 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Edward Tufte, book design](https://www.edwardtufte.com/tufte/)
 - [List of fonts used for DnD books](http://www.hahnlibrary.net/rpgs/tsrfonts.html)
 - [A Pattern Language for meaningful, beautiful and functional spaces](https://www.patternlanguage.com/)
+
+### Politics
+
+- [An anarchist FAQ](https://www.anarchistfaq.org/afaq/)
 
 ### Internet and code
 - [Tufte css, css classes inspired by book design](https://edwardtufte.github.io/tufte-css/)

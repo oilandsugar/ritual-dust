@@ -46,9 +46,9 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 #### 2022
 
-- [ ] **Prehistoric Avebury**
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
 - [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
+- [x] **Prehistoric Avebury**
 - [x] **Monolithic undertow**, Harry Sword
 - [x] **Come as you are**, Emily Nagoski
 - [x] **The Story of the Necronomicon**, H.P. Lovecraft
