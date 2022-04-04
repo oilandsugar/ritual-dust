@@ -22,19 +22,26 @@ I see my skin as my personal grimoire, adding to it as I make discoveries, have 
 - [ ] Oak leaves on branch with spider webs (on my chest)
 - [ ] Poe with lantern from zelda
 - [ ] FOLK LORE on fingers
-- [ ] GRIM OIRE on lower fingers
 - [ ] Datajack on the neck
 - [ ] Goblin
+- [ ] neolithic maze symbol
 - [ ] Black swirl on elbow
 - [ ] Chandelier with ghost hand
 - [ ] Tattoos inspired by folklore
-- [ ] Sword / dagger
+- [ ] Swords / daggers
+- [ ] Medieval Mace
 - [ ] Bronze age artifacts
 - [ ] Dragon
 - [ ] Dungeon map / floor plan
 - [ ] Hand of glory
 - [ ] Medieval illustrations
+- [ ] henbane and other psychoactive witchy plants on my lower legs
 - [ ] Crossbow
+- [ ] Lord of the rings inspired tattoos
+- [ ] Frame saw
+- [x] GRIMOIRE over knee by myself
+- [x] Two little imps with a trans symbol by myself
+- [x] Sun scythe by myself
 - [x] Little mouse with an eye by [La Spectre](https://www.instagram.com/la.spectre/)
 - [x] Big flail (by [Empousai](https://www.instagram.com/_empousai_/))
 - [x] ONLY FREAKS lettering (by [Horseforest](https://www.instagram.com/horseforest/))

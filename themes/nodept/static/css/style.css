@@ -428,6 +428,20 @@ tr:hover td {
   margin:0;
 }
 
+.warning {
+  background-color: #a5a186; /* b_low */
+  background-color: var(--b_low); /* b_low */
+  border-radius:8px;
+  margin-bottom: 16px;
+  margin-top: 16px;
+  font-size:16px;
+  line-height:16px;
+}
+
+.warning .row {
+  margin:0;
+}
+
 /* ------------ MENU ------------- */
 
 .menu ul {

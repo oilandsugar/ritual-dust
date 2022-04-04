@@ -1,15 +1,15 @@
 <aside class="sidebar">
   {{ partial "sidebars/utils/back" . }}
-  {{ $section := where $.Site.Pages "Section" "works"}}
-  <h3 class="accent">Types of work</h3>
+  {{ $section := where $.Site.RegularPages "Section" "tattoo"}}
+  <h3 class="accent">Pages</h3>
   <div class="small-padding-bottom">
-  {{ $section := $section | intersect (where $.Site.Pages "IsSection" true)}}
-  {{ $section := $section | intersect (where $.Site.Pages "Title" "!=" "Works")}}
-  <ul class="section-pages">
-  {{ range $section }}
-    {{ partial "sidebars/utils/sidebarMenuItem" . }}
-  {{ end }}
-  </ul>
+    <ul class="section-pages">
+      {{ range $section }}
+        {{ if not (in .Params.tags "notes") }}
+          {{ partial "sidebars/utils/sidebarMenuItem" . }}
+        {{ end }}
+      {{ end }}
+    </ul>
   </div>
   <h3 class="accent">Notes</h3>
   <div class="small-padding-bottom">
