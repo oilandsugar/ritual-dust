@@ -62,6 +62,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Japanese curry" link="https://www.connoisseurusveg.com/vegan-japanese-curry/" image="/img/recipes/favorites/japanese-curry.jpg" >}}
 {{< recipe name="Spicy vegetable stew" link="https://themodernproper.com/spiced-vegetable-stew" image="/img/recipes/favorites/veggie-stew.jpg" >}}
 {{< recipe name="Spanish rice with chickpeas" link="https://www.budgetbytes.com/rice-cooker-spanish-chickpeas-and-rice/" image="/img/recipes/favorites/spanish-rice.jpg" >}}
+{{< recipe name="Moroccan Tagine" link="https://www.themediterraneandish.com/moroccan-vegetable-tagine-recipe/" image="/img/recipes/favorites/tagine.jpg" >}}
 
 {{% /columns %}}
 
