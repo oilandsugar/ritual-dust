@@ -960,6 +960,28 @@ tr:hover td {
   margin-top: 24px; /* spacing_lg */
 }
 
+/* --------- TATTOO ----------- */
+
+.armory img {
+  max-height:400px;
+}
+
+.rituals img {
+  max-height:400px;
+}
+
+.flash {
+  display:inline-block;
+}
+
+.flash.taken img {
+  opacity:0.3;
+}
+
+.flash img {
+  mix-blend-mode: multiply;
+}
+
 /* --------- FILMS ----------- */
 
 .film-card {
