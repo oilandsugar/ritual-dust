@@ -56,7 +56,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **le diable probablement**, Robert Bresson - 1977
 - [ ] **The Moon and the Sledgehammer**, Philip Trevelyan - 1971
 - [ ] **The Void**, Jeremy Gillespie, Steven Kostanski - 2017
-- [ ] **Psychomania**, Don Sharp - 1973
 - [ ] **The Good, the Bad and the Weird**, Kim Jee-woon - 2008
 
 </div>
@@ -65,6 +64,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Psychomania**, Don Sharp - 1973
 - [x] **Marketa lazarova**, František Vláčil - 1967
 - [x] **Into Eternity**, Michael Madsen - 2010
 - [x] **The Fog**, John Carpenter - 1980
