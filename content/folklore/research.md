@@ -39,6 +39,7 @@ Where I keep my references for folklore, ancestry and magic research
 - [Collection of standing stone photos](https://maenhir.neocities.org/)
 - [A website on mudlarking on the shores of the Thames](https://sites.google.com/site/thamesandfield/home)
 - [A website on misericord carvings](http://www.misericords.org.uk/index.html)
+- [An archive of paintings of megalithic sites](https://archaeologydataservice.ac.uk/archives/view/underhill_na_2004/downloads.cfm)
 
 ### Ancestry
 
