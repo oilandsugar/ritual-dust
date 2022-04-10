@@ -4,7 +4,7 @@ tags = ["tattoo"]
 date = "2022-04-08"
 
 draft = false
-image = ""
+image = "/img/tattoo/flash.jpg"
 desc = "Designs available to tattoo"
 +++
 
@@ -69,5 +69,6 @@ Rituals is a series of flash inspired by folklore and ritual objects and symbols
 <div class="flash"><img src="/img/tattoo/flash/morris-sticks.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/bell.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/coffin.jpg"/></div>
+<div class="flash"><img src="/img/tattoo/flash/grimoire.jpg"/></div>
 
 </div>

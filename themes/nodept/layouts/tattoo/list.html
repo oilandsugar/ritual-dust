@@ -12,6 +12,11 @@
       </div>
       <div class="full-wrap">
         {{ .Content }}
+        <div class="columns-2 big-padding-top">
+        {{ range where .Site.RegularPages "Section" "tattoo" }}
+          {{ partial "projectCard.html" . }}
+        {{ end }}
+        </div>
       </div>
     </article>
   </div>
