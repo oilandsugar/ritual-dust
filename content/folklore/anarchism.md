@@ -56,3 +56,4 @@ This aligns a lot for me with our necessity to re-evaluate how to move forwards 
 - NO! Against Adult Supremacy https://archive.org/details/no-against-adult-supremacy
 - The Descholarized Society - Illych
 - Expect Resistance, To Change Everything, Fighting for our lives - CrimethInc
+- [Intro to Anarchy: power and violence](https://www.youtube.com/watch?v=bCAUmh99hMI)

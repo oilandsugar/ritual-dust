@@ -52,7 +52,7 @@ The armory is an ongoing series of flash of imagined fantasy and historical weap
 <div class="flash"><img src="/img/tattoo/flash/fork.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/farming-tool.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/midsommar-hammer.jpg"/></div>
-<div class="flash"><img src="/img/tattoo/flash/shovel-cross.jpg"/></div>
+<div class="flash taken"><img src="/img/tattoo/flash/shovel-cross.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/clippers.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/shield.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/bow.jpg"/></div>
