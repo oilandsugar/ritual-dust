@@ -42,19 +42,20 @@ _Van power needs total: 1784 Wh_
 
 
 links and resources:  
-[Solar calculator](https://www.parkedinparadise.com/solar-calculator/)  
-[Electrical system design](https://www.cheaprvliving.com/electrical/electricity/)  
-[Another electrical system](https://www.parkedinparadise.com/electrical/)
-[Another electrical system](https://faroutride.com/electrical-system/)
-[12v plugs](https://www.marineoutfitters.ca/index.cfm?category=10002|10378|10368&product=56587211&code=900000001627)
+- [Solar calculator](https://www.parkedinparadise.com/solar-calculator/)  
+- [Electrical system design](https://www.cheaprvliving.com/electrical/electricity/)  
+- [Another electrical system](https://www.parkedinparadise.com/electrical/)
+- [Another electrical system](https://faroutride.com/electrical-system/)
+- [12v plugs](https://www.marineoutfitters.ca/index.cfm?category=10002|10378|10368&product=56587211&code=900000001627)
+- [builditsolar.com](https://www.builditsolar.com/)
 
 ### Water
 
 _Weekly water needs with shower and a sink: 25L_
 
 links and resources:  
-[Water system design](https://faroutride.com/water-system/)  
-[DIY sink](https://vanlifecustoms.com/blog/diysink)
+- [Water system design](https://faroutride.com/water-system/)  
+- [DIY sink](https://vanlifecustoms.com/blog/diysink)
 
 ### Fuel
 
@@ -62,7 +63,7 @@ I currently plan to use propane as fuel for a small stove in the van because of 
 Propane tanks should always be stored outside or in a ventilated compartment for safety.
 
 links and resources:  
-[Propane system design](https://faroutride.com/propane-system/)
+- [Propane system design](https://faroutride.com/propane-system/)
 
 ## Internet
 
@@ -73,15 +74,15 @@ Accessing the internet in a moving vehicule can be tricky, for the van I plan on
 Small wood stoves are really good at heating vans and boats, take into account storage space for wood, matches and fire extinguisher if getting a wood stove. Otherwise propane heaters are the cheapest and most efficient solution.
 
 links and resources:  
-[How to insulate a van](https://www.parkedinparadise.com/insulate-van/)
+- [How to insulate a van](https://www.parkedinparadise.com/insulate-van/)
 
 ### Lighting
 
-I would ideally use warm LED lights for most lighting needs, ideally with dimmers to accomodate our preferences at different moments in the day. In the van  I would use 12v bulbs and lights so they are easier to integrate with the electrical system.
+I would ideally use warm LED lights for most lighting needs, ideally with dimmers to accommodate our preferences at different moments in the day. In the van  I would use 12v bulbs and lights so they are easier to integrate with the electrical system.
 
 Links and resources:  
-[Dimmers](https://ledmontreal.com/en/led-controllers-and-dimmers-led-montreal/b1-4-zone-rf-wall-panel-for-single-color.html)  
-[12v bulbs](https://ledmontreal.com/en/led-light-bulbs-mmr16-gu10-e27-par20/7w-12v-dimmable-e27-led-light-bulb.html)
+- [Dimmers](https://ledmontreal.com/en/led-controllers-and-dimmers-led-montreal/b1-4-zone-rf-wall-panel-for-single-color.html)  
+- [12v bulbs](https://ledmontreal.com/en/led-light-bulbs-mmr16-gu10-e27-par20/7w-12v-dimmable-e27-led-light-bulb.html)
 
 ### computers
 
@@ -95,11 +96,11 @@ My plan for the van project is to have a shower in a cabinet. When closed it cou
 
 I'm thinking of getting or making a composting toilet for the van project, they almost doesn’t smell and with a urine diverter the compostable waste can be disposed of anywhere. In a small vehicule my plan is to combine the shower and toilet space to save space.
 
-[porcelain urine separator](https://urineseparator.com/)
+- [porcelain urine separator](https://urineseparator.com/)
 
 ### Insurance
 
-[Insuring a van](https://faroutride.com/van-insurance-bc/)
+- [Insuring a van](https://faroutride.com/van-insurance-bc/)
 
 ### Safety
 
@@ -113,5 +114,5 @@ I'm thinking of getting or making a composting toilet for the van project, they 
 
 ### Links
 
-[Hundred rabbits on living off-grid](https://100r.co/site/off_the_grid.html)  
-[Tips on van conversion](http://www.campervanman.co.uk/2018/09/23/best-practice-camper-van-conversion-build-tips/)
+- Hundred rabbits on living off-grid](https://100r.co/site/off_the_grid.html)  
+- [Tips on van conversion](http://www.campervanman.co.uk/2018/09/23/best-practice-camper-van-conversion-build-tips/)
