@@ -39,6 +39,7 @@ I see my skin as my personal grimoire, adding to it as I make discoveries, have 
 - [ ] Crossbow
 - [ ] Lord of the rings inspired tattoos
 - [ ] Frame saw
+- [ ] Heraldic griffin on my back
 - [x] GRIMOIRE over knee by myself
 - [x] Two little imps with a trans symbol by myself
 - [x] Sun scythe by myself
