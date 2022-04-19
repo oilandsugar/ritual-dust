@@ -4,7 +4,7 @@ tags = ["notes", "craft", "tattoo"]
 date = "2021-08-14"
 
 desc = "My notes on tattooing tools, technique and safety"
-draft = true
+draft = false
 +++
 
 <div class="table-of-contents">
@@ -126,25 +126,29 @@ Runs slower and has a shorter stroke length in order to make smoother gradients 
 
 ### Inks
 
-Tattoo inks are made from pigments suspended in a liquid.
+TODO
 
 ## Technique
 
-### Skin prep
+### Setting up the station
+
+Before the client even shows up I have to setup my station with my machine and all the supplies i'll need to tattoo, I made a [tattoo station setup and teardown guide](/craft/tattoo-station-setup/) for that.
+
+### Preparing the skin
 
 Before any work can begin, the area of the skin to be tattooed has to be shaved closely and disinfected. This is to avoid pushing hairs or bacteria and viruses that could be living on the skin inside the body and potentially creating infection. It will also prepare the skin to receive the stencil.
 
-### Stencil
+### Preparing and applying the stencil
 
 A stencil is an image used as a reference while tattooing, it can be either drawn freehand with a skin-safe disposable marker or transferred on the skin with stencil paper. Stencil paper can be used with a thermal printer or by hand by drawing over it. Once the skin has been shaved and disinfected, a stencil transfer fluid is applied (I use stencil stuff for that) following it's instructions and then the stencil paper is applied to the skin and held in place until it transfers. For larger stencils it can be useful to dry fit it before and draw little registration marks on the skin and stencil in order to put it back to the good location. If the stencil isn't applied correctly it can be removed with rubbing alcohol and applied again.
 
 ### Lining
 
-Once the stencil applied
+TODO
 
 ### Shading
 
-Once the lines completed, if the tattoo has any shaded areas,
+TODO
 
 ## Safety
 
