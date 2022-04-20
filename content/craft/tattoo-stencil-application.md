@@ -40,14 +40,14 @@ draft = false
 
 <h3>Step 2: Copy stencil with a thermal stencil machine</h3>
 
-<ul>
+<ol>
 <li>Once the good size was found, tape the design on a blank sheet of paper, leaving some room at the bottom</li>
 <li>Get a sheet of stencil paper and remove the tissue paper barrier</li>
 <li>Place the stencil paper in the machine</li>
 <li>Place the sheet with the design in the machine</li>
 <li>Press copy and hold the stencil paper with both hands slowly pulling on it while it copies the design</li>
 <li>Once the copy is done cut around the stencil and place it onto the tattoo bed, stencil side up</li>
-</ul>
+</ol>
 
 </div>
 
@@ -55,15 +55,15 @@ draft = false
 
 ### Step 3: Prep skin</h3>
 
-- Wash your hands and put on some gloves
-- Take your razor and shave very closely the area you're gonna tattoo + around 2 inches
-- After the skin is shaved, use an alcohol pad or prep stuff to sterilize the skin
+1. Wash your hands and put on some gloves
+2. Take your razor and shave very closely the area you're gonna tattoo + around 2 inches
+3. After the skin is shaved, use an alcohol pad or prep stuff to sterilize the skin
 
 ### Step 4: Apply stencil
 
-- Once the alcohol has dried, apply a moderately generous amount of stencil stuff to the area, spreading it with your finger to get an even thin coat
-- Hold the stencil over the area and when really sure of placement apply it onto the skin starting from the middle
-- Slowly stick the rest of the stencil to the skin with your finger working from the middle towards the outside
-- Rub it slightly when it's all stuck to the skin
-- Slowly peel the stencil off
-- Leave to dry for around 10 minutes
+1. Once the alcohol has dried, apply a moderately generous amount of stencil stuff to the area, spreading it with your finger to get an even thin coat
+2. Hold the stencil over the area and when really sure of placement apply it onto the skin starting from the middle
+3. Slowly stick the rest of the stencil to the skin with your finger working from the middle towards the outside
+4. Rub it slightly when it's all stuck to the skin
+5. Slowly peel the stencil off
+6. Leave to dry for around 10 minutes
