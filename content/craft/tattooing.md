@@ -93,6 +93,7 @@ There is coil machines and rotary machines. Coil machines use electromagnets in 
 More and more, tattoo artists are moving from using coil machines to using rotary machines, the main advantages being ease of setup and tuning, reduced noise and vibration and ability to use needle cartridge and change needles easily on the same machine during a session. The rest of this guide will be oriented towards rotary machines.
 
 Machine accessories to keep in stock:
+- disposable grips
 - Rubber nipples (to connect the needle to the bar)
 - Machine bags
 - Cable bags
@@ -134,13 +135,11 @@ TODO
 
 Before the client even shows up I have to setup my station with my machine and all the supplies i'll need to tattoo, I made a [tattoo station setup and teardown guide](/craft/tattoo-station-setup/) for that.
 
-### Preparing the skin
+### Preparing the skin and applying the stencil
 
 Before any work can begin, the area of the skin to be tattooed has to be shaved closely and disinfected. This is to avoid pushing hairs or bacteria and viruses that could be living on the skin inside the body and potentially creating infection. It will also prepare the skin to receive the stencil.
 
-### Preparing and applying the stencil
-
-A stencil is an image used as a reference while tattooing, it can be either drawn freehand with a skin-safe disposable marker or transferred on the skin with stencil paper. Stencil paper can be used with a thermal printer or by hand by drawing over it. Once the skin has been shaved and disinfected, a stencil transfer fluid is applied (I use stencil stuff for that) following it's instructions and then the stencil paper is applied to the skin and held in place until it transfers. For larger stencils it can be useful to dry fit it before and draw little registration marks on the skin and stencil in order to put it back to the good location. If the stencil isn't applied correctly it can be removed with rubbing alcohol and applied again.
+A stencil is an image used as a reference while tattooing, it can be either drawn freehand with a skin-safe disposable marker or transferred on the skin with stencil paper. Stencil paper can be used with a thermal printer or by hand by drawing over it. I made a [tattoo stencil guide](/craft/tattoo-stencil-application/) that details the steps in making one and applying it.
 
 ### Lining
 
