@@ -46,6 +46,7 @@ I am part of the Montréal interactive community and I've done [talks](/about/ta
 - Hex Ritual
 - Foulest Witch
 - Library of the Occult
+- Aura Merlin
 
 </div>
 
