@@ -40,6 +40,7 @@ Where I keep my references for folklore, ancestry and magic research
 - [A website on mudlarking on the shores of the Thames](https://sites.google.com/site/thamesandfield/home)
 - [A website on misericord carvings](http://www.misericords.org.uk/index.html)
 - [An archive of paintings of megalithic sites](https://archaeologydataservice.ac.uk/archives/view/underhill_na_2004/downloads.cfm)
+- [Place names in reland](https://en.wikipedia.org/wiki/Place_names_in_Ireland)
 
 ### Ancestry
 
