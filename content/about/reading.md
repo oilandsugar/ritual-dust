@@ -44,9 +44,11 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **Voyage au centre de la terre**, Jules Verne
 - [ ] **The Book of Trespass**, Nick Hayes
 - [ ] **Timber Frame Construction**, Jack Sobon & Roger Schroeder
+- [ ] **Books by Wendell Berry**
 
 #### 2022
 
+- [ ] **A Pattern Language**, Christopher Alexander
 - [ ] **The Dawn of Everything**, David Graeber & David wengrow
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
 - [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others

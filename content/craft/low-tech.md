@@ -16,13 +16,22 @@ Since I was a kid I was curious about how things worked, from synthesizers and c
 
 I can imagine a future where small communities have integrated craft and functional and critical design and engineering in order to become more resilient, reduce their technological waste and teach these skills to children.
 
-### Resources, inspiration and further reading
+## Examples of low-tech technology
 
-[Ressources pour l'écoconception et la sobriete numerique](https://www.pikselkraft.com/les-ressources-pour-l-ecoconception-et-la-sobriete-numerique)
-[CollapseOS](https://collapseos.org/)
-[Notes on permacomputing](http://viznut.fi/texts-en/permacomputing.html)
-[Sustainable interaction design principles](https://branch.climateaction.tech/issues/issue-1/designing-branch-sustainable-interaction-design-principles/)  
-[Designing for low bandwidth](https://diff.wikimedia.org/2017/11/07/designing-for-low-bandwidth/)  
-[Low tech lab](https://wiki.lowtechlab.org/wiki/Accueil)  
-[https://simplifier.neocities.org/](https://simplifier.neocities.org/)  
-[Long-termism on XXIIVV](https://wiki.xxiivv.com/site/longtermism.html)
+### Pedal-powered machines
+
+People have been making pedal powered machines almost since bikes were a thing, most machines working with a rotational movement or reciprocal movement is a good fit for that kind of energy. The idea being, having a frame with a seat, pedals, gears and often a flywheel (to even out the rotation and multiply the energy generated) that transfer human energy to a rotating shaft which is then attached to the machine directly to make it spin or via a cam mechanism to transform rotation into reciprocal movement.
+
+- [Plenty of pedal-powered machine projects](http://cheminsdefaire.fr/nos-projets/)
+
+## Resources, inspiration and further reading
+
+- [Ressources pour l'écoconception et la sobriete numerique](https://www.pikselkraft.com/les-ressources-pour-l-ecoconception-et-la-sobriete-numerique)
+- [CollapseOS](https://collapseos.org/)
+- [Notes on permacomputing](http://viznut.fi/texts-en/permacomputing.html)
+- [Sustainable interaction design principles](https://branch.climateaction.tech/issues/issue-1/designing-branch-sustainable-interaction-design-principles/)  
+- [Designing for low bandwidth](https://diff.wikimedia.org/2017/11/07/designing-for-low-bandwidth/)  
+- [Low tech lab](https://wiki.lowtechlab.org/wiki/Accueil)  
+- [https://simplifier.neocities.org/](https://simplifier.neocities.org/)  
+- [Long-termism on XXIIVV](https://wiki.xxiivv.com/site/longtermism.html)
+- [Wild Human Life, nomadic low-tech studio](https://wildhumanlife.fr/)
