@@ -44,6 +44,8 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **The Book of Trespass**, Nick Hayes
 - [ ] **Timber Frame Construction**, Jack Sobon & Roger Schroeder
 - [ ] **Social ecology**, Murray Bookchin
+- [ ] **Small is beautiful**, Ernst F. Schumacher
+- [ ] **Always coming home**, Ursula K. Le Guin
 - [ ] **What are people for** Wendell Berry
 - [ ] **The one straw revolution**, Masanobu Fukuoka
 
