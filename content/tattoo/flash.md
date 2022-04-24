@@ -15,6 +15,8 @@ The armory is an ongoing series of flash of imagined fantasy and historical weap
 <div class="armory flash-sheet">
 
 <div class="flash"><img src="/img/tattoo/flash/celtic-dagger.jpg"/></div>
+<div class="flash"><img src="/img/tattoo/flash/dagger-sheat.jpg"/></div>
+<div class="flash"><img src="/img/tattoo/flash/dagger-sheath-2.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/cimitar.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/main-gauche.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/fire-sword.jpg"/></div>
@@ -41,6 +43,7 @@ The armory is an ongoing series of flash of imagined fantasy and historical weap
 <div class="flash"><img src="/img/tattoo/flash/orc-weapon-2.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/spiky-mace.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/board-with-nails.jpg"/></div>
+<div class="flash"><img src="/img/tattoo/flash/club.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/skull-mace.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/weird-halberd.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/long-axe.jpg"/></div>
@@ -56,6 +59,7 @@ The armory is an ongoing series of flash of imagined fantasy and historical weap
 <div class="flash"><img src="/img/tattoo/flash/clippers.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/shield.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/bow.jpg"/></div>
+<div class="flash"><img src="/img/tattoo/flash/crossbow.jpg"/></div>
 
 </div>
 
@@ -70,5 +74,9 @@ Rituals is a series of flash inspired by folklore and ritual objects and symbols
 <div class="flash"><img src="/img/tattoo/flash/bell.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/coffin.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/grimoire.jpg"/></div>
+<div class="flash"><img src="/img/tattoo/flash/lantern.jpg"/></div>
+<div class="flash"><img src="/img/tattoo/flash/talharpa.jpg"/></div>
+<div class="flash"><img src="/img/tattoo/flash/bone-flute.jpg"/></div>
+<div class="flash"><img src="/img/tattoo/flash/brass-horn.jpg"/></div>
 
 </div>
