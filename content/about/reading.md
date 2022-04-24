@@ -40,11 +40,12 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **The Book of Tea**, Okakura Kakuzō
 - [ ] **Pacific Edge**, Kim Stanley Robinson
 - [ ] **CAPS LOCK (How Capitalism Took Hold of Graphic Design, and how to Escape it)**, Ruben Pater
-- [ ] **The one straw revolution**, Masanobu Fukuoka
 - [ ] **Voyage au centre de la terre**, Jules Verne
 - [ ] **The Book of Trespass**, Nick Hayes
 - [ ] **Timber Frame Construction**, Jack Sobon & Roger Schroeder
-- [ ] **Books by Wendell Berry**
+- [ ] **Social ecology**, Murray Bookchin
+- [ ] **What are people for** Wendell Berry
+- [ ] **The one straw revolution**, Masanobu Fukuoka
 
 #### 2022
 
