@@ -4,7 +4,6 @@ tags = ["politics", "anarchism", "sustainability"]
 date = "2022-04-07"
 image = "/img/folklore/post-civ-anarchism-cover.jpg"
 
-draft = false
 +++
 
 Post Civilization is an idea that I've first encountered when I was about 18, still in university, very much a self-described anarchist and at the time quite active in the student movements. Revisiting this idea of a way of living post-civilization that is more sustainable, more equal and more fulfilling still rings true 14 years later with the current climate crisis and the constant train wreck of late-stage capitalism.

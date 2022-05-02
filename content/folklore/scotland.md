@@ -9,6 +9,9 @@ desc = "Nature, architecture and haunted places."
 
 Nature, architecture and haunted places.
 
+
+
+
 ![The Mountains surrounding the Loch Ness](/img/photo/scotland/DSC06677.jpg "The Mountains surrounding the Loch Ness")
 ![Edinburgh castle from below](/img/photo/scotland/DSC06418.jpg "Edinburgh castle from below")
 ![A dirt path in a field going into a dark forest](/img/photo/scotland/DSC06655.jpg "A dirt path in a field going into a dark forest")

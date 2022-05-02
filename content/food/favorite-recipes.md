@@ -99,6 +99,8 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Mushroom lentil loaf" link="http://pumpkinandpeanutbutter.com/2015/03/19/mushroom-lentil-loaf/" image="/img/recipes/favorites/lentil-loaf.jpg" >}}
 {{< recipe name="Corn Pone" link="https://grimgrains.com/site/corn_pone.html" image="/img/recipes/favorites/corn-pone.jpg" >}}
 {{< recipe name="Hard tacos with beyond meat" link="https://www.trifectanutrition.com/blog/the-only-vegan-taco-recipe-youll-ever-need" image="/img/recipes/favorites/hard-tacos.jpg" >}}
+{{< recipe name="Lentils and mushrooms on mashed potatoes" link="https://www.budgetbytes.com/lentils-with-creamy-mushroom-gravy/" image="/img/recipes/favorites/lentils-mushrooms-mash.jpg" >}}
+{{< recipe name="Quiche" link="https://www.bbcgoodfood.com/recipes/vegan-spinach-cherry-tomato-quiche" image="/img/recipes/favorites/quiche.jpg" >}}
 
 {{% /columns %}}
 

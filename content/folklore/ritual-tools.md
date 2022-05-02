@@ -21,3 +21,5 @@ This page collects research and personal notes on how I use a selection of ritua
 ### Cup
 
 ### Bells
+
+### Grimoire

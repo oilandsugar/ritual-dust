@@ -12,6 +12,8 @@ Here is my ever-growing collection of wyrd terms collected online, in books and 
 
 {{< entry term="ANTHROPODERMIC BIBLIOPEGY" definition="The practice of binding books in human skin." >}}
 
+{{< entry term="APOTROPAIC" definition="Intended or having powers to ward off evil." >}}
+
 {{< entry term="ARBORGLYPH" definition="The carving of shapes and symbols in the bark of living trees." >}}
 
 {{< entry term="TO DITHER" definition="To tremble of shiver with cold (provincialism from Yorkshire)." >}}

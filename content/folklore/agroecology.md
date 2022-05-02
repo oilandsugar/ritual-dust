@@ -5,7 +5,6 @@ date = "2022-03-25"
 
 image = "/img/folklore/rewilding.jpg"
 desc = "Notes and approaches for living and cultivating on the land that are more aligned with existing ecosystems"
-draft = false
 +++
 
 ![Small stream with native plants and logs](/img/folklore/rewilding.jpg "Small stream with native plants and logs")
