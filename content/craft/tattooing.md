@@ -117,6 +117,14 @@ Runs slower and has a shorter stroke length in order to make smoother gradients 
 <summary><h4>Color-packer</h4></summary>
 </details>
 
+**Vlad Blad Avenger 2 pro stroke and voltage cheat sheet**
+
+Small lines (under 7 RL): 4.2 stroke at 7V
+Big lines (7 RL and up): 4.7 stroke at 7V
+Stipple and whip shading: 4.7 or 5.5 stroke at 3.5V
+Smooth shading:
+Color packing:
+
 ## Supplies
 
 <div class="table-of-contents">
