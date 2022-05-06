@@ -38,6 +38,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Codex 99](http://codex99.com/archive.html)
 - [The Tolkien Gateway](http://tolkiengateway.net/)
 - [Vladh](https://vladh.net/)
+- [Sanguinaria Canadendis](https://sanguinariacanadensis.neocities.org/)
 
 ### Zines and publications
 
