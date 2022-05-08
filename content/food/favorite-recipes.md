@@ -101,6 +101,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Hard tacos with beyond meat" link="https://www.trifectanutrition.com/blog/the-only-vegan-taco-recipe-youll-ever-need" image="/img/recipes/favorites/hard-tacos.jpg" >}}
 {{< recipe name="Lentils and mushrooms on mashed potatoes" link="https://www.budgetbytes.com/lentils-with-creamy-mushroom-gravy/" image="/img/recipes/favorites/lentils-mushrooms-mash.jpg" >}}
 {{< recipe name="Quiche" link="https://www.bbcgoodfood.com/recipes/vegan-spinach-cherry-tomato-quiche" image="/img/recipes/favorites/quiche.jpg" >}}
+{{< recipe name="Fish and chips" link="https://www.messyvegancook.com/beer-battered-vegan-fish-sandwiches-with-homemade-vegan-tartar-sauce/" image="/img/recipes/favorites/fish-and-chips.jpg" >}}
 
 {{% /columns %}}
 
