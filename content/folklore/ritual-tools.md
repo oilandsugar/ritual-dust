@@ -18,6 +18,8 @@ This page collects research and personal notes on how I use a selection of ritua
 
 ### Stang
 
+- [Wonderful article on the history and usages of the stang](https://www.patheos.com/blogs/byathameandstang/2016/08/the-stang/)
+
 ### Cup
 
 ### Bells

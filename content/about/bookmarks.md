@@ -52,6 +52,10 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Black Panels Only](https://tommycreep.bandcamp.com/merch)
 - [Fantômes](https://fantomeszine.com/)
 
+### Blogs
+
+- [By Athame and Stang](https://www.patheos.com/blogs/byathameandstang/)
+
 ### Bookstores and publishers
 #### Occult books
 

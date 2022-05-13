@@ -48,6 +48,7 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **Always coming home**, Ursula K. Le Guin
 - [ ] **What are people for** Wendell Berry
 - [ ] **The one straw revolution**, Masanobu Fukuoka
+- [ ] **Blood and Mistletoe: The History of the Druids in Britain**, Ronald Hutton
 
 #### 2022
 
