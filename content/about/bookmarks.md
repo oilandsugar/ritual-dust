@@ -5,7 +5,7 @@ weight = 5
 tags = ["bookmarks"]
 +++
 
-  ![Castle ruins in Scotland, a reminder that nothing last forever, especially links](/img/about/bookmarks.jpg "Castle ruins in Scotland, a reminder that nothing last forever, especially links")
+![Castle ruins in Scotland, a reminder that nothing last forever, especially links](/img/about/bookmarks.jpg "Castle ruins in Scotland, a reminder that nothing last forever, especially links")
 
 My bookmarks of interesting / useful / beautiful websites. I've also included some links to my topic specific lists of resources at the end of this page. Most of the links on this page were first saved in my local notes on my computer then moved in one of those pages on here.
 
@@ -55,6 +55,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 ### Blogs
 
 - [By Athame and Stang](https://www.patheos.com/blogs/byathameandstang/)
+- [Eve Harms's blog](https://eveharms.com/category/blog/)
 
 ### Bookstores and publishers
 #### Occult books
