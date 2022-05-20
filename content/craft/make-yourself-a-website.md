@@ -2,9 +2,7 @@
 title = "Make yourself a website"
 tags = ["craft", "notes", "website"]
 date = "2021-07-26"
-
 desc = "Escape the boring and controlling grid of social media and give your words, your work and yourself a better place to live on the web"
-weight = 2
 +++
 
 <div class="table-of-contents">
@@ -33,29 +31,32 @@ Want to read more about this side of the web, I got you covered:
 ---
 
 ## A list of interesting websites to get lost in:  
-[My friend Devine's wiki](https://wiki.xxiivv.com/site/home.html)  
-[Clement Scott's wiki](https://nchrs.xyz/site/home.html)  
-[Buster Benson's wiki](https://notes.busterbenson.com/)  
-[Thomasorus's website](https://thomasorus.com/home.html)  
-[Gordon Brander patterns](http://gordonbrander.com/pattern/)  
-[Tom Critchlow's digital garden](https://tomcritchlow.com/wiki/)  
-[A digital pillow fort](https://eli.li/)  
-[This one is almost a game, it's fascinating](https://sixey.es/crystal/)  
-[Fragment scenario](http://fragmentscenario.com/index.html)  
-[Mineral existence](https://mineralexistence.com/)  
-[Novov's website](https://novov.me/index.html)  
-[Maya.land](https://maya.land/)  
-[One of my favorite clothing brand's website, worth to explore](https://online-ceramics.com/)  
-[Sunday sites, a good place to get started](https://sundaysites.cafe/index.html)  
-[A list of magical script fonts, I mean how cool is this](http://www.geocities.ws/nu_isis/fonts.html)
+
+- [My friend Devine's wiki](https://wiki.xxiivv.com/site/home.html)  
+- [Clement Scott's wiki](https://nchrs.xyz/site/home.html)  
+- [Buster Benson's wiki](https://notes.busterbenson.com/)  
+- [Thomasorus's website](https://thomasorus.com/home.html)  
+- [Gordon Brander patterns](http://gordonbrander.com/pattern/)  
+- [Tom Critchlow's digital garden](https://tomcritchlow.com/wiki/)  
+- [A digital pillow fort](https://eli.li/)  
+- [This one is almost a game, it's fascinating](https://sixey.es/crystal/)  
+- [Fragment scenario](http://fragmentscenario.com/index.html)  
+- [Mineral existence](https://mineralexistence.com/)  
+- [Novov's website](https://novov.me/index.html)  
+- [Maya.land](https://maya.land/)  
+- [One of my favorite clothing brand's website, worth to explore](https://online-ceramics.com/)  
+- [Sunday sites, a good place to get started](https://sundaysites.cafe/index.html)  
+- [A list of magical script fonts, I mean how cool is this](http://www.geocities.ws/nu_isis/fonts.html)
 
 ---
 
 ## Practical knowledge to get you started:  
-[A cool webzine on how to make a website from scratch](https://solarpunk.cool/zines/web-zine-01/table-of-contents.html)  
-[Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)  
-[Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)  
-[A visual reference for CSS](https://cssreference.io/)  
-[HTML tips from Thomasorus](https://thomasorus.com/html-tips.html)  
-[Host a website on glitch](https://glitch.com/create-project) - a simple hosting platform for static websites, also has a built-in editor
-[Deploying a static site on digital ocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-website-to-the-cloud-with-digitalocean-app-platform) - i feel this is still over-complicated for beginners, i'll try to find the equivalent of what I had as a teen: logging on my friend's server with ftp and dumping my files
+
+- [A cool webzine on how to make a website from scratch](https://solarpunk.cool/zines/web-zine-01/table-of-contents.html)  
+- [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)  
+- [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)  
+- [A visual reference for CSS](https://cssreference.io/)  
+- [HTML tips from Thomasorus](https://thomasorus.com/html-tips.html)  
+- [Host a website on glitch](https://glitch.com/create-project) - a simple hosting platform for static websites, also has a built-in editor
+- [Deploying a static site on digital ocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-website-to-the-cloud-with-digitalocean-app-platform) - i feel this is still over-complicated for beginners, i'll try to find the equivalent of what I had as a teen: logging on my friend's server with ftp and dumping my files
+- [Lichen, a tiny CMS](https://lichen.sensorstation.co/)
