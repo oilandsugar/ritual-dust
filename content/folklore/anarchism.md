@@ -39,7 +39,7 @@ It also defines the core values of post-civ anarchism as follows:
 >- Ecological Harmony & Stewardship
 >- Permaculture
 
-This aligns a lot for me with our necessity to re-evaluate how to move forwards as a species without destroying ourselves and our environment, it aligns with my beliefs that [low-tech and appropriate technology](http://localhost:1313/craft/low-tech/) is the way forward, that [agroecology and permaculture](http://localhost:1313/folklore/agroecology/) are better ways of growing our food and cultivating the plants we need, it aligns with my yearning for a re-enchanted world, one filled with stories, folklore and customs that enrich everyday life, that uplifts the most vulnerable, promote more healthy ways of connecting with our feelings, with each others and with the people who came before us.
+This aligns a lot for me with our necessity to re-evaluate how to move forwards as a species without destroying ourselves and our environment, it aligns with my beliefs that [low-tech and appropriate technology](/craft/low-tech/) is the way forward, that [agroecology and permaculture](/folklore/agroecology/) are better ways of growing our food and cultivating the plants we need, it aligns with my yearning for a re-enchanted world, one filled with stories, folklore and customs that enrich everyday life, that uplifts the most vulnerable, promote more healthy ways of connecting with our feelings, with each others and with the people who came before us.
 
 ## Anarchist reading list
 
