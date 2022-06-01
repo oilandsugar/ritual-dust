@@ -104,6 +104,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Maria Chronopoulos](http://mariachronopoulos.com/)
 - [Karl Wennergren](https://www.karlwennergren.com/)
 - [Larry MacDougal](https://larrymacdougallart.bigcartel.com/)
+- [Jesse Bransford](https://www.jessebransford.com/)
 
 ### Tattoo artists
 
