@@ -105,6 +105,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Karl Wennergren](https://www.karlwennergren.com/)
 - [Larry MacDougal](https://larrymacdougallart.bigcartel.com/)
 - [Jesse Bransford](https://www.jessebransford.com/)
+- [halfhidden](https://halfhidden.co/)
 
 ### Tattoo artists
 
