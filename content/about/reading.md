@@ -49,6 +49,7 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **What are people for** Wendell Berry
 - [ ] **The one straw revolution**, Masanobu Fukuoka
 - [ ] **Blood and Mistletoe: The History of the Druids in Britain**, Ronald Hutton
+- [ ] **The Future Is Degrowth**, Matthias Schmelzer, Aaron Vansintjan, and Andrea Vetter
 
 #### 2022
 
@@ -74,8 +75,8 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 </div>
 
->"He saw the Expriest stumbling across the bones and holding aloft a cross he’d fashioned out of the shins of a ram and he’d lashed them together with strips of hide and he was holding the thing before him like some mad dowser in the bleak of desert and calling out in a tongue both alien and extinct"
--- Cormac McCarthy in Blood Meridian
+> "He saw the Expriest stumbling across the bones and holding aloft a cross he’d fashioned out of the shins of a ram and he’d lashed them together with strips of hide and he was holding the thing before him like some mad dowser in the bleak of desert and calling out in a tongue both alien and extinct"
+> -- Cormac McCarthy in Blood Meridian
 
 ### Zines
 
