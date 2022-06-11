@@ -73,7 +73,7 @@ Rituals is a series of flash inspired by folklore and ritual objects and symbols
 <div class="flash"><img src="/img/tattoo/flash/morris-sticks.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/bell.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/coffin.jpg"/></div>
-<div class="flash"><img src="/img/tattoo/flash/grimoire.jpg"/></div>
+<div class="flash taken"><img src="/img/tattoo/flash/grimoire.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/lantern.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/talharpa.jpg"/></div>
 <div class="flash"><img src="/img/tattoo/flash/bone-flute.jpg"/></div>
