@@ -49,7 +49,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Grimoire Silvanus](https://grimoiresilvanus.bigcartel.com/)
 - [Becoming the Forest](https://becomingtheforest.bigcartel.com/)
 - [Feed the Beast](https://www.instagram.com/feedthebeast_fanzine/)
-- [Black Panels Only](https://tommycreep.bandcamp.com/merch)
+- [Black Panels Only](https://blackpanelsonly.com/)
 - [Fantômes](https://fantomeszine.com/)
 
 ### Blogs
@@ -58,6 +58,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Eve Harms's blog](https://eveharms.com/category/blog/)
 
 ### Bookstores and publishers
+
 #### Occult books
 
 - [Rahus Press](http://raphuspress.weebly.com/)
@@ -87,7 +88,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Ubuweb](https://ubuweb.com/film/index.html)
 - [Teagan White](https://www.teaganwhite.com/)
 - [Adam Robert Martin (Art of Lore)](https://oflore.art/)
-- [ﻝᵤｌԁ𝖆 ቡﺄⱬ𝑊𝖆𝗋𝖆](https://manuscriptmedieval.bigcartel.com/)
+- [ﻝᵤ ｌ ԁ𝖆 ቡﺄⱬ𝑊𝖆𝗋𝖆](https://manuscriptmedieval.bigcartel.com/)
 - [Karmazid](https://www.karmazid.com/)
 - [Moritz Brebs](https://instagram.com/blackcrabart)
 - [Vladimir Chebakov](https://instagram.com/vladimirchebakov)
@@ -162,6 +163,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [An anarchist FAQ](https://www.anarchistfaq.org/afaq/)
 
 ### Internet and code
+
 - [Tufte css, css classes inspired by book design](https://edwardtufte.github.io/tufte-css/)
 - [Every layout](https://every-layout.dev/)
 
