@@ -20,43 +20,44 @@ Then came adulthood and getting a job. At that point I had been messing around o
 
 Up until I joined the [Merveilles community](https://merveilles.town/) again and rediscovered that web. The wild web of weird personal websites, [webrings](https://webring.xxiivv.com/#random) and [wikis](https://wiki.xxiivv.com/site/about.html). Not only did it brought back that creativity and inspiration to create on the web in a more personal manner, I also realized that this corner of the web, even if it had shrunk since my childhood, had developed some new branches: [digital gardens](https://tomcritchlow.com/2019/02/17/building-digital-garden/), [websites built like a flow of thoughts](http://npanzer.com/bog/cirzi.html) or [list of links](http://daywreckers.com/), [free-form websites](https://www.cellestialstudios.com/), and explored new considerations: low-bandwidth and highly accessible websites, [energy-aware websites](https://branch.climateaction.tech/), [net art](http://archive.rhizome.org/), and more. I'm still discovering new interesting websites by the day through talking with people on mastodon and going down link rabbit holes and then I keep up to date with them through the use of a RSS feed reader, an old piece of technology that gives me what those social media timelines should, The latest from the websites and people I care about.
 
-So, all that story to tell you: make yourself a website, start small, you'll  need a text editor and some [knowledge of HTML and CSS](#practical-knowledge-to-get-you-started). I recognize that I'm quite privileged to have known a simpler and easier to grasp web and probably a lot of the people who might read that will have trouble imagining what it looks like. I've included a list of [interesting websites](#a-list-of-interesting-websites-to-get-lost-in) to give you ideas, I really recommend right-clicking on them and clicking on the "inspect" option, you can see the building blocks of all websites that way. Otherwise, don’t bother looking into static site builders until your website has grown enough that manually uploading your files becomes too much work. Stay away from design trends articles and the big blogs, instead spend time with yourself and the code and figure out what a website means to you. And as soon as you can, put it out there and link it to other websites.
+So, all that story to tell you: make yourself a website, start small, you'll need a text editor and some [knowledge of HTML and CSS](#practical-knowledge-to-get-you-started). I recognize that I'm quite privileged to have known a simpler and easier to grasp web and probably a lot of the people who might read that will have trouble imagining what it looks like. I've included a list of [interesting websites](#a-list-of-interesting-websites-to-get-lost-in) to give you ideas, I really recommend right-clicking on them and clicking on the "inspect" option, you can see the building blocks of all websites that way. Otherwise, don’t bother looking into static site builders until your website has grown enough that manually uploading your files becomes too much work. Stay away from design trends articles and the big blogs, instead spend time with yourself and the code and figure out what a website means to you. And as soon as you can, put it out there and link it to other websites.
 
 Want to read more about this side of the web, I got you covered:  
 [My website is a shifting house next to a river of knowledge. What could yours be?](https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/) - a beautiful and inspiring essay on what website can look like
 
->"But on a more communal level, I suspect that cultures of digital detox — in >suggesting that the online world is inherently corrupting and cannot be >improved — discourage us from seeking alternative models for what the internet >could look like."  
->-- Lauren Collee, from https://reallifemag.com/the-great-offline/
+> "But on a more communal level, I suspect that cultures of digital detox — in >suggesting that the online world is inherently corrupting and cannot be >improved — discourage us from seeking alternative models for what the internet >could look like."  
+> -- Lauren Collee, from https://reallifemag.com/the-great-offline/
 
 ---
 
-## A list of interesting websites to get lost in:  
+## A list of interesting websites to get lost in:
 
-- [My friend Devine's wiki](https://wiki.xxiivv.com/site/home.html)  
-- [Clement Scott's wiki](https://nchrs.xyz/site/home.html)  
-- [Buster Benson's wiki](https://notes.busterbenson.com/)  
-- [Thomasorus's website](https://thomasorus.com/home.html)  
-- [Gordon Brander patterns](http://gordonbrander.com/pattern/)  
-- [Tom Critchlow's digital garden](https://tomcritchlow.com/wiki/)  
-- [A digital pillow fort](https://eli.li/)  
-- [This one is almost a game, it's fascinating](https://sixey.es/crystal/)  
-- [Fragment scenario](http://fragmentscenario.com/index.html)  
-- [Mineral existence](https://mineralexistence.com/)  
-- [Novov's website](https://novov.me/index.html)  
-- [Maya.land](https://maya.land/)  
-- [One of my favorite clothing brand's website, worth to explore](https://online-ceramics.com/)  
-- [Sunday sites, a good place to get started](https://sundaysites.cafe/index.html)  
+- [My friend Devine's wiki](https://wiki.xxiivv.com/site/home.html)
+- [Clement Scott's wiki](https://nchrs.xyz/site/home.html)
+- [Buster Benson's wiki](https://notes.busterbenson.com/)
+- [Thomasorus's website](https://thomasorus.com/home.html)
+- [Gordon Brander patterns](http://gordonbrander.com/pattern/)
+- [Tom Critchlow's digital garden](https://tomcritchlow.com/wiki/)
+- [A digital pillow fort](https://eli.li/)
+- [This one is almost a game, it's fascinating](https://sixey.es/crystal/)
+- [Fragment scenario](http://fragmentscenario.com/index.html)
+- [Mineral existence](https://mineralexistence.com/)
+- [Novov's website](https://novov.me/index.html)
+- [Maya.land](https://maya.land/)
+- [One of my favorite clothing brand's website, worth to explore](https://online-ceramics.com/)
+- [Sunday sites, a good place to get started](https://sundaysites.cafe/index.html)
 - [A list of magical script fonts, I mean how cool is this](http://www.geocities.ws/nu_isis/fonts.html)
 
 ---
 
-## Practical knowledge to get you started:  
+## Practical knowledge to get you started:
 
-- [A cool webzine on how to make a website from scratch](https://solarpunk.cool/zines/web-zine-01/table-of-contents.html)  
-- [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)  
-- [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)  
-- [A visual reference for CSS](https://cssreference.io/)  
-- [HTML tips from Thomasorus](https://thomasorus.com/html-tips.html)  
+- [A cool webzine on how to make a website from scratch](https://solarpunk.cool/zines/web-zine-01/table-of-contents.html)
+- [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
+- [A visual reference for CSS](https://cssreference.io/)
+- [HTML tips from Thomasorus](https://thomasorus.com/html-tips.html)
+- [Neocities](https://neocities.org/) - a hosting platform for small sites with a built-in editor in the style of the geocities of yore
 - [Host a website on glitch](https://glitch.com/create-project) - a simple hosting platform for static websites, also has a built-in editor
 - [Deploying a static site on digital ocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-website-to-the-cloud-with-digitalocean-app-platform) - i feel this is still over-complicated for beginners, i'll try to find the equivalent of what I had as a teen: logging on my friend's server with ftp and dumping my files
 - [Lichen, a tiny CMS](https://lichen.sensorstation.co/)
