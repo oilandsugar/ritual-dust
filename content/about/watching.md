@@ -5,7 +5,7 @@ weight = 3
 tags = ["movies", "films"]
 +++
 
-  ![Still from the opening sequence of the wicker man](/img/about/watching.jpg "Still from the opening sequence of the wicker man")
+![Still from the opening sequence of the wicker man](/img/about/watching.jpg "Still from the opening sequence of the wicker man")
 
 This is my movie watchlist, I keep it yearly, highlight the movies that really stayed with me and keep the movies that really impacted me in the [films section](/about/films).
 
@@ -65,6 +65,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Microcosmos**, Claude Nuridsany, Marie Pérennou - 1996
 - [x] **Psychomania**, Don Sharp - 1973
 - [x] **Marketa lazarova**, František Vláčil - 1967
 - [x] **Into Eternity**, Michael Madsen - 2010
@@ -139,7 +140,7 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 <div class="checklist">
 
-  - [x] **La Casa Lobo**, Joaquín Cociña - 2018
+- [x] **La Casa Lobo**, Joaquín Cociña - 2018
 - [x] **A Dark Song**, Liam Gavin - 2016
 - [x] **Friday the 13th**, Sean S. Cunningham - 1980
   - [x] **Nostalghia**, Andrei Tarkovsky - 1983
@@ -199,8 +200,8 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 <div class="checklist">
 
-  - [x] **Hereditary**, Ari Aster - 2018
-  - [x] **Häxan**, Benjamin Christensen - 1922
+- [x] **Hereditary**, Ari Aster - 2018
+- [x] **Häxan**, Benjamin Christensen - 1922
 
 </div>
 
@@ -219,11 +220,10 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 <div class="checklist">
 
-  - [x] **Mad Max: Furry Road**, George Miller - 2015
-  - [x] **The VVitch**, Robbert Eggers - 2015
+- [x] **Mad Max: Furry Road**, George Miller - 2015
+- [x] **The VVitch**, Robbert Eggers - 2015
 
 </div>
 
-
->"I don’t know why people expect art to make sense when they accept that life doesn’t make sense"  
-<small>- David Lynch</small>
+> "I don’t know why people expect art to make sense when they accept that life doesn’t make sense"  
+> <small>- David Lynch</small>
