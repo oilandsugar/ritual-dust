@@ -53,6 +53,7 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 #### 2022
 
+- [x] **The Empire of the Necromancers**, Clark Ashton Smith
 - [ ] **A Pattern Language**, Christopher Alexander
 - [ ] **The Dawn of Everything**, David Graeber & David wengrow
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate

@@ -35,3 +35,4 @@ People have been making pedal powered machines almost since bikes were a thing, 
 - [https://simplifier.neocities.org/](https://simplifier.neocities.org/)  
 - [Long-termism on XXIIVV](https://wiki.xxiivv.com/site/longtermism.html)
 - [Wild Human Life, nomadic low-tech studio](https://wildhumanlife.fr/)
+- [The Damaged Earth Catalog](https://damaged.bleu255.com/)

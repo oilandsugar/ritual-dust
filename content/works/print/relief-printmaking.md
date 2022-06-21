@@ -16,8 +16,32 @@ The art and craft of relief printmaking, linocut and woodcut
 
 </div>
 
+## The principle
 
+Relief printing is a way to make multiple copies of an images using a block or plate that is carved, inked and then run through a press to transfer the image onto a piece of paper. It works in a similar way to a stamp in that the image will be reversed once printed and only the raised parts of the block will print, the lines and shapes that were carved leaving the white of the paper.
 
+This technique is really old and goes back to around 500BC with Egyptians using it to print on fabric and later on seals carved out of stone by ancient Chinese people. It has been used to illustrate books for a good chunk of history before photolithographic processes replaced it.
+
+## The tools
+
+Painting the block black before starting to carve it helps see what the positive and negative image will end up looking like because the carved parts will show the lighter underlying material.
+
+Tip: when working with lino, heat it up with a blow dryer to make it easier to cut.
+
+## Printing process
+
+### Paper
+
+Preparing paper by tearing to size
+
+### Ink
+
+Usually most prints are made with oil-based inks but water based inks are becoming more common
+
+### Pressure source
+
+Registration guide
+leave more room at the bottom than the top
 
 ## References
 
