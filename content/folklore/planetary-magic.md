@@ -1,6 +1,6 @@
 +++
 title = "Planetary magic"
-tags = ["magic", "notes"]
+tags = ["magic", "astrology", "alchemy", "notes"]
 date = "2021-12-23"
 desc = "A reference for planetary magic, including correspondences, symbols and magic squares"
 +++
@@ -17,7 +17,8 @@ desc = "A reference for planetary magic, including correspondences, symbols and 
 
 ### The Sun ☉
 Representative of the ego, the self, the identity. Strong and powerful.  
-The modern symbol of the sun, the *circumpunct*, was first used during the Renaissance, it represents Apollo's golden shield with a boss. The older medieval symbol (and alchemical symbol of gold) was a disk with a ray 🜚.  
+The modern symbol of the sun, the *circumpunct*, was first used during the Renaissance, it represents Apollo's golden shield with a boss. The older medieval symbol (and alchemical symbol of gold) was a disk with a ray 🜚. In alchemy, the sun is the supreme light, the cyclical nature of the process and is associated with the conscious, energy and the ego.
+
 Associated metal: **Gold**  
 Associated day: **Sunday**  
 Associated color: **Gold**
@@ -54,7 +55,7 @@ Associated organ: **Heart**
 
 ### The Moon ☾
 Mysterious and divinatory, intuition and emotions.  
-The crescent as been used to represent the moon since the earliest time, first with it's horns pointing upwards, then pointing to the side.  
+The crescent as been used to represent the moon since the earliest time, first with it's horns pointing upwards, then pointing to the side. It is linked with silver in alchemy and rules over emotions, intuition and imagination.  
 Associated metal: **Silver**  
 Associated day: **Monday**  
 Associated color: **Purple**  
@@ -135,7 +136,7 @@ Associated organ: **Gall blader**
 
 ### Mercury ☿
 Communication, deceit, trickery.  
-The symbol for mercury is a caduceus, a staff intertwined with two serpents carried by the god Mercury. The cross was later added to make it seem more christian.  
+The symbol for mercury is a caduceus, a staff intertwined with two serpents carried by the god Mercury. In alchemy the symbol could be the combination of gold (sun), silver (moon) and vinegar (matter).
 Associated metal: **Mercury**  
 Associated day: **Wednesday**  
 Associated color: **Orange**  
@@ -178,7 +179,7 @@ Associated organ: **Lungs**
 
 ### Jupiter ♃
 Growth, expansion.
-The symbol for Jupiter is the greek letter Zeta with a stroke to indicate that it is used as an abbreviation for the god Zeus.  
+The symbol for Jupiter is the greek letter Zeta with a stroke to indicate that it is used as an abbreviation for the god Zeus. In alchemy it's symbol is the combination of silver (moon) and vinegar (matter) and is associated with tin. It rules over wisdom, justice and knowledge.
 Associated metal: **Tin**  
 Associated day: **Thursday**  
 Associated color: **Blue**  
@@ -209,7 +210,7 @@ Associated organ: **Liver**
 
 ### Venus ♀
 Love, beauty and sex.  
-The symbol for Venus is a circle with a small cross below, representing the mirror of the goddess Venus, older versions did not have a cross at the bottom.  
+The symbol for Venus is a circle with a small cross below, representing the mirror of the goddess Venus, older versions did not have a cross at the bottom. In alchemy it's symbol is a combination of gold (sun) and vinegar (matter) and is associated with copper.  
 Associated metal: **Copper**  
 Associated day: **Friday**  
 Associated color: **Green**  
@@ -282,13 +283,13 @@ The symbol for Uranus comes from the combination of the Iron and Gold alchemical
 Associated color: **Black**
 
 ### Earth 🜨
-The symbol for Earth is a circle crossed by two lines representing the world divided by four rivers. A medieval European variant was the *globus cruciger* ♁ the globe surmounted by a cross.
+The symbol for Earth is a circle crossed by two lines representing the world divided by four rivers. A medieval European variant was the *globus cruciger* ♁ the globe surmounted by a cross. In alchemy earth is associated with vinegar (matter) and it's symbol is a cross.
 
 ### Neptune ♆
 The symbol for Neptune is the trident of the god Neptune.
 
 ### Pluto ♇
-The symbol of Pluto is a monogram of the letters P and L. An alternative symbol is a bident surmounted by an orb. The alchemical symbol of Pluto can be read as spirit over mind, transcending matter.
+The symbol of Pluto is a monogram of the letters P and L. An alternative symbol is a bident surmounted by an orb. The alchemical symbol of Pluto allies vinegar (matter), coal (darkness) and alum (spirit) symbolizing revolution, quick and sudden inner / spiritual change, death and rebirth.
 
 ## Asteroids and minor planets
 
@@ -297,3 +298,5 @@ The symbol of Pluto is a monogram of the letters P and L. An alternative symbol 
 - Look up the Seven spears approach
 - [More information on planetary symbols](https://en.wikipedia.org/wiki/Planet_symbols)
 - [Introduction to planetary magic](https://www.youtube.com/watch?v=axsswFJp9j0)
+- [Uranus, Neptune and Pluto](https://iordanus.com/uranus-neptune-and-pluto-understanding-the-collective-unconscious-and-its-role-in-your-personality/)
+- [Jupiter](https://iordanus.com/jup3/)

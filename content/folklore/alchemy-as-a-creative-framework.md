@@ -1,12 +1,21 @@
 +++
 title = "Alchemy as a creative framework"
-tags = ["magic", "art"]
+tags = ["magic", "alchemy", "art"]
 date = "2020-10-31"
 
 draft = true
 +++
 
 Art as an alchemical process, not alchemy as a metaphor of creation
+
+## The elements and raw materials
+
+Alum (spirit)
+Silver (soul)
+Gold (ego)
+Vinegar (matter)
+Coal (darkness)
+
 
 The work and the making and the documentation are central
 
