@@ -65,7 +65,9 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
-- [x] **Microcosmos**, Claude Nuridsany, Marie Pérennou - 1996
+- [ ] **Berserk (anime)**, Naohito Takahashi - 1997
+  - [x] **Microcosmos**, Claude Nuridsany, Marie Pérennou - 1996
+- [x] **Elfen Lied (anime)**, Mamoru Kanbe - 2004
 - [x] **Psychomania**, Don Sharp - 1973
 - [x] **Marketa lazarova**, František Vláčil - 1967
 - [x] **Into Eternity**, Michael Madsen - 2010
