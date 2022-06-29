@@ -674,6 +674,15 @@ tr:hover td {
   text-align:center;
 }
 
+#folklore-img {
+  mask-image: url(/img/folklore-outline.gif);
+  -webkit-mask-image: url(/img/folklore-outline.gif);
+  height:250px;
+  width:100%;
+  margin-top:-20px;
+  margin-bottom:40px;
+}
+
 /* ---------- taxonomies ----------- */
 
 .tag-page .title {
@@ -1660,5 +1669,10 @@ article {
   }
   .section {
     padding-right:0;
+  }
+  #folklore-img {
+    height:100px;
+    margin-bottom:20px;
+    margin-top:20px;
   }
 }
