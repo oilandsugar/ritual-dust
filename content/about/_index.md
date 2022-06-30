@@ -37,15 +37,18 @@ I am part of the Montréal interactive community and I've done [talks](/about/ta
 
 <div class="columns-2">
 
+- [Ossuary Wraith](https://www.facebook.com/OssuaryWraith)
+- [Swamp Lantern](https://swamplantern.bandcamp.com/)
 - [Nicole Marxen](https://www.nicolemarxen.com/)
-- Nithgengan
-- Ariel
+- [Nithgengan](https://nihtgengan.bandcamp.com/album/nihtgengan-2)
+- [Ariel](https://www.youtube.com/c/ArielMusicOfficial)
+- [Library of the Occult](https://libraryoftheoccult.bandcamp.com/music)
+- [Alvaro Arroliga](https://www.instagram.com/arroligax/)
 - Grim Howl
 - Curious Moth
 - Vacarme Hurlant
 - Hex Ritual
 - Foulest Witch
-- Library of the Occult
 - Aura Merlin
 
 </div>
@@ -72,8 +75,8 @@ I am part of the Montréal interactive community and I've done [talks](/about/ta
 - [Fantômes zine - Issue 1](https://fantomeszine.com/issues/issue-1/)
 - [Hellebore - No.4](https://helleborezine.bigcartel.com/) (cover and page 2)
 - [Cvstomerservice zine - Volume V](https://cvstomerservice.bigcartel.com/category/zine) (page 24)
-- Black Panels Only zine ()
-- Steampunk magazine ()
+- [Black Panels Only zine](https://blackpanelsonly.com/) (Issue 1)
+- Steampunk magazine 
 - Passage à Découvert 2011 (page 68)
 
 ### Teaching

@@ -1,6 +1,13 @@
 {{ $currentPage := . }}
 <nav class="menu small-padding-top small-padding-bottom">
   <ul>
+    <li id="hasJavaScript" style="display: none" class="resolution-toggle">
+      <button class="h" id="resolution-toggle" aria-label="Load high resolution images" title="Load high resolution images">Hi-res</button>
+    </li>
+    <li id="noscript" class="resolution-toggle">
+        <button class="l" disabled aria-label="Low resolution resolution images only when no JS" title="Low resolution resolution images only when no JS">Only low-res</button>
+    </li>
+    <li><span class="dingbats">{{ partialCached "icons/diamond" . }}</span></li>
   {{ range .Site.Menus.main }}
     <li>
       <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">
@@ -8,12 +15,7 @@
       </a>
     </li>
   {{ end }}
-    <li id="hasJavaScript" style="display: none" class="resolution-toggle">
-      <button class="h" id="resolution-toggle" aria-label="Load high resolution images" title="Load high resolution images">Hi-res</button>
-    </li>
-    <li id="noscript" class="resolution-toggle">
-        <button class="l" disabled aria-label="Low resolution resolution images only when no JS" title="Low resolution resolution images only when no JS">Only low-res</button>
-    </li>
+    <li><span class="dingbats">{{ partialCached "icons/diamond" . }}</span></li>
     <li class="phases" id="phases">
 
     </li>

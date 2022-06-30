@@ -220,6 +220,34 @@ a strong {
   font-size: 1em;
 }
 
+a.button {
+  color: #1e1f20;
+  color: var(--background);
+  background-color: #3b1c16; /* f_high */
+  background-color: var(--f_high);
+  padding: 8px 16px;
+  display:inline-block;
+  border-radius:8px;
+  display:flex;
+}
+
+a.button span {
+  display:inline-block;
+}
+
+a.button svg {
+  margin-right:12px;
+  height: 44px;
+  width: 37px;
+}
+
+a.button svg rect,
+a.button svg path,
+a.button svg circle  {
+  fill: #1e1f20;
+  fill: var(--background);
+}
+
 strong {
   font-family: "Wittenberger"; /* blackletterFont */
   font-weight: bold;
@@ -473,6 +501,19 @@ tr:hover td {
   border-bottom-style: solid;
 }
 
+.menu .dingbats {
+  padding: 0 8px;
+}
+
+.menu .dingbats svg {
+  height:16px;
+}
+
+.menu .dingbats svg path {
+  fill: #b25c02; /* f_med */
+  fill: var(--f_med);
+}
+
 .resolution-toggle button {
   border: 2px solid;
   border-radius: 4px;
@@ -647,6 +688,10 @@ tr:hover td {
   margin: 0;
   font-size: 34px;
   line-height:34px;
+}
+
+.aka {
+  margin-top:0;
 }
 
 .social {
