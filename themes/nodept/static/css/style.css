@@ -520,6 +520,8 @@ tr:hover td {
   background: transparent;
   color: #b25c02; /* darkTextColor */
   color: var(--f_med);
+  background: #1e1f20; /* background */
+  background: var(--background);
   font-family: "Distro Bold"; /* titleFont3 */
 }
 
@@ -717,6 +719,12 @@ tr:hover td {
 
 .image-resolution-info ul {
   text-align:center;
+}
+
+.image-resolution-info .resolution-toggle {
+  padding: 16px;
+  background: #b25c02; /* f_med */
+  background: var(--f_med);
 }
 
 #folklore-img {
