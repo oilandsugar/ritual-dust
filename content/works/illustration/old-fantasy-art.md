@@ -39,6 +39,7 @@ draft = true
 - [Iris Compiet](https://iriscompiet.art/)
 - [Anato Finnstark](https://anto-finnstark.artstation.com/)
 - [Michael Whelan](https://www.michaelwhelan.com/)
+- [Brom](https://www.bromart.com/)
 
 </div>
 
