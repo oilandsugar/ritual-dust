@@ -2,5 +2,6 @@
 title = "Craft"
 subtitle = "New folk artefacts and items"
 type = "page"
-desc = "This section regroups functional objects, ritual artefacts, tools and experiments in crafting and fabrication. I prefer using hand tools and simpler methods of construction and joinery in my craft. I also put special care in selecting wood finishes that are biodegradable and long lasting."
 +++
+
+In addition to my artistic practice and illustration work I am invested in the exploration of craft in it's different forms, especially the study of older, more low-tech methods of making things. This section regroups some of my craft work and some of my collected notes and knowledge.

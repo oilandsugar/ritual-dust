@@ -6,11 +6,9 @@
     <article>
       <div class="small-wrap">
         {{ partial "listPageTitle" . }}
-        <div class="intro">
-          {{ .Params.desc }}
-        </div>
       </div>
       <div class="full-wrap">
+        {{ .Content }}
         <div class="folklore big-padding-top columns-2">
           {{ range where .RegularPages "Type" "folklore" }}
             {{ partial "folkloreCard.html" . }}

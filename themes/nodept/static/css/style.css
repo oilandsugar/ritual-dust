@@ -796,18 +796,19 @@ tr:hover td {
 
 .card {
   text-decoration: none;
-  margin-bottom: 48px; /* spacing_xl */
+  margin-bottom: 24px; /* spacing_xl */
   display: block;
   page-break-inside: avoid;
   break-inside: avoid;
   -webkit-column-break-inside: avoid;
+  border-color:transparent;
 }
 
 .card h3 {
-  line-height: 3rem;
+  line-height: 1rem;
   padding-bottom: 8px;
   margin: 0;
-  font-size: 3em;
+  font-size: 1em;
 }
 
 .card .desc {

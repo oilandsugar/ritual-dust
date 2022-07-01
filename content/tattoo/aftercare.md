@@ -5,7 +5,7 @@ date = "2022-03-30"
 
 draft = false
 image = ""
-desc = "Aftercare instructions for new tattoos"
+desc = "Detailed aftercare instructions for new tattoos, the different stages of healing and what to expect of the healing process"
 +++
 
 <div class="table-of-contents">

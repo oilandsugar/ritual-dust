@@ -8,6 +8,7 @@
         {{ partial "listPageTitle" . }}
       </div>
       <div class="full-wrap">
+        {{ .Content }}
         <div class="columns-2 big-padding-top">
           {{ if (eq $.Parent.Title "Works") }}
             {{ range where .Pages "Section" "works" }}

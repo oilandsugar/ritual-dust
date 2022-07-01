@@ -6,14 +6,9 @@
     <article>
       <div class="small-wrap craft">
         {{ partial "listPageTitle" . }}
-        <div class="intro">
-          {{ .Params.desc }}
-        </div>
-        <div class="shop-link">
-          Some of these objects are available for purchase, you will find a product in the project itself for that. I am also open to making commision work, if you have a need for a specific item reach out to me.
-        </div>
       </div>
       <div class="full-wrap">
+        {{ .Content }}
         <div class="big-padding-top columns-2">
           {{ if (eq $.Parent.Title "Craft") }}
             {{ range where .Pages "Section" "craft" }}
