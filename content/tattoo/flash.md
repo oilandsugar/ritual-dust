@@ -8,6 +8,17 @@ image = "/img/tattoo/flash.jpg"
 desc = "Designs available to tattoo"
 +++
 
+## Undead
+
+An ongoing series of undead-themed bigger pieces, these need to be 10" or bigger.
+
+<div class="undead flash-sheet">
+
+<div class="flash"><img src="/img/tattoo/flash/undead-king.jpg"/></div>
+<div class="flash"><img src="/img/tattoo/flash/candelabra.jpg"/></div>
+
+</div>
+
 ## The Armory
 
 The armory is an ongoing series of flash of imagined fantasy and historical weapons, from ornate ceremonial weapons to makeshift ones created from farm tools, magical swords and brutal weapons crafted by mysterious creatures of the woods. Minimum size for tattooing is 6", can be bigger too.

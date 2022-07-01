@@ -1032,6 +1032,10 @@ tr:hover td {
   max-height:400px;
 }
 
+.undead img {
+  max-height:800px;
+}
+
 .flash {
   display:inline-block;
 }
