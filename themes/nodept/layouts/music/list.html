@@ -1,0 +1,28 @@
+{{ partial "header" . }}
+
+<main>
+  <div class="flex-row big-padding-top list-page">
+    {{ partial "sidebars/worksList" . }}
+    <article>
+      <div class="small-wrap works">
+        {{ partial "listPageTitle" . }}
+      </div>
+      <div class="full-wrap">
+        {{ .Content }}
+        <div class="columns-2 big-padding-top">
+          {{ if (eq $.Parent.Title "Music") }}
+            {{ range where .Pages "Section" "music" }}
+              {{ partial "projectCard.html" . }}
+            {{ end }}
+          {{ else }}
+          {{ range where .Site.RegularPages "Section" "music" }}
+            {{ partial "projectCard.html" . }}
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </article>
+  </div>
+</main>
+
+{{ partialCached "footer" . }}

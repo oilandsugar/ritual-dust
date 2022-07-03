@@ -18,6 +18,10 @@ https://urbanomnibus.net/2019/03/the-truth-about-trees/
 
 https://www.mcgill.ca/indigenous/land-and-peoples/learn-about-land-and-peoples-tiohtiake-montreal
 
+“Woody said every land has its own Magic. So if you have a name from that language, then the land and the trees know you by that name. A soul name is a name, and the wind carries it to the tops of the highest mountains and over the waters.”
+
+https://en.ccunesco.ca/idealab/indigenous-land-based-education
+https://native-land.ca/
 
 “Queerness is as old and complex as lichen”
 
