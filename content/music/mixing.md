@@ -2,7 +2,7 @@
 title = "Mixing notes"
 date = "2022-07-02"
 tags = ["music", "notes"]
-draft = false
+desc = "My song mixing process and some tips"
 +++
 
 <div class="table-of-contents">

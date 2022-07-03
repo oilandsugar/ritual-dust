@@ -1,0 +1,26 @@
+<aside class="sidebar">
+  {{ if (eq $.Parent.Title "Music") }}
+    {{ partial "sidebars/utils/back" . }}
+  {{ end }}
+  <h3 class="accent">Songs and albums</h3>
+  <div class="small-padding-bottom">
+    <ul class="section-pages">
+    {{ range .RegularPages }}
+      {{ if not (in .Params.tags "notes") }}
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
+      {{ end }}
+    {{ end }}
+    </ul>
+  </div>
+  <h3 class="accent">Notes</h3>
+  <div class="small-padding-bottom">
+    <ul class="section-pages">
+    {{ range .RegularPages }}
+      {{ if in .Params.tags "notes" }}
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
+      {{ end }}
+    {{ end }}
+    </ul>
+  </div>
+  <div id="icon-folklore" class="icon"></div>
+</aside>

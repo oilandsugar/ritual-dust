@@ -26,7 +26,7 @@ author = "Lizbeth Poirier"
   [[menu.main]]
     identifier = "music"
     name = "Music"
-    url = "https://blood-and-dust.com"
+    url = "/music/"
     weight = 3
   [[menu.main]]
     identifier = "zine"
