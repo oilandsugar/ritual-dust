@@ -33,6 +33,10 @@ rites of passage
 https://www.queernature.org/queer-futurism-denizens-of-liminality
 
 
+“In thinking of America, I sometimes find myself admiring her bright blue sky — her grand old woods — her fertile fields — her beautiful rivers — her mighty lakes, and star-crowned mountains. But my rapture is soon checked, my joy is soon turned to mourning. When I remember that all is cursed with the infernal actions of slaveholding, robbery and wrong, — when I remember that with the waters of her noblest rivers, the tears of my brethren are borne to the ocean, disregarded and forgotten, and that her most fertile fields drink daily of the warm blood of my outraged sisters, I am filled with unutterable loathing”
+
+-Frederick Douglass
+
 « This is typical of the short-sighted view we British have of our own pre-history.
 Look at our buildings, our heros, the way we work ourselves into the ground, the dark history of our imperialism and we look like the sons and daughters of Rome. But we are not. Being invaded by the romans had a terrible effect, not only on how we view our own history but on how we developed as a nation. We’ve come to believe that the roman colonization of this country was a civilizing act, when in fact it was a brutal suppression. It’s hardly surprising that we did the same thing to countries in Africa and Asia two-thousand years later. It’s time to let go of our roman inheritance and embrace our real heritage. »
 - Francis pryor

@@ -47,6 +47,16 @@ If necessary, automate the volume of tracks in some parts of the song to leave r
 
 #### Compression
 
+Compression turns down the volume of a track every time the sound exceed a certain level (threshold) The ratio is the amount that is turned down.
+For example, threshold at -16db and ratio at 2:1, every time the sound goes over -16db, the extra volume is gonna be reduced by half. The Attack sets amount of time after threshold is exceeded for the compression to happen.
+The release is how long it takes after compression has happened before volume gets back to it’s initial level. And finally, makeup gain compensates for the loss of volume after compression.
+
+Compression ratios:
+- 2:1 gentle
+- 4:1 standard
+- 8:1 aggressive
+- 20:1 limiting
+
 Use compression to make sounds / tracks more even in volume over time (starting with -20db of compression is a good start) and then play around with different ratios. If a song has a lot of little sounds on different track for a section and they should be mixed in a similar way, grouping them and then compressing the group is a good way to get started with that.
 
 Parallel compression, to keep the original dynamics of the sound in addition to a more punchy compressed version, can be combined with full wet compression on a same track depending on the effect desired.
@@ -55,6 +65,7 @@ Parallel compression, to keep the original dynamics of the sound in addition to 
 
 - Sidechain a lot of the elements of the song to the kick, either individually or through grouping them and then side-chaining.
 - If some tracks are really filtered it can be good to add a compressor on them to compensate for the loss of volume due to filtering.
+- Put compression on drum groups to glue them together
 
 ### Panning and stereo field
 
