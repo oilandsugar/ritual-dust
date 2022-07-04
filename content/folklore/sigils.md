@@ -3,7 +3,7 @@ title = "Sigils and occult symbols"
 tags = ["magic", "sigils", "symbols"]
 date = "2020-10-19"
 
-image = "/img/folklore/sigils.png"
+image = "/img/folklore/sigils.jpg"
 desc = "My ongoing research and work with sigils"
 +++
 
@@ -72,7 +72,7 @@ realized that the two symbols formed by this combination of the letters T
 O & M corresponded to the alchemical symbols for oil and sugar, hence the
 name.
 
-![Two sigils written in red ink on paper](/img/folklore/sigils.png "Grounded in my truth, open to change")
+![Two sigils written in red ink on paper](/img/folklore/sigils.jpg "Grounded in my truth, open to change")
 
 > “In the field of the truly esoteric, words are the sigils of power that form as the inner world takes outer form. They develop a greater meaning and purpose as we formulate the grand sum of experience into singular flowing points. Even the act of writing is itself a magical act, a ritualistic focusing and a scriptural act of devotion.”
 

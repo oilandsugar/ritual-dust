@@ -19,7 +19,9 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 [Design](#design-fonts) •
 [Politics](#politics) •
 [Food](#food-and-recipe-blogs) •
-[Tech](#tech-low-tech-no-tech) •
+[Tech & craft](#tech-low-tech-no-tech-and-craft) •
+[Synths](#synths-and-module-makers) •
+[Events](#events) •
 [Resources](#resource-and-link-pages) •
 
 </div>
@@ -176,10 +178,24 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Minimalist Baker](https://minimalistbaker.com)
 - [Ni Cru, Ni Cuit](https://nicrunicuit.com/)
 
-### Tech, low-tech, no-tech
+### Tech, low-tech, no-tech and craft
 
 - [Low-Tech Magazine](https://solar.lowtechmagazine.com/)
 - [Calculateur de profil énergétique](https://lite.framacalc.org/profil-energetique---hlt)
+- [braiding guide](http://www.seekyee.com/Slings/howtos/6strand1.htm)
+
+### Synths and module-makers
+
+- [Music Thing Modular](https://www.musicthing.co.uk/)
+- [Addac system](https://www.addacsystem.com/)
+- [Erica synths](https://www.ericasynths.lv/)
+- [Syinsi](https://syinsi.com/)
+- [Modular addict](https://modularaddict.com/)
+- [DIY minimoog modules](http://www.yusynth.net/Modular/modulaire.html)
+
+### events
+
+- [Expozine](https://expozine.ca/en/)
 
 ### Resource and link pages
 
