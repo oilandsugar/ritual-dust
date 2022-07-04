@@ -49,6 +49,11 @@ author = "Lizbeth Poirier"
     url = "/food/"
     weight = 7
   [[menu.main]]
+    identifier = "journal"
+    name = "Journal"
+    url = "/journal/"
+    weight = 8
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"

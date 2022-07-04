@@ -1,0 +1,24 @@
+{{ partial "header" . }}
+
+<main>
+  <div class="flex-row big-padding-top list-page">
+    {{ partial "sidebars/journalList" . }}
+    <article>
+      <div class="small-wrap food">
+        {{ partial "listPageTitle" . }}
+        <div class="intro">
+        {{ .Params.desc }}
+        </div>
+      </div>
+      <div class="full-wrap">
+        <div class="journal-entries big-padding-top">
+          {{ range where .RegularPages "Type" "journal" }}
+            {{ partial "journalEntry.html" . }}
+          {{ end }}
+        </div>
+      </div>
+    </article>
+  </div>
+</main>
+
+{{ partialCached "footer" . }}

@@ -61,11 +61,15 @@ draft = true
 
 ### Old School Role-Playing Games
 
+DnD
 Mordheim
 
 ### Fantasy Books and Magazines
 
 White Dwarf
+Realms of Fantasy
+
+- [An archive of old fantasy and sci-fi magazines](http://www.luminist.org/archives/SF/)
 
 ### Video Games
 
@@ -73,6 +77,7 @@ Legend of Zelda
 
 
 ### Links and References
+
 
 - [The CRPG Book](https://crpgbook.wordpress.com/)
 - [List of science-fiction and fantasy artists](https://en.wikipedia.org/wiki/List_of_science_fiction_and_fantasy_artists)

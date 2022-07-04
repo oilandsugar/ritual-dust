@@ -42,12 +42,19 @@
         <div class="full-wrap">
           <div id="folklore-img" class="icon"></div>
           <div class="home-content">
+            <div class="latest-journal">
+              <h2 class="small-margin-bottom">Latest journal entry <a href="/journal/">(read more)</a></h2>
+              {{ range ( where .Site.RegularPages "Section" "journal" | first 1 ) }}
+                {{ partial "journalEntry.html" . }}
+              {{ end }}
+            </div>
+            <hr class="dotted"/>
             <div class="flex-row">
               <div class="section small-padding-right medium-margin-bottom">
                 <div class="flex-row">
                   <div id="icon-works" class="icon flex-2"></div>
                   <div class="small-padding-left flex-4">
-                    <h2 class="accent small-margin-bottom"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>Recent works</h2>
+                    <a href="/works/"><h2 class="small-margin-bottom"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>Artworks</h2></a>
                     <p class="accent">My creative output, ranging from illustration, design and lettering to photography and video</p>
                   </div>
                 </div>
@@ -56,13 +63,12 @@
                   <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
                 {{ end }}
                 </ul>
-                <a class="see-all" href="/works/">View all works</a>
               </div>
               <div class="section small-padding-right medium-margin-bottom">
                 <div class="flex-row">
                   <div id="icon-craft" class="icon flex-2"></div>
                   <div class="small-padding-left flex-4">
-                    <h2 class="accent"><span class="dingbats">{{ partial "icons/star" . }}</span>On the workbench</h2>
+                    <a href="/craft/"><h2 class=""><span class="dingbats">{{ partial "icons/star" . }}</span>On the workbench</h2></a>
                     <p class="accent">My craft, handmade artifacts, more technical research and notes and my thoughts on making</p>
                   </div>
                 </div>
@@ -71,7 +77,6 @@
                   <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
                 {{ end }}
                 </ul>
-                <a class="see-all" href="/craft/">View all craft</a>
               </div>
             </div>
             <div class="flex-row">
@@ -79,7 +84,7 @@
                 <div class="flex-row">
                   <div id="icon-folklore" class="icon flex-2"></div>
                   <div class="small-padding-left flex-4">
-                    <h2 class="accent"><span class="dingbats">{{ partial "icons/diamond" . }}</span>New folklore</h2>
+                    <a href="/folklore/"><h2 class=""><span class="dingbats">{{ partial "icons/diamond" . }}</span>Folklore</h2></a>
                     <p class="accent">Personal and collective folklore, stories, wonderings and beliefs</p>
                   </div>
                 </div>
@@ -88,13 +93,12 @@
                   <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
                 {{ end }}
                 </ul>
-                <a class="see-all" href="/folklore/">View all folklore</a>
               </div>
               <div class="section small-padding-right medium-margin-bottom">
                 <div class="flex-row">
                   <div id="icon-food" class="icon flex-2"></div>
                   <div class="small-padding-left flex-4">
-                    <h2 class="accent"><span class="dingbats">{{ partial "icons/flower" . }}</span>Recipe book</h2>
+                    <a href="/food/"><h2 class=""><span class="dingbats">{{ partial "icons/flower" . }}</span>Recipe book</h2></a>
                     <p class="accent">Plant-based recipes I refer to often, plus some notes on cooking and gardening</p>
                   </div>
                 </div>
@@ -103,7 +107,6 @@
                   <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
                 {{ end }}
                 </ul>
-                <a class="see-all" href="/food/">View all food</a>
               </div>
             </div>
           </div>
