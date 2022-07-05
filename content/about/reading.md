@@ -50,6 +50,7 @@ intro = "This is my reading list, it contains the books, zines and long form art
 - [ ] **The one straw revolution**, Masanobu Fukuoka
 - [ ] **Blood and Mistletoe: The History of the Druids in Britain**, Ronald Hutton
 - [ ] **The Future Is Degrowth**, Matthias Schmelzer, Aaron Vansintjan, and Andrea Vetter
+- [ ] **Dancing in the Streets: A History of Collective Joy**, Barbara Ehrenreich
 
 #### 2022
 
