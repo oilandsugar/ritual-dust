@@ -29,20 +29,6 @@ draft = true
 
 It's quite hard to pin down the start of the genre of fantasy art, one could argue that it is more than a genre and more a amalagm of themes and illustrative styles. If we see it like that it goes back centuries and overlaps quite a lot with folk art which often depicted mythological characters and fantastic creatures almost as far back as human made images. But what's generally seen or described as fantasy art was popularized during the 20th century, often through illustrations for books, magazines, games and movies. In this page, I'll go through some of the artists of the genre that inspire me and explore how the genre manifested itself alongside the different types of media it illustrated. This is in no way exhaustive or trying to be an history of the genre or an academic study of it, it's a collection of illustrations that inspire me in their context for further reference.
 
-### Contemporary artists exploring this style
-
-<div class="columns medium-padding-bottom no-margin-inside">
-
-- [Steven Zapata](https://www.stevenzapata.com/)
-- [Katerina Karamalikova](https://www.instagram.com/kara_malikova.art/)
-- [Mark Jarell](https://markjarrellart.com)
-- [Iris Compiet](https://iriscompiet.art/)
-- [Anato Finnstark](https://anto-finnstark.artstation.com/)
-- [Michael Whelan](https://www.michaelwhelan.com/)
-- [Brom](https://www.bromart.com/)
-
-</div>
-
 ### Old-school artists
 
 <div class="columns medium-padding-bottom no-margin-inside">
@@ -56,6 +42,21 @@ It's quite hard to pin down the start of the genre of fantasy art, one could arg
 - Moebius
 - Jeffrey Catherine Jones
 - Mark Harrison
+- [Geoff Taylor](https://geofftaylor-artist.com/)
+
+</div>
+
+### Contemporary artists exploring this style
+
+<div class="columns medium-padding-bottom no-margin-inside">
+
+- [Steven Zapata](https://www.stevenzapata.com/)
+- [Katerina Karamalikova](https://www.instagram.com/kara_malikova.art/)
+- [Mark Jarell](https://markjarrellart.com)
+- [Iris Compiet](https://iriscompiet.art/)
+- [Anato Finnstark](https://anto-finnstark.artstation.com/)
+- [Michael Whelan](https://www.michaelwhelan.com/)
+- [Brom](https://www.bromart.com/)
 
 </div>
 
@@ -96,3 +97,4 @@ Legend of Zelda
 - [Huge database of old book covers](https://www.coverbrowser.com/)  
 - [Beautiful book on fantasy art](https://www.taschen.com/pages/en/catalogue/graphic_design/all/01182/facts.masterpieces_of_fantasy_art.htm)  
 - [Vintage book sellers with good quality photos](https://www.lwcurrey.com/)
+- [elfwood.com](http://web.archive.org/web/20010622100806/http://elfwood.lysator.liu.se/elfwood.html)
