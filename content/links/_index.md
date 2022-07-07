@@ -10,7 +10,10 @@ desc = "A page listing some links to include in social media profiles"
 [Order Treecrets](https://ritualdust.com/works/illustration/treecrets/)   
 
 <div class="support">
-<a href="https://www.patreon.com/bePatron?u=2525073" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+  <a class="button" href="https://www.patreon.com/bePatron?u=2525073">
+    <svg height="546px" version="1.1" viewBox="0 0 569 546" width="569px" xmlns="http://www.w3.org/2000/svg"><title>Patreon logo</title><g><circle cx="362.589996" cy="204.589996" data-fill="1" r="204.589996"></circle><rect data-fill="1" height="545.799988" width="100" x="0" y="0"></rect></g></svg>
+    <span>Support me on Patreon</span>
+  </a>
 </div>
 
 [Ritual Dust](https://ritualdust.com/)  

@@ -7,14 +7,16 @@ desc = "My notes on tattooing tools, technique and safety"
 draft = false
 +++
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[Terms](#terms) •
-[Tools](#tools) •
-[Supplies](#supplies) •
-[Technique](#technique) •
-[Safety](#safety) •
-[Links](#links-and-references) •
+[Terms](#terms)  
+[Tools](#tools)  
+[Supplies](#supplies)  
+[Technique](#technique)  
+[Safety](#safety)  
+[Links](#links-and-references)
 
 </div>
 

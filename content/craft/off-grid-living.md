@@ -11,19 +11,21 @@ desc = "Notes on off-grid living"
 
 This is a very organic gathering of my notes and research on living off-grid, either in a home or in a vehicule (like a boat or a van). I have a dream of building a timber framed house in the woods at some points and to have a van or a boat setup for short-term living so these notes act as preparation, planning and inspiration for those projects.
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[Power](#power) •
-[Water](#water) •
-[Fuel](#fuel) •
-[Internet](#internet) •
-[Heating](#heating) •
+[Power](#power)  
+[Water](#water)  
+[Fuel](#fuel)  
+[Internet](#internet)  
+[Heating](#heating)  
 [Lighting](#lighting)  
-[Computers](#computers) •
-[Shower](#shower) •
-[Toilet](#toilet) •
-[Insurance](#insurance) •
-[Safety](#safety) •
+[Computers](#computers)  
+[Shower](#shower)  
+[Toilet](#toilet)  
+[Insurance](#insurance)  
+[Safety](#safety)  
 [Links](#links)
 
 </div>

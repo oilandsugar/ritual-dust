@@ -8,11 +8,12 @@ tags = ["hardware", "photo", "video", "music", "computer", "notes"]
 
 +++
 
+## Table of contents
 
 <div class="table-of-contents">
 
-[Computing](#computing) •
-[Audio](#audio) •
+[Computing](#computing)  
+[Audio](#audio)  
 [Photo and video](#photo-and-video)
 
 </div>

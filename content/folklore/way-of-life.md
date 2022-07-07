@@ -7,21 +7,23 @@ desc = "Personal learnings from life experiences, introspection, teachings and c
 weight = 1
 +++
 
+This is in no way intended to be general advice or universal truth, it's what worked for me in life so far. These are the result of a long distillation process, introspection, life experiences, therapy and meditation. It will definitely change in the future, like myself. It is written in that form as a message from present me to future me.
+
 ![Mushrooms from a cemetery in Scotland](/img/folklore/way-of-life.jpg)
 
-This is in no way intended to be general advice or universal truth, it's what worked for me in life so far. These are the result of a long distillation process, introspection, life experiences, therapy and meditation. It will definitely change in the future, like myself. It is written in that form as a message from present me to future me.
+## Table of contents
 
 <div class="table-of-contents">
 
-[Listen to nature](#cultivate-a-relationship-with-nature) •
-[Know your feelings](#learn-to-listen-name-and-express-feelings) •
-[Trust your body](#learn-to-listen-name-and-express-feelings) •
-[Set boundaries](#get-confortable-with-setting-and-respecting-boundaries) •
-[Take accountability](#take-accountability-for-your-actions-and-feelings) •
-[Practice gratitude](#grow-a-practice-of-gratitude) •
-[Learn your privilege](#develop-an-awareness-of-privilege-and-power-dynamics) •
-[Tend to your insecurities](#realize-that-insecurities-comes-from-ignorance-of-self) •
-[Be honest with yourself](#challenge-assumptions-and-false-narratives-about-yourself) •
+[Listen to nature](#cultivate-a-relationship-with-nature)  
+[Know your feelings](#learn-to-listen-name-and-express-feelings)  
+[Trust your body](#learn-to-listen-name-and-express-feelings)  
+[Set boundaries](#get-confortable-with-setting-and-respecting-boundaries)  
+[Take accountability](#take-accountability-for-your-actions-and-feelings)  
+[Practice gratitude](#grow-a-practice-of-gratitude)  
+[Learn your privilege](#develop-an-awareness-of-privilege-and-power-dynamics)  
+[Tend to your insecurities](#realize-that-insecurities-comes-from-ignorance-of-self)  
+[Be honest with yourself](#challenge-assumptions-and-false-narratives-about-yourself)  
 [Commitments not tasks](#focus-on-commitments-dreams-and-goals-instead-of-tasks)
 
 </div>

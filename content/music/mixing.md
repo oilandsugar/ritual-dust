@@ -5,10 +5,12 @@ tags = ["music", "notes"]
 desc = "My song mixing process and some tips"
 +++
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[mixing process](#the-mixing-process) •
-[focussed listening](#focussed-listening) •
+[mixing process](#the-mixing-process)  
+[focussed listening](#focussed-listening)  
 [midrange-focussed mixing](#midrange-focussed-mixing)
 
 </div>

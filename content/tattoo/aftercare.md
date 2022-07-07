@@ -8,13 +8,15 @@ image = ""
 desc = "Detailed aftercare instructions for new tattoos, the different stages of healing and what to expect of the healing process"
 +++
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[Aftercare routine](#aftercare-routine) •
-[Recommended products](#recommended-products) •
-[Stages of tattoo healing](#stages-of-tattoo-healing) •
-[Placements that need extra care](#placements-that-need-extra-care) •
-[Signs of infection](#signs-of-infection) •
+[Aftercare routine](#aftercare-routine)  
+[Recommended products](#recommended-products)  
+[Stages of tattoo healing](#stages-of-tattoo-healing)  
+[Placements that need extra care](#placements-that-need-extra-care)  
+[Signs of infection](#signs-of-infection)  
 [Links](#resources-and-links)
 
 </div>

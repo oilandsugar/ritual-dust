@@ -7,10 +7,12 @@ desc = "My step by step process to setup and teardown a tattoo station safely"
 draft = false
 +++
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[Setup](#setup) •
-[Teardown](#teardown) •
+[Setup](#setup)  
+[Teardown](#teardown)  
 [Green soap recipe](#green-soap-recipe)
 
 </div>

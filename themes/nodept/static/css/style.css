@@ -237,6 +237,8 @@ a.button {
   display:inline-block;
   border-radius:8px;
   display:flex;
+  line-height:1em;
+  font-family: "Distro Bold";
 }
 
 a.button span {
@@ -245,7 +247,7 @@ a.button span {
 
 a.button svg {
   margin-right:12px;
-  height: 44px;
+  height: 38px;
   width: 37px;
 }
 
@@ -419,9 +421,22 @@ img {
 }
 
 .table-of-contents {
-  max-width: 600px;
+  max-width: 700px;
   padding-left: 16px; /* spacing_md */
   border-left: 2px solid;
+  margin-bottom: 48px;
+  columns:2;
+  line-height:40px;
+}
+
+.table-of-contents h2 {
+  font-size:20px;
+  padding:0;
+  margin-bottom:0;
+}
+
+.table-of-contents p {
+  margin:0;
 }
 
 table {
@@ -689,6 +704,10 @@ tr:hover td {
   margin-top: 16px; /* spacing_md */
 }
 
+.support a.button {
+  max-width:160px;
+}
+
 .see-all {
   font-size: 18px;
   display: block;
@@ -924,6 +943,9 @@ tr:hover td {
 
 .journal-entry h2 {
   font-size: 20px;
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
 /* -------- RECIPES ---------*/

@@ -8,9 +8,11 @@ desc = "Some notes on the late 19th century art movement called Symbolism and a 
 
 ![The Three Fates by Alexander Rothaug](/img/illustration/symbolism/three-fates.jpg "The Three Fates by Alexander Rothaug")
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[Overview and themes](#overview-and-themes) •
+[Overview and themes](#overview-and-themes)  
 [Notable artists](#notable-artists)
 
 </div>

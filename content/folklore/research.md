@@ -7,10 +7,12 @@ desc = "Where I keep my references for folklore, ancestry and magic research"
 
 Where I keep my references for folklore, ancestry and magic research
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[Folklore](#folklore) •
-[Ancestry](#ancestry) •
+[Folklore](#folklore)  
+[Ancestry](#ancestry)  
 [Magic](#magic)
 
 </div>

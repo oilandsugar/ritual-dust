@@ -19,9 +19,7 @@ I see my skin as my personal grimoire, adding to it as I make discoveries, have 
 - [ ] Stone circle (around belly button)
 - [ ] Skull on hand (by alixe cooper)
 - [ ] Sigils over elbows
-- [ ] Oak leaves on branch with spider webs (on my chest)
 - [ ] Poe with lantern from zelda
-- [ ] FOLK LORE on fingers
 - [ ] Datajack on the neck
 - [ ] Goblin
 - [ ] neolithic maze symbol
@@ -40,6 +38,9 @@ I see my skin as my personal grimoire, adding to it as I make discoveries, have 
 - [ ] Lord of the rings inspired tattoos
 - [ ] Frame saw
 - [ ] Heraldic griffin on my back
+- [ ] FOLK LORE on fingers
+- [ ] Oak leaves on branch with spider webs (on my chest)
+- [x] broken halberd on my leg by myself
 - [x] Satanic skull with smoke by myself
 - [x] GRIMOIRE over knee by myself
 - [x] Two little imps with a trans symbol by myself

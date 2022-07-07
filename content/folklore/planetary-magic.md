@@ -5,10 +5,12 @@ date = "2021-12-23"
 desc = "A reference for planetary magic, including correspondences, symbols and magic squares"
 +++
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[Classical planets](#the-seven-classical-planets) •
-[Modern planets](#modern-planets) •
+[Classical planets](#the-seven-classical-planets)  
+[Modern planets](#modern-planets)  
 [Links and references](#links-and-references)
 
 </div>

@@ -8,12 +8,14 @@ tags = ["software", "open source", "notes"]
 
 ![View of my computer desktop](/img/about/desktop.jpg)
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[Visual tools](#visual-tools) •
-[Audio tools](#audio-tools) •
-[Coding tools](#coding-tools) •
-[Utilities](#utilities) •
+[Visual tools](#visual-tools)  
+[Audio tools](#audio-tools)  
+[Coding tools](#coding-tools)  
+[Utilities](#utilities)  
 [Links](#resources-and-links)
 
 </div>
@@ -28,6 +30,7 @@ Software tools for me are mostly a mean to an end, although I do enjoy building 
 - [**Nasu**](https://100r.co/site/nasu.html) for making pixel art and game tiles  
 - [**Inkscape**](https://inkscape.org/) for vector
 - [**Blender**](https://www.blender.org/) for video editing and compositing  
+- **DaVinci Resolve** **©** for video editing and color grading  
 - **Adobe InDesign** **($) ©** for book layout (looking for an alternative)  
 
 ## Audio tools

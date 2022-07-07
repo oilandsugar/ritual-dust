@@ -9,6 +9,17 @@ draft = false
 
 ![](/img/craft/tattooing/stencil.jpg)
 
+## Table of contents
+
+<div class="table-of-contents">
+
+[find size](#step-1-find-design-size)  
+[Copy stencil](#step-2-copy-stencil-by-hand)  
+[Prep skin](#step-3-prep-skinh3)  
+[Apply stencil](#step-4-apply-stencil)
+
+</div>
+
 ### Step 1: Find design size
 
 1. Print the design in black and white in a size that seems good for the placement
@@ -19,7 +30,7 @@ draft = false
 
 <div class="flex-1 medium-padding-right">
 
-<h3>Step 2: Copy stencil by hand</h3>
+<h3 id="step-2-copy-stencil-by-hand">Step 2: Copy stencil by hand</h3>
 
 <div class="checklist">
 

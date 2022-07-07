@@ -8,11 +8,13 @@ desc = "References, archives and research material on illustration and art"
 
 References, archives and research material on illustration and art
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[Essays and interviews](#essays-and-interviews) •
-[Archives](#archives) •
-[References](#references) •
+[Essays and interviews](#essays-and-interviews)  
+[Archives](#archives)  
+[References](#references)
 
 </div>
 

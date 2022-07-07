@@ -7,16 +7,18 @@ images = []
 desc = "My collection of favourite plant-based recipes from the internet"
 +++
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[Breakfast](#breakfast) •
-[Sides](#sides) •
-[Pasta](#pasta) •
-[Stews](#stews) •
-[Soups](#soups) •
-[Comfort food](#comfort-food) •
-[Sandwiches](#sandwiches) •
-[Desserts](#desserts)
+[Breakfast](#breakfast)  
+[Sides](#sides)  
+[Pasta](#pasta)  
+[Stews](#stews)  
+[Soups](#soups)  
+[Comfort food](#comfort-food)  
+[Sandwiches](#sandwiches)  
+[Desserts](#desserts)  
 [Bread](#bread)
 
 
