@@ -41,6 +41,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [The Tolkien Gateway](http://tolkiengateway.net/)
 - [Vladh](https://vladh.net/)
 - [Sanguinaria Canadendis](https://sanguinariacanadensis.neocities.org/)
+- [Going Medieval](https://going-medieval.com/)
 
 ### Zines and publications
 

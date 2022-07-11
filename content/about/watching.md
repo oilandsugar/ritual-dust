@@ -22,7 +22,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 - [ ] **Delia Derbyshire: The Myths And The Legendary Tapes**, Caroline Catz - 2020
 - [ ] **Berberian sound studio**, Peter Strickland - 2012
-- [ ] **The Unbearable Weight of Massive Talent**, Tom Gormican - 1966
 - [ ] **Sedmikrásky (Daisies)**, Věra Chytilová - 1966
 - [ ] **Quartermass and the pit**, Roy Ward Baker - 1967
 - [ ] **Hellbender**, John Adams, Zelda Adams, Toby Poser - 2021
@@ -65,7 +64,10 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
-- [ ] **Berserk (anime)**, Naohito Takahashi - 1997
+- [ ] **Claymore (anime)**, Hiroyuki Tanaka - 2007
+- [x] **The Unbearable Weight of Massive Talent**, Tom Gormican - 1966
+- [x] **Everything, Everywhere, all at once**, Daniels - 2022
+- [x] **Berserk (anime)**, Naohito Takahashi - 1997
   - [x] **Microcosmos**, Claude Nuridsany, Marie Pérennou - 1996
 - [x] **Elfen Lied (anime)**, Mamoru Kanbe - 2004
 - [x] **Psychomania**, Don Sharp - 1973
