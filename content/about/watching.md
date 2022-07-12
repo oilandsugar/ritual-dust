@@ -5,9 +5,9 @@ weight = 3
 tags = ["movies", "films"]
 +++
 
-![Still from the opening sequence of the wicker man](/img/about/watching.jpg "Still from the opening sequence of the wicker man")
-
 This is my movie watchlist, I keep it yearly, highlight the movies that really stayed with me and keep the movies that really impacted me in the [films section](/about/films).
+
+![Still from the opening sequence of the wicker man](/img/about/watching.jpg "Still from the opening sequence of the wicker man")
 
 ### Movies
 

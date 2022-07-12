@@ -1,23 +1,21 @@
 +++
-title = "About me"
+title = "Lizbeth Poirier"
 subtitle = ""
 type = "page"
-desc = "I am Lizbeth Poirier, an artist, designer and illustrator, goth druid, musician and craftsperson."
+desc = "I am Lizbeth Poirier, an artist, amateur folklorist, goth druid, musician and artisan."
 +++
 
-I am Lizbeth Poirier, an artist, designer and illustrator, goth druid, musician and craftsperson.
-
-My pronouns are **she/her**.
+Artist, amateur folklorist, goth druid, musician and artisan.
 
 ![Lizbeth against a rock background](/img/about/me.jpg "Portrait by Hex")
 
-I am currently taking commission work for [design](/works/design/), [illustration](/works/illustration/), [lettering](/works/lettering/) projects (especially anything relating to folklore, occultism, activism music and art).
+---
+
+I am currently taking commission work for [illustration](/works/illustration/), [lettering](/works/lettering/) and [design](/works/design/) projects (especially anything relating to folklore, occultism, fantasy, activism music and art).
 
 To discuss those, email me at: lizbeth.poirier.m@gmail.com
 
----
-
-If you enjoy what I'm posting here and creating and want to support me you become a patron here:
+If you enjoy my work and the research and notes I publish on this website, consider supporting me on Patreon.
 
 <div class="support small-padding-bottom">
   <a class="button" href="https://www.patreon.com/bePatron?u=2525073">
@@ -28,25 +26,21 @@ If you enjoy what I'm posting here and creating and want to support me you becom
 
 ---
 
-My past work experience includes working as a UI/UX and graphic designer in startups such as FoodRelay, Tangea, and l'Institut du Leadership en e-learning.
+### Selected clients
 
-I have studied visual and media arts at UQAM, focussing primarily on print (from screen printing to lithography) and the intersection of design, writing and art to explore themes of identity, gender and politics.
+<div class="columns-2 medium-padding-bottom">
 
-I am part of the Montréal interactive community and I've done [talks](/about/talks/) and shared my process at some of their events.
-
----
-
-### Musicians, artists and labels I've worked with
-
-<div class="columns-2">
-
-- [Ossuary Wraith](https://www.facebook.com/OssuaryWraith)
-- [Swamp Lantern](https://swamplantern.bandcamp.com/)
-- [Nicole Marxen](https://www.nicolemarxen.com/)
-- [Nithgengan](https://nihtgengan.bandcamp.com/album/nihtgengan-2)
-- [Ariel](https://www.youtube.com/c/ArielMusicOfficial)
-- [Library of the Occult](https://libraryoftheoccult.bandcamp.com/music)
-- [Alvaro Arroliga](https://www.instagram.com/arroligax/)
+- Disturbia
+- Hellebore zine
+- Library of the Occult
+- Ossuary Wraith
+- Swamp Lantern
+- Nicole Marxen
+- Nithgengan
+- Ariel
+- Alvaro Arroliga
+- James Chip
+- The Travel Log
 - Grim Howl
 - Curious Moth
 - Vacarme Hurlant
@@ -58,8 +52,7 @@ I am part of the Montréal interactive community and I've done [talks](/about/ta
 
 ### Game designers I've worked with
 
-- [James Chip](https://jameschip.io/)
-- [The Travel Log](https://twitter.com/dndtravellog)
+
 
 ### Exhibitions
 
@@ -88,6 +81,10 @@ I am part of the Montréal interactive community and I've done [talks](/about/ta
 - Taught branding to upcoming jewellers at l'École de Joaillerie de Montréal
 - I was teacher's assistant in a printmaking class at UQAM
 
+### Other work experience
+
+My past work experience includes working as a UI/UX and graphic designer in startups such as FoodRelay, Tangea, and l'Institut du Leadership en e-learning.
+
 ### Education
 
-- BFA at UQAM (Canada)
+- BFA at UQAM (Canada), focussing primarily on print (from screen printing to lithography) and the intersection of design, writing and art to explore themes of identity, gender and politics.

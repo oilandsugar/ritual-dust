@@ -5,24 +5,26 @@ weight = 5
 tags = ["bookmarks"]
 +++
 
+My bookmarks of interesting / useful / beautiful websites. I've also included some links to my topic specific lists of resources at the end of this page. Most of the links on this page were first saved in my local notes on my computer then moved in one of those pages on here.
+
 ![Castle ruins in Scotland, a reminder that nothing last forever, especially links](/img/about/bookmarks.jpg "Castle ruins in Scotland, a reminder that nothing last forever, especially links")
 
-My bookmarks of interesting / useful / beautiful websites. I've also included some links to my topic specific lists of resources at the end of this page. Most of the links on this page were first saved in my local notes on my computer then moved in one of those pages on here.
+## Table of contents
 
 <div class="table-of-contents">
 
-[Websites](#personal-websites-and-wikis) •
-[Publications](#zines-and-publications) •
-[Bookstores](#bookstores-and-publishers) •
-[Art](#art) •
-[Tattoo](#tattoo-artists) •
-[Design](#design-fonts) •
-[Politics](#politics) •
-[Food](#food-and-recipe-blogs) •
-[Tech & craft](#tech-low-tech-no-tech-and-craft) •
-[Synths](#synths-and-module-makers) •
-[Events](#events) •
-[Resources](#resource-and-link-pages) •
+[Websites](#personal-websites-and-wikis)  
+[Publications](#zines-and-publications)  
+[Bookstores](#bookstores-and-publishers)  
+[Art](#art)  
+[Tattoo](#tattoo-artists)  
+[Design](#design-fonts)  
+[Politics](#politics)  
+[Food](#food-and-recipe-blogs)  
+[Tech & craft](#tech-low-tech-no-tech-and-craft)  
+[Synths](#synths-and-module-makers)  
+[Events](#events)  
+[Resources](#resource-and-link-pages)
 
 </div>
 

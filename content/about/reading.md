@@ -3,8 +3,9 @@ title = "Reading"
 date = "2020-11-16"
 draft = false
 weight = 3
-intro = "This is my reading list, it contains the books, zines and long form articles I read or intend to read this year."
 +++
+
+This is my reading list, it contains the books, zines and long form articles I've read in the past (organized by year) or that I intend to read in the near future.
 
 ![Book](/img/about/book.jpg)
 
@@ -54,6 +55,7 @@ intro = "This is my reading list, it contains the books, zines and long form art
 
 #### 2022
 
+- [x] **Crom Cruach**, Valkyrie Loughcrewe
 - [x] **The Empire of the Necromancers**, Clark Ashton Smith
 - [ ] **A Pattern Language**, Christopher Alexander
 - [ ] **The Dawn of Everything**, David Graeber & David wengrow
