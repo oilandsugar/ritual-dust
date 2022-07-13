@@ -5,7 +5,7 @@ type = "page"
 desc = "I am Lizbeth Poirier, an artist, amateur folklorist, goth druid, musician and artisan."
 +++
 
-Artist, amateur folklorist, goth druid, musician and artisan.
+Folk artist, goth druid, musician and artisan.
 
 ![Lizbeth against a rock background](/img/about/me.jpg "Portrait by Hex")
 
@@ -49,10 +49,6 @@ If you enjoy my work and the research and notes I publish on this website, consi
 - Aura Merlin
 
 </div>
-
-### Game designers I've worked with
-
-
 
 ### Exhibitions
 
