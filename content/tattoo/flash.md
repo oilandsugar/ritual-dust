@@ -1,6 +1,6 @@
 +++
 title = "Available flash"
-tags = ["tattoo"]
+tags = ["tattoo", "notes"]
 date = "2022-04-08"
 
 draft = false

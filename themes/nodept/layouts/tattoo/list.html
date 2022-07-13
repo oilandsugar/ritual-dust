@@ -4,7 +4,7 @@
   <div class="flex-row big-padding-top list-page">
     {{ partial "sidebars/tattooList" . }}
     <article>
-      <div class="small-wrap works">
+      <div class="small-wrap">
         {{ partial "listPageTitle" . }}
         <div class="intro">
           {{ .Params.desc }}
@@ -12,7 +12,7 @@
       </div>
       <div class="full-wrap">
         {{ .Content }}
-        <div class="columns-2 big-padding-top">
+        <div class="columns-3 big-padding-top works">
         {{ range where .Site.RegularPages "Section" "tattoo" }}
           {{ partial "projectCard.html" . }}
         {{ end }}

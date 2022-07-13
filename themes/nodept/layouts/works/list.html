@@ -4,12 +4,12 @@
   <div class="flex-row big-padding-top list-page">
     {{ partial "sidebars/worksList" . }}
     <article>
-      <div class="small-wrap works">
+      <div class="small-wrap">
         {{ partial "listPageTitle" . }}
       </div>
       <div class="full-wrap">
         {{ .Content }}
-        <div class="columns-2 big-padding-top">
+        <div class="columns-3 big-padding-top works">
           {{ if (eq $.Parent.Title "Works") }}
             {{ range where .Pages "Section" "works" }}
               {{ partial "projectCard.html" . }}

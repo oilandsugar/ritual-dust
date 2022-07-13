@@ -2,14 +2,12 @@
 title = "Lizbeth Poirier"
 subtitle = ""
 type = "page"
-desc = "I am Lizbeth Poirier, an artist, amateur folklorist, goth druid, musician and artisan."
+desc = "I am Lizbeth Poirier, a folk artst, illustrator, goth druid, musician and artisan."
 +++
 
-Folk artist, goth druid, musician and artisan.
+Folk artist, illustrator, goth druid, musician and artisan.
 
 ![Lizbeth against a rock background](/img/about/me.jpg "Portrait by Hex")
-
----
 
 I am currently taking commission work for [illustration](/works/illustration/), [lettering](/works/lettering/) and [design](/works/design/) projects (especially anything relating to folklore, occultism, fantasy, activism music and art).
 

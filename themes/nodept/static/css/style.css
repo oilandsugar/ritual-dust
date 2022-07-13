@@ -851,7 +851,27 @@ tr:hover td {
   padding-bottom: 8px;
 }
 
+.card:hover {
+  border-color:transparent;
+}
+
 /* ---------- WORKS --------------- */
+
+.works .card h3 {
+  display:none;
+}
+
+.works .notes h3 {
+  display:block;
+}
+
+.works .card .desc {
+  display:none;
+}
+
+.works .notes .desc {
+  display:block;
+}
 
 .youtube-video-container {
   position: relative;
@@ -1333,6 +1353,12 @@ article {
   -webkit-column-width: 400px;
   -moz-column-width: 400px;
   column-width: 400px;
+}
+
+.columns-3 {
+  -webkit-column-width: 300px;
+  -moz-column-width: 300px;
+  column-width: 300px;
 }
 
 .small-wrap .columns-2 {
