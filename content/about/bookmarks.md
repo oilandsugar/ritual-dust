@@ -16,6 +16,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 [Websites](#personal-websites-and-wikis)  
 [Publications](#zines-and-publications)  
 [Bookstores](#bookstores-and-publishers)  
+[Artists](#artists)  
 [Art](#art)  
 [Tattoo](#tattoo-artists)  
 [Design](#design-fonts)  
@@ -44,6 +45,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Vladh](https://vladh.net/)
 - [Sanguinaria Canadendis](https://sanguinariacanadensis.neocities.org/)
 - [Going Medieval](https://going-medieval.com/)
+- [Androidarts](http://androidarts.com/)
 
 ### Zines and publications
 
@@ -84,37 +86,37 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Cadabra Records - beautiful audio books with scores](https://cadabrarecords.com/)
 - [Gost books](https://gostbooks.com/current-titles/)
 
-### Art
+### Artists
 
 - [Hex](https://voidxwitch.tumblr.com/)
-- [Blood and Dust](https://blood-and-dust.com/)
+- [Bethany White](https://www.bethanywhite.co.uk/shop)
 - [Rek Bellum](https://kokorobot.ca/site/home.html)
-- [Androidarts](http://androidarts.com/)
-- [Ubuweb](https://ubuweb.com/film/index.html)
 - [Teagan White](https://www.teaganwhite.com/)
 - [Adam Robert Martin (Art of Lore)](https://oflore.art/)
-- [ﻝᵤ ｌ ԁ𝖆 ቡﺄⱬ𝑊𝖆𝗋𝖆](https://manuscriptmedieval.bigcartel.com/)
+- [Julda Nizwara (manuscript of death)](https://www.instagram.com/manuscriptofdeath)
 - [Karmazid](https://www.karmazid.com/)
 - [Moritz Brebs](https://instagram.com/blackcrabart)
 - [Vladimir Chebakov](https://instagram.com/vladimirchebakov)
 - [Aaron Horkey](https://thevacvvm.com/collections/aaron-horkey)
 - [Brandon Holt](https://thevacvvm.com/collections/brandon-holt)
 - [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
-- [Bethany White](https://www.bethanywhite.co.uk/shop)
 - [Elisabeth Nicula](https://elisabethnicula.com/)
 - [Santiago Caruso](https://santiagocaruso.com.ar/)
 - [Iris Compiet](https://iriscompiet.art/)
 - [Ikosidio](https://www.etsy.com/shop/ikosidio/)
-- [Toteninsel, a website dedicated to the isle of the dead painting](http://www.toteninsel.net/home.php)
-- [Lost keep](https://www.lostkeep.com/)
 - [Maria Chronopoulos](http://mariachronopoulos.com/)
 - [Karl Wennergren](https://www.karlwennergren.com/)
 - [Larry MacDougal](https://larrymacdougallart.bigcartel.com/)
 - [Jesse Bransford](https://www.jessebransford.com/)
-- [halfhidden](https://halfhidden.co/)
 - [Graeme Webb](https://www.graemewebbimages.com/home)
 - [Alan Li](https://www.alanlidrawings.com/)
 - [Teye Gerbracht](http://teyegerbracht.com/)
+
+### Art
+
+- [Toteninsel, a website dedicated to the isle of the dead painting](http://www.toteninsel.net/home.php)
+- [Ubuweb](https://ubuweb.com/film/index.html)
+- [halfhidden](https://halfhidden.co/)
 
 ### Tattoo artists
 
