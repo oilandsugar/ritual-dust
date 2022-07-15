@@ -58,6 +58,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Feed the Beast](https://www.instagram.com/feedthebeast_fanzine/)
 - [Black Panels Only](https://blackpanelsonly.com/)
 - [Fantômes](https://fantomeszine.com/)
+- [Hwaet](https://www.hwaetzine.co.uk/)
 
 ### Blogs
 
@@ -156,6 +157,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Gardens of Hecate](https://gardensofhecate.com/)
 - [28 mag](https://28-mag.com/)
 - [Turnip 28](https://www.patreon.com/Turnip28/posts)
+- [bitzbox](https://www.bitzbox.co.uk/index.php)
 
 ### Design, fonts
 
