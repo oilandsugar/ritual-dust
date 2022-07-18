@@ -10,6 +10,7 @@ desc = "Music research links and references"
 - [Early music shop](https://earlymusicshop.com/)
 - [Irish bones](https://irishbones.com/)
 - [McNeela Irish instruments](https://mcneelamusic.com/)
+- [Bodhran](http://www.ceolas.org/instruments/bodhran/)
 
 ## Music production
 
