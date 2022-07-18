@@ -913,6 +913,10 @@ input[type=checkbox] {
   display:none;
 }
 
+.works .notes h3 {
+  font-size:40px;
+}
+
 .works .notes .desc {
   display:block;
 }
