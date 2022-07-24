@@ -28,6 +28,11 @@ References, archives and research material on illustration and art
 - [The ISFDB is a community effort to catalog works of science fiction, fantasy, and horror](http://www.isfdb.org/cgi-bin/index.cgi)
 - [Artvee, archive of public domain classical artworks](https://artvee.com/)
 
+## Courses and drawing practice
+
+- [Secrets of shading](https://stevenzapata.gumroad.com/l/iuUJK)
+- [How to think when you draw](http://theetheringtonbrothers.blogspot.com/p/every-how-to-think-when-you-draw.html)
+
 ## References
 
 - [Paper sizes](https://papersizes.io/)

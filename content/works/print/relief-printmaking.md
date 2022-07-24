@@ -42,6 +42,7 @@ V-tools
 Straight chisels
 Brayer
 
+
 ## The carving process
 
 ### Preparing the block
@@ -70,7 +71,7 @@ This is the simplest method and works well for relatively simple drawings. First
 
 ### Carving the block
 
-Carve it up
+Now has come the time to carve your block, removing the areas that are gonna be white in your print and keeping the black ones. This part is less technical and repetitive and can allow some creative experimentation. Often I'm gonna draw an image to carve but change some lines, textures and shapes during the carving process.
 
 Tip: when working with lino, heat it up with a blow dryer to make it easier to cut.
 

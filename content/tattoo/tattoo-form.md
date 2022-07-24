@@ -8,7 +8,7 @@ desc = "Fill this form if you have a tattoo idea that you'd like to have done by
 
 Fill this form if you have an idea for a custom tattoo that you'd like to have done by me. I will answer your request by email at the address you provide as soon as possible.
 
-<form id="tattoo-project-form">
+<form id="tattoo-project-form" method="get" action="https://faas-tor1-70ca848e.doserverless.co/api/v1/web/fn-bfec1f17-d24e-4695-9b98-b121ed1dc607/default/custom-tattoo-form">
 
 <fieldset>
 

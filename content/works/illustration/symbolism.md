@@ -103,6 +103,7 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - Sascha Schneider
 - Victor hugo  
 - Viktor Vasnetsov  
+- Hans Thoma
 
 
 </div>

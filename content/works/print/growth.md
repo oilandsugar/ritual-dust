@@ -11,6 +11,9 @@ First print of my monthly print club, a mushroom growing from a hand, a piece ab
 Become a stone circle patron to join the monthly print club and get an original print by mail every month: https://www.patreon.com/ritualdust
 
 ![](/img/print/may-1.jpg)
+
+{{< product title="Growth limited edition linocut print" desc="Small original linocut print, made in an edition of 20, numbered and stamped with my seal, printed on locally made paper" price="45" id="linocut-growth" image="/img/print/may-2.jpg" weight="41" length="19" height="1" width="14" url="https://ritualdust.com/works/print/growth" >}}
+
 ![](/img/print/may-2.jpg)
 ![](/img/print/may-3.jpg)
 ![](/img/print/may-4.jpg)

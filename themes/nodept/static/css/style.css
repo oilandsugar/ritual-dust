@@ -1264,6 +1264,28 @@ input[type=checkbox] {
   font-family: "Distro Bold"; /* titleFont3 */
 }
 
+.product-card {
+  padding:0;
+  flex-direction:column;
+  overflow:hidden;
+}
+
+.product-card h3 {
+  font-size:32px;
+}
+
+.product-card .image {
+  max-width:100%;
+}
+
+.product-card .image img {
+  border-radius:0;
+}
+
+.product-card .desc {
+  padding:24px;
+}
+
 /* -------- SINGLE PROJECTS ---------*/
 
 .single-page h1 {
