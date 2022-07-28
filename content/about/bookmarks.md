@@ -202,6 +202,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Syinsi](https://syinsi.com/)
 - [Modular addict](https://modularaddict.com/)
 - [DIY minimoog modules](http://www.yusynth.net/Modular/modulaire.html)
+- [boredbrain](https://boredbrainmusic.com/)
 
 ### events
 

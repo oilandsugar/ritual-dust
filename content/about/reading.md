@@ -55,6 +55,8 @@ This is my reading list, it contains the books, zines and long form articles I'v
 
 #### 2022
 
+- [x] **Uzumaki**, Junji Ito
+- [x] **The Enigma of Amigara Fault**, Junji Ito
 - [x] **Crom Cruach**, Valkyrie Loughcrewe
 - [x] **The Empire of the Necromancers**, Clark Ashton Smith
 - [ ] **A Pattern Language**, Christopher Alexander
