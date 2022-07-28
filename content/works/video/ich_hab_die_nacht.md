@@ -1,6 +1,6 @@
 +++
 title = "Ich Hab Die Nacht Geträumet"
-tags = ["video"]
+tags = ["video", "music", "music video"]
 date = "2020-09-20"
 
 image = "/img/video/ich-hab.jpg"
@@ -12,10 +12,13 @@ desc = "Music video for a the neofolk band of a good friend, eerie gothic vibes.
 </div>
 
 <div class="credits medium-padding-top">
-<small>Credits</small>  
+<small>Credits and details</small>  
 
-**Art director:** Geneviève Lamarche Reid  
-**Director of photography:** Lizbeth Poirier  
-**Singer / Actress:** Viky Boyer
+**Direction / Art direction:** Geneviève Lamarche Reid  
+**Photography / Editing:** Lizbeth Poirier  
+**Singer / Actress:** Viky Boyer  
+
+Shot on the Sony A6300 with a 24mm prime lens  
+Edited and color graded in Premiere Pro
 
 </div>
