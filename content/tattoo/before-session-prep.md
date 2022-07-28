@@ -32,4 +32,5 @@ Get a good night's sleep before your session, eat well and avoid alcohol and dru
 
 Don't moisturize your skin the day you get your tattoo since that can impact the stencil.  
 Put on clothes that make exposing the area you're getting tattooed easy while still making your comfortable, here's a little guide to help you choose the best clothing based on your tattoo placement: [What to wear to your tattoo session](https://www.brizzamor.com/what-to-wear)  
-Bring water and snacks, especially if it's gonna be a long session. You can also bring music and headphones to distract you during the process.
+Bring water and snacks, especially if it's gonna be a long session. You can also bring music and headphones to distract you during the process.  
+Bring a comfortable mask, I'm more comfortable with both of us wearing masks during the tattoo sessions.
