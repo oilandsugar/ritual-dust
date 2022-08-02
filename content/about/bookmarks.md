@@ -113,12 +113,14 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Teagan White](https://www.teaganwhite.com/)
 - [Vladimir Chebakov](https://instagram.com/vladimirchebakov)
 - [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
+- [Justin Gerard](https://www.gallerygerard.com/)
 
 ### Art
 
 - [Toteninsel, a website dedicated to the isle of the dead painting](http://www.toteninsel.net/home.php)
 - [Ubuweb](https://ubuweb.com/film/index.html)
 - [halfhidden](https://halfhidden.co/)
+- [muddy collors](https://www.muddycolors.com/)
 
 ### Tattoo artists
 

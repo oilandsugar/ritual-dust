@@ -64,13 +64,33 @@ What makes materials good for this kind of building: local availability, ease of
 
 ### Roofing
 
-### Exterior cladding
+Since I'm planning on restoring an old irish cottage, there is a couple options for roofing. The ones I'm interested in are tatch and slate.
+
+### Exterior walls
+
+I plan on getting a stone cottage, over a concrete one for a couple of reasons. First, concrete is very brittle and breaks easily if the house moves (which is quite common for a cottage without foundations). Concrete is also not breathable which ends up trapping moisture inside the house, aggravating dampness problems that are already quite common in Ireland because of the weather.
+
+A better option is for stone cottages to have their stone walls exposed and well-pointed (filled with mortar) or being covered with a lime render. This can be done on the inside and the outside.
+
+### Insulation
+
+Traditionally, Irish cottages didn't have any insulation, the large stones of the walls acting as a kind of insulation, keeping the heat from the fireplace inside in winter and the heat of the sun on the outside during summer. But this is not a very efficient system and can be improved by using more modern insulation methods.
+
+### Interior walls
+
+There is a couple options for interior walls of stone cottages: keep the stone exposed, cover the stones with a lime render, or build a wooden frame and close the wall with plaster.
+
+### Flooring
+
+A lot of the old Irish cottages had packed dirt, flagstone or more recently concrete floors on the ground floor.
+
+I think I would want to create some kind of isolation between the ground and the floor, blocking the humidity from coming into the space from there and making a more comfortable floor to step on.
 
 ### Windows
 
-I plan on using old wooden double sash windows, preferably reclaimed. There is a couple reasons for going with these over modern windows, first they can be found quite easily at architectural salvage companies for a fraction of the price than new windows. Old wood windows when maintained also proved to last over 100 years, which is quite a bit more than the usual 20 to 30 years a new window lasts.
+I plan on using old wooden double sash windows, preferably reclaimed. There is a couple reasons for going with these over modern windows, first they can be found quite easily at architectural salvage companies for a fraction of the price than new windows. Old wood windows when maintained also proved to last over 100 years, which is quite a bit more than the usual 20 to 30 years a new window lasts. Another very practical reason for this kind of purpose build windows is that on traditional Irish cottages, the holes for the windows aren't of any standard size and windows have to be custom made to fit.
 
-They are also quite energy efficient when used correctly even compared to modern aluminium or vinyl windows. Victorian double sash windows were designed to create air convection, meaning that in summer, an opening is created at the bottom and top of the window allowing cool air to come in from the bottom and hot air to come out of the top, basically acting as passive air conditioning. In addition to that, windows would have removable screens and storms (glass panes), the screens would be put in place in the summer to keep bugs out and in winter they would be replaced by the storms, effectively creating more isolation by having to glass panels with air in between.
+They are also quite energy efficient when used correctly even compared to modern aluminium or vinyl windows. Victorian double sash windows were designed to create air convection, meaning that in summer, an opening is created at the bottom and top of the window allowing cool air to come in from the bottom and hot air to come out of the top, basically acting as passive air conditioning. In addition to that, windows would have removable screens and storms (glass panes), the screens would be put in place in the summer to keep bugs out and in winter they would be replaced by the storms, effectively creating more isolation by having two glass panels with air in between.
 
 [Sash window on Wikipedia](https://en.wikipedia.org/wiki/Sash_window)
 
