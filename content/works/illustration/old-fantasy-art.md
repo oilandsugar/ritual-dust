@@ -58,6 +58,7 @@ It's quite hard to pin down the start of the genre of fantasy art, one could arg
 - [Michael Whelan](https://www.michaelwhelan.com/)
 - [Brom](https://www.bromart.com/)
 - [Jesper Ejsing](http://jesperejsing.com/)
+- [Wayne Reynolds](https://www.waynereynolds.com/)
 
 </div>
 

@@ -205,6 +205,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Modular addict](https://modularaddict.com/)
 - [DIY minimoog modules](http://www.yusynth.net/Modular/modulaire.html)
 - [boredbrain](https://boredbrainmusic.com/)
+- [techno logic synth culture](https://synthculture.com/)
 
 ### events
 

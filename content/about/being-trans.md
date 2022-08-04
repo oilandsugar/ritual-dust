@@ -36,5 +36,6 @@ A bit more than a year after changing my name to Lizbeth, I replaced my online p
 Here's a good article on [trans-inclusive design](https://alistapart.com/article/trans-inclusive-design/)  
 The website of [Trans care BC](http://www.phsa.ca/our-services/programs-services/trans-care-bc)  
 The [procedure to change your legal name and gender in Qc](http://www.etatcivil.gouv.qc.ca/en/change-sexe.html)
+[Trans and non-binary identities in ancient Mesopotamia](https://www.academuseducation.co.uk/post/ancient-mesopotamian-transgender-and-non-binary-identities)
 
 ![SHE in black metal lettering](/img/about/she.jpg)

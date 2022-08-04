@@ -33,6 +33,7 @@ References, archives and research material on illustration and art
 - [Secrets of shading](https://stevenzapata.gumroad.com/l/iuUJK)
 - [How to think when you draw](http://theetheringtonbrothers.blogspot.com/p/every-how-to-think-when-you-draw.html)
 - [The Complete Bridgman](https://www.ingetang.com/praxis/the-complete-bridgman/)
+- [fantasy art workshop](https://www.fantasyartworkshop.com/)
 
 ## References
 
