@@ -89,6 +89,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 
 ### Artists
 
+- [Anthracite collective](https://www.anthracitecollective.com/)
 - [Aaron Horkey](https://thevacvvm.com/collections/aaron-horkey)
 - [Adam Robert Martin (Art of Lore)](https://oflore.art/)
 - [Alan Li](https://www.alanlidrawings.com/)
