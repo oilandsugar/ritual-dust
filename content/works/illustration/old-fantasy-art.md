@@ -27,7 +27,7 @@ draft = true
 
 ### An introduction to the genre
 
-It's quite hard to pin down the start of the genre of fantasy art, one could argue that it is more than a genre and more a amalagm of themes and illustrative styles. If we see it like that it goes back centuries and overlaps quite a lot with folk art which often depicted mythological characters and fantastic creatures almost as far back as human made images. But what's generally seen or described as fantasy art was popularized during the 20th century, often through illustrations for books, magazines, games and movies. In this page, I'll go through some of the artists of the genre that inspire me and explore how the genre manifested itself alongside the different types of media it illustrated. This is in no way exhaustive or trying to be an history of the genre or an academic study of it, it's a collection of illustrations that inspire me in their context for further reference.
+It's quite hard to pin down the start of the genre of fantasy art, one could argue that it is more than a genre and more a amalgam of themes and illustrative styles. If we see it like that it goes back centuries and overlaps quite a lot with folk art which often depicted mythological characters and fantastic creatures almost as far back as human made images. But what's generally seen or described as fantasy art was popularized during the 20th century, often through illustrations for books, magazines, games and movies. In this page, I'll go through some of the artists of the genre that inspire me and explore how the genre manifested itself alongside the different types of media it illustrated. This is in no way exhaustive or trying to be an history of the genre or an academic study of it, it's a collection of illustrations that inspire me in their context for further reference.
 
 ### Old-school artists
 
@@ -59,6 +59,7 @@ It's quite hard to pin down the start of the genre of fantasy art, one could arg
 - [Brom](https://www.bromart.com/)
 - [Jesper Ejsing](http://jesperejsing.com/)
 - [Wayne Reynolds](https://www.waynereynolds.com/)
+- [Vincente Segrelles](http://www.segrelles.com/)
 
 </div>
 
@@ -87,7 +88,6 @@ Realms of Fantasy magazine
 ### Video Games
 
 Legend of Zelda
-
 
 ### Links and References
 
