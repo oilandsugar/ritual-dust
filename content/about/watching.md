@@ -64,7 +64,11 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
-- [ ] **Claymore (anime)**, Hiroyuki Tanaka - 2007
+
+- [ ] **Better Call Saul (series)**,  - 2022
+- [x] **Jurassic Park**, Steven Spielberg - 1993
+- [x] **Blair Witch 2**, Joe Berlinger - 2000
+- [x] **Claymore (anime)**, Hiroyuki Tanaka - 2007
 - [x] **The Unbearable Weight of Massive Talent**, Tom Gormican - 1966
 - [x] **Everything, Everywhere, all at once**, Daniels - 2022
 - [x] **Berserk (anime)**, Naohito Takahashi - 1997

@@ -45,6 +45,7 @@ Where I keep my references for folklore, ancestry and magic research
 - [Place names in reland](https://en.wikipedia.org/wiki/Place_names_in_Ireland)
 - [The Beast of the Gévaudan](https://publicdomainreview.org/collection/the-beast-of-gevaudan-1764-1767)
 - [Early Celtic art](https://www.wikiwand.com/en/Celtic_art)
+- [Mythical Ireland](https://mythicalireland.com/)
 
 ### Ancestry
 
