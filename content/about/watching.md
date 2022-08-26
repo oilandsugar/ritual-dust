@@ -64,9 +64,11 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
-
-- [ ] **Better Call Saul (series)**,  - 2022
-- [x] **Jurassic Park**, Steven Spielberg - 1993
+  - [x] **Trolljegeren (The Troll Hunter)**, André Øvredal - 2010
+- [ ] **Primal**, Genndy Tartakovsky - 2019
+  - [x] **Moloch**, Nico van den Brink - 2022
+  - [x] **Better Call Saul (series)**, Bob Odenkirk - 2022
+  - [x] **Jurassic Park**, Steven Spielberg - 1993
 - [x] **Blair Witch 2**, Joe Berlinger - 2000
 - [x] **Claymore (anime)**, Hiroyuki Tanaka - 2007
 - [x] **The Unbearable Weight of Massive Talent**, Tom Gormican - 1966
