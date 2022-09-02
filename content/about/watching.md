@@ -64,6 +64,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+  - [x] **Jennifer's Body**, Karyn Kusama - 2009
   - [x] **Trolljegeren (The Troll Hunter)**, André Øvredal - 2010
 - [ ] **Primal**, Genndy Tartakovsky - 2019
   - [x] **Moloch**, Nico van den Brink - 2022
