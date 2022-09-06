@@ -23,7 +23,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Delia Derbyshire: The Myths And The Legendary Tapes**, Caroline Catz - 2020
 - [ ] **Berberian sound studio**, Peter Strickland - 2012
 - [ ] **Sedmikrásky (Daisies)**, Věra Chytilová - 1966
-- [ ] **Quartermass and the pit**, Roy Ward Baker - 1967
 - [ ] **Hellbender**, John Adams, Zelda Adams, Toby Poser - 2021
 - [ ] **The Old Dark House**, James Whale - 1932
 - [ ] **Wristcutters**, Goran Dukic - 2006
@@ -64,6 +63,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Quartermass and the pit**, Roy Ward Baker - 1967
   - [x] **Nope**, Jordan Peele - 2022
   - [x] **Jennifer's Body**, Karyn Kusama - 2009
   - [x] **Trolljegeren (The Troll Hunter)**, André Øvredal - 2010

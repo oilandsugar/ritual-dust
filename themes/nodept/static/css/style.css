@@ -1143,6 +1143,10 @@ input[type=checkbox] {
   max-height:400px;
 }
 
+.demons img {
+  max-height:400px;
+}
+
 .undead img {
   max-height:800px;
 }

@@ -12,9 +12,18 @@
       </div>
       <div class="full-wrap">
         {{ .Content }}
+        <div class="columns-2 works">
+          {{ range where .Site.RegularPages "Section" "tattoo" }}
+            {{ if in .Params.tags "notes" }}
+              {{ partial "projectCard.html" . }}
+            {{ end}}
+          {{ end }}
+        </div>
         <div class="columns-3 big-padding-top works">
         {{ range where .Site.RegularPages "Section" "tattoo" }}
-          {{ partial "projectCard.html" . }}
+          {{ if not (in .Params.tags "notes") }}
+            {{ partial "projectCard.html" . }}
+          {{ end }}
         {{ end }}
         </div>
       </div>

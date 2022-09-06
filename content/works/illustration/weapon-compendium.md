@@ -12,3 +12,7 @@ In collaboration with my friend Steven, I'm illustrating a [series of TTRPG weap
 The illustration are made with graphite and ink, I'm also considering adding colour to all the weapons of a region once we're done with it.
 
 ![](/img/illustration/weapon-compendium/ragged-grasp.jpg)
+![](/img/illustration/weapon-compendium/equal-plane.jpg)
+![](/img/illustration/weapon-compendium/knot-of-the-abhorrent.jpg)
+![](/img/illustration/weapon-compendium/chiton-of-the-craven.jpg)
+![](/img/illustration/weapon-compendium/lost-gardeners-sickle.jpg)
