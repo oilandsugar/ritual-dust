@@ -55,6 +55,7 @@ This is my reading list, it contains the books, zines and long form articles I'v
 
 #### 2022
 
+- [ ] **Harrow County**, Cullen Bunn & Tyler Crook
 - [x] **Uzumaki**, Junji Ito
 - [x] **The Enigma of Amigara Fault**, Junji Ito
 - [x] **Crom Cruach**, Valkyrie Loughcrewe
