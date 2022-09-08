@@ -63,6 +63,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Tremors**, Ron Underwood - 1990
 - [x] **Quartermass and the pit**, Roy Ward Baker - 1967
   - [x] **Nope**, Jordan Peele - 2022
   - [x] **Jennifer's Body**, Karyn Kusama - 2009

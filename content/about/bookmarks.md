@@ -173,6 +173,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Edward Tufte, book design](https://www.edwardtufte.com/tufte/)
 - [List of fonts used for DnD books](http://www.hahnlibrary.net/rpgs/tsrfonts.html)
 - [A Pattern Language for meaningful, beautiful and functional spaces](https://www.patternlanguage.com/)
+- [harshforms](https://harshforms.com/)
 
 ### Politics
 
