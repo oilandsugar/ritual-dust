@@ -6,6 +6,7 @@ desc = "A page listing some links to include in social media profiles"
 +++
 
 [Available tattoo flash](https://ritualdust.com/tattoo/flash)  
+[Custom tattoo form](https://ritualdust.com/tattoo/tattoo-form/)  
 [Get Fantômes Zine issue 1](https://fantomeszine.com/issues/issue-1/)  
 [Order Treecrets](https://ritualdust.com/works/illustration/treecrets/)   
 
