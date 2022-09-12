@@ -37,11 +37,15 @@ Relief printing is a way to make multiple copies of an images using a block or p
 
 ### The tools
 
-Gouges
-V-tools
-Straight chisels
-Brayer
+**Brayers** are used to ink the blocks when printing, they are made of a medium density rubber and come in all kind of sizes, it's usually best to get a brayer that is of a similar width as the block you're printing to prevent having to make multiple passes side by side, however if none is available a smaller brayer will still do the job.
 
+**Gouges** are round carving tools of different diameters, they are used to clear out sections or cut larger channels with rounded ends. They are also useful to create circles.
+
+**Straight chisels** are used to cut out very small details or to mark an ending point when working with gouges so that they don't take out more than is desired (this is especially true when working with wood since there is a tendency for the wood to keep lifting when cutting along the grain).
+
+**V-tools** are the main tools I use to create lines and define the outline of shapes due to their precision and varying width (the more you push the tool in the block, the wider the line becomes).
+
+An **Ink plate** is a very flat, non-porous surface on which the printing is is spread and rolled with the brayer, a cheap way to make one is to tape a pane of glass to some wood or plywood.
 
 ## The carving process
 
@@ -99,11 +103,15 @@ leave more room at the bottom than the top
 
 Picking the right paper and it's size for the block is an important part of the process. Personally I prefer working with heavier cotton fibre papers since they take ink really well, tend to show some embossing and make beautiful objects once printed. Thinner Japanese *washi* paper can also be used, it lends itself well to the hand-rubbed printing method since they are so thin and allow to see the progress on the back. Cartouche or newsprint is commonly used for proofing a print (making test impressions to see the progress of the plate).
 
+Once you've picked the paper you want to print on, it's time to cut it to size. Usually the paper is cut larger than the block to allow some white borders on all sides and a larger border at the bottom (creating a space to sign, number and title the print). Printmaking paper almost always has frayed edges coming from the paper making process, these are desirable and often people will use a dull bread knife to cut large sheets of paper in smaller ones to imitate that irregular edge. A good way to do that is to fold the sheet of paper on the cut line with a bone folder and then drag the bread knife across the fold.
+
+Although not necessary, I like wetting my paper before printing. This will only apply to heavy cotton papers since thin Japanese paper will not take water well. But for heavy papers, wetting on both sides and then layering in absorbent paper will render the paper more soft and allow it to take the ink better and emboss slightly which I find really pleasing.
+
 ### Ink
 
 Usually most prints are made with oil-based inks but water based inks are becoming more common, I've only worked with oil-based ink so far when doing that type of printing so I can only advise on those.
 
-For inking your plate you'll need a roller, a spatula, and an inking surface (something very flat and non-porous like a plate of glass or a tile).
+For inking your block you'll need a roller, a spatula, and an inking surface (something very flat and non-porous like a plate of glass or a tile).
 
 When your paper and registration guide is ready, take some ink with your spatula and spread it out in a line on your inking surface, it is usually good to move it around to warm it up a little bit and to make sure it doesn't contain dried particles that will affect the quality of the print.
 

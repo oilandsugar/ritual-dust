@@ -6,6 +6,15 @@ date = "2020-11-03"
 desc = "Thoughts, research and resources on low tech solutions"
 +++
 
+## Table of contents
+
+<div class="table-of-contents">
+
+[Examples of low-tech](#examples-of-low-tech-technology)  
+[Resources](#resources-inspiration-and-further-reading)
+
+</div>
+
 With the ongoing climate crisis, the destruction brought forth by the unsustainable push for constant growth of capitalism and a world filled with increasingly complex and disposable machines and tools, there is very strong need to scale down and simplify our technology and engineering.
 
 **Design** has become on a lot of ways a self-referential discipline, focussing more and more on aesthetics over creative problem solving or, at the even more basic level, just taking the time to see if there is a problem to solve. Design has been instrumentalized by capitalism to manipulate people, create needs and keep us distracted.
