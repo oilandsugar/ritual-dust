@@ -42,10 +42,8 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Picnic at Hanging Rock**, Peter Weir - 1975
 - [ ] **Requiem for a Village**, David Gladwell - 1976
 - [ ] **The Lair of the White Worm**, Ken Russel - 1988
-- [ ] **The White Reindeer**, Erik Blomberg - 1952
 - [ ] **Solitudo**, Pino Borselli - 2008
 - [ ] **Border**, Ali Abbasi - 2018
-- [ ] **Witchhammer**, Otakar Vávra - 1970
 - [ ] **Pelican Blood**, Karl Golden - 2010
 - [ ] **Wake Wood**, David Keating - 2009
 - [ ] **Dark Waters**,
@@ -56,6 +54,8 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **The Void**, Jeremy Gillespie, Steven Kostanski - 2017
 - [ ] **The Good, the Bad and the Weird**, Kim Jee-woon - 2008
 - [ ] **You won't be alone**, Goran Stolevski - 2022
+- [ ] **Witchhammer**, Otakar Vávra - 1970
+- [ ] **The White Reindeer**, Erik Blomberg - 1952
 
 </div>
 
@@ -63,6 +63,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+  - [x] **Hatching**, Hanna Bergholm - 2022
 - [x] **Tremors**, Ron Underwood - 1990
 - [x] **Quartermass and the pit**, Roy Ward Baker - 1967
   - [x] **Nope**, Jordan Peele - 2022
