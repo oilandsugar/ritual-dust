@@ -49,6 +49,7 @@ Where I keep my references for folklore, ancestry and magic research
 
 ### Ancestry
 
+- [Roots deeper than whiteness](https://whiteawake.org/2018/10/27/roots-deeper-than-whiteness/)
 
 ### Magic and alchemy
 
