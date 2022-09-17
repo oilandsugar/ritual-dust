@@ -1,6 +1,6 @@
 +++
 title = "Iceland travel log"
-tags = ["folklore", "travel", "landscape", "iceland", "food"]
+tags = ["folklore", "travel log", "landscape", "iceland", "food"]
 date = "2017-03-22"
 url = "/folklore/iceland/"
 
@@ -10,14 +10,16 @@ desc = "Barren landscapes, black sand and fish bones. A journey through the hars
 
 Barren landscapes, black sand and fish bones. A journey through the harsh Icelandic winter, discovering it's rich cultural and historical past, simple way of life and complex language.
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[The city](#Reykjavik-the-city) •
-[The nature](#the-mountains-waterfalls-and-beautifully-harsh-nature) •
-[The flea market](#findings-from-an-icelandic-flea-market) •
-[The food](#nordic-food-with-a-lot-of-paprika) •
-[The statue garden](#the-einar-jónsson-statue-garden-and-its-surroundings) •
-[The history](#historical-iceland-museum-pieces-and-old-house-reproductions) •
+[The city](#Reykjavik-the-city)  
+[The nature](#the-mountains-waterfalls-and-beautifully-harsh-nature)  
+[The flea market](#findings-from-an-icelandic-flea-market)  
+[The food](#nordic-food-with-a-lot-of-paprika)  
+[The statue garden](#the-einar-jónsson-statue-garden-and-its-surroundings)  
+[The history](#historical-iceland-museum-pieces-and-old-house-reproductions)  
 [The fish drying racks](#the-fish-drying-racks)
 
 </div>

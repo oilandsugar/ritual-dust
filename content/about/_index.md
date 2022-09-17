@@ -33,6 +33,7 @@ If you enjoy my work and the research and notes I publish on this website, consi
 - Library of the Occult
 - Ossuary Wraith
 - Swamp Lantern
+- Girl Circles
 - Nicole Marxen
 - Nithgengan
 - Ariel

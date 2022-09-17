@@ -1,6 +1,6 @@
 +++
 title = "Scotland travel log"
-tags = ["photo", "travel", "scotland"]
+tags = ["photo", "travel log", "scotland"]
 date = "2020-10-16"
 
 image = "/img/photo/scotland/DSC06677.jpg"
@@ -8,9 +8,6 @@ desc = "Nature, architecture and haunted places."
 +++
 
 Nature, architecture and haunted places.
-
-
-
 
 ![The Mountains surrounding the Loch Ness](/img/photo/scotland/DSC06677.jpg "The Mountains surrounding the Loch Ness")
 ![Edinburgh castle from below](/img/photo/scotland/DSC06418.jpg "Edinburgh castle from below")

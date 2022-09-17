@@ -1,6 +1,6 @@
 +++
 title = "Ireland travel plan"
-tags = ["folklore", "travel", "landscape", "ireland", "food"]
+tags = ["folklore", "travel log", "landscape", "ireland", "food"]
 date = "2021-12-24"
 draft = true
 +++

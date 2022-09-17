@@ -2,7 +2,7 @@
   {{ if (eq $.Parent.Title "Tattoo") }}
     {{ partial "sidebars/utils/back" . }}
   {{ end }}
-  <h3 class="accent">Pages</h3>
+  <h3 class="accent">Tattoos</h3>
   <div class="small-padding-bottom">
     <ul class="section-pages">
       {{ range where .Pages "Section" "tattoo" }}

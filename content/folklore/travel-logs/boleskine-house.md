@@ -1,6 +1,6 @@
 +++
 title = "Boleskine house and burial ground"
-tags = ["photo"]
+tags = ["travel log", "haunted"]
 date = "2019-10-19"
 
 image = "/img/photo/boleskine-house/DSC06779.jpg"

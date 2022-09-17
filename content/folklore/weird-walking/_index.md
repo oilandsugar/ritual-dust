@@ -1,10 +1,8 @@
 +++
 title = "Weird walking"
-tags = ["magic", "landscape"]
+tags = ["magic", "landscape", "weird walk"]
 date = "2020-10-26"
-
 image = "/img/folklore/weird-walk.jpg"
-weight = 2
 +++
 
 ![Surreal combination of urban and natural landscape](/img/folklore/weird-walk.jpg "Surreal combination of urban and natural landscape")

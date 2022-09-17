@@ -1,6 +1,6 @@
 +++
 title = "Winter Solstice 2021"
-tags = ["folklore", "magic"]
+tags = ["folklore", "magic", "weird walk"]
 date = "2021-06-20"
 draft = true
 image = "/img/photo/summer-solstice-2021/DSC03246.jpg"

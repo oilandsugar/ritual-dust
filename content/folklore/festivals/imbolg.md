@@ -1,14 +1,13 @@
 +++
-title = "Imbolc"
-tags = ["paganism", "imbolc", "notes"]
+title = "Imbolg"
+tags = ["paganism", "imbolg", "festival", "notes"]
 date = "2022-02-02"
 desc = "The ancient Celtic festival of the promise of the return of spring"
 +++
 
-Imbolc is an ancient Celtic festival and celebration that takes place on *Feburary 1st* in the northern hemisphere. Imbolc is a fire festival celebrating the promise of the return of spring.
+Imbolg is an ancient Celtic festival and celebration that takes place on *Feburary 1st* in the northern hemisphere. Imbolg is a fire festival celebrating the promise of the return of spring.
 
 This festival is associated with the goddess Brigid (or Bríg) who is associated with wisdom, poetry, arts and crafts, healing, protection, blacksmithing and domesticated animals. It is said that Bridgid started the custom of keening.
-
 
 >"Moch maduinn Bhride,  
 Thig an nimhir as an toll,  
@@ -30,4 +29,4 @@ Nor will the serpent molest me."
 
 ## Links and references
 
-- [Imbolc lore](https://www.sacred-texts.com/neu/celt/cg1/cg1074.htm)
+- [Imbolg lore](https://www.sacred-texts.com/neu/celt/cg1/cg1074.htm)
