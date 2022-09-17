@@ -1,6 +1,6 @@
 +++
 title = "Growth"
-tags = ["print", "linocut", "print club"]
+tags = ["print", "linocut", "print club", "nature"]
 date = "2022-06-14"
 image = "/img/print/may-2.jpg"
 desc = "First print of my monthly print club"

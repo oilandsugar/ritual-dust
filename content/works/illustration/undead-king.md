@@ -1,6 +1,6 @@
 +++
 title = "The King of the Dead"
-tags = ["illustration"]
+tags = ["illustration", "fantasy"]
 date = "2022-07-10"
 
 image = "/img/illustration/undead-king/undead-king.jpg"

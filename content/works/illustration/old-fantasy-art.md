@@ -1,6 +1,6 @@
 +++
 title = "Old-School Fantasy Art"
-tags = ["illustration", "notes"]
+tags = ["illustration", "fantasy", "notes"]
 date = "2021-11-13"
 
 image = "/img/illustration/fantasy-art/FrankFrazetta-The-Death-Dealer-II-1986.jpg"

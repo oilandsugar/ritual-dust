@@ -1,6 +1,6 @@
 +++
 title = "Vacarme Hurlant"
-tags = ["lettering", "music"]
+tags = ["lettering", "music", "death metal"]
 date = "2021-10-04"
 
 image = "/img/lettering/vacarme-hurlant/logo-white.jpg"

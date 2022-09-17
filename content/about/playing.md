@@ -7,13 +7,18 @@ tags = ["games"]
 
 This is the list of games I played or want to play, I keep it yearly and highlight the games that really stayed with me.
 
-### Movies
+## Table of contents
 
-[To play](#to-play) •
-[2022](#2022) •
-[2021](#2021)
+<div class="table-of-contents">
 
-#### To play
+[To play](#to-play)  
+[2022](#2022)  
+[2021](#2021)  
+[2020](#2020)
+
+</div>
+
+### To play
 
 <div class="checklist">
 
@@ -24,18 +29,19 @@ This is the list of games I played or want to play, I keep it yearly and highlig
 
 </div>
 
-#### 2022
+### 2022
 
 <div class="checklist">
 
+- [ ] **Harvest Moon**
 - [ ] **Banjo Kazooie**
 - [ ] **Dark Souls**
-- [ ] **Diablo II**
+  - [ ] **Diablo II**
 - [ ] **Starfox 64**
 
 </div>
 
-#### 2021
+### 2021
 
 <div class="checklist">
 
@@ -44,7 +50,7 @@ This is the list of games I played or want to play, I keep it yearly and highlig
 
 </div>
 
-#### 2020
+### 2020
 
 <div class="checklist">
 

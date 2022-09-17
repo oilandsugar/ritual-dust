@@ -1,6 +1,6 @@
 +++
 title = "Vear"
-tags = ["lettering", "music"]
+tags = ["lettering", "music", "ritual noise"]
 date = "2022-04-12"
 
 image = "/img/lettering/vear/logo.jpg"

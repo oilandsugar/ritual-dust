@@ -1,6 +1,6 @@
 +++
 title = "Dark Folklore illustrations for Disturbia"
-tags = ["illustration"]
+tags = ["illustration", "folklore"]
 date = "2021-10-22"
 
 image = "/img/illustration/disturbia/flash-sheet-1.jpg"

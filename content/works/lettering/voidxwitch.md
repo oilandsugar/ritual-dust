@@ -1,6 +1,6 @@
 +++
 title = "VOIDXWITCH"
-tags = ["lettering", "music"]
+tags = ["lettering", "witch house", "music"]
 date = "2022-07-01"
 
 image = "/img/lettering/voidxwitch/logo.jpg"

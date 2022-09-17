@@ -1,6 +1,6 @@
 +++
 title = "Symbolism in art"
-tags = ["notes", "art", "painting"]
+tags = ["notes", "symbolism", "art", "painting"]
 date = "2021-12-10"
 
 desc = "Some notes on the late 19th century art movement called Symbolism and a collection of inspiring works and artists"

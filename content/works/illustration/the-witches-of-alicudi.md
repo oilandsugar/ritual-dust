@@ -1,6 +1,6 @@
 +++
 title = "The Witches of Alicudi"
-tags = ["illustration"]
+tags = ["illustration", "folklore"]
 date = "2021-11-14"
 
 image = "/img/illustration/witches-of-alicudi.jpg"

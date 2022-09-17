@@ -1,6 +1,6 @@
 +++
 title = "Baphomet"
-tags = ["illustration"]
+tags = ["illustration", "occult"]
 date = "2021-01-14"
 
 image = "/img/illustration/baphomet.jpg"

@@ -54,4 +54,4 @@ Software tools for me are mostly a mean to an end, although I do enjoy building 
 
 - [List of apps that allow you to keep your own data](https://0data.app/)
 - [Nice collection of open source design and web tools](http://osp.kitchen/tools/)
-- [Airdrop alternative for linux](https://medium.com/geekculture/the-iphone-to-linux-airdrop-alternative-you-need-804a082fec9e https://github.com/seemoo-lab/owl)
+- [Airdrop alternative for linux](https://medium.com/geekculture/the-iphone-to-linux-airdrop-alternative-you-need-804a082fec9e)

@@ -1,6 +1,6 @@
 +++
 title = "Nihtgengan"
-tags = ["lettering", "music"]
+tags = ["lettering", "music", "dungeon synth"]
 date = "2021-08-18"
 
 image = "/img/lettering/nihtgengan/white.jpg"

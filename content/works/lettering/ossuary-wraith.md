@@ -1,6 +1,6 @@
 +++
 title = "Ossuary Wraith"
-tags = ["lettering", "black metal"]
+tags = ["lettering", "music", "black metal"]
 date = "2022-04-28"
 
 image = "/img/lettering/ossuary-wraith/logo-white.jpg"

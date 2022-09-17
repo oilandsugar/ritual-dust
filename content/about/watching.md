@@ -9,14 +9,19 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 ![Still from the opening sequence of the wicker man](/img/about/watching.jpg "Still from the opening sequence of the wicker man")
 
-### Movies
 
-[To watch](#to-watch) •
-[2022](#2022) •
-[2021](#2021) •
+## Table of contents
+
+<div class="table-of-contents">
+
+[To watch](#to-watch)  
+[2022](#2022)  
+[2021](#2021)  
 [2020](#2020)
 
-#### To watch
+</div>
+
+## To watch
 
 <div class="checklist">
 
@@ -59,7 +64,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 </div>
 
-#### 2022
+## 2022
 
 <div class="checklist">
 
@@ -106,7 +111,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 </div>
 
-#### 2021
+## 2021
 
 I watched quite a bit of folk-horror movies in 2021 and the best documentary on the genre I've seen so far, 2 movies Starring Nicholas Cage, some great TV movie adaptations of M.R. James ghost stories, my favourites are highlighted in the list below.
 
@@ -150,7 +155,7 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 </div>
 
-#### 2020
+## 2020
 
 <div class="checklist">
 
@@ -189,7 +194,7 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 </div>
 
-#### 2019
+## 2019
 
 <div class="checklist">
 
@@ -210,7 +215,7 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 </div>
 
-#### 2018
+## 2018
 
 <div class="checklist">
 
@@ -219,7 +224,7 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 </div>
 
-#### 2017
+## 2017
 
 <div class="checklist">
 
@@ -230,7 +235,7 @@ I watched quite a bit of folk-horror movies in 2021 and the best documentary on 
 
 </div>
 
-#### 2016
+## 2016
 
 <div class="checklist">
 

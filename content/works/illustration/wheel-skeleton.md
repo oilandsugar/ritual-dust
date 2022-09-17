@@ -1,6 +1,6 @@
 +++
 title = "Wheel Skeleton"
-tags = ["illustration"]
+tags = ["illustration", "fantasy"]
 date = "2021-09-06"
 
 image = "/img/illustration/wheel-guy.jpg"

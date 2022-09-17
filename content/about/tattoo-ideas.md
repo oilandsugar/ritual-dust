@@ -2,12 +2,10 @@
 title = "Tattoo ideas"
 date = "2021-06-13"
 image = "/img/about/ghost-tattoo.jpg"
-weight = 8
-intro = "A list of tattoos I got and I'd like to get"
 tags = ["tattoo", "notes"]
 +++
 
-![Ghost tattoo on my forearm](/img/about/ghost-tattoo.jpg)
+![Some of my tattoos on my legs](/img/about/tattoos.jpg "Some of my tattoos on my legs")
 
 I see my skin as my personal grimoire, adding to it as I make discoveries, have revelations, find talismans and artefacts, come up with new sigils and live new experiences. I also keep a list of tattoo ideas and things I'd like to add to the grimoire over time.
 
@@ -38,8 +36,8 @@ I see my skin as my personal grimoire, adding to it as I make discoveries, have 
 - [ ] Lord of the rings inspired tattoos
 - [ ] Frame saw
 - [ ] Heraldic griffin on my back
-- [ ] FOLK LORE on fingers
-- [ ] Oak leaves on branch with spider webs (on my chest)
+- [x] FOLK LORE on fingers (by [Empousai](https://www.instagram.com/_empousai_/))
+- [x] Two crossed oak branches on my chest (by[Alixe Cooper](https://www.instagram.com/alixecooper/))
 - [x] broken halberd on my leg by myself
 - [x] Satanic skull with smoke by myself
 - [x] GRIMOIRE over knee by myself

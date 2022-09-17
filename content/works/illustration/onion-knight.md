@@ -1,6 +1,6 @@
 +++
 title = "The Onion Knight"
-tags = ["illustration"]
+tags = ["illustration", "fantasy"]
 date = "2021-09-23"
 
 image = "/img/illustration/onion-knight.jpg"

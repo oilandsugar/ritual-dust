@@ -1,6 +1,6 @@
 +++
 title = "Pious Rot Weapon Compendium Illustrations"
-tags = ["illustration", "rpg", "fantasy"]
+tags = ["illustration", "ttrpg", "fantasy"]
 date = "2022-08-08"
 
 image = "/img/illustration/weapon-compendium/ragged-grasp.jpg"

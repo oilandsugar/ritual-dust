@@ -1,6 +1,6 @@
 +++
 title = "Hekate"
-tags = ["print", "linocut", "print club"]
+tags = ["print", "linocut", "print club", "occult"]
 date = "2022-07-30"
 image = "/img/print/hekate-1.jpg"
 desc = ""

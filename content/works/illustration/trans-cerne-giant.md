@@ -1,6 +1,6 @@
 +++
 title = "Trans Cerne Giant"
-tags = ["illustration"]
+tags = ["illustration", "folklore"]
 date = "2021-03-31"
 
 image = "/img/illustration/cerne-giant-trans-fem.jpg"

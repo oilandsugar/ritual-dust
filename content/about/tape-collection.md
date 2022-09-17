@@ -3,23 +3,26 @@ title = "Tapes"
 date = "2021-06-20"
 image = "/img/about/tapes.jpg"
 weight = 7
-intro = "Just listing all the tapes from my collection here"
 tags = ["music", "dungeon synth", "black metal", "dark ambient", "folk"]
 +++
 
 ![Tape collection](/img/about/tapes.jpg)
 
+Just listing all the tapes from my collection here
+
+## Table of contents
+
 <div class="table-of-contents">
 
-[Dark ambient](#dark-ambient) •
-[Synth music](#synth-music) •
-[Metal](#metal) •
-[Dungeon synth](#dungeon-synth) •
+[Dark ambient](#dark-ambient)  
+[Synth music](#synth-music)  
+[Metal](#metal)  
+[Dungeon synth](#dungeon-synth)  
 [Folk](#folk)
 
 </div>
 
-### Dark ambient
+## Dark ambient
 
 - **The search for the sulphurous well**, Tommy Creep
 - **Rites of blood and dust**, Blood and dust
@@ -29,7 +32,7 @@ tags = ["music", "dungeon synth", "black metal", "dark ambient", "folk"]
 - **Come, deathless**, Surachai
 - **Hinterpest**, Mumbles
 
-### Synth music
+## Synth music
 
 - **Sortilèges**, Potochkine
 - **Potochkine**, Potochkine
@@ -42,7 +45,7 @@ tags = ["music", "dungeon synth", "black metal", "dark ambient", "folk"]
 - **???**, Cosmic highness
 - **a passage in time**, Dead can dance
 
-### Metal
+## Metal
 
 - **Henbane**, Culte des ghoules
 - **Herbal noise**, Hadewijch
@@ -51,7 +54,7 @@ tags = ["music", "dungeon synth", "black metal", "dark ambient", "folk"]
 - **No dawn for men**, Feminazgul
 - **Interrupt request**, C:\>
 
-### Dungeon synth
+## Dungeon synth
 
 - **I**, Fief
 - **II**, Fief
@@ -65,7 +68,7 @@ tags = ["music", "dungeon synth", "black metal", "dark ambient", "folk"]
 - **The song of a long forgotten ghost**, Mortiis
 - **Magical atavism**, Book of skelos
 
-### Folk
+## Folk
 
 - **Within**, Geist and the sacred ensemble
 - **Dig in sessions: III**, Geist and the sacred ensemble

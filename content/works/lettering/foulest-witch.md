@@ -1,6 +1,6 @@
 +++
 title = "Foulest Witch"
-tags = ["lettering", "music"]
+tags = ["lettering", "music", "black metal"]
 date = "2021-09-06"
 
 image = "/img/lettering/foulest-witch/sigil-white.jpg"

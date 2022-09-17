@@ -1,6 +1,6 @@
 +++
 title = "Treecrets cards"
-tags = ["illustration"]
+tags = ["illustration", "game"]
 date = "2021-07-11"
 
 image = "/img/illustration/treecrets-3.jpg"

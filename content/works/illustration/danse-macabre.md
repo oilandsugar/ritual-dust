@@ -1,6 +1,6 @@
 +++
 title = "Danse Macabre"
-tags = ["illustration"]
+tags = ["illustration", "medieval"]
 date = "2020-05-11"
 
 image = "/img/illustration/dancing-skeleton-1.jpg"

@@ -1,6 +1,6 @@
 +++
 title = "Ossuary Wraith T-shirt Design"
-tags = ["illustration"]
+tags = ["illustration", "black metal"]
 date = "2022-09-16"
 
 image = "/img/illustration/ossuary-wraith/full-design.jpg"

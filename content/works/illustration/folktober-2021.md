@@ -1,6 +1,6 @@
 +++
 title = "Folktober 2021"
-tags = ["illustration"]
+tags = ["illustration", "folklore"]
 date = "2021-10-04"
 
 image = "/img/illustration/folktober-2021/green-man.jpg"

@@ -1,6 +1,6 @@
 +++
 title = "Bosch Creature"
-tags = ["illustration"]
+tags = ["illustration", "medieval"]
 date = "2022-01-24"
 
 image = "/img/illustration/bosch-creature/DSC06303.jpg"

@@ -5,19 +5,23 @@ draft = false
 weight = 3
 +++
 
+![The book of english magic, with some artifacts](/img/about/book.jpg "The book of english magic, with some artifacts")
+
 This is my reading list, it contains the books, zines and long form articles I've read in the past (organized by year) or that I intend to read in the near future.
 
-![Book](/img/about/book.jpg)
+## Table of contents
 
-[Books to read](#to-read) •
-[Books 2021](#2021) •
-[Books 2020](#2020) •
-[Zines](#zines) •
+<div class="table-of-contents">
+
+[Books](#books)  
+[Zines](#zines)  
 [Articles and websites](#articles-and-websites)
 
-### Books
+</div>
 
-#### To read
+## Books
+
+### To read
 
 <div class="checklist">
 
@@ -54,28 +58,28 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [ ] **Dancing in the Streets: A History of Collective Joy**, Barbara Ehrenreich
 - [ ] [**The Irish Cottage: History, Culture and Design**](https://www.orpenpress.com/books/the-irish-cottage-history-culture-and-design/), Marion McGarry
 
-#### 2022
+### 2022
 
-- [ ] **Harrow County**, Cullen Bunn & Tyler Crook
-- [x] **Uzumaki**, Junji Ito
-- [x] **The Enigma of Amigara Fault**, Junji Ito
-- [x] **Crom Cruach**, Valkyrie Loughcrewe
-- [x] **The Empire of the Necromancers**, Clark Ashton Smith
 - [ ] **A Pattern Language**, Christopher Alexander
 - [ ] **The Dawn of Everything**, David Graeber & David wengrow
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
 - [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
+- [x] **Harrow County**, Cullen Bunn & Tyler Crook
+- [x] **Uzumaki**, Junji Ito
+- [x] **The Enigma of Amigara Fault**, Junji Ito
+- [x] **Crom Cruach**, Valkyrie Loughcrewe
+- [x] **The Empire of the Necromancers**, Clark Ashton Smith
 - [x] **Prehistoric Avebury**
 - [x] **Monolithic undertow**, Harry Sword
 - [x] **Come as you are**, Emily Nagoski
 - [x] **The Story of the Necronomicon**, H.P. Lovecraft
 
-#### 2021
+### 2021
 
 - [x] **Macbeth**, William Shakespeare
 - [x] **Your Psilocybin Mushroom Companion**, Michelle Janikian
 
-#### 2020
+### 2020
 
 - [x] **I Hope We Choose Love**, Kai Cheng Thom
 - [x] **Psilocybin Production**, Adam Gottlieb
@@ -86,16 +90,38 @@ This is my reading list, it contains the books, zines and long form articles I'v
 > "He saw the Expriest stumbling across the bones and holding aloft a cross he’d fashioned out of the shins of a ram and he’d lashed them together with strips of hide and he was holding the thing before him like some mad dowser in the bleak of desert and calling out in a tongue both alien and extinct"
 > -- Cormac McCarthy in Blood Meridian
 
-### Zines
+## Zines
+
+### To read
 
 <div class="checklist">
 
-- [ ] **Black Panels Only, issue 3**
+- [ ] **Eava zine, issue 1**
+- [ ] **Eava zine, issue 2**
+- [ ] **Feed the Beast, issue 2**
+- [ ] **Feed the Beast, issue 1**
 - [ ] **Rituals and Declarations, issue 1**
 - [ ] **Rituals and Declarations, issue 2**
 - [ ] **Black Dog, issue 1**
-- [ ] **Feed the Beast, issue 2**
-- [ ] **Feed the Beast, issue 1**
+- [ ] **Black Panels Only, issue 3**
+
+</div>
+
+### 2022
+
+<div class="checklist">
+
+- [x] **Becoming the forest, issue 2**
+- [x] **Becoming the forest, issue 3**
+- [x] **Becoming the forest, issue 4**
+- [x] **Hellebore, no.7**
+
+</div>
+
+### 2021
+
+<div class="checklist">
+
 - [x] **Grimoire Silvanus, issue 2**
 - [x] **Grimoire Silvanus, issue 1**
 - [x] **Astral Noize, Tolkien issue**
@@ -108,14 +134,21 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [x] **Fiddler's Green, volume 2 number 2**
 - [x] **Fiddler's Green, volume 2 number 1**
 - [x] **Weird Walk, number 4**
-- [x] **Weird Walk, number 3**
-- [x] **Weird Walk, number 2**
-- [x] **Weird Walk, number 1**
 - [x] **Airmid's Journal, issue 1**
 
 </div>
 
-### Articles and websites
+### 2020
+
+<div class="checklist">
+
+- [x] **Weird Walk, volume 1, number 3**
+- [x] **Weird Walk, volume 1, number 2**
+- [x] **Weird Walk, volume 1, number 1**
+
+</div>
+
+## Articles and websites
 
 https://en.wikipedia.org/wiki/Book_of_Veles  
 https://slatestarcodex.com/2014/07/30/meditations-on-moloch  
@@ -148,6 +181,6 @@ https://c4ss.org/content/53915
 https://blog.deathtobullshit.com/  
 https://www.lowtechmagazine.com/
 
-https://archive.qzap.org/index.php/Splash/Index
-https://onlinebooks.library.upenn.edu/webbin/serial?id=strandmag
+https://archive.qzap.org/index.php/Splash/Index  
+https://onlinebooks.library.upenn.edu/webbin/serial?id=strandmag  
 https://en.wikipedia.org/wiki/Encounters_with_the_Archdruid

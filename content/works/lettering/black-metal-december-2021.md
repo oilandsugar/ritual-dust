@@ -1,6 +1,6 @@
 +++
 title = "Black Metal December 2021"
-tags = ["lettering"]
+tags = ["lettering", "black metal"]
 date = "2021-12-01"
 
 image = "/img/lettering/black-metal-2021/chagrin.jpg"
