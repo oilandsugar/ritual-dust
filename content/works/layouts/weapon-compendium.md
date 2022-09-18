@@ -14,3 +14,5 @@ Together with my friend Steven, we're building a fictional fantasy world called 
 ![](/img/design/weapon-compendium/3-the-knot-of-the-abhorrent.jpg)
 ![](/img/design/weapon-compendium/4-chiton-of-the-craven.jpg)
 ![](/img/design/weapon-compendium/5-the-lost-gardeners-sickle.jpg)
+![](/img/design/weapon-compendium/6-plow-of-roiling-earth.jpg)
+![](/img/design/weapon-compendium/7-bells-of-the-spectral-bison.jpg)

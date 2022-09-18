@@ -1,9 +1,9 @@
 +++
 title = "Golem Heart dice"
-tags = ["design", "miniatures"]
+tags = ["lettering", "miniatures"]
 date = "2021-02-21"
 
-image = "/img/design/golem-heart/logo_web_black.jpg"
+image = "/img/lettering/golem-heart/logo_web_black.jpg"
 desc = "Logo for a friend's custom gaming dice project"
 +++
 
@@ -11,4 +11,5 @@ Logo for a friend's custom gaming dice project. The lettering is based on an exi
 
 If you're interesting in custom gaming dice look up his work here: https://www.instagram.com/golemheartdice/
 
-![Golem Heart Dice logo with a golem heart symbol](/img/design/golem-heart/logo_icon_web.jpg)
+![Golem Heart Dice logo with a golem heart symbol](/img/lettering/golem-heart/logo_web_black.jpg)
+![Golem Heart Dice logo with a golem heart symbol](/img/lettering/golem-heart/logo_icon_web.jpg)
