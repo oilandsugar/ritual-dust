@@ -55,6 +55,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Tuna casserole" link="https://theyummyvegan.com/blog/fishfreetunacasserole" image="/img/recipes/favorites/tuna-casserole.jpg" >}}
 {{< recipe name="Peanut tofu noodle bowls" link="https://www.budgetbytes.com/peanut-tofu-noodle-bowls/" image="/img/recipes/favorites/peanut-tofu-bowl.jpg" >}}
 {{< recipe name="Mushroom pasta" link="https://www.avantgardevegan.com/recipes/creamy-king-oyster-mushroom-pasta/" image="/img/recipes/favorites/mushroom-pasta-2.jpg" >}}
+{{< recipe name="Soba noodles" link="https://cookieandkate.com/veggie-sesame-noodles-recipe/" image="" >}}
 
 {{% /columns %}}
 
