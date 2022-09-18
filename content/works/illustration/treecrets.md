@@ -3,7 +3,7 @@ title = "Treecrets cards"
 tags = ["illustration", "game"]
 date = "2021-07-11"
 
-image = "/img/illustration/treecrets-3.jpg"
+image = "/img/illustration/treecrets/treecrets-3.jpg"
 desc = "Illustrated cards for a quiet game about trees."
 +++
 
@@ -11,10 +11,10 @@ Basing myself on a [game](https://jameschip.io/games/treecrets.html) by [James C
 
 ![](/img/illustration/treecrets-1.jpg)
 
-{{< product title="Treecrets cards" desc="Set of 12 cards guiding you and a through this meditative game to be played alone or with a friend in a quiet spot of forest." price="20" id="treecrets-cards" image="/img/illustration/treecrets-1.jpg" weight="41" length="19" height="1" width="14" url="https://ritualdust.com/works/illustration/treecrets" >}}
+{{< product title="Treecrets cards" desc="Set of 12 cards guiding you and a through this meditative game to be played alone or with a friend in a quiet spot of forest." price="20" id="treecrets-cards" image="/img/illustration/treecrets/treecrets-1.jpg" weight="41" length="19" height="1" width="14" url="https://ritualdust.com/works/illustration/treecrets" >}}
 
-![](/img/illustration/treecrets-6.jpg)
-![](/img/illustration/treecrets-2.jpg)
-![](/img/illustration/treecrets-3.jpg)
-![](/img/illustration/treecrets-4.jpg)
-![](/img/illustration/treecrets-5.jpg)
+![](/img/illustration/treecrets/treecrets-6.jpg)
+![](/img/illustration/treecrets/treecrets-2.jpg)
+![](/img/illustration/treecrets/treecrets-3.jpg)
+![](/img/illustration/treecrets/treecrets-4.jpg)
+![](/img/illustration/treecrets/treecrets-5.jpg)

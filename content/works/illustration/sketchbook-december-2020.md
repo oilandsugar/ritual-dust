@@ -2,7 +2,7 @@
 title = "Sketchbook dec 2020"
 tags = ["illustration"]
 date = "2020-12-30"
-
+draft = true
 image = "/img/illustration/notebook-7.jpg"
 desc = "Raw scans from my sketchbook"
 +++
