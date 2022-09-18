@@ -3,7 +3,7 @@ title = "Fantômes Zine - issue 1"
 tags = ["illustration", "ghosts"]
 date = "2022-01-14"
 
-image = "/img/illustration/fantomes/DSC04573.jpg"
+image = "/img/illustration/fantomes/cover.jpg"
 desc = "Illustrations for my ghost stories zine"
 +++
 
