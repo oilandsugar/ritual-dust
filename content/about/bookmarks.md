@@ -108,6 +108,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Larry MacDougal](https://larrymacdougallart.bigcartel.com/)
 - [Moritz Brebs](https://instagram.com/blackcrabart)
 - [Maria Chronopoulos](http://mariachronopoulos.com/)
+- [Mark Riddick](https://riddickart.com/)
 - [Rek Bellum](https://kokorobot.ca/site/home.html)
 - [Santiago Caruso](https://santiagocaruso.com.ar/)
 - [Teye Gerbracht](http://teyegerbracht.com/)
@@ -161,6 +162,10 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [28 mag](https://28-mag.com/)
 - [Turnip 28](https://www.patreon.com/Turnip28/posts)
 - [bitzbox](https://www.bitzbox.co.uk/index.php)
+
+### Historical replicas
+
+- [Old craft workshop](https://oldcraftworkshop.com/)
 
 ### Design, fonts
 

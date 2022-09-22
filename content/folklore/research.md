@@ -46,6 +46,7 @@ Where I keep my references for folklore, ancestry and magic research
 - [The Beast of the Gévaudan](https://publicdomainreview.org/collection/the-beast-of-gevaudan-1764-1767)
 - [Early Celtic art](https://www.wikiwand.com/en/Celtic_art)
 - [Mythical Ireland](https://mythicalireland.com/)
+- [Celtic sun worship](https://www.libraryireland.com/Druids/Sun-Customs.php)
 
 ### Ancestry
 

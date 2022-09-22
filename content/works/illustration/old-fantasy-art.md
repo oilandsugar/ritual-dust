@@ -44,6 +44,7 @@ It's quite hard to pin down the start of the genre of fantasy art, one could arg
 - Mark Harrison
 - John Bauer
 - Theodor Kittelsen
+- Virgil Finlay
 - [Geoff Taylor](https://geofftaylor-artist.com/)
 
 </div>

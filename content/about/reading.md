@@ -26,6 +26,7 @@ This is my reading list, it contains the books, zines and long form articles I'v
 <div class="checklist">
 
 - [ ] **Radical Mycology** Peter McCoy
+- [ ] **Objets low-tech du quotidien** Alizée Perrin
 - [ ] **Then and Now** C.S. Lewis
 - [ ] **If on a Winter's Night a Traveler**, Italo Calvino
 - [ ] **Powers of Darkness: The Lost Version of Dracula**, Bram Stoker, Vladimar Asmundsson
@@ -60,10 +61,12 @@ This is my reading list, it contains the books, zines and long form articles I'v
 
 ### 2022
 
+
 - [ ] **A Pattern Language**, Christopher Alexander
 - [ ] **The Dawn of Everything**, David Graeber & David wengrow
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
 - [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
+- [x] **The City on Mallington Moor**, Lord Dunsany
 - [x] **Harrow County**, Cullen Bunn & Tyler Crook
 - [x] **Uzumaki**, Junji Ito
 - [x] **The Enigma of Amigara Fault**, Junji Ito

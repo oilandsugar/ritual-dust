@@ -14,18 +14,18 @@ The holidays or festivals can be separated into two groups: **the fire festivals
 ## The fire festivals
 with a focus on community, hearth and home and the otherworld
 
-- [Imbolg](/folklore/festivals/imbolg/)
-- [Bealtaine](/folklore/festivals/bealtaine/)
-- [Lúnasa](/folklore/festivals/lunasa/)
-- [Samhain](/folklore/festivals/samhain/)
+- [Imbolg](/folklore/festivals/imbolg/) - (feburary 1st)
+- [Bealtaine](/folklore/festivals/bealtaine/) - (may 1st)
+- [Lúnasa](/folklore/festivals/lunasa/) - (august 1st)
+- [Samhain](/folklore/festivals/samhain/) - (october 31st)
 
 ## The cross quarters
 with a focus on community, the land and this world
 
-- [Earrach](/folklore/festivals/earrach/)
-- [Samhradh](/folklore/festivals/samhradh/)
-- [Fómhar](/folklore/festivals/fomhar/)
-- [Gheimhreadh](/folklore/festivals/gheimhreadh/)
+- [Earrach](/folklore/festivals/earrach/) - spring equinox (march 20th)
+- [Samhradh](/folklore/festivals/samhradh/) - summer solstice (june 20th)
+- [Fómhar](/folklore/festivals/fomhar/) - autumn equinox (september 22nd)
+- [Gheimhreadh](/folklore/festivals/gheimhreadh/) - winter solstice (december 21st)
 
 ## Links and references
 
