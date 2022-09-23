@@ -156,6 +156,19 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Michael Cooper](https://instagram.com/yallerybrowntattoo)(UK)
 - [Alberto Santi](https://instagram.com/ruraltattooing)(Italy)
 
+### Tattoo studios
+
+- [Black Circle Mtl](https://www.instagram.com/blackcircle_montreal/) (Montréal)
+- [Tatouage Royal](https://tatouageroyal.com/) (Montréal)
+- [Minuit Dix](https://www.instagram.com/minuitdix_tattoo) (Montréal)
+- [Désolé maman](https://www.instagram.com/desole.maman) (Montréal)
+- [Les chochottes](https://www.instagram.com/leschochottes_tattoo/) (Montréal)
+- [COOP Crève-coeur](https://www.instagram.com/crevecoeur.coop/) (Montréal)
+- [Studio l'arrosoir](https://www.instagram.com/studiolarrosoir/) (Montréal)
+- [War Tooth](http://www.war-tooth.com/home) (Toronto)
+- [Black Veil](https://www.blackveilstudio.com/) (Salem)
+- [Black Circle Lyon](https://www.instagram.com/blackcircle_lyon/) (Montréal)
+
 ### Miniatures and dioramas
 
 - [Gardens of Hecate](https://gardensofhecate.com/)
