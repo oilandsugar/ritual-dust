@@ -47,6 +47,7 @@ Where I keep my references for folklore, ancestry and magic research
 - [Early Celtic art](https://www.wikiwand.com/en/Celtic_art)
 - [Mythical Ireland](https://mythicalireland.com/)
 - [Celtic sun worship](https://www.libraryireland.com/Druids/Sun-Customs.php)
+- [A Medieval bestiary](https://bestiary.ca/index.html)
 
 ### Ancestry
 
