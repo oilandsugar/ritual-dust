@@ -19,6 +19,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 [Artists](#artists)  
 [Art](#art)  
 [Tattoo](#tattoo-artists)  
+[Tattoo Studios](#tattoo-studios)  
 [Design](#design-fonts)  
 [Politics](#politics)  
 [Food](#food-and-recipe-blogs)  
@@ -143,6 +144,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Lipa](https://www.instagram.com/_lipa_/)(Warsaw)
 - [Sasha](https://www.instagram.com/naphulaa/)(Warsaw)
 - [Fabian Staniec](https://instagram.com/snail_trail__)(Poland)
+- [Kajetan](https://www.instagram.com/p/CfwJvFLoVWZ/)(Poznań)
 - [Muk](https://www.instagram.com/mukart.blackwork/)(Korea)
 - [Voziakova Aleksandra](https://www.instagram.com/aleksdarkink/)(Saint-Petersburg)
 - [Leny Tusfey](https://www.instagram.com/lenytusfey/)(Cannes)
@@ -151,10 +153,13 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [B.Ignorant](https://instagram.com/b.ignorant)(Leipzig)
 - [L'hérétique](https://instagram.com/lheretique)(Strasbourg)
 - [Knive](https://instagram.com/k.n.i.v.ek)(Belgium)
+- [Side Tattooing](https://www.instagram.com/sidetattooing/)(Lyon)
+- [Hugo Barbier](https://www.instagram.com/hugal.tattooing/)(Lyon)
 - [Laura Nahna](https://instagram.com/the.girl.with.the.matchsticks)(Berlin)
 - [Sofa Oblina](https://instagram.com/sofa_oblina)(Berlin)
 - [Michael Cooper](https://instagram.com/yallerybrowntattoo)(UK)
 - [Alberto Santi](https://instagram.com/ruraltattooing)(Italy)
+- [Philip Burok](https://www.instagram.com/burok_darkart/)(???)
 
 ### Tattoo studios
 
@@ -167,7 +172,8 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Studio l'arrosoir](https://www.instagram.com/studiolarrosoir/) (Montréal)
 - [War Tooth](http://www.war-tooth.com/home) (Toronto)
 - [Black Veil](https://www.blackveilstudio.com/) (Salem)
-- [Black Circle Lyon](https://www.instagram.com/blackcircle_lyon/) (Montréal)
+- [Black Circle Lyon](https://www.instagram.com/blackcircle_lyon/) (Lyon)
+- [People's Temple Tattoo](https://www.instagram.com/peoplestempletattoo/) (Lyon)
 
 ### Miniatures and dioramas
 
