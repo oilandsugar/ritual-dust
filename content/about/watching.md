@@ -68,6 +68,8 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+  - [x] **Bodies Bodies Bodies**, Halina Reijn - 2022
+  - [x] **Mona Lisa and the Blood Moon**, Ana Lily Amirpour - 2022
   - [x] **Hatching**, Hanna Bergholm - 2022
 - [x] **Tremors**, Ron Underwood - 1990
 - [x] **Quartermass and the pit**, Roy Ward Baker - 1967
