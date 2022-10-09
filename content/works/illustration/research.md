@@ -27,6 +27,7 @@ References, archives and research material on illustration and art
 
 - [The ISFDB is a community effort to catalog works of science fiction, fantasy, and horror](http://www.isfdb.org/cgi-bin/index.cgi)
 - [Artvee, archive of public domain classical artworks](https://artvee.com/)
+- [Heavy music artwork](https://heavymusicartwork.com/)
 
 ## Courses and drawing practice
 

@@ -122,5 +122,4 @@ Most of the symbolist artworks and poetry were seen by very few people, mostly a
 - [Toteninsel, a website dedicated to the isle of the dead painting](http://www.toteninsel.net/home.php)
 - [Contemporary artists influenced by alchemy](https://www.alchemywebsite.com/contemp_artists.html)
 - [A lot of great pieces by Diefenbach](https://www.tuttartpitturasculturapoesiamusica.com/2014/05/Karl-Wilhelm-Diefenbach.html)
-- [Heavy music artwork](https://heavymusicartwork.com/)
 - [Great collection of symbolist art in the public domain](https://artvee.com/movement/symbolism/)
