@@ -63,6 +63,8 @@ It's quite hard to pin down the start of the genre of fantasy art, one could arg
 - [Jesper Ejsing](http://jesperejsing.com/)
 - [Wayne Reynolds](https://www.waynereynolds.com/)
 - [Vincente Segrelles](http://www.segrelles.com/)
+- [Pater Pagano](https://peterpaganographics.com/)
+- [Bradley K McDevitt](http://www.bradleykmcdevitt.net/art.htm)
 
 </div>
 
