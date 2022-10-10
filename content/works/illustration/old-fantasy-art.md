@@ -45,6 +45,7 @@ It's quite hard to pin down the start of the genre of fantasy art, one could arg
 - John Bauer
 - Theodor Kittelsen
 - Virgil Finlay
+- Gary Chalk
 - [Geoff Taylor](https://geofftaylor-artist.com/)
 
 </div>
@@ -105,3 +106,4 @@ Legend of Zelda
 - [Beautiful book on fantasy art](https://www.taschen.com/pages/en/catalogue/graphic_design/all/01182/facts.masterpieces_of_fantasy_art.htm)  
 - [Vintage book sellers with good quality photos](https://www.lwcurrey.com/)
 - [elfwood.com](http://web.archive.org/web/20010622100806/http://elfwood.lysator.liu.se/elfwood.html)
+- [archive of gamebooks](https://gamebooks.org/Series/List)
