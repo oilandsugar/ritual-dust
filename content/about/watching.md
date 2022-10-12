@@ -61,6 +61,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **You won't be alone**, Goran Stolevski - 2022
 - [ ] **Witchhammer**, Otakar Vávra - 1970
 - [ ] **The White Reindeer**, Erik Blomberg - 1952
+- [ ] **Upurga**, Ugis Olte - 2022
 
 </div>
 
@@ -68,6 +69,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **The Beast Within, the Making of Alien**, Charles de Lauzirika - 2003
   - [x] **Alien**, Ripley Scott - 1979
   - [x] **You are not my mother**, Kate Dolan - 2021
   - [x] **Deadstream**, Joseph Winter, Vanessa Winter - 2022
