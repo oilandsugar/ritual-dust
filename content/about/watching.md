@@ -68,6 +68,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+  - [x] **Alien**, Ripley Scott - 1979
   - [x] **You are not my mother**, Kate Dolan - 2021
   - [x] **Deadstream**, Joseph Winter, Vanessa Winter - 2022
   - [x] **Bodies Bodies Bodies**, Halina Reijn - 2022
