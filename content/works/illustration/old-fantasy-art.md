@@ -25,11 +25,30 @@ draft = true
 
 </div>
 
-### An introduction to the genre
+### An introduction to and brief history of the genre
 
-It's quite hard to pin down the start of the genre of fantasy art, one could argue that it is more than a genre and more a amalgam of themes and illustrative styles. If we see it like that it goes back centuries and overlaps quite a lot with folk art which often depicted mythological characters and fantastic creatures almost as far back as human made images. But what's generally seen or described as fantasy art was popularized during the 20th century, often through illustrations for books, magazines, games and movies. In this page, I'll go through some of the artists of the genre that inspire me and explore how the genre manifested itself alongside the different types of media it illustrated. This is in no way exhaustive or trying to be an history of the genre or an academic study of it, it's a collection of illustrations that inspire me in their context for further reference.
+It's quite hard to pin down the start of the genre of fantasy art, one could argue that it is more than a genre and more a amalgam of themes and illustrative styles. If we see it like that it goes back centuries and overlaps quite a lot with folk art which often depicted mythological characters and fantastic creatures almost as far back as human made images.
 
-### Old-school artists
+#### Beginnings of Modern Fantasy
+
+Modern fantasy is usually said to begin in the mid-19th century with the work of authors George MacDonald and William Morris, who's work then inspired and influenced J.R.R. Tolkien and C.S Lewis
+
+In a way, fantasy art intersects with [symbolism](/works/illustration/symbolism/)
+
+#### The Pulp Era
+
+But what's generally seen or described as fantasy art was popularized in the 20th and 21st centuries, often through illustrations for books, magazines, games and movies. In this page, I'll go through some of the artists of the genre that inspire me and explore how the genre manifested itself alongside the different types of media it illustrated. This is in no way exhaustive or trying to be an history of the genre or an academic study of it, it's a collection of illustrations that inspire me in their context for further reference.
+
+**Artists of the era**
+
+#### Sword Sorcery and beyond
+
+when do rpg and dnd games come in?
+
+after 1970, big influence of role playing games like dnd, and the metal hurlant magazine
+
+**Artists of the era**
+
 
 <div class="columns medium-padding-bottom no-margin-inside">
 
@@ -84,7 +103,13 @@ In addition to the game themselves, a panoply of magazines covering the subject 
 White Dwarf magazine (started as a RPG magazine then become focussed on wargaming)
 Dragon magazine
 
-### Fantasy Books and Magazines
+### Fantasy Books, game books and Magazines
+
+Fantasy having its roots in literature, there is a large quantity of fantasy books published out there with beautiful illustrated covers and interior illustration. Cover illustrations were really important for paperback books in the 80's as they were the main source of advertisement for the book and it's story. It really encouraged authors and publishers to work with great artists to illustrate their books and that has created a treasure trove of great fantasy art.
+
+A very special type of book that I particularly love from that era was the game books or "choose your own adventure" books.
+
+In addition to the fiction books and the game books, a couple of magazines dedicated to fantasy art and stories were published over the years
 
 Realms of Fantasy magazine
 

@@ -57,6 +57,8 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [ ] **Blood and Mistletoe: The History of the Druids in Britain**, Ronald Hutton
 - [ ] **The Future Is Degrowth**, Matthias Schmelzer, Aaron Vansintjan, and Andrea Vetter
 - [ ] **Dancing in the Streets: A History of Collective Joy**, Barbara Ehrenreich
+- [ ] **This mortal coil**, Cynthia Asquith
+- [ ] **Genius Loci**, Clark Ashton Smith
 - [ ] [**The Irish Cottage: History, Culture and Design**](https://www.orpenpress.com/books/the-irish-cottage-history-culture-and-design/), Marion McGarry
 
 ### 2022
