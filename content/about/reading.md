@@ -63,7 +63,6 @@ This is my reading list, it contains the books, zines and long form articles I'v
 
 ### 2022
 
-
 - [ ] **A Pattern Language**, Christopher Alexander
 - [ ] **The Dawn of Everything**, David Graeber & David wengrow
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
