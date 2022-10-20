@@ -19,7 +19,7 @@ weight = 3
 
 ## History of druidism
 
-Very few sources concerning the druids of the Iron age subsists to this day, most of the being accounts from Greek, Roman and christian sources. It can be interpreted from these texts that the modern image of the druid as a priestly figure presiding over sacrifices, rituals and the conservation and sharing of wisdom was mostly found amongst the druids of Gaul. Other druids existed in other Celtic society during that period but often these sources generalize the traditions and culture of the Celts as a monolithic thing, which is very much wasn't.
+Very few sources concerning the druids of the Iron age subsists to this day, most of the being accounts from Greek, Roman and christian sources. It can be interpreted from these texts that the modern image of the druid as a priestly figure presiding over sacrifices, rituals and the conservation and sharing of wisdom was mostly found amongst the druids of Gaul. Other druids existed in other Celtic societies during that period but often these sources generalize the traditions and culture of the Celts as a monolithic thing, which it very much wasn't.
 
 Later on, the early christian monks of the 4th to 6th century, the historians and antiquarians of the British Isles during the 19th century and even later on the New Age groups of the 50's and 60's developed and crafted a fantastical image and history surrounding the druids, often in order to either defend christianity in opposition to heathen practices, create a glorious historical past to justify a national identity or as a way to combat the uncertainty brought on by the drastic post-war changes in our ways of life.
 
@@ -29,7 +29,7 @@ My approach of druidism isn't one that pretends to be the continuation of an anc
 
 ## My practice
 
-Druidism and magic for me are closely tied to the cycles of sprouting, growth, death and decay present in nature and how it reflects our own internal psychological cycles while going through moments of painful growth and also to societal cycles of progress and deep change. The more i become aware of my own cycles, the more i can live in a deliberate way with them and contribute more to societal growth. So in that sense druidry for me is more a frame of mind, a series of habits and personal traditions around nature and my relationship with it.
+Druidism and magic for me are closely tied to the cycles of sprouting, growth, death and decay present in nature and how it reflects our own internal psychological cycles while going through moments of painful growth and also to societal cycles of progress and deep change. The more I become aware of my own cycles, the more i can live in a deliberate way with them and contribute more to societal growth. So in that sense druidry for me is more a frame of mind, a series of habits and personal traditions around nature and my relationship with it.
 
 The three yearnings of druids according to the order of bards ovates and druids are also in alignment with how I perceive the practice:  
 - **To be fully creative in our lives,**   

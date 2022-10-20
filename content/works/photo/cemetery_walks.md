@@ -1,5 +1,5 @@
 +++
-title = "Cemetery walks"
+title = "Cemetery walk oct 2020"
 tags = ["photo"]
 date = "2020-10-16"
 
