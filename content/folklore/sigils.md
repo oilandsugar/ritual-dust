@@ -9,13 +9,13 @@ desc = "My ongoing research and work with sigils"
 
 <div class="table-of-contents">
 
-[What are sigils](#what-are-sigils) •
-[Austin Osman Spare](#austin-osman-spare) •
-[Intuitive Sigils](#intuitive-sigils) •
-[Word Method](#the-word-method) •
-[Rose Cross Method](#making-sigils-from-a-rose-cross) •
-[Planetary Square Method](#making-sigils-using-planetary-squares) •
-[My own sigil work](#my-own-sigil-work) •
+[What are sigils](#what-are-sigils)  
+[Austin Osman Spare](#austin-osman-spare)  
+[Intuitive Sigils](#intuitive-sigils)  
+[Word Method](#the-word-method)  
+[Rose Cross Method](#making-sigils-from-a-rose-cross)  
+[Planetary Square Method](#making-sigils-using-planetary-squares)  
+[My own sigil work](#my-own-sigil-work)  
 [Links and References](#links-and-references)
 
 </div>
