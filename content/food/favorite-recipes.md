@@ -156,6 +156,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Marinara sauce" link="https://cookieandkate.com/simple-marinara-sauce-recipe/" image="/img/recipes/favorites/marinara.jpg" >}}
 {{< recipe name="Mushroom ketchup" link="https://www.greatbritishchefs.com/recipes/mushroom-ketchup-recipe" image="/img/recipes/favorites/mushroom-ketchup.jpg" >}}
 {{< recipe name="Peanut sauce" link="https://www.budgetbytes.com/peanut-tofu-noodle-bowls/" image="/img/recipes/favorites/peanut-sauce.jpg" >}}
+{{< recipe name="Alfredo Sauce" link="https://thevegan8.com/vegan-garlic-alfredo-sauce/">}}
 
 {{% /columns %}}
 
