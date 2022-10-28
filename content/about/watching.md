@@ -62,6 +62,9 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Witchhammer**, Otakar Vávra - 1970
 - [ ] **The White Reindeer**, Erik Blomberg - 1952
 - [ ] **Upurga**, Ugis Olte - 2022
+- [ ] **Alien: Covenant**, Ridley Scott
+- [ ] **Prometheus**
+- [ ] **Alien: Resurrection**
 
 </div>
 
@@ -69,6 +72,8 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Alien 3**, David Fincher - 1992
+  - [x] **Aliens**, James Cameron - 1986
 - [x] **The Beast Within, the Making of Alien**, Charles de Lauzirika - 2003
   - [x] **Alien**, Ripley Scott - 1979
   - [x] **You are not my mother**, Kate Dolan - 2021

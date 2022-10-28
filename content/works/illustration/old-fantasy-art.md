@@ -6,6 +6,7 @@ date = "2021-11-13"
 image = "/img/illustration/fantasy-art/FrankFrazetta-The-Death-Dealer-II-1986.jpg"
 desc = "A deep dive in old-school fantasy art and illustration in books, role-playing games and video games"
 draft = true
+
 +++
 
 <div class="half">
@@ -16,39 +17,28 @@ draft = true
 
 <div class="table-of-contents">
 
-[The Genre](#an-introduction-to-the-genre) •
-[Artists](#contemporary-artists-exploring-this-style) •
-[Role-Playing Games](#old-school-role-playing-games-and-other-types-of-games) •
-[Books and Magazines](#fantasy-books-and-magazines) •
-[Video Games](#video-games) •
+[The Genre](#an-introduction-to-the-genre)  
+[Books and Magazines](#fantasy-books-and-magazines)  
+[Role-Playing Games](#old-school-role-playing-games-and-other-types-of-games)  
 [Links](#links-and-references)
 
 </div>
 
-### An introduction to and brief history of the genre
+## An introduction to and brief history of the genre
 
 It's quite hard to pin down the start of the genre of fantasy art, one could argue that it is more than a genre and more a amalgam of themes and illustrative styles. If we see it like that it goes back centuries and overlaps quite a lot with folk art which often depicted mythological characters and fantastic creatures almost as far back as human made images.
 
-#### Beginnings of Modern Fantasy
+### Beginnings of Modern Fantasy
 
 Modern fantasy is usually said to begin in the mid-19th century with the work of authors George MacDonald and William Morris, who's work then inspired and influenced J.R.R. Tolkien and C.S Lewis
 
 In a way, fantasy art intersects with [symbolism](/works/illustration/symbolism/)
 
-#### The Pulp Era
+### The Pulp Era
 
 But what's generally seen or described as fantasy art was popularized in the 20th and 21st centuries, often through illustrations for books, magazines, games and movies. In this page, I'll go through some of the artists of the genre that inspire me and explore how the genre manifested itself alongside the different types of media it illustrated. This is in no way exhaustive or trying to be an history of the genre or an academic study of it, it's a collection of illustrations that inspire me in their context for further reference.
 
 **Artists of the era**
-
-#### Sword Sorcery and beyond
-
-when do rpg and dnd games come in?
-
-after 1970, big influence of role playing games like dnd, and the metal hurlant magazine
-
-**Artists of the era**
-
 
 <div class="columns medium-padding-bottom no-margin-inside">
 
@@ -69,7 +59,13 @@ after 1970, big influence of role playing games like dnd, and the metal hurlant 
 
 </div>
 
-### Contemporary artists exploring this style
+### Sword Sorcery and beyond
+
+when do rpg and dnd games come in?
+
+after 1970, big influence of role playing games like dnd, and the metal hurlant magazine
+
+**Artists of the era**
 
 <div class="columns medium-padding-bottom no-margin-inside">
 
@@ -88,22 +84,7 @@ after 1970, big influence of role playing games like dnd, and the metal hurlant 
 
 </div>
 
-### Old School Role-Playing games and other types of games
-
-Games
-
-DnD
-Mordheim
-Magic the Gathering
-
-#### Magazine and publications about games
-
-In addition to the game themselves, a panoply of magazines covering the subject of these role-playing / wargaming / card games in depth, providing extra campaign materials, tips on the hobby or complementary lore (along with a fair amount of ads). They often featured elaborate and painterly covers along with some black and white illustrations on the inside.
-
-White Dwarf magazine (started as a RPG magazine then become focussed on wargaming)
-Dragon magazine
-
-### Fantasy Books, game books and Magazines
+## Fantasy Books, game books and Magazines
 
 Fantasy having its roots in literature, there is a large quantity of fantasy books published out there with beautiful illustrated covers and interior illustration. Cover illustrations were really important for paperback books in the 80's as they were the main source of advertisement for the book and it's story. It really encouraged authors and publishers to work with great artists to illustrate their books and that has created a treasure trove of great fantasy art.
 
@@ -111,14 +92,46 @@ A very special type of book that I particularly love from that era was the game 
 
 In addition to the fiction books and the game books, a couple of magazines dedicated to fantasy art and stories were published over the years
 
-Realms of Fantasy magazine
+#### Magazine and publications about games
+
+In addition to the game themselves, a panoply of magazines covering the subject of these role-playing / wargaming / card games in depth, providing extra campaign materials, tips on the hobby or complementary lore (along with a fair amount of ads). They often featured elaborate and painterly covers along with some black and white illustrations on the inside.
+
+#### Contemporary fantasy magazines
+
+<div class="columns medium-padding-bottom no-margin-inside">
+
+- [New Edge](https://newedgeswordandsorcery.com/)
+- [Whetstone](https://whetstonemag.blogspot.com/)
+- [Wyngraf](https://wyngraf.com/)
+- [Witch House](https://witchhousemag.blogspot.com/)
+
+</div>
+
+#### Old-school fantasy magazines
+
+<div class="columns medium-padding-bottom no-margin-inside">
+
+- Realms of Fantasy magazine
+- White Dwarf magazine
+- Dragon magazine
+
+</div>
 
 
 - [An archive of old fantasy and sci-fi magazines](http://www.luminist.org/archives/SF/)
 
-### Video Games
 
-Legend of Zelda
+### Old School Role-Playing games and other types of games
+
+Games
+
+<div class="columns medium-padding-bottom no-margin-inside">
+
+- DnD  
+- Mordheim  
+- Magic the Gathering
+
+</div>
 
 ### Links and References
 
