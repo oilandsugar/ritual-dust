@@ -63,7 +63,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **The White Reindeer**, Erik Blomberg - 1952
 - [ ] **Upurga**, Ugis Olte - 2022
 - [ ] **Alien: Covenant**, Ridley Scott - 2017
-- [ ] **Prometheus**, Ridley Scott - 2012
 
 </div>
 
@@ -71,7 +70,9 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
-- [x] **Alien: Resurrection**, Jean-Pierre Jeunet - 1997
+- [x] **Predator**, John McTiernan - 1987
+- [x] **Prometheus**, Ridley Scott - 2012
+  - [x] **Alien: Resurrection**, Jean-Pierre Jeunet - 1997
 - [x] **Alien 3**, David Fincher - 1992
   - [x] **Aliens**, James Cameron - 1986
 - [x] **The Beast Within, the Making of Alien**, Charles de Lauzirika - 2003
