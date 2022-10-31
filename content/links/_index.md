@@ -5,9 +5,9 @@ type = "links"
 desc = "A page listing some links to include in social media profiles"
 +++
 
+[Get Fantômes Zine issue 2](https://fantomeszine.com/issues/issue-2/)  
 [Available tattoo flash](https://ritualdust.com/tattoo/flash)  
 [Custom tattoo form](https://ritualdust.com/tattoo/tattoo-form/)  
-[Get Fantômes Zine issue 1](https://fantomeszine.com/issues/issue-1/)  
 [Order Treecrets](https://ritualdust.com/works/illustration/treecrets/)   
 
 <div class="support">
