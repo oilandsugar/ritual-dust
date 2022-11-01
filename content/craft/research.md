@@ -46,3 +46,4 @@ Where I keep my references for crafting, woodworking, low-tech, permacomputing a
 ### Other crafts
 
 - [Atelier able - ancient pottery reproduction](https://atelierable.nl/)
+- [source for lamp parts](https://grandbrass.com/)
