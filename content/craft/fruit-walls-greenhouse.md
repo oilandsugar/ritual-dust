@@ -1,5 +1,5 @@
 +++
-title = "Fruit walls and the beginnings of greenhouses"
+title = "Fruit walls and other no-energy greenhouses"
 tags = ["craft", "sustainability", "greenhouse","fruit wall", "notes"]
 date = "2021-06-03"
 
@@ -14,6 +14,11 @@ or how to grow mediterranean fruit in colder climates using only renewable energ
 ### The beginnings of the greenhouse
 
 The first greenhouse came from experiments with placing panes of glass against fruit walls
+
+### Walpini greenhouse
+
+built in a pit / partially underground
+can be used year-round
 
 ### Links and resources
 
