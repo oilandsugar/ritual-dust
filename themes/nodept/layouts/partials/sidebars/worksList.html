@@ -3,9 +3,9 @@
     {{ partial "sidebars/utils/back" . }}
   {{ end }}
   {{ if (eq .Parent.Title "Works") }}
-    <h3 class="accent">Projects</h3>
+    <h3 class="accent default-font all-caps">Projects</h3>
   {{ else }}
-    <h3 class="accent">Types of works</h3>
+    <h3 class="accent default-font all-caps">Types of works</h3>
   {{ end }}
   <ul class="section-pages">
     {{ range where .Pages "Section" "works" }}

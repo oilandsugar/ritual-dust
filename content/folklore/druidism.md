@@ -1,6 +1,6 @@
 +++
 title = "Druidism"
-tags = ["magic", "druidism"]
+tags = ["magic", "druidism", "notes"]
 date = "2020-10-19"
 
 image = "/img/folklore/druidism.jpg"

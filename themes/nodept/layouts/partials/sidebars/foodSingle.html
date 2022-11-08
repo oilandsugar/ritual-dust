@@ -1,7 +1,7 @@
 <aside class="sidebar">
   {{ partial "sidebars/utils/back" . }}
   {{ $section := where $.Site.RegularPages "Section" "food"}}
-  <h3 class="accent">Recipes</h3>
+  <h3 class="accent default-font all-caps">Recipes</h3>
   <div class="small-padding-bottom">
     <ul class="section-pages">
     {{ range $section }}
@@ -11,7 +11,7 @@
     {{ end }}
     </ul>
   </div>
-  <h3 class="accent">Notes</h3>
+  <h3 class="accent default-font all-caps">Notes</h3>
   <div class="small-padding-bottom">
     <ul class="section-pages">
     {{ range $section }}

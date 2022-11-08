@@ -1,6 +1,6 @@
 +++
 title = "Folk Horror"
-tags = ["folklore", "folk horror", "cinema", "literature", "music"]
+tags = ["folklore", "folk horror", "cinema", "literature", "music", "notes "]
 date = "2022-03-25"
 image = "/img/folklore/folk-horror.jpg"
 desc = "My collected knowledge on my favorite mode of story-telling, rising from the forest, from the furrow and from the fields. "
@@ -10,10 +10,10 @@ desc = "My collected knowledge on my favorite mode of story-telling, rising from
 
 <div class="table-of-contents">
 
-[Introduction](#introduction) •
-[Movies and television](#folk-horror-in-movies-and-television) •
-[Literature](#folk-horror-in-literature) •
-[Music](#folk-horror-in-music) •
+[Introduction](#introduction)  
+[Movies and television](#folk-horror-in-movies-and-television)  
+[Literature](#folk-horror-in-literature)  
+[Music](#folk-horror-in-music)  
 [Links](#links-and-resources)
 
 </div>

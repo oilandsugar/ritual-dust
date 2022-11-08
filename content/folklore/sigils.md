@@ -1,6 +1,6 @@
 +++
 title = "Sigils and occult symbols"
-tags = ["magic", "sigils", "symbols"]
+tags = ["magic", "sigils", "symbols", "notes"]
 date = "2020-10-19"
 
 image = "/img/folklore/sigils.jpg"

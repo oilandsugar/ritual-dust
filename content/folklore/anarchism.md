@@ -1,6 +1,6 @@
 +++
 title = "Post-Civilization Anarchism"
-tags = ["politics", "anarchism", "sustainability"]
+tags = ["politics", "anarchism", "sustainability", "notes"]
 date = "2022-04-07"
 image = "/img/folklore/post-civ-anarchism-cover.jpg"
 

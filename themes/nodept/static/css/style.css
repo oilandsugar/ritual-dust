@@ -297,6 +297,14 @@ li p {
   color: var(--f_high);
 }
 
+.default-font {
+  font-family: "Wremena";
+}
+
+.all-caps {
+  text-transform: uppercase;
+}
+
 .larger {
   font-size:1.5em;
   line-height:1.5em;
@@ -991,6 +999,10 @@ input[type=checkbox] {
 
 
 /* ---------- FOLKLORE --------------- */
+
+.folklore-card.notes h3 {
+  font-size:40px;
+}
 
 .folklore-card.notes h3:before {
   content: "FOLK NOTE";
