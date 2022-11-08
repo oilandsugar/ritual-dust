@@ -909,6 +909,70 @@ input[type=checkbox] {
   border-color:transparent;
 }
 
+.card:hover .image-background {
+  background: #a874e8; /* f_low */
+  background: var(--f_low);
+}
+
+/* ----- NOTES ------ */
+
+.notes {
+  border: 3px solid;
+  padding-top: 24px; /* spacing_lg */
+  padding-right: 24px; /* spacing_lg */
+  padding-bottom: 24px; /* spacing_lg */
+  padding-left: 24px; /* spacing_lg */
+  border-radius: 4px; /* border_radius */
+  background: #96b8ac; /* f_med */
+  background: var(--f_med);
+  border-color: #96b8ac; /* f_med */
+  border-color: var(--f_med);
+  color: #1e1f20; /* back */
+  color: var(--background);
+}
+
+.notes:hover {
+  border-bottom:3px solid;
+  border-color: #3b1c16; /* f_high */
+  border-color: var(--f_high);
+  background: #3b1c16; /* f_high */
+  background: var(--f_high);
+}
+
+.notes .image-background {
+  background: #1e1f20; /* back */
+  background: var(--background);
+}
+
+.notes .picture {
+  margin-bottom:16px;
+}
+
+.notes h3 {
+  font-family: "Basteleur"; /* psychFont1 */
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 1em;
+  padding: 0;
+  word-break: break-word;
+}
+
+.notes h3:before {
+  content: "NOTE";
+  font-family: "Wremena"; /* mainFont */
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+  display: block;
+  padding-bottom: 16px; /* spacing_md */
+}
+
+.notes .desc {
+  margin-top: 24px; /* spacing_lg */
+  padding-bottom:0;
+}
+
 /* ---------- WORKS --------------- */
 
 .works .card h3 {
@@ -950,53 +1014,6 @@ input[type=checkbox] {
   width: 100%;
   height: 100%;
 }
-
-/* ----- NOTES ------ */
-
-.notes {
-  border: 3px solid;
-  padding-top: 24px; /* spacing_lg */
-  padding-right: 24px; /* spacing_lg */
-  padding-bottom: 24px; /* spacing_lg */
-  padding-left: 24px; /* spacing_lg */
-  border-radius: 4px; /* border_radius */
-}
-
-.notes:hover {
-  border-color: #3b1c16; /* f_high */
-  border-bottom:3px solid;
-  border-color: var(--f_low);
-}
-
-.notes .picture {
-  margin-bottom:16px;
-}
-
-.notes h3 {
-  font-family: "Basteleur"; /* psychFont1 */
-  font-weight: 300;
-  font-size: 3.5em;
-  line-height: 1em;
-  padding: 0;
-  word-break: break-word;
-}
-
-.notes h3:before {
-  content: "NOTE";
-  font-family: "Wremena"; /* mainFont */
-  letter-spacing: 2px;
-  font-weight: bold;
-  font-size: 18px;
-  line-height: 18px;
-  display: block;
-  padding-bottom: 16px; /* spacing_md */
-}
-
-.notes .desc {
-  margin-top: 24px; /* spacing_lg */
-  padding-bottom:0;
-}
-
 
 /* ---------- FOLKLORE --------------- */
 
