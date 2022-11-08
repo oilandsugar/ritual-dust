@@ -4,7 +4,7 @@ tags = ["tattoo", "notes"]
 date = "2022-07-18"
 
 draft = false
-desc = "Tips and instructions to prepare for you tattoo session"
+desc = "Tips and instructions to prepare for your tattoo session"
 +++
 
 ## Table of contents

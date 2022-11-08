@@ -1,6 +1,6 @@
 +++
 title = "Agroecology and Rewilding"
-tags = ["sustainability", "agriculture", "rewilding"]
+tags = ["sustainability", "agriculture", "rewilding", "notes"]
 date = "2022-03-25"
 
 image = "/img/folklore/rewilding.jpg"
@@ -11,8 +11,8 @@ desc = "Notes and approaches for living and cultivating on the land that are mor
 
 <div class="table-of-contents">
 
-[Introduction](#introduction) •
-[Concrete examples](#concrete-examples) •
+[Introduction](#introduction)  
+[Concrete examples](#concrete-examples)  
 [Links](#links-and-resources)
 
 </div>

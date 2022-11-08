@@ -9,7 +9,7 @@
       </div>
       <div class="full-wrap">
         {{ .Content }}
-        <div class="big-padding-top columns-2">
+        <div class="big-padding-top columns-3">
           {{ if (eq $.Parent.Title "Craft") }}
             {{ range where .Pages "Section" "craft" }}
               {{ partial "craftCard.html" . }}

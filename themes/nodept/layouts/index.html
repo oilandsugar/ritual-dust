@@ -1,7 +1,10 @@
 {{ partial "header" . }}
 
 <main>
-  <div class="flex-row big-padding-top list-page">
+  <div class="medium-padding">
+    <div id="folklore-img" class="icon"></div>
+  </div>
+  <div class="flex-row list-page">
     <div class="flex-row top-page-row">
       <aside class="sidebar flex-1 bio">
         <a href="/about/">
@@ -28,6 +31,12 @@
             {{ partial "rssIcon" . }}
           </a>
         </div>
+        <div class="latest-journal medium-padding-top">
+          <h3 class="small-margin-bottom">LATEST JOURNAL<br/><a href="/journal/">(read more)</a></h3>
+          {{ range ( where .Site.RegularPages "Section" "journal" | first 1 ) }}
+            {{ partial "journalEntry.html" . }}
+          {{ end }}
+        </div>
         <div class="image-resolution-info info medium-margin-top">
           <div class="small-padding">This website loads low-resolution images by default to use less energy. Switch to full-resolution images by toggling this button in the top bar:</div>
           <ul>
@@ -40,15 +49,7 @@
       </aside>
       <article>
         <div class="full-wrap">
-          <div id="folklore-img" class="icon"></div>
           <div class="home-content">
-            <div class="latest-journal">
-              <h2 class="small-margin-bottom">Latest journal entry <a href="/journal/">(read more)</a></h2>
-              {{ range ( where .Site.RegularPages "Section" "journal" | first 1 ) }}
-                {{ partial "journalEntry.html" . }}
-              {{ end }}
-            </div>
-            <hr class="dotted"/>
             <div class="flex-row">
               <div class="section small-padding-right medium-margin-bottom">
                 <div class="flex-row">

@@ -209,7 +209,6 @@ blockquote strong {
 a {
   color: inherit;
   cursor: pointer;
-  font-family: "Wittenberger"; /* blackletterFont */
   font-weight: bold;
   font-size: 1em;
   text-decoration: none;
@@ -235,7 +234,7 @@ a.button {
   background-color: var(--f_high);
   padding: 8px 16px;
   display:inline-block;
-  border-radius:8px;
+  border-radius: 4px; /* border_radius */
   display:flex;
   line-height:1em;
   font-family: "Distro Bold";
@@ -259,7 +258,6 @@ a.button svg circle  {
 }
 
 strong {
-  font-family: "Wittenberger"; /* blackletterFont */
   font-weight: bold;
   font-size: 1em;
 }
@@ -329,7 +327,7 @@ li p {
 }
 
 .info {
-  border-radius:8px;
+  border-radius: 4px; /* border_radius */
   border: 2px solid;
   line-height:1.2em;
   font-size:16px;
@@ -366,7 +364,7 @@ figcaption {
 img {
   max-width: 100%;
   height: auto;
-  border-radius: 8px; /* border_radius */
+  border-radius: 4px; /* border_radius */
   overflow: hidden;
   line-height: 0;
 }
@@ -486,7 +484,7 @@ tr:hover td {
 .warning {
   background-color: #a5a186; /* b_low */
   background-color: var(--b_low); /* b_low */
-  border-radius:8px;
+  border-radius: 4px; /* border_radius */
   margin-bottom: 16px;
   margin-top: 16px;
   font-size:16px;
@@ -508,7 +506,7 @@ fieldset {
   max-width:600px;
   padding:24px;
   border:2px dotted var(--f_med);
-  border-radius:8px;
+  border-radius: 4px; /* border_radius */
   margin-bottom:24px;
 }
 
@@ -526,7 +524,7 @@ label.checkbox {
 }
 
 input, select, textarea {
-  border-radius:4px;
+  border-radius: 4px; /* border_radius */
   padding: 8px;
   width:100%;
   box-sizing: border-box;
@@ -542,6 +540,10 @@ input[type=checkbox] {
 }
 
 /* ------------ MENU ------------- */
+
+.menu {
+  border-bottom: 2px solid;
+}
 
 .menu ul {
   list-style: none;
@@ -587,7 +589,7 @@ input[type=checkbox] {
 
 .resolution-toggle button {
   border: 2px solid;
-  border-radius: 4px;
+  border-radius: 4px; /* border_radius */
   background: transparent;
   color: #b25c02; /* darkTextColor */
   color: var(--f_med);
@@ -626,7 +628,7 @@ input[type=checkbox] {
 
 .image-background {
   line-height:0;
-  border-radius:8px;
+  border-radius: 4px; /* border_radius */
 }
 
 .mastodon {
@@ -949,7 +951,7 @@ input[type=checkbox] {
   padding-right: 24px; /* spacing_lg */
   padding-bottom: 24px; /* spacing_lg */
   padding-left: 24px; /* spacing_lg */
-  border-radius: 12px;
+  border-radius: 4px; /* border_radius */
 }
 
 .notes:hover {
@@ -958,7 +960,7 @@ input[type=checkbox] {
 }
 
 .notes .picture {
-  display: none;
+  margin-bottom:16px;
 }
 
 .notes h3 {
@@ -971,11 +973,12 @@ input[type=checkbox] {
 }
 
 .notes h3:before {
-  content: "Note";
-  font-family: "Cooper Std"; /* psychFont2 */
-  font-weight: lighter;
-  font-size: 22px;
-  line-height: 40px;
+  content: "NOTE";
+  font-family: "Wremena"; /* mainFont */
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
   display: block;
   padding-bottom: 16px; /* spacing_md */
 }
@@ -985,14 +988,11 @@ input[type=checkbox] {
   padding-bottom:0;
 }
 
-.notes .picture {
-  display: none;
-}
 
 /* ---------- FOLKLORE --------------- */
 
 .folklore-card.notes h3:before {
-  content: "Folklore note";
+  content: "FOLK NOTE";
 }
 
 .dictionary .entry {
@@ -1023,7 +1023,7 @@ input[type=checkbox] {
 /* -------- RECIPES ---------*/
 
 .recipe-card.notes h3:before {
-  content: "Cooking note";
+  content: "COOKING NOTE";
 }
 
 .recipes a {
@@ -1096,8 +1096,8 @@ input[type=checkbox] {
 
 .recipe .photo {
   margin-top: 24px; /* spacing_lg */
-  border-radius: 8px; /* border_radius */
-  border-radius: 8px; /* spacing_sm */
+  border-radius: 4px; /* border_radius */
+  border-radius: 4px; /* border_radius */
   overflow: hidden;
   line-height: 0;
 }
@@ -1119,8 +1119,12 @@ input[type=checkbox] {
   line-height: 1.2em;
 }
 
+.craft-card.notes h3 {
+  font-size:40px;
+}
+
 .craft-card.notes h3:before {
-  content: "Craft note";
+  content: "CRAFT NOTE";
 }
 
 .shop-link {
@@ -1129,7 +1133,7 @@ input[type=checkbox] {
   padding-right: 24px; /* spacing_lg */
   padding-bottom: 10px;
   padding-left: 24px; /* spacing_lg */
-  border-radius: 8px; /* border_radius */
+  border-radius: 4px; /* border_radius */
   margin-top: 24px; /* spacing_lg */
 }
 
@@ -1217,7 +1221,7 @@ input[type=checkbox] {
   padding-right: 24px; /* spacing_lg */
   padding-bottom: 24px; /* spacing_lg */
   padding-left: 24px; /* spacing_lg */
-  border-radius: 12px;
+  border-radius: 4px; /* border_radius */
   display: flex;
   flex-direction: row;
   max-width: 800px;
@@ -1340,7 +1344,7 @@ input[type=checkbox] {
   margin-right: 8px; /* spacing_sm */
   padding-left: 8px; /* spacing_sm */
   padding-right: 8px; /* spacing_sm */
-  border-radius: 4px;
+  border-radius: 4px; /* border_radius */
   background: #fff;
   background: var(--b_med);
 }
@@ -1406,6 +1410,10 @@ aside {
 article {
   display: inline-block;
   width: calc(100% - 280px);
+}
+
+.sidebar article {
+  width:100%;
 }
 
 .sidebar h3 {
@@ -1490,6 +1498,22 @@ article {
 
 .no-padding-bottom {
   padding-bottom: 0 !important;
+}
+
+.smaller-padding-bottom {
+  padding-bottom: 8px;
+}
+
+.smaller-padding-top {
+  padding-top: 8px;
+}
+
+.smaller-padding-left {
+  padding-left: 8px;
+}
+
+.smaller-padding-right {
+  padding-right: 8px;
 }
 
 .small-padding {

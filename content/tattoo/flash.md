@@ -4,7 +4,6 @@ tags = ["tattoo", "notes"]
 date = "2022-04-08"
 
 draft = false
-image = "/img/tattoo/flash.jpg"
 desc = "Designs available to tattoo"
 +++
 

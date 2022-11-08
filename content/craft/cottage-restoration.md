@@ -1,6 +1,6 @@
 +++
 title = "Cottage restoration"
-tags = ["building", "cottage", "ireland"]
+tags = ["building", "cottage", "ireland", "notes"]
 date = "2022-09-11"
 image = "/img/craft/cottage/cover.jpg"
 desc = "Resources and notes on the restoration of Irish cottages"

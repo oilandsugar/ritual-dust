@@ -10,9 +10,12 @@ Where I keep my references for crafting, woodworking, low-tech, permacomputing a
 
 <div class="table-of-contents">
 
-[Small web](#small-web) •
-[Woodworking](#woodworking) •
-[Electronics](#electronics)
+[Small web](#small-web)  
+[Woodworking](#woodworking)  
+[Tools](#tools)  
+[Electronics](#electronics)  
+[Drawing](#drawing-and-illustration)  
+[Other crafts](#other-crafts)
 
 </div>
 
