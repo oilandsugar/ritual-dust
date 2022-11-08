@@ -1,6 +1,6 @@
 +++
 title = "Pious Rot Weapon Compendium"
-tags = ["design", "rpg", "fantasy"]
+tags = ["design", "ttrpg", "game", "fantasy"]
 date = "2022-08-08"
 
 image = "/img/design/weapon-compendium/1-the-Ragged-Rasp.jpg"

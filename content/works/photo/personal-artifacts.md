@@ -1,6 +1,6 @@
 +++
 title = "Personal artifacts"
-tags = ["photo"]
+tags = ["photo", "still life"]
 date = "2021-10-23"
 
 image = "/img/photo/artefacts/DSC04973.jpg"

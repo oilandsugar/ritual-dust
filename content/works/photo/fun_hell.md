@@ -1,6 +1,6 @@
 +++
 title = "Fun Hell"
-tags = ["photo"]
+tags = ["photo", "landscape"]
 date = "2021-02-02"
 
 image = "/img/photo/funhell/DSC02229.jpg"

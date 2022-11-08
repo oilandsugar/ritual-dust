@@ -1,6 +1,6 @@
 +++
 title = "Fantômes issue 2 cover"
-tags = ["illustration", "fantomes", "pen and ink"]
+tags = ["illustration", "fantomes", "zine", "pen and ink"]
 date = "2022-10-25"
 
 image = "/img/illustration/fantomes-2-cover/illu.jpg"

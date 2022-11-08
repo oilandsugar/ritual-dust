@@ -1,6 +1,6 @@
 +++
 title = "Spirit photography"
-tags = ["photo"]
+tags = ["photo", "ghosts"]
 date = "2022-05-27"
 draft = "false"
 image = "/img/photo/spirit-photography/DSC08297.jpg"

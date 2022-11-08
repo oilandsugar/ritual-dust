@@ -1,6 +1,6 @@
 +++
 title = "Dublin travel photography"
-tags = ["photo", "travel"]
+tags = ["photo", "travel", "landscape", "urban"]
 draft = false
 date = "2020-11-07"
 

@@ -1,6 +1,6 @@
 +++
 title = "Saguenay travel photography"
-tags = ["photo", "travel"]
+tags = ["photo", "travel", "landscape", "nature"]
 date = "2021-07-28"
 
 image = "/img/photo/saguenay/DSC03651.jpg"

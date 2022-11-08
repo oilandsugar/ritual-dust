@@ -1,6 +1,6 @@
 +++
 title = "Failed utopia"
-tags = ["photo"]
+tags = ["photo", "landscape", "urban"]
 date = "2021-10-18"
 
 image = "/img/photo/failed-utopia/DSC04940.jpg"

@@ -1,6 +1,6 @@
 +++
 title = "Smothered"
-tags = ["photo"]
+tags = ["photo", "landscape", "urban"]
 date = "2019-01-20"
 
 image = "/img/photo/snow/DSC03136.jpg"

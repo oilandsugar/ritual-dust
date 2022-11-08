@@ -1,6 +1,6 @@
 +++
 title = "Sworn to Darkness"
-tags = ["lettering"]
+tags = ["lettering", "black metal"]
 date = "2022-05-28"
 
 image = "/img/lettering/sworn-to-darkness/logo.jpg"

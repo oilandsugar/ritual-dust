@@ -1,6 +1,6 @@
 +++
 title = "The Travel Log"
-tags = ["lettering", "ttrpg", "games"]
+tags = ["lettering", "ttrpg", "game"]
 date = "2022-01-27"
 
 image = "/img/lettering/travel-log/travel-log.jpg"

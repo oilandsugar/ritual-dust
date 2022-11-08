@@ -1,6 +1,6 @@
 +++
 title = "Suburban unease"
-tags = ["photo"]
+tags = ["photo", "landscape", "urban"]
 date = "2019-07-08"
 
 image = "/img/photo/suburban-unease/DSC05389.jpg"

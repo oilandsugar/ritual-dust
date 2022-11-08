@@ -1,6 +1,6 @@
 +++
 title = "Blood and Dust"
-tags = ["design", "music"]
+tags = ["design", "music", "ritual noise"]
 date = "2020-10-15"
 
 image = "/img/design/blood-and-dust/blood_and_dust_1.jpg"

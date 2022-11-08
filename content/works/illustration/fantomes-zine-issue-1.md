@@ -1,6 +1,6 @@
 +++
 title = "Fantômes Zine - issue 1"
-tags = ["illustration", "ghosts"]
+tags = ["illustration", "ghosts", "zine"]
 date = "2022-01-14"
 
 image = "/img/illustration/fantomes/cover.jpg"

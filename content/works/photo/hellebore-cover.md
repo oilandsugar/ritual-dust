@@ -1,6 +1,6 @@
 +++
 title = "Hellebore zine cover"
-tags = ["photo", "magic"]
+tags = ["photo", "magic", "zine"]
 date = "2020-12-24"
 
 image = "/img/photo/hellebore-cover/hellebore-cover-2.jpg"

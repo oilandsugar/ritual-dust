@@ -1,6 +1,6 @@
 +++
 title = "Ariel Doom"
-tags = ["lettering", "art"]
+tags = ["lettering", "art", "black metal"]
 date = "2021-07-28"
 
 image = "/img/lettering/ariel-doom/logo-white.jpg"

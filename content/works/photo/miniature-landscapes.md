@@ -1,6 +1,6 @@
 +++
 title = "Miniature landscapes"
-tags = ["photo"]
+tags = ["photo", "landscape"]
 date = "2012-12-13"
 
 image = "/img/photo/miniature-landscapes/IMG_3277.jpg"
