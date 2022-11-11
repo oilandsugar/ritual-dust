@@ -696,6 +696,55 @@ input[type=checkbox] {
   vertical-align: top;
 }
 
+#home-img {
+  height:500px;
+  width:100%;
+  overflow: hidden;
+  border-radius: 4px; /* border_radius */
+  position:relative;
+}
+
+#home-img img {
+  object-fit: cover;
+  margin-top:-15%;
+}
+
+#folklore-img {
+  mask-image: url(/img/folklore-outline.gif);
+  -webkit-mask-image: url(/img/folklore-outline.gif);
+  height:250px;
+  width:100%;
+  margin-top:20px;
+  position: absolute;
+  top: 0px;
+  left: 30px;
+  background: #1e1f20; /* background */
+  background: var(--background);
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  width: 100%;
+}
+
+.image-link {
+  position: absolute;
+  bottom:30px;
+  left:30px;
+  color: #1e1f20; /* background */
+  color: var(--background);
+  display:inline-block;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 0 8px;
+  border: 2px solid;
+  border-radius: 4px;
+}
+
+.image-link:hover {
+  border-color: var(--f_low);
+}
+
 .home-content hr {
   margin: 16px 0;
 }
@@ -812,15 +861,6 @@ input[type=checkbox] {
   padding: 16px;
   background: #b25c02; /* f_med */
   background: var(--f_med);
-}
-
-#folklore-img {
-  mask-image: url(/img/folklore-outline.gif);
-  -webkit-mask-image: url(/img/folklore-outline.gif);
-  height:250px;
-  width:100%;
-  margin-top:-20px;
-  margin-bottom:40px;
 }
 
 /* ---------- taxonomies ----------- */
@@ -1393,7 +1433,7 @@ input[type=checkbox] {
 /* -------- STRUCTURE ---------*/
 
 .full-wrap {
-  padding: 0 2em;
+  padding: 0 30px;
   margin: 0;
   width: 100%;
   box-sizing: border-box;
@@ -1421,7 +1461,7 @@ aside {
   top: 24px; /* spacing_lg */
   font-size: 18px;
   line-height: 24px;
-  padding: 0 2em;
+  padding: 0 30px;
   max-width: 200px;
   min-width: 200px;
 }
