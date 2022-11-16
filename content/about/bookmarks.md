@@ -105,6 +105,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Ikosidio](https://www.etsy.com/shop/ikosidio/)
 - [Jesse Bransford](https://www.jessebransford.com/)
 - [Julda Nizwara (manuscript of death)](https://www.instagram.com/manuscriptofdeath)
+- [Justin Gerard](https://www.gallerygerard.com/)
 - [Karmazid](https://www.karmazid.com/)
 - [Karl Wennergren](https://www.karlwennergren.com/)
 - [Larry MacDougal](https://larrymacdougallart.bigcartel.com/)
@@ -118,7 +119,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Tyrone Le Roux (just that guy who draws)](https://justthatguywhodraws.bigcartel.com/)
 - [Vladimir Chebakov](https://instagram.com/vladimirchebakov)
 - [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
-- [Justin Gerard](https://www.gallerygerard.com/)
+- [Zé Burnay](https://www.zeburnay.com/)
 
 ### Art
 

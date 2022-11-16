@@ -70,6 +70,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Wild**, Jean-Marc Vallée - 2014
 - [x] **Predator**, John McTiernan - 1987
 - [x] **Prometheus**, Ridley Scott - 2012
   - [x] **Alien: Resurrection**, Jean-Pierre Jeunet - 1997
