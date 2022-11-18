@@ -135,6 +135,7 @@ Games
 
 ### Links and References
 
+- [Tumblr blog with a lot of old fantasy RPG art](https://oldschoolfrp.tumblr.com/)
 - [history of the fantasy art movement](http://www.arthistoryarchive.com/arthistory/fantasy/)
 - [The CRPG Book](https://crpgbook.wordpress.com/)
 - [List of science-fiction and fantasy artists](https://en.wikipedia.org/wiki/List_of_science_fiction_and_fantasy_artists)
