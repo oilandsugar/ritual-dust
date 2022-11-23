@@ -62,6 +62,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Witchhammer**, Otakar Vávra - 1970
 - [ ] **The White Reindeer**, Erik Blomberg - 1952
 - [ ] **Upurga**, Ugis Olte - 2022
+- [ ] **The Banshees of Inisherin**, Martin McDonagh - 2022
 - [ ] **Alien: Covenant**, Ridley Scott - 2017
 
 </div>
