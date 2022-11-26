@@ -98,6 +98,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Brandon Holt](https://thevacvvm.com/collections/brandon-holt)
 - [David Glomba](https://www.davidglomba.com/)
 - [Elisabeth Nicula](https://elisabethnicula.com/)
+- [eldrtchmoon](https://eldrtchmnportfolio.carrd.co/)
 - [Glyn Smyth (Stag and Serpent)](https://stagandserpent.bigcartel.com/)
 - [Graeme Webb](https://www.graemewebbimages.com/home)
 - [Hex](https://voidxwitch.tumblr.com/)
