@@ -97,6 +97,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Bethany White](https://www.bethanywhite.co.uk/shop)
 - [Brandon Holt](https://thevacvvm.com/collections/brandon-holt)
 - [David Glomba](https://www.davidglomba.com/)
+- [Darja Kazimira](https://darjakazimira.com/)
 - [Elisabeth Nicula](https://elisabethnicula.com/)
 - [eldrtchmoon](https://eldrtchmnportfolio.carrd.co/)
 - [Glyn Smyth (Stag and Serpent)](https://stagandserpent.bigcartel.com/)
