@@ -44,7 +44,7 @@ But what's generally seen or described as fantasy art was popularized in the 20t
 
 - Alan Lee
 - Angus McBride
-- Brain Froud
+- Brian Froud
 - Frank Frazeta
 - Frank C. Papé
 - John Howe
