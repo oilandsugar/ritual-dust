@@ -70,7 +70,8 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
-- [x] **Embrace of the Serpent**, Ciro Guerra - 2015
+- [x] **Alien Vs Predator**, Paul W. S. Anderson - 2004
+  - [x] **Embrace of the Serpent**, Ciro Guerra - 2015
 - [x] **The Predator**, Shane Black - 2018
 - [x] **Alien: Covenant**, Ridley Scott - 2017
   - [x] **6 feet under (series)**, Alan Ball - 2001 to 2005
