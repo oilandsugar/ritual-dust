@@ -1,0 +1,13 @@
++++
+title = "Leaf fillers"
+tags = ["tattoo"]
+date = "2022-11-11"
+image = "/img/tattoo/leaf-2.jpg"
++++
+
+Small leaf fillers
+
+![](/img/tattoo/leaf-2.jpg)
+![](/img/tattoo/leaf-1.jpg)
+![](/img/tattoo/leaf-3.jpg)
+![](/img/tattoo/leaf-4.jpg)
