@@ -63,6 +63,7 @@ If you enjoy my work and the research and notes I publish on this website, consi
 
 ### Publications and mentions
 
+- [Fantômes zine - Issue 2](https://fantomeszine.com/issues/issue-2/)
 - [Fantômes zine - Issue 1](https://fantomeszine.com/issues/issue-1/)
 - [Hellebore - No.4](https://helleborezine.bigcartel.com/) (cover and page 2)
 - [Cvstomerservice zine - Volume V](https://cvstomerservice.bigcartel.com/category/zine) (page 24)
