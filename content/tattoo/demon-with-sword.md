@@ -1,6 +1,6 @@
 +++
 title = "Trans demon with sword"
-tags = ["tattoo"]
+tags = ["tattoo", "woodcut"]
 date = "2022-09-09"
 image = "/img/tattoo/stabby-demon.jpg"
 +++

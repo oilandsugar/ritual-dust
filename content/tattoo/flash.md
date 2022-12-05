@@ -2,12 +2,10 @@
 title = "Available flash"
 tags = ["tattoo", "notes"]
 date = "2022-04-08"
-
-draft = false
 desc = "Designs available to tattoo"
 +++
 
-## Undead
+## Dark Fantasy
 
 An ongoing series of undead-themed bigger pieces, these need to be 10" or bigger.
 
@@ -15,6 +13,7 @@ An ongoing series of undead-themed bigger pieces, these need to be 10" or bigger
 
 <div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/undead-king.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/candelabra.jpg"/></div>
+<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/dragon.jpg"/></div>
 
 </div>
 

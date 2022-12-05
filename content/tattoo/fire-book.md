@@ -1,6 +1,6 @@
 +++
 title = "Fire grimoire"
-tags = ["tattoo"]
+tags = ["tattoo", "woodcut"]
 date = "2022-05-30"
 image = "/img/tattoo/burning-book.jpg"
 +++

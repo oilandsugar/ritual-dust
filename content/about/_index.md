@@ -5,7 +5,7 @@ type = "page"
 desc = "I am Lizbeth Poirier, a folk artst, illustrator, goth druid, musician and artisan."
 +++
 
-Folk artist, illustrator, goth druid, musician and artisan.
+Folk and fantasy artist, goth druid, musician and artisan.
 
 ![Lizbeth against a rock background](/img/about/me.jpg "Portrait by Hex")
 

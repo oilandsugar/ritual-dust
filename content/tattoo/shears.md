@@ -1,6 +1,6 @@
 +++
 title = "Antique shears"
-tags = ["tattoo"]
+tags = ["tattoo", "illustrative"]
 date = "2022-05-14"
 image = "/img/tattoo/shears.jpg"
 +++

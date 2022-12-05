@@ -1,6 +1,6 @@
 +++
 title = "Leaf fillers"
-tags = ["tattoo"]
+tags = ["tattoo", "illustrative"]
 date = "2022-11-11"
 image = "/img/tattoo/leaf-2.jpg"
 +++

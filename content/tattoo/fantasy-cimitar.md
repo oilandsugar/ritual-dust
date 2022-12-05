@@ -1,6 +1,6 @@
 +++
 title = "Fantasy cimitar"
-tags = ["tattoo"]
+tags = ["tattoo", "illustrative", "dark fantasy"]
 date = "2022-05-28"
 image = "/img/tattoo/fantasy-cimitar.jpg"
 +++

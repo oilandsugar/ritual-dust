@@ -1,6 +1,6 @@
 +++
 title = "Bloodroot"
-tags = ["tattoo"]
+tags = ["tattoo", "illustrative"]
 date = "2022-04-17"
 image = "/img/tattoo/bloodroot.jpg"
 +++

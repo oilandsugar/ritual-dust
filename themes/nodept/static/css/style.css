@@ -1222,7 +1222,11 @@ input[type=checkbox] {
 }
 
 .undead img {
-  max-height:800px;
+  max-width:300px;
+}
+
+.undead .flash {
+  vertical-align: top;
 }
 
 .flash {

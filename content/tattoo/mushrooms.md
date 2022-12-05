@@ -1,6 +1,6 @@
 +++
 title = "Mushrooms"
-tags = ["tattoo", "mushrooms"]
+tags = ["tattoo", "mushrooms", "illustrative"]
 date = "2022-11-11"
 image = "/img/tattoo/mushrooms-1.jpg"
 +++

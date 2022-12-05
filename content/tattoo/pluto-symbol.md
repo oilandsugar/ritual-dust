@@ -1,6 +1,6 @@
 +++
 title = "Pluto symbol"
-tags = ["tattoo"]
+tags = ["tattoo", "black metal"]
 date = "2022-06-24"
 image = "/img/tattoo/pluto.jpg"
 +++
