@@ -1,21 +1,7 @@
 
 <main>
-  <div class="bio">
-    <div class="left-part">
-      <div id="icon-stamp" class="sigil-stamp icon"></div>
-      <div>
-        <a href="/about/">
-          <h4 class="name blackletter accent">{{ .Params.name }}</h4>
-        </a>
-        <p class="aka psych-2 accent">aka. Ritual Dust</p>
-      </div>
-    </div>
-    <div class="right-part">
-      My name is Lizbeth and I'm a folk and fantasy artist, apprentice tattoo artist, goth druid, musician and craftsperson interested in landscapes, ghosts and folklore.
-    </div>
-  </div>
+  {{ partial "bio" . }}
   {{ partial "header" . }}
-
   <div class="medium-padding">
     <div id="home-img">
       <figure>

@@ -212,8 +212,8 @@ a {
   font-weight: bold;
   font-size: 1em;
   text-decoration: none;
-  border-bottom: 2px dashed #3b1c1650; /* f_high */
-  border-bottom: 2px dashed var(--f_high);
+  border-bottom: 2px dotted #3b1c1650; /* f_high */
+  border-bottom: 2px dotted var(--f_high);
 }
 
 a:hover {
@@ -824,6 +824,8 @@ input[type=checkbox] {
 #icon-stamp {
   mask-image: url(/img/sigil-stamp.gif);
   -webkit-mask-image: url(/img/sigil-stamp.gif);
+  background-color: #3b1c16;
+  background-color: var(--f_high);
 }
 
 .bio {
@@ -834,16 +836,8 @@ input[type=checkbox] {
   padding-bottom:48px;
 }
 
-.bio .sigil-stamp {
-  max-width:60px;
-  min-width:60px;
-  margin-right:24px;
-  height:auto;
-}
-
-.bio .left-part {
+.bio .name {
   flex:3;
-  display:flex;
   margin-right:48px;
 }
 
@@ -857,16 +851,33 @@ input[type=checkbox] {
   flex:6;
 }
 
-.bio .name {
-  margin: 0;
+.name {
+  display:flex;
+}
+
+.name .sigil-stamp {
+  max-width:66px;
+  min-width:66px;
+  margin-right:24px;
+  height:auto;
+  margin-top:0;
+}
+
+.name h4 {
+  margin:0;
   font-size: 34px;
   line-height:34px;
 }
 
 .aka {
-  margin-top:0;
+  margin-top:8px;
+  border-top: 2px solid;
+  padding-top:8px;
   font-size:18px;
+  margin-bottom:0;
 }
+
+
 
 .social {
   line-height: 24px;
@@ -1517,6 +1528,20 @@ aside {
   border-bottom-style: none;
 }
 
+.sidebar .name {
+  margin-bottom:48px;
+}
+
+.sidebar .name .sigil-stamp {
+  max-width:50px;
+  min-width:50px;
+}
+
+.sidebar .name h4 {
+  font-size:27px;
+  line-height: 28px;
+}
+
 article {
   display: inline-block;
   width: calc(100% - 280px);
@@ -2024,5 +2049,17 @@ article {
   }
   .image-link {
     left:0;
+    margin: 0 16px;
   }
+  #home-img {
+    height:auto;
+    display:none;
+  }
+  .menu .dingbat-wrapper {
+    display:none;
+  }
+  .table-of-contents {
+    columns:1;
+  }
+
 }

@@ -1,4 +1,5 @@
 <aside class="sidebar">
+  {{ partial "name" . }}
   {{ partial "sidebars/utils/back" . }}
   <h3>Further reading</h3>
   {{ $section := where $.Site.RegularPages "Section" "films"}}

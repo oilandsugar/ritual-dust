@@ -1,4 +1,5 @@
 <aside class="sidebar">
+  {{ partial "name" . }}
   {{ if (eq $.Parent.Title "Tattoo") }}
     {{ partial "sidebars/utils/back" . }}
   {{ end }}

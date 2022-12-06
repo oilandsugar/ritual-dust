@@ -11,8 +11,8 @@ weight = 3
 
 <div class="table-of-contents">
 
-[History](#history-of-druidism) •
-[Celebrations](#celebrations-and-important-calendar-dates) •
+[History](#history-of-druidism)  
+[Celebrations](#celebrations-and-important-calendar-dates)  
 [Links](#links-and-resources)
 
 </div>

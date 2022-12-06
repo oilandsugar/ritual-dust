@@ -1,4 +1,5 @@
 <aside class="sidebar">
+  {{ partial "name" . }}
   {{ partial "sidebars/utils/back" . }}
   {{ $section := where $.Site.RegularPages "Section" "craft"}}
   <h3 class="accent default-font all-caps">Artefacts</h3>
