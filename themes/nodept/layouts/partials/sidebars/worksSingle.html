@@ -4,13 +4,13 @@
   {{ $section := where $.Site.Pages "Section" "works"}}
   <h3 class="accent default-font all-caps">Types of work</h3>
   <div class="small-padding-bottom">
-  {{ $section := $section | intersect (where $.Site.Pages "IsSection" true)}}
-  {{ $section := $section | intersect (where $.Site.Pages "Title" "!=" "Works")}}
-  <ul class="section-pages">
-  {{ range $section }}
-    {{ partial "sidebars/utils/sidebarMenuItem" . }}
-  {{ end }}
-  </ul>
+    {{ $section := $section | intersect (where $.Site.Pages "IsSection" true)}}
+    {{ $section := $section | intersect (where $.Site.Pages "Title" "!=" "Works")}}
+    <ul class="section-pages">
+      {{ range $section }}
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
+      {{ end }}
+    </ul>
   </div>
   <h3 class="accent default-font all-caps">Notes</h3>
   <div class="small-padding-bottom">
