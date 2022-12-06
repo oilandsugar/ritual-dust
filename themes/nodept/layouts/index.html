@@ -1,6 +1,21 @@
-{{ partial "header" . }}
 
 <main>
+  <div class="bio">
+    <div class="left-part">
+      <div id="icon-stamp" class="sigil-stamp icon"></div>
+      <div>
+        <a href="/about/">
+          <h4 class="name blackletter accent">{{ .Params.name }}</h4>
+        </a>
+        <p class="aka psych-2 accent">aka. Ritual Dust</p>
+      </div>
+    </div>
+    <div class="right-part">
+      My name is Lizbeth and I'm a folk and fantasy artist, apprentice tattoo artist, goth druid, musician and craftsperson interested in landscapes, ghosts and folklore.
+    </div>
+  </div>
+  {{ partial "header" . }}
+
   <div class="medium-padding">
     <div id="home-img">
       <figure>
@@ -21,14 +36,7 @@
     </div>
   <div class="flex-row list-page">
     <div class="flex-row top-page-row">
-      <aside class="sidebar flex-1 bio">
-        <a href="/about/">
-          <h4 class="name blackletter accent">{{ .Params.name }}</h4>
-        </a>
-        <p class="aka psych-2 accent">aka. Ritual Dust</p>
-        <p>
-          Folk and fantasy artist, goth druid, musician and artisan. Interested in the intersection of the occult, psychedelics and folklore.
-        </p>
+      <aside class="sidebar flex-1">
         <div class="support small-padding-bottom">
           <a class="button" href="https://www.patreon.com/bePatron?u=2525073">
             <svg height="546px" version="1.1" viewBox="0 0 569 546" width="569px" xmlns="http://www.w3.org/2000/svg"><title>Patreon logo</title><g><circle cx="362.589996" cy="204.589996" data-fill="1" r="204.589996"></circle><rect data-fill="1" height="545.799988" width="100" x="0" y="0"></rect></g></svg>

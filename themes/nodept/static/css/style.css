@@ -550,7 +550,6 @@ input[type=checkbox] {
 /* ------------ MENU ------------- */
 
 .menu {
-  border-bottom: 2px solid;
 }
 
 .menu ul {
@@ -822,6 +821,42 @@ input[type=checkbox] {
   text-decoration: none;
 }
 
+#icon-stamp {
+  mask-image: url(/img/sigil-stamp.gif);
+  -webkit-mask-image: url(/img/sigil-stamp.gif);
+}
+
+.bio {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  padding-top:64px;
+  padding-bottom:48px;
+}
+
+.bio .sigil-stamp {
+  max-width:60px;
+  min-width:60px;
+  margin-right:24px;
+  height:auto;
+}
+
+.bio .left-part {
+  flex:3;
+  display:flex;
+  margin-right:48px;
+}
+
+.bio .left-part a {
+  text-decoration: none;
+  display:block;
+  border-bottom:0;
+}
+
+.bio .right-part {
+  flex:6;
+}
+
 .bio .name {
   margin: 0;
   font-size: 34px;
@@ -830,6 +865,7 @@ input[type=checkbox] {
 
 .aka {
   margin-top:0;
+  font-size:18px;
 }
 
 .social {
@@ -1978,5 +2014,15 @@ article {
     height:100px;
     margin-bottom:20px;
     margin-top:20px;
+  }
+  .bio {
+    flex-direction: column;
+    padding:24px;
+  }
+  #folklore-img {
+    left:0;
+  }
+  .image-link {
+    left:0;
   }
 }
