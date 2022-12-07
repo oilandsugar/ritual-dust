@@ -1,6 +1,6 @@
 +++
 title = "Aura Merlin"
-tags = ["lettering", "dungeon synth"]
+tags = ["lettering", "dungeon synth", "music"]
 date = "2022-04-13"
 
 image = "/img/lettering/aura-merlin/logo.jpg"

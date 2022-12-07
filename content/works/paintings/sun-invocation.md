@@ -1,6 +1,6 @@
 +++
 title = "Sun Invocation"
-tags = ["art", "painting", "occult"]
+tags = ["art", "painting", "occult", "personal"]
 date = "2021-12-28"
 
 image = "/img/paintings/sun-offering/DSC06286.jpg"

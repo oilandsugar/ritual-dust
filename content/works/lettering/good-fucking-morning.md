@@ -2,7 +2,7 @@
 title = "Good Fucking Morning"
 tags = ["lettering"]
 date = "2022-02-04"
-
+draft = true
 image = "/img/lettering/good-f-morning/good-fucking-morning-ig.jpg"
 desc = "Lettering for a personal project of a friend"
 +++

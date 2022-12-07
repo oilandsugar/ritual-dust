@@ -8,6 +8,8 @@ desc = "Where I keep my references for crafting, low-tech, permacomputing and lo
 
 Where I keep my references for crafting, woodworking, low-tech, permacomputing and low-bandwidth web projects.
 
+## Table of contents
+
 <div class="table-of-contents">
 
 [Small web](#small-web)  

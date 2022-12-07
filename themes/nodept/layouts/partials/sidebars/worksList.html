@@ -7,11 +7,24 @@
     <h3 class="accent default-font all-caps">Projects</h3>
   {{ else }}
     <h3 class="accent default-font all-caps">Types of works</h3>
+    <div class="small-padding-bottom">
+      <ul class="section-pages">
+        <li><a href="/works/personal-work/">Personal work</a></li>
+        <li><a href="/works/fantasy-art/">Fantasy art</a></li>
+        <li><a href="/works/music-visuals/">Music visuals</a></li>
+      </ul>
+    </div>
+  {{ end }}
+  {{ if (eq .Parent.Title "Works") }}
+  {{ else }}
+    <h3 class="accent default-font all-caps">Mediums</h3>
   {{ end }}
   <div class="small-padding-bottom">
     <ul class="section-pages">
       {{ range where .Pages "Section" "works" }}
-        {{ partial "sidebars/utils/sidebarMenuItem" . }}
+        {{ if .IsSection }}
+          {{ partial "sidebars/utils/sidebarMenuItem" . }}
+        {{ end }}
       {{ end }}
     </ul>
   </div>
@@ -26,5 +39,5 @@
     {{ end }}
     </ul>
   </div>
-  <div id="icon-works" class="icon"></div>
+  <div id="icon-sun" class="icon bottom-icon"></div>
 </aside>

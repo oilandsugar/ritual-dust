@@ -10,3 +10,4 @@ desc = "Black metal logos and symbols a day during the month of December"
 Black metal logos and symbols a day during the month of December.
 
 ![Arcane](/img/lettering/bmd-2022/arcane-preview.jpg "Arcane")
+![Chaux Vive](/img/lettering/bmd-2022/chaux-vive-preview.jpg "Chaux Vive")

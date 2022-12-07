@@ -7,6 +7,8 @@ image = "/img/folklore/pictish-stones.png"
 desc = "Monumental carved stones covered with symbols created by the picts during the iron age and middle ages"
 +++
 
+## Table of contents
+
 <div class="table-of-contents">
 
 [History and context](#history-and-context) •

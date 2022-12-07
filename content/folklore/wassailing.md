@@ -8,6 +8,8 @@ weight = 3
 draft = true
 +++
 
+## Table of contents
+
 <div class="table-of-contents">
 
 [The meaning](#the-meaning) •

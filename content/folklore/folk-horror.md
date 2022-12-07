@@ -8,6 +8,8 @@ desc = "My collected knowledge on my favorite mode of story-telling, rising from
 
 ![The sun symbol from the titles of the Wicker Man movie](/img/folklore/folk-horror.jpg "The sun symbol from the titles of the Wicker Man movie")
 
+## Table of contents
+
 <div class="table-of-contents">
 
 [Introduction](#introduction)  

@@ -7,6 +7,8 @@ image = "/img/folklore/sigils.jpg"
 desc = "My ongoing research and work with sigils"
 +++
 
+## Table of contents
+
 <div class="table-of-contents">
 
 [What are sigils](#what-are-sigils)  

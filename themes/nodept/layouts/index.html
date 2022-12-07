@@ -20,101 +20,82 @@
     </div>
   <div class="flex-row list-page">
     <div class="flex-row top-page-row">
-      <aside class="sidebar flex-1">
-        <div class="support small-padding-bottom">
-          <a class="button" href="https://www.patreon.com/bePatron?u=2525073">
-            <svg height="546px" version="1.1" viewBox="0 0 569 546" width="569px" xmlns="http://www.w3.org/2000/svg"><title>Patreon logo</title><g><circle cx="362.589996" cy="204.589996" data-fill="1" r="204.589996"></circle><rect data-fill="1" height="545.799988" width="100" x="0" y="0"></rect></g></svg>
-            <span>Support me on Patreon</span>
-          </a>
-        </div>
-        <div class="social">
-          <a href="https://www.instagram.com/ritual.dust/" target="_blank" aria-label="link to my instagram page (opens in new page)">
-            {{ partial "instaIcon" . }}
-          </a>
-          <a href="https://merveilles.town/@ritualdust" target="_blank"  aria-label="link to my mastodon profile (opens in new page)">
-            {{ partial "mastodonIcon" . }}
-          </a>
-          <a href="http://ritualdust.com/index.xml" target="_blank"  aria-label="link to the RSS feed of this site (opens in new page)">
-            {{ partial "rssIcon" . }}
-          </a>
-        </div>
-        <div class="latest-journal medium-padding-top">
-          <h3 class="small-margin-bottom">LATEST JOURNAL<br/><a href="/journal/">(read more)</a></h3>
-          {{ range ( where .Site.RegularPages "Section" "journal" | first 1 ) }}
-            {{ partial "journalEntry.html" . }}
-          {{ end }}
-        </div>
-        <div class="image-resolution-info info medium-margin-top">
-          <div class="small-padding">This website loads low-resolution images by default to use less energy. Switch to full-resolution images by toggling this button in the top bar:</div>
-          <ul>
-            <li class="resolution-toggle">
-              <button class="h" id="resolution-toggle" aria-label="Load high resolution images" title="Load high resolution images">Hi-res</button>
-            </li>
-          </ul>
-          <div class="small-padding">Your setting will be saved for next visit.</div>
-        </div>
-      </aside>
+      {{ partial "sidebars/home" . }}
       <article>
         <div class="full-wrap">
           <div class="home-content">
+            <a class="shop-banner medium-margin-bottom" href="/shop/">
+              <div class="shop-banner-img"></div>
+              <div class="content">
+                <h2 class="blackletter">SHOP</h2>
+                <p class="accent">Get prints, original artwork, strange games and obscure artefacts here.</p>
+              </div>
+            </a>
             <div class="flex-row">
               <div class="section small-padding-right medium-margin-bottom">
                 <div class="flex-row">
-                  <div id="icon-works" class="icon flex-2"></div>
-                  <div class="small-padding-left flex-4">
-                    <a href="/works/"><h2 class="small-margin-bottom"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>Artworks</h2></a>
+                  <div class="flex-4">
+                    <a href="/works/"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>ARTWORK</h2></a>
                     <p class="accent">My creative output, ranging from illustration, design and lettering to photography and video</p>
                   </div>
                 </div>
+                <a class="button-outline" href="/works/">Explore artwork gallery</a>
                 <ul>
-                {{ range ( where .Site.RegularPages "Section" "works" | first 5 ) }}
-                  <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
-                {{ end }}
+                  <li><a href="/">Custom lettering work</a></li>
                 </ul>
               </div>
               <div class="section small-padding-right medium-margin-bottom">
                 <div class="flex-row">
-                  <div id="icon-craft" class="icon flex-2"></div>
-                  <div class="small-padding-left flex-4">
-                    <a href="/craft/"><h2 class=""><span class="dingbats">{{ partial "icons/star" . }}</span>On the workbench</h2></a>
-                    <p class="accent">My craft, handmade artifacts, more technical research and notes and my thoughts on making</p>
+                  <div class="flex-4">
+                    <a href="/tattoo/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/flower" . }}</span>TATTOO</h2></a>
+                    <p class="accent">Dark fantasy, medieval woodcut and black metal lettering inspired tattoos</p>
                   </div>
                 </div>
+                <a class="button-outline" href="/tattoo/">View recent tattoos</a>
                 <ul>
-                {{ range ( where .Site.RegularPages "Section" "craft" | first 5 ) }}
-                  <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
-                {{ end }}
+                  <li><a href="/">Available flash</a></li>
+                  <li><a href="/">Custom tattoo form</a></li>
                 </ul>
               </div>
             </div>
             <div class="flex-row">
               <div class="section small-padding-right medium-margin-bottom">
                 <div class="flex-row">
-                  <div id="icon-folklore" class="icon flex-2"></div>
-                  <div class="small-padding-left flex-4">
-                    <a href="/folklore/"><h2 class=""><span class="dingbats">{{ partial "icons/diamond" . }}</span>Folklore</h2></a>
-                    <p class="accent">Personal and collective folklore, stories, wonderings and beliefs</p>
+                  <div class="flex-4">
+                    <a href="/craft/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/star" . }}</span>CRAFT</h2></a>
+                    <p class="accent">My craft, handmade artifacts, more technical research and notes and my thoughts on making</p>
                   </div>
                 </div>
-                <ul>
-                {{ range ( where .Site.RegularPages "Section" "folklore" | first 5 ) }}
-                  <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
-                {{ end }}
-                </ul>
+                <a class="button-outline" href="/craft/">View the crafted artefacts</a>
               </div>
               <div class="section small-padding-right medium-margin-bottom">
                 <div class="flex-row">
-                  <div id="icon-food" class="icon flex-2"></div>
-                  <div class="small-padding-left flex-4">
-                    <a href="/food/"><h2 class=""><span class="dingbats">{{ partial "icons/flower" . }}</span>Recipe book</h2></a>
-                    <p class="accent">Plant-based recipes I refer to often, plus some notes on cooking and gardening</p>
+                  <div class="flex-4">
+                    <a href="/folklore/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/diamond" . }}</span>FOLKLORE</h2></a>
+                    <p class="accent">Personal and collective folklore, stories, wonderings and beliefs</p>
                   </div>
                 </div>
-                <ul>
-                {{ range ( where .Site.RegularPages "Section" "food" | first 5 ) }}
-                  <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
-                {{ end }}
-                </ul>
+                <a class="button-outline" href="/folklore/">Discover my folklore</a>
+              </div>
+            </div>
+            <div class="flex-row">
+              <div class="section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-4">
+                    <a href="/music/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/star" . }}</span>MUSIC</h2></a>
+                    <p class="accent">My craft, handmade artifacts, more technical research and notes and my thoughts on making</p>
+                  </div>
+                </div>
+                <a class="button-outline" href="/music/">Listen to my music</a>
+              </div>
+              <div class="section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-4">
+                    <a href="/food/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/diamond" . }}</span>FOOD</h2></a>
+                    <p class="accent">Personal and collective folklore, stories, wonderings and beliefs</p>
+                  </div>
+                </div>
+                <a class="button-outline" href="/food/">Peruse my recipes</a>
               </div>
             </div>
           </div>

@@ -1,6 +1,6 @@
 +++
 title = "The Hookups"
-tags = ["lettering", "death metal"]
+tags = ["lettering", "death metal", "music"]
 date = "2022-12-05"
 
 image = "/img/lettering/the-hookups/logo-white.jpg"

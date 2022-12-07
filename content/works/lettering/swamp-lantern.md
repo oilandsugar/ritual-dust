@@ -1,6 +1,6 @@
 +++
 title = "Swamp Lantern"
-tags = ["lettering", "doom", "psychedelic"]
+tags = ["lettering", "doom", "psychedelic", "music"]
 date = "2022-02-18"
 
 image = "/img/lettering/swamp-lantern/logo-green.jpg"

@@ -9,6 +9,8 @@ desc = "Notes and approaches for living and cultivating on the land that are mor
 
 ![Small stream with native plants and logs](/img/folklore/rewilding.jpg "Small stream with native plants and logs")
 
+## Table of contents
+
 <div class="table-of-contents">
 
 [Introduction](#introduction)  

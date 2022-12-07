@@ -44,17 +44,17 @@ But what's generally seen or described as fantasy art was popularized in the 20t
 
 - Alan Lee
 - Angus McBride
-- Brian Froud
+- [Brian Froud](https://www.ferniebrae.com/brian-froud)
 - Frank Frazeta
 - Frank C. Papé
-- John Howe
+- [John Howe](https://www.john-howe.com/blog/)
 - Moebius
 - Jeffrey Catherine Jones
 - Mark Harrison
-- John Bauer
+- [John Bauer](https://johnbauerillustrations.com/)
 - Theodor Kittelsen
 - Virgil Finlay
-- Gary Chalk
+- [Gary Chalk](http://garychalkillustration.com/)
 - [Geoff Taylor](https://geofftaylor-artist.com/)
 
 </div>

@@ -9,6 +9,8 @@ weight = 3
 
 ![Hand holding small boline](/img/folklore/druidism.jpg "Hand holding small boline")
 
+## Table of contents
+
 <div class="table-of-contents">
 
 [History](#history-of-druidism)  

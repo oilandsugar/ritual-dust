@@ -1,6 +1,6 @@
 +++
 title = "Underworld I"
-tags = ["art", "painting", "occult"]
+tags = ["art", "painting", "occult", "personal"]
 date = "2021-12-28"
 
 image = "/img/paintings/underworld/DSC09913.jpg"

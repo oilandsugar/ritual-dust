@@ -7,12 +7,14 @@ desc = "Approaches and techniques for sustainable and resilient home building an
 draft = true
 +++
 
+## Table of contents
+
 <div class="table-of-contents">
 
-[Philosophy](#philosophy) •
-[Location](#location) •
-[Permits](#permits-and-regulations) •
-[Services](#services) •
+[Philosophy](#philosophy)  
+[Location](#location)  
+[Permits](#permits-and-regulations)  
+[Services](#services)  
 [Links](#links-and-resources)
 
 </div>

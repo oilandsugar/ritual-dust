@@ -1,6 +1,6 @@
 +++
 title = "A heavy black veil"
-tags = ["photo"]
+tags = ["photo", "personal"]
 date = "2020-10-16"
 
 image = "/img/photo/veil/IMG_2681.jpg"
