@@ -1821,6 +1821,67 @@ article {
   margin-bottom: 0 !important;
 }
 
+/* -------- DUNGEON --------- */
+
+.dungeon-main {
+  height:100vh;
+}
+
+.dungeon {
+  height:100vh;
+  box-sizing: border-box;
+}
+
+.dungeon .illustration {
+  width:100%;
+  height: calc(100vh - 250px);
+  mask-image: url(/img/dungeon/inn.gif);
+  -webkit-mask-image: url(/img/dungeon/inn.gif);
+  mask-size:contain;
+  mask-repeat: no-repeat;
+  mask-position:center;
+  background-color: #3b1c16;
+  background-color: var(--f_high);
+}
+
+.text-box-wrapper {
+  position:absolute;
+  bottom:60px;
+  left:0;
+  right:0;
+}
+
+.text-box {
+  border:5px double;
+  padding:24px;
+  max-width:800px;
+  margin:-24px auto 0 auto;
+  font-size:18px;
+  line-height:24px;
+}
+
+.text-box p {
+  margin:0 0 16px 0;
+  font-size:24px;
+  line-height:28px;
+  font-family: "Wittenberger";
+}
+
+.text-box ul {
+  padding:0;
+  list-style:none;
+  margin-bottom:0;
+  display: flex;
+}
+
+.text-box ul li {
+  margin-right:24px;
+}
+
+.text-box .actions {
+
+}
+
 /* -------- footer --------- */
 
 .footer {
