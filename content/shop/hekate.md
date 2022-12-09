@@ -2,8 +2,8 @@
 title = "Hekate linocut print"
 tags = ["print", "product"]
 date = "2022-07-30"
-image = "/img/print/hekate-1.jpg"
-desc = "Small original linocut print, made in an edition of 20, numbered and stamped with my seal, printed on locally made paper"
+image = "/img/shop/hekate-print.jpg"
+desc = "Small original linocut print, made in an edition of 30, numbered and stamped with my seal, printed on locally made paper"
 id = "linocut-hekate"
 price = "30"
 weight = "41"

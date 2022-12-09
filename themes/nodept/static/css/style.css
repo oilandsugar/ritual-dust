@@ -1435,7 +1435,8 @@ input[type=checkbox] {
   border-radius: 4px;
   cursor: pointer;
   font-size: 18px;
-  color: #fff0b7; /* lightBackColor */
+  color: #fff0b7; /* background */
+  color: var(--background); /* background */
 }
 
 .product button:hover {
