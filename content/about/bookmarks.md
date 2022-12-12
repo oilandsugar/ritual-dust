@@ -22,6 +22,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 [Tattoo Studios](#tattoo-studios)  
 [Design](#design-fonts)  
 [Politics](#politics)  
+[Spirituality](#spirituality)  
 [Food](#food-and-recipe-blogs)  
 [Tech & craft](#tech-low-tech-no-tech-and-craft)  
 [Synths](#synths-and-module-makers)  
@@ -209,6 +210,11 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 ### Politics
 
 - [An anarchist FAQ](https://www.anarchistfaq.org/afaq/)
+
+### spirituality
+
+- [Lyla June](https://www.lylajune.com/)
+- [Salt for the Eclipse](https://salt-for-the-eclipse.ghost.io/)
 
 ### Internet and code
 
