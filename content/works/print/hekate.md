@@ -2,11 +2,15 @@
 title = "Hekate"
 tags = ["print", "linocut", "print club", "occult", "personal"]
 date = "2022-07-30"
-image = "/img/print/hekate-1.jpg"
+image = "/img/print/hekate-cover.jpg"
 desc = ""
 +++
 
 Second print of my monthly print club, the key to the underworld and the snake, two symbols of Hekate, the goddess of boundaries, the underworld and witchcraft.
+
+Linocut on paper - 2022
+
+---
 
 Join the monthly print club on Patreon and get an original print by mail every month: https://www.patreon.com/ritualdust
 

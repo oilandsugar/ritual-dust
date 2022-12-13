@@ -2,11 +2,15 @@
 title = "Henbane"
 tags = ["print", "linocut", "print club", "occult", "personal"]
 date = "2022-08-30"
-image = "/img/print/henbane-1.jpg"
+image = "/img/print/henbane-cover.jpg"
 desc = ""
 +++
 
 The third print of my monthly print club, a henbane plant, one of the psychoactive plants used by witches in their flying ointment.
+
+Linocut on paper - 2022
+
+---
 
 Join the monthly print club on Patreon and get an original print by mail every month: https://www.patreon.com/ritualdust
 

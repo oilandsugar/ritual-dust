@@ -8,6 +8,10 @@ desc = "First print of my monthly print club"
 
 First print of my monthly print club, a mushroom growing from a hand, a piece about growth and connection with the self and what surrounds us.
 
+Linocut on paper - 2022
+
+---
+
 Become a stone circle patron to join the monthly print club and get an original print by mail every month: https://www.patreon.com/ritualdust
 
 ![](/img/print/may-1.jpg)

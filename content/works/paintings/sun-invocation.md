@@ -3,9 +3,14 @@ title = "Sun Invocation"
 tags = ["art", "painting", "occult", "personal"]
 date = "2021-12-28"
 
-image = "/img/paintings/sun-offering/DSC06286.jpg"
+image = "/img/paintings/sun-offering/sun-offering-cover.jpg"
 desc = "A singular flame, borrowed from the sun, captured in paint on wood, enshrined in a sigil"
 +++
+
+A singular flame, borrowed from the sun, captured in paint on wood, enshrined in a sigil.
+
+Acrylic on wood, 6" x 6" - 2021
+
 
 ![Final painting, an oil lamp lit with a sigil to the son overlaid over it](/img/paintings/sun-offering/DSC06286.jpg "Final painting, an oil lamp lit with a sigil to the son overlaid over it")
 

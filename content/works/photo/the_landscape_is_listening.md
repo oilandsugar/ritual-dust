@@ -3,7 +3,7 @@ title = "The Landscape is Listening"
 tags = ["photo", "landscape", "magic", "personal"]
 date = "2021-03-31"
 
-image = "/img/photo/the-landscape-is-listening/IMG_4916.jpg"
+image = "/img/photo/the-landscape-is-listening/IMG_4913.jpg"
 desc = "Getting lost in the fragmented forest that lives beneath the city."
 +++
 

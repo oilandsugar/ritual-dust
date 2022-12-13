@@ -30,9 +30,17 @@ It's quite hard to pin down the start of the genre of fantasy art, one could arg
 
 ### Beginnings of Modern Fantasy
 
-Modern fantasy is usually said to begin in the mid-19th century with the work of authors George MacDonald and William Morris, who's work then inspired and influenced J.R.R. Tolkien and C.S Lewis
+Modern fantasy is usually said to begin in the mid-19th century with the work of authors George MacDonald and William Morris, who's work then inspired and influenced J.R.R. Tolkien and C.S Lewis. The Grimm brothers's collection and writing of fairy tales and legends also contributed in bringing folklore and the fantastic to literature.
 
 In a way, fantasy art intersects with [symbolism](/works/illustration/symbolism/)
+
+**Artists of the era**
+
+<div class="columns medium-padding-bottom no-margin-inside">
+
+- Hermann Vogel
+
+</div>
 
 ### The Pulp Era
 

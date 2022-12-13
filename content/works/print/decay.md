@@ -2,11 +2,15 @@
 title = "Decay"
 tags = ["print", "linocut", "print club", "nature", "personal"]
 date = "2022-09-12"
-image = "/img/print/decay-1.jpg"
+image = "/img/print/decay-cover.jpg"
 desc = ""
 +++
 
 The forth of my monthly print club, is complementary to the first one, decay and growth working together in an endless cycle, just in time for the coming of death season.
+
+Linocut on paper - 2022
+
+---
 
 Join the monthly print club on Patreon and get an original print by mail every month: https://www.patreon.com/ritualdust
 

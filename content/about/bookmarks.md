@@ -216,6 +216,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Lyla June](https://www.lylajune.com/)
 - [Salt for the Eclipse](https://salt-for-the-eclipse.ghost.io/)
 - [Nordic Animism](https://nordicanimism.com)
+- [Kris Huges's blog on celtic paganism](https://www.godeeper.info/blog)
 
 ### Internet and code
 
