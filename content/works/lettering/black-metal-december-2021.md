@@ -3,7 +3,7 @@ title = "Black Metal December 2021"
 tags = ["lettering", "black metal"]
 date = "2021-12-01"
 
-image = "/img/lettering/black-metal-2021/chagrin.jpg"
+image = "/img/lettering/black-metal-2021/goth-resentment.jpg"
 desc = "As I did in 2017, I'm making a black metal inspired typography piece every day of the month of December"
 +++
 
