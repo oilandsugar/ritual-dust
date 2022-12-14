@@ -8,7 +8,7 @@ desc = ""
 
 The forth of my monthly print club, is complementary to the first one, decay and growth working together in an endless cycle, just in time for the coming of death season.
 
-Linocut on paper - 2022
+Linocut on paper, 3" x 5" - 2022
 
 ---
 

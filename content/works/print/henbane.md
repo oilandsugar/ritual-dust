@@ -8,7 +8,7 @@ desc = ""
 
 The third print of my monthly print club, a henbane plant, one of the psychoactive plants used by witches in their flying ointment.
 
-Linocut on paper - 2022
+Linocut on paper, 3" x 5" - 2022
 
 ---
 

@@ -70,6 +70,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Alien Vs Predator: requiem**, the Brothers Strause - 2007
   - [x] **The Street of Crocodiles**, the Brothers Quay - 1986
 - [x] **Alien Vs Predator**, Paul W. S. Anderson - 2004
   - [x] **Embrace of the Serpent**, Ciro Guerra - 2015

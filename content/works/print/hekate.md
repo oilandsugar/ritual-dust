@@ -8,7 +8,7 @@ desc = ""
 
 Second print of my monthly print club, the key to the underworld and the snake, two symbols of Hekate, the goddess of boundaries, the underworld and witchcraft.
 
-Linocut on paper - 2022
+Linocut on paper, 3" x 5" - 2022
 
 ---
 

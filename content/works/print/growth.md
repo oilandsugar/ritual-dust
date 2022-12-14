@@ -8,7 +8,7 @@ desc = "First print of my monthly print club"
 
 First print of my monthly print club, a mushroom growing from a hand, a piece about growth and connection with the self and what surrounds us.
 
-Linocut on paper - 2022
+Linocut on paper, 3" x 5" - 2022
 
 ---
 
