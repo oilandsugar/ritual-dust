@@ -62,7 +62,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Witchhammer**, Otakar Vávra - 1970
 - [ ] **The White Reindeer**, Erik Blomberg - 1952
 - [ ] **Upurga**, Ugis Olte - 2022
-- [ ] **The Banshees of Inisherin**, Martin McDonagh - 2022
 
 </div>
 
@@ -70,6 +69,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+  - [x] **The Banshees of Inisherin**, Martin McDonagh - 2022
 - [x] **Alien Vs Predator: requiem**, the Brothers Strause - 2007
   - [x] **The Street of Crocodiles**, the Brothers Quay - 1986
 - [x] **Alien Vs Predator**, Paul W. S. Anderson - 2004
