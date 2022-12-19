@@ -16,3 +16,7 @@ Black metal logos and symbols a day during the month of December.
 ![Sigil](/img/lettering/bmd-2022/sigil-preview.jpg "Sigil")
 ![Eternal Flame](/img/lettering/bmd-2022/eternal-flame-preview.jpg "Eternal Flame")
 ![Lucifer Sigil](/img/lettering/bmd-2022/sigil-lucifer-preview.jpg "Lucifer Sigil")
+![ACAB](/img/lettering/bmd-2022/acab-preview.jpg "ACAB")
+![Trolls & Goblins](/img/lettering/bmd-2022/trolls-goblins-preview.jpg "Trolls & Goblins")
+![Katabasis](/img/lettering/bmd-2022/katabasis-preview.jpg "Katabasis")
+![Abysmal](/img/lettering/bmd-2022/abysmal-preview.jpg "Abysmal")
