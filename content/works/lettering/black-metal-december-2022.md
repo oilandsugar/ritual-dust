@@ -20,3 +20,6 @@ Black metal logos and symbols a day during the month of December.
 ![Trolls & Goblins](/img/lettering/bmd-2022/trolls-goblins-preview.jpg "Trolls & Goblins")
 ![Katabasis](/img/lettering/bmd-2022/katabasis-preview.jpg "Katabasis")
 ![Abysmal](/img/lettering/bmd-2022/abysmal-preview.jpg "Abysmal")
+![Elder Sign](/img/lettering/bmd-2022/elder-sign-preview.jpg "Elder Sign")
+![No AI](/img/lettering/bmd-2022/no-ai-preview-2.jpg "No AI")
+![Solstice](/img/lettering/bmd-2022/solstice-preview.jpg "Solstice")
