@@ -84,17 +84,25 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 
 #### Others
 
+- [Tune and Fairweather](https://www.tuneandfairweather.com/)
 - [Heavy music artwork](https://heavymusicartwork.com/publications/)
 - [Unit Editions](https://www.uniteditions.com/)
 - [Cadabra Records - beautiful audio books with scores](https://cadabrarecords.com/)
 - [Gost books](https://gostbooks.com/current-titles/)
+- [Angel bomb](https://www.angelbomb.com/)
+
+#### Lovecraftiana & cosmic horror
+
+- [HP Lovecraft Historical Society](https://www.hplhs.org/)
+- [K.M. ALexander](https://kmalexander.com/)
+- [Propnomicon](http://propnomicon.blogspot.com/)
 
 ### Artists
 
 - [Anthracite collective](https://www.anthracitecollective.com/)
 - [Aaron Horkey](https://thevacvvm.com/collections/aaron-horkey)
 - [Adam Robert Martin (Art of Lore)](https://oflore.art/)
-- [Alan Li](https://www.alanlidrawings.com/)
+- [Andrew Wyeth](https://andrewwyeth.com)
 - [Bethany White](https://www.bethanywhite.co.uk/shop)
 - [Brandon Holt](https://thevacvvm.com/collections/brandon-holt)
 - [David Glomba](https://www.davidglomba.com/)

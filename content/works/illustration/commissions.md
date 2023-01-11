@@ -1,96 +1,134 @@
 +++
 title = "Custom illustration work"
 tags = ["notes", "illustration"]
-date = "2022-09-26"
+date = "2022-12-01"
 draft = true
 desc = "My process and pricing for illustration commissions"
 +++
 
 ## Album covers
 
-For album covers I can do pencil drawing, painting or photography. In both cases, we'll discuss the concept of the album, it's themes and how it should be represented visually. From there, if we go with illustration or painting I'll do sketches, a round of adjustments and complete the final piece. Please note that I only do things that fit my illustration style. For photography-based covers, I'll sketch some ideas or see if I have something that would work in my current collection or research something from the public domain that i would rework, make a round of adjustments and editing and then finalize the file.
+I can do album covers in pencil, as an acrylic painting or with processed photography. In all cases, we'll discuss the concept of the album, its themes, and how they should be represented visually. From there, if we go with illustration or painting I'll do sketches, a round of adjustments and complete the final piece. Please note that I only do things that fit my illustration style ([see here for reference](/works/illustration/)). For photography-based covers, I'll see if I have something that would work in my current collection or research something from the public domain that I could rework, make a round of adjustments and editing and then finalize the file.
 
 The prices can vary more for this kind of project depending on the complexity and the resources needed to complete it, once we have discussed about it more I'll be able to give you a quote. The files I send you when it is done is a high-quality scan of the drawing or painting large enough to be printed on a vinyl sleeve, if you’re interested in owning the original piece we could discuss that at that point.
 
-- full color painted album cover -
+Please note that these prices are only for the artwork itself and not for the layout and typography, I can also do that either for a digital release (adding the name of the album and the band) or for a physical release with a full sleeve designs and possibly complementary illustrations
+
+<div class="row">
+<div class="flex-1 small-padding-left small-padding-right">
+
+![](/img/illustration/laura-merlin/cover-painting.jpg)
+
+### Full color painted album cover
 500$ / 400$ / 300$ cad
 
-Example: https://ritualdust.com/img/paintings/sun-offering/DSC06286.jpg
+</div>
+<div class="flex-1 small-padding-left small-padding-right">
 
-- colorized pencil drawing album cover -
+![](/img/illustration/baphomet.jpg)
+
+### Colorized pencil drawing album cover
 300$ / 250$ / 180$ cad
 
-Example: https://ritualdust.com/img/illustration/baphomet.jpg
+</div>
+<div class="flex-1 small-padding-left small-padding-right">
 
-- digital collage / photo album cover -
+![](/img/design/orchid-lodge/in-this-wet-place.jpg)
+
+### Digital collage / photo album cover
 200$ / 150$ / 100$ cad
 
-I also offer full cassette CD or vinyl sleeve design
+</div>
+</div>
 
 ## Merch and t-shirt designs
 
+<div class="row">
+<div class="flex-1 small-padding-left small-padding-right">
 
+![](/img/illustration/ossuary-wraith/full-design.jpg)
 
-- complex t-shirt (or back patch) illustration -
+### Complex t-shirt (or back patch) illustration
 500$ / 400$ / 300$ cad
 
-Example: https://ritualdust.com/img/illustration/ossuary-wraith/full-design.jpg
 
-- simple t-shirt (or back patch) illustration -
+</div>
+<div class="flex-1 small-padding-left small-padding-right">
+
+![](/img/design/arroliga-t-shirt/t-shirt-design.jpg)
+
+### Simple t-shirt (or back patch) illustration
 300$ / 250$ / 180$ cad
 
-Example: https://ritualdust.com/img/design/arroliga-t-shirt/t-shirt-design.jpg
+</div>
+</div>
 
-- illustration for sleeves -
+### Illustration for sleeves
 200$ / 150$ / 100$ cad
 
 ## Illustrations for book and magazines
 
-### Black and white (or duotone)
+For the moment I only do editorial illustration in black and white, either in pencil or ink (or a combination of both), depending on what fits the subject best.
 
-- Cover illustration (letter and larger) -
-300$ / 225$ / 150$ cad
+![](/img/illustration/fantomes-2-cover/illu.jpg)
 
-Example: https://ritualdust.com/img/illustration/warm-wishes.jpg
+### Full spread
 
-- Full page illustration (letter and larger) -
-300$ / 225$ / 150$ cad
+600$ / 500$ / 400$ cad  
 
-Example: https://ritualdust.com/img/illustration/witches-of-alicudi.jpg
+Full scene illustration or multiple smaller elements that fill a whole spread or the cover and back cover of a book or zine. If needed I can keep areas in the drawing open for text content or a book's title.
 
-- half page illustration (letter and larger)  -
-200$ / 150$ / 100$ cad
+<div class="row">
+<div class="flex-1 small-padding-left small-padding-right">
 
-Example:
+![](/img/illustration/warm-wishes.jpg)
 
-- page border illustration (letter and larger)  -
-200$ / 150$ / 100$ cad
+### Cover illustration
 
-Example:
+300$ / 225$ / 150$ cad  
 
-- Cover illustration (smaller than letter) -
-200$ / 150$ / 100$ cad
+Full page scene or character for a book or zine cover with some space kept for the title and other information.
 
-Example:
+</div>
+<div class="flex-1 small-padding-left small-padding-right">
 
-- full page illustration (smaller than letter) -
-200$ / 150$ / 100$ cad
+![](/img/illustration/witches-of-alicudi.jpg)
 
-Example: https://ritualdust.com/img/illustration/mundaun/mundaun.jpg
+### Full page illustration
 
-- half page illustration (smaller than letter) -
-160$ / 120$ / 80$ cad
+300$ / 225$ / 150$ cad  
 
-Example:
 
-- page border illustration (smaller than letter)  -
-200$ / 150$ / 100$ cad
 
-Example:
+</div>
+</div>
 
-- page filler -
+<div class="row">
+<div class="flex-1 small-padding-left small-padding-right">
+
+### Half page illustration
+
+200$ / 150$ / 100$ cad  
+
+</div>
+<div class="flex-1 small-padding-left small-padding-right">
+
+### Page border illustration
+
+![](/img/illustration/fantomes/first-page.jpg)
+
+200$ / 150$ / 100$ cad  
+
+</div>
+<div class="flex-1 small-padding-left small-padding-right">
+
+### Page filler
+
+![](/img/design/weapon-compendium/7-bells-of-the-spectral-bison.jpg)
+
 100$ / 80$ / 60$ cad
 
-Example: https://ritualdust.com/img/illustration/disturbia/flash-sheet-2.jpg
+Smaller illustration usually used to break down a page of text.
 
-### Full color
+</div>
+</div>

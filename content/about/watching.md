@@ -65,10 +65,20 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 </div>
 
-## 2022
+## 2023
 
 <div class="checklist">
 
+</div>
+
+## 2022
+
+Got a better pace of watching movies in 2022, went through an aliens and predator phase and was pleased to see all the good new movies that came out.
+
+<div class="checklist">
+
+- [x] **The Faculty**, Robert Rodriguez - 1998
+- [x] **Arrested Development (series)**, Mitchell Hurwitz - 2003
   - [x] **The Banshees of Inisherin**, Martin McDonagh - 2022
 - [x] **Alien Vs Predator: requiem**, the Brothers Strause - 2007
   - [x] **The Street of Crocodiles**, the Brothers Quay - 1986

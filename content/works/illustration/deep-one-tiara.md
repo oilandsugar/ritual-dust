@@ -1,6 +1,6 @@
 +++
 title = "Deep One Tiara"
-tags = ["illustration", "lovecraftian"]
+tags = ["illustration", "lovecraftian", "fantasy"]
 date = "2020-01-07"
 
 image = "/img/illustration/tiara.jpg"
