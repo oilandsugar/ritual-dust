@@ -7,25 +7,55 @@ desc = "Designs available to tattoo"
 
 ## Dark Fantasy
 
-An ongoing series of undead-themed bigger pieces, these need to be 10" or bigger.
+An ongoing series of pieces inspired by old-school DnD, dark fantasy and sword and sorcery. All pieces 6" minimum except the ones labelled small.
 
-<div class="undead flash-sheet">
+<div class="columns big-padding-bottom">
 
-<div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/undead-king.jpg"/></div>
-<div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/candelabra.jpg"/></div>
-<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/dragon.jpg"/></div>
+<div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/bird-helmet-flat.jpg"/></div>
+<div class="flash"><div class="number">2 (small)</div><img src="/img/tattoo/flash/dagger-helmet-flat.jpg"/></div>
+<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/dragon-flat.jpg"/></div>
+<div class="flash"><div class="number">4 (small)</div><img src="/img/tattoo/flash/ghost-daggers-flat.jpg"/></div>
+<div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/ghoul-arm-flat.jpg"/></div>
+<div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/goat.jpg"/></div>
+<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/goblin-flat.jpg"/></div>
+<div class="flash"><div class="number">8 (small)</div><img src="/img/tattoo/flash/shield-flat.jpg"/></div>
+<div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/skull-branch-flat.jpg"/></div>
+<div class="flash"><div class="number">10</div><img src="/img/tattoo/flash/mimic.jpg"/></div>
+<div class="flash"><div class="number">11</div><img src="/img/tattoo/flash/lich-flat.jpg"/></div>
+<div class="flash"><div class="number">12 (small)</div><img src="/img/tattoo/flash/loot-flat.jpg"/></div>
+<div class="flash"><div class="number">13</div><img src="/img/tattoo/flash/bat.jpg"/></div>
+<div class="flash"><div class="number">14</div><img src="/img/tattoo/flash/dagger-hand.jpg"/></div>
+<div class="flash"><div class="number">15</div><img src="/img/tattoo/flash/mind-flayer-flat.jpg"/></div>
 
 </div>
 
-## Demons
 
-Demons, imps and familiars drawn in a woodcut style, 6" or bigger
+## Fear the old blood
+
+Ongoing series of flashes inspired by the blood-soaked streets of Yarnham and their underlying eldritch horrors. All pieces 8" minimum except the ones labelled small.
+
+<div class="columns big-padding-bottom">
+
+<div class="flash"><div class="number">1 (small)</div><img src="/img/tattoo/flash/bloodshot-eyeball-flat.jpg"/></div>
+<div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/blunderbuss-flat.jpg"/></div>
+<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/cage-flat.jpg"/></div>
+<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/eldritch-horror-flat.jpg"/></div>
+<div class="flash"><div class="number">5 (small)</div><img src="/img/tattoo/flash/gravestone-1.jpg"/></div>
+<div class="flash"><div class="number">6 (small)</div><img src="/img/tattoo/flash/gravestone-2.jpg"/></div>
+<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/saw-cleaver-flat.jpg"/></div>
+<div class="flash"><div class="number">8 (small - repeatable)</div><img src="/img/tattoo/flash/runes-1-flat.jpg"/></div>
+<div class="flash"><div class="number">9 (small - repeatable)</div><img src="/img/tattoo/flash/runes-2-flat.jpg"/></div>
+<div class="flash"><div class="number">10 (small - repeatable)</div><img src="/img/tattoo/flash/runes-3-flat.jpg"/></div>
+
+</div>
+
+## Woodcuts
+
+Flashes inspired by medieval woodcut prints, all pieces 6" minimum except the ones labelled small.
 
 <div class="demons flash-sheet">
 
-<div class="flash taken"><div class="number">1</div><img src="/img/tattoo/flash/demon-bellows.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/demon-flute.jpg"/></div>
-<div class="flash taken"><div class="number">3</div><img src="/img/tattoo/flash/trans-demon-sword.jpg"/></div>
 
 </div>
 
@@ -78,21 +108,6 @@ The armory is an ongoing series of flash of imagined fantasy and historical weap
 <div class="flash"><div class="number">41</div><img src="/img/tattoo/flash/shield.jpg"/></div>
 <div class="flash"><div class="number">42</div><img src="/img/tattoo/flash/bow.jpg"/></div>
 <div class="flash"><div class="number">43</div><img src="/img/tattoo/flash/crossbow.jpg"/></div>
-
-</div>
-
-## Rituals
-
-Rituals is a series of flash inspired by folklore and ritual objects and symbols. Minimum size for tattooing is between 4" and 6", can be bigger too.
-
-<div class="rituals flash-sheet">
-
-<div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/scythe-bones.jpg"/></div>
-<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/bell.jpg"/></div>
-<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/coffin.jpg"/></div>
-<div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/lantern.jpg"/></div>
-<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/talharpa.jpg"/></div>
-<div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/brass-horn.jpg"/></div>
 
 </div>
 
