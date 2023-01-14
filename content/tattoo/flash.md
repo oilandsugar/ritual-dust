@@ -40,7 +40,7 @@ Ongoing series of flashes inspired by the blood-soaked streets of Yarnham and th
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/blunderbuss-flat.jpg"/></div>
 <div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/cage-flat.jpg"/></div>
 <div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/eldritch-horror-flat.jpg"/></div>
-<div class="flash"><div class="number">5 (small)</div><img src="/img/tattoo/flash/gravestone-1.jpg"/></div>
+<div class="flash taken"><div class="number">5 (small)</div><img src="/img/tattoo/flash/gravestone-1.jpg"/></div>
 <div class="flash"><div class="number">6 (small)</div><img src="/img/tattoo/flash/gravestone-2.jpg"/></div>
 <div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/saw-cleaver-flat.jpg"/></div>
 <div class="flash"><div class="number">8 (small - repeatable)</div><img src="/img/tattoo/flash/runes-1-flat.jpg"/></div>
