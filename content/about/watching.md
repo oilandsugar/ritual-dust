@@ -69,6 +69,10 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Nowhere**, Gregg Araki - 1997
+- [x] **Princess Mononoke**, Hayao Miyazaki - 1997
+- [x] **My neighbour Totoro**, Hayao Miyazaki - 1988
+
 </div>
 
 ## 2022
@@ -77,6 +81,7 @@ Got a better pace of watching movies in 2022, went through an aliens and predato
 
 <div class="checklist">
 
+- [x] **The Thing**, John Carpenter - 1982
 - [x] **The Faculty**, Robert Rodriguez - 1998
 - [x] **Arrested Development (series)**, Mitchell Hurwitz - 2003
   - [x] **The Banshees of Inisherin**, Martin McDonagh - 2022

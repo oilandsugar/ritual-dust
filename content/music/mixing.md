@@ -42,6 +42,7 @@ If necessary, automate the volume of tracks in some parts of the song to leave r
 
 **Tips**
 
+- put the whole song in mono while doing that step to prevent being skewed by perceived loudness of very wide sounds
 - Try to keep between -3db to -10db of headroom for mastering.  
 - Having a little bit of compression and a limiter on the master bus when mixing can help get a better feel of how it's gonna sit in the mastered track.
 - Increasing the volume of some tracks slowly during buildups is really effective.
@@ -90,6 +91,7 @@ check for conflicting frequencies and either pan them apart or boost / cut diffe
 
 **Tips**
 
+- EQ reverbs so they don't add mud in the low and high end
 - Punchy kicks: scoop down at 200hz, then compress with a medium attack and a quick release.
 - Identify and remove unwanted harmonics with a high Q point in an EQ plugin.
 
