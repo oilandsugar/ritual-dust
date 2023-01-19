@@ -60,7 +60,8 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [ ] **This mortal coil**, Cynthia Asquith
 - [ ] **Genius Loci**, Clark Ashton Smith
 - [ ] [**The Irish Cottage: History, Culture and Design**](https://www.orpenpress.com/books/the-irish-cottage-history-culture-and-design/), Marion McGarry
-- [ ] **The Poetics of Space**, Gaston Bachelard 
+- [ ] **The Poetics of Space**, Gaston Bachelard
+- [ ] **Braiding Sweetgrass**, Robin Wall Kimmerer
 
 ### 2022
 

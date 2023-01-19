@@ -44,3 +44,7 @@ Layer multiple instruments / samples to make sounds richer while playing the ex
 Add fills / drum fills towards the end of sections to bridge to next one
 
 Impacts (cymbal or sounds with a lot of reverb), usually at the start of sections
+
+### Sidechaining
+
+Use eq in compressor sidechain to get just the transient of the kick, click the headphones to hear the filtered sound
