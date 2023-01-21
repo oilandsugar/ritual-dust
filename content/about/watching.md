@@ -70,6 +70,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Skinamarink**, Kyle Edward Ball - 2022
 - [x] **Nowhere**, Gregg Araki - 1997
 - [x] **Princess Mononoke**, Hayao Miyazaki - 1997
 - [x] **My neighbour Totoro**, Hayao Miyazaki - 1988
