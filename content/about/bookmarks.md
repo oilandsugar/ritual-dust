@@ -198,6 +198,13 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [28 mag](https://28-mag.com/)
 - [Turnip 28](https://www.patreon.com/Turnip28/posts)
 - [bitzbox](https://www.bitzbox.co.uk/index.php)
+- [alien lab](https://alienlab.store/)
+- [woodland scenics](https://woodlandscenics.woodlandscenics.com/)
+- [spellcrow](https://www.spellcrow.com/)
+- [Anvil Industries](https://www.anvilindustry.co.uk/)
+- [Tabletop world](https://tabletop-world.com/)
+- [Renedra](https://www.renedra.co.uk/)
+- [Green Stuff World](https://www.greenstuffworld.com/en/)
 
 ### Historical replicas
 
