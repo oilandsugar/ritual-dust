@@ -36,7 +36,7 @@ Ongoing series of flashes inspired by the blood-soaked streets of Yarnham and th
 
 <div class="columns big-padding-bottom">
 
-<div class="flash"><div class="number">1 (small)</div><img src="/img/tattoo/flash/bloodshot-eyeball-flat.jpg"/></div>
+<div class="flash taken"><div class="number">1 (small)</div><img src="/img/tattoo/flash/bloodshot-eyeball-flat.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/blunderbuss-flat.jpg"/></div>
 <div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/cage-flat.jpg"/></div>
 <div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/eldritch-horror-flat.jpg"/></div>

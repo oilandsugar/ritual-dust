@@ -34,7 +34,7 @@ desc = "My song mixing process and some tips"
 
 ### Volume
 
-#### Overall volume
+#### Overall volume balancing
 
 Starting with the main tracks and working down from there, set the relative volume of the tracks. It's usually preferable to bring things down than up most of the time, even if that mean bringing down  everything to keep one track at it's current level and being more prominent.
 
@@ -47,6 +47,7 @@ If necessary, automate the volume of tracks in some parts of the song to leave r
 - Having a little bit of compression and a limiter on the master bus when mixing can help get a better feel of how it's gonna sit in the mastered track.
 - Increasing the volume of some tracks slowly during buildups is really effective.
 - Having a little bit of silence before a drop makes it sound more impactful.
+- in ableton, select a track, then press CMD+A and then you can adjust all volume levels at the same time
 
 #### Compression
 
