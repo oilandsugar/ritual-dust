@@ -21,7 +21,7 @@ An ongoing series of pieces inspired by old-school DnD, dark fantasy and sword a
 <div class="flash"><div class="number">8 (small)</div><img src="/img/tattoo/flash/shield-flat.jpg"/></div>
 <div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/skull-branch-flat.jpg"/></div>
 <div class="flash"><div class="number">10</div><img src="/img/tattoo/flash/mimic.jpg"/></div>
-<div class="flash"><div class="number">11</div><img src="/img/tattoo/flash/lich-flat.jpg"/></div>
+<div class="flash taken"><div class="number">11</div><img src="/img/tattoo/flash/lich-flat.jpg"/></div>
 <div class="flash"><div class="number">12 (small)</div><img src="/img/tattoo/flash/loot-flat.jpg"/></div>
 <div class="flash"><div class="number">13</div><img src="/img/tattoo/flash/bat.jpg"/></div>
 <div class="flash"><div class="number">14</div><img src="/img/tattoo/flash/dagger-hand.jpg"/></div>
@@ -41,7 +41,7 @@ Ongoing series of flashes inspired by the blood-soaked streets of Yarnham and th
 <div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/cage-flat.jpg"/></div>
 <div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/eldritch-horror-flat.jpg"/></div>
 <div class="flash taken"><div class="number">5 (small)</div><img src="/img/tattoo/flash/gravestone-1.jpg"/></div>
-<div class="flash"><div class="number">6 (small)</div><img src="/img/tattoo/flash/gravestone-2.jpg"/></div>
+<div class="flash taken"><div class="number">6 (small)</div><img src="/img/tattoo/flash/gravestone-2.jpg"/></div>
 <div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/saw-cleaver-flat.jpg"/></div>
 <div class="flash"><div class="number">8 (small - repeatable)</div><img src="/img/tattoo/flash/runes-1-flat.jpg"/></div>
 <div class="flash"><div class="number">9 (small - repeatable)</div><img src="/img/tattoo/flash/runes-2-flat.jpg"/></div>
@@ -68,11 +68,11 @@ The armory is an ongoing series of flash of imagined fantasy and historical weap
 <div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/celtic-dagger.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/dagger-sheat.jpg"/></div>
 <div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/dagger-sheath-2.jpg"/></div>
-<div class="flash taken"><div class="number">4</div><img src="/img/tattoo/flash/main-gauche.jpg"/></div>
+<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/main-gauche.jpg"/></div>
 <div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/fire-sword.jpg"/></div>
 <div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/cleaver.jpg"/></div>
 <div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/renaissance-sword.jpg"/></div>
-<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/key-dagger.jpg"/></div>
+<div class="flash taken"><div class="number">8</div><img src="/img/tattoo/flash/key-dagger.jpg"/></div>
 <div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/pointy-sword.jpg"/></div>
 <div class="flash"><div class="number">10</div><img src="/img/tattoo/flash/hook-knife.jpg"/></div>
 <div class="flash"><div class="number">11</div><img src="/img/tattoo/flash/eyelet-dagger.jpg"/></div>
@@ -94,7 +94,7 @@ The armory is an ongoing series of flash of imagined fantasy and historical weap
 <div class="flash"><div class="number">27</div><img src="/img/tattoo/flash/spiky-mace.jpg"/></div>
 <div class="flash"><div class="number">28</div><img src="/img/tattoo/flash/board-with-nails.jpg"/></div>
 <div class="flash"><div class="number">29</div><img src="/img/tattoo/flash/club.jpg"/></div>
-<div class="flash"><div class="number">30</div><img src="/img/tattoo/flash/skull-mace.jpg"/></div>
+<div class="flash taken"><div class="number">30</div><img src="/img/tattoo/flash/skull-mace.jpg"/></div>
 <div class="flash"><div class="number">31</div><img src="/img/tattoo/flash/weird-halberd.jpg"/></div>
 <div class="flash"><div class="number">32</div><img src="/img/tattoo/flash/long-axe.jpg"/></div>
 <div class="flash"><div class="number">33</div><img src="/img/tattoo/flash/demon-axe.jpg"/></div>
