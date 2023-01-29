@@ -1,5 +1,5 @@
 +++
-title = "Works"
+title = "Artwork"
 subtitle = "Conjured images, words and symbols"
 type = "page"
 +++

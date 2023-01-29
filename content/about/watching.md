@@ -70,6 +70,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Antz**, Eric Darnell & Tim Johnson - 1998
 - [x] **Matilda**, Danny DeVito - 1996
 - [x] **We're all going to the world's fair**, Jane Schoenbrun - 2021
 - [x] **Skinamarink**, Kyle Edward Ball - 2022
