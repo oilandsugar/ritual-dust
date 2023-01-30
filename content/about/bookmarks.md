@@ -26,6 +26,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 [Food](#food-and-recipe-blogs)  
 [Tech & craft](#tech-low-tech-no-tech-and-craft)  
 [Synths](#synths-and-module-makers)  
+[Music Tools](#music-tools-and-plugins)  
 [Events](#events)  
 [Resources](#resource-and-link-pages)
 
@@ -265,6 +266,10 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [DIY minimoog modules](http://www.yusynth.net/Modular/modulaire.html)
 - [boredbrain](https://boredbrainmusic.com/)
 - [techno logic synth culture](https://synthculture.com/)
+
+### Music tools and plugins
+
+- [Klanghelm](https://klanghelm.com/contents/main.html)
 
 ### events
 
