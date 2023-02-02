@@ -5,7 +5,7 @@ date = "2022-02-02"
 desc = "The ancient Celtic festival of the promise of the return of spring"
 +++
 
-Imbolg is an ancient Celtic festival and celebration that takes place on *Feburary 1st* in the northern hemisphere. Imbolg is a fire festival celebrating the promise of the return of spring.
+Imbolg is an ancient Celtic festival and celebration that takes place on *Feburary 1st* in the northern hemisphere. Imbolg is a fire festival celebrating the promise of the return of spring or the rekindling of the solar hearth.
 
 This festival is associated with the goddess Brigid (or Bríg) who is associated with wisdom, poetry, arts and crafts, healing, protection, blacksmithing and domesticated animals. It is said that Bridgid started the custom of keening.
 
@@ -19,6 +19,10 @@ The serpent shall come from the hole,
 I will not molest the serpent,  
 Nor will the serpent molest me."  
 <small>- Hymn to the serpent, coming out of slumber on Imbolc</small>
+
+## Rituals and traditions
+
+After a feast, each family would gather and making a Brigid's cross, a cross made out of straw or reeds which would then be hung over a doorway for protection.
 
 ## Associations
 

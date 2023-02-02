@@ -73,6 +73,14 @@ Parallel compression, to keep the original dynamics of the sound in addition to 
 
 ### Panning and stereo field
 
+There's multiple ways to move different sounds in the stereo field in order to make them more interesting or to separate them to make a mix clearer. The simplest of them is to lower the volume on one channel and increase it on the other channel, that's what usually panning knobs in different DAWs do.
+
+Another method is called Haas panning, it uses delay to change the perceived position of a sound while still having the same volume on both channels. It works by adding a very short delay to one of the channels (usually around 30ms).
+
+A third way is pan using EQ to change the stereo image of a sound. It works by applying different EQs on the two channels, for example having the left one be brighter and the right one be darker.
+
+A last method that is more subtle but can make sounds more wide is using compression on only one of the channels.
+
 **Tips**
 
 - Using headphones for this part is really useful.
