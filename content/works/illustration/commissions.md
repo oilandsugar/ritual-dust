@@ -12,7 +12,7 @@ I can do album covers in pencil, as an acrylic painting or with processed photog
 
 The prices can vary more for this kind of project depending on the complexity and the resources needed to complete it, once we have discussed about it more I'll be able to give you a quote. The files I send you when it is done is a high-quality scan of the drawing or painting large enough to be printed on a vinyl sleeve, if you’re interested in owning the original piece we could discuss that at that point.
 
-Please note that these prices are only for the artwork itself and not for the layout and typography, I can also do that either for a digital release (adding the name of the album and the band) or for a physical release with a full sleeve designs and possibly complementary illustrations
+Please note that these prices are only for the artwork itself and not for the layout and typography, I can also do that either for a digital release (adding the name of the album and the band) or for a physical release with a full sleeve designs and possibly complementary illustrations.
 
 <div class="row">
 <div class="flex-1 small-padding-left small-padding-right">
@@ -22,6 +22,8 @@ Please note that these prices are only for the artwork itself and not for the la
 ### Full color painted album cover
 500$ / 400$ / 300$ cad
 
+The most elaborate option, a full-color painting of a scene, object or composition in my painting style to illustrate your album
+
 </div>
 <div class="flex-1 small-padding-left small-padding-right">
 
@@ -30,6 +32,8 @@ Please note that these prices are only for the artwork itself and not for the la
 ### Colorized pencil drawing album cover
 300$ / 250$ / 180$ cad
 
+A detailled pencil drawing colorized digitally, this option gives a more graphic feel to the album cover.
+
 </div>
 <div class="flex-1 small-padding-left small-padding-right">
 
@@ -37,6 +41,8 @@ Please note that these prices are only for the artwork itself and not for the la
 
 ### Digital collage / photo album cover
 200$ / 150$ / 100$ cad
+
+A combination of photos and graphic elements manipulated to create a unified visual for the album cover. I only work from my own photos and public domain images for these.
 
 </div>
 </div>
@@ -98,7 +104,7 @@ Full page scene or character for a book or zine cover with some space kept for t
 
 300$ / 225$ / 150$ cad  
 
-
+Full page scene or character for an illustrated page in a book or zine.
 
 </div>
 </div>
@@ -110,6 +116,8 @@ Full page scene or character for a book or zine cover with some space kept for t
 
 200$ / 150$ / 100$ cad  
 
+Half page scene or composition (either vertical or horizontal) to accompany a text in a book or zine.
+
 </div>
 <div class="flex-1 small-padding-left small-padding-right">
 
@@ -118,6 +126,8 @@ Full page scene or character for a book or zine cover with some space kept for t
 ![](/img/illustration/fantomes/first-page.jpg)
 
 200$ / 150$ / 100$ cad  
+
+Thin border illustration made to frame the text in a zine or book.
 
 </div>
 <div class="flex-1 small-padding-left small-padding-right">

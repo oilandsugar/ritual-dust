@@ -62,6 +62,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Witchhammer**, Otakar Vávra - 1970
 - [ ] **The White Reindeer**, Erik Blomberg - 1952
 - [ ] **Upurga**, Ugis Olte - 2022
+- [ ] **Godland**, Hlynur Pálmason - 2022
 - [ ] **The Last Voyage of the Demeter**, Zak Olkewicz - 2023
 - [ ] **Enys Men**, Mark Jenkins - 2022
 
@@ -71,6 +72,8 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Brotherhood of the wolf**, Eric Darnell & Tim Johnson - 2001
+    - [x] **Paprika**, Eric Darnell & Tim Johnson - 2006
 - [x] **Antz**, Eric Darnell & Tim Johnson - 1998
 - [x] **Matilda**, Danny DeVito - 1996
 - [x] **We're all going to the world's fair**, Jane Schoenbrun - 2021
@@ -116,7 +119,7 @@ Got a better pace of watching movies in 2022, went through an aliens and predato
   - [x] **Nope**, Jordan Peele - 2022
   - [x] **Jennifer's Body**, Karyn Kusama - 2009
   - [x] **Trolljegeren (The Troll Hunter)**, André Øvredal - 2010
-- [ ] **Primal**, Genndy Tartakovsky - 2019
+- [x] **Primal**, Genndy Tartakovsky - 2019
   - [x] **Moloch**, Nico van den Brink - 2022
   - [x] **Better Call Saul (series)**, Bob Odenkirk - 2022
   - [x] **Jurassic Park**, Steven Spielberg - 1993

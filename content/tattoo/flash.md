@@ -49,13 +49,11 @@ Ongoing series of flashes inspired by the blood-soaked streets of Yarnham and th
 
 </div>
 
+<div class="hidden">
+    
 ## Woodcuts
 
 Flashes inspired by medieval woodcut prints, all pieces 6" minimum except the ones labelled small.
-
-<div class="demons flash-sheet">
-
-<div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/demon-flute.jpg"/></div>
 
 </div>
 

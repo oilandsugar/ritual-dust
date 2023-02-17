@@ -64,6 +64,8 @@ This is the step for which I have the least information for now. It is definitel
 
 Once planning permission has been acquired and the cottage has been well inspected in order to have a clear picture of it's current state, the time for planning the restoration work has come. This part is crucial and many factors come into it. One thing being the time that every step will take, including the setting and drying times (which can be calculated in months) and whether the climate and weather of the season allows for the type of work to be performed.
 
+One thing to keep in mind when renovating a derelict cottage, or even just one in bad shape is living acomodations and storage space. Since often the cottage cannot be inhabited right away and needs extensive work, it won't be possible to both live in it and renovate it. So it's quite important to plan a good solution that will be adapated to the climate (i.e. really wet and cold winter in my case). Storage is also quite important, since the cottage might not be able to provide that either for tools and material that are gonna be needed in the project. Options here are renting some kind of container storage, or renovating an outbuilding.
+
 ## Walls
 
 The walls of cottages were commonly made out of stone or mud reinforced with straw and other material and then covered with a lime render. The walls are usually around 24" thick without any kind of insulation, the stones or dirt acting as some kind of damper for the cold / warmth.
@@ -110,6 +112,9 @@ As for doors, there was different arrangements possible depending on the localit
 
 {{< warning >}}Note on linseed paint: this paint is usually applied on a primer that's 50% percent oil. It's best to apply it in light coats and allow it to dry properly before applying a new coat. Contrary to water-based paints, it dries with UV light, so UV lamps can be used to speed up the drying process (which at worse can take a couple months).{{</ warning >}}  
 
+## Waste management
+
+Cottages in rural areas in Ireland are rarely connected to a sewer system and will need a septic tank. Counties usually have pretty strict rules on the design and installation of these and installing a new one will require planning permission, so it's an important thing to plan for.
 
 ## Heating
 

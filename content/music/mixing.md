@@ -67,9 +67,11 @@ Parallel compression, to keep the original dynamics of the sound in addition to 
 
 **Tips**
 
+- start with the kick and then compress the other elements by order of importance, ending up with the high percussion last
 - Sidechain a lot of the elements of the song to the kick, either individually or through grouping them and then side-chaining.
 - If some tracks are really filtered it can be good to add a compressor on them to compensate for the loss of volume due to filtering.
 - Put compression on drum groups to glue them together
+- longer release and shorter attack makes thing more punchy
 
 ### Panning and stereo field
 
