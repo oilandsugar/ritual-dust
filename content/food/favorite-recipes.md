@@ -56,6 +56,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Peanut tofu noodle bowls" link="https://www.budgetbytes.com/peanut-tofu-noodle-bowls/" image="/img/recipes/favorites/peanut-tofu-bowl.jpg" >}}
 {{< recipe name="Mushroom pasta" link="https://www.avantgardevegan.com/recipes/creamy-king-oyster-mushroom-pasta/" image="/img/recipes/favorites/mushroom-pasta-2.jpg" >}}
 {{< recipe name="Soba noodles" link="https://cookieandkate.com/veggie-sesame-noodles-recipe/" image="" >}}
+{{< recipe name="carbonara noodles" link="https://legallyhealthyblonde.com/the-best-vegan-spaghetti-carbonara/" image="" >}}
 
 {{% /columns %}}
 
@@ -67,6 +68,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Spicy vegetable stew" link="https://themodernproper.com/spiced-vegetable-stew" image="/img/recipes/favorites/veggie-stew.jpg" >}}
 {{< recipe name="Spanish rice with chickpeas" link="https://www.budgetbytes.com/rice-cooker-spanish-chickpeas-and-rice/" image="/img/recipes/favorites/spanish-rice.jpg" >}}
 {{< recipe name="Moroccan Tagine" link="https://www.themediterraneandish.com/moroccan-vegetable-tagine-recipe/" image="/img/recipes/favorites/tagine.jpg" >}}
+{{< recipe name="Dublin Coddle" link="https://theveganplanetkitchen.com/vegan-dublin-coddle/" >}}
 
 {{% /columns %}}
 

@@ -33,5 +33,5 @@ There is multiple points where the gain can be adjusted in a recording chain in 
 
 ### ???
 
-24bit vs 32bit
+16bit vs 24bit vs 32bit
 24 bit  - 144db of dynamic range

@@ -256,6 +256,11 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Calculateur de profil énergétique](https://lite.framacalc.org/profil-energetique---hlt)
 - [braiding guide](http://www.seekyee.com/Slings/howtos/6strand1.htm)
 
+### Music labels and distros
+
+- [touch](https://touch33.net/)
+- [ghostbox](https://www.ghostbox.co.uk/)
+
 ### Synths and module-makers
 
 - [Music Thing Modular](https://www.musicthing.co.uk/)

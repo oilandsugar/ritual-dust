@@ -72,6 +72,9 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Blair Witch**, Adam Wingard - 2016
+- [ ] **mushishi**, Yuki Urushibara - 2005
+- [ ] **Buffy the vampire slayer**, Joss Whedon - 1997
 - [x] **Brotherhood of the wolf**, Eric Darnell & Tim Johnson - 2001
     - [x] **Paprika**, Eric Darnell & Tim Johnson - 2006
 - [x] **Antz**, Eric Darnell & Tim Johnson - 1998
