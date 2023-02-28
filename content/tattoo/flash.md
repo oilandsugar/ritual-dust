@@ -66,7 +66,7 @@ The armory is an ongoing series of flash of imagined fantasy and historical weap
 <div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/celtic-dagger.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/dagger-sheat.jpg"/></div>
 <div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/dagger-sheath-2.jpg"/></div>
-<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/main-gauche.jpg"/></div>
+<div class="flash taken"><div class="number">4</div><img src="/img/tattoo/flash/main-gauche.jpg"/></div>
 <div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/fire-sword.jpg"/></div>
 <div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/cleaver.jpg"/></div>
 <div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/renaissance-sword.jpg"/></div>

@@ -39,12 +39,31 @@ Also think about “passing notes” or “passing tones” - notes that may be 
 
 Think about how the different elements fills the space
 
-Layer multiple instruments / samples to make sounds richer while playing the exact same thing, play around with the volume and parameter of each
 
 Add fills / drum fills towards the end of sections to bridge to next one
 
 Impacts (cymbal or sounds with a lot of reverb), usually at the start of sections
 
+### Layering
+
+Layer multiple instruments / samples to make sounds richer while playing the exact same thing, play around with the volume and parameter of each
+
+Works pretty well with drums too, for example layering two snare samples with different tones and characteristics to make the sound more unique.
+
 ### Sidechaining
 
 Use eq in compressor sidechain to get just the transient of the kick, click the headphones to hear the filtered sound
+
+### Gated reverb
+
+put a gate on a reverb return track and lower the treshold to leave just a bit of the reverb come through. Quite useful to thicken up drums.
+
+### Trance gate
+
+Create two tracks, put a synth on the first one with a melody (long notes and pad like sounds work well). Then  put a synth on the other track with a short snappy enveloppe and create a rythmic pattern of notes with it, then turn off this track. go back to your first synth track and set the sidechain on the gate to take the second synth track as input, then adjust the gate settings until your hear the first synth playing the rythm of the second track. Adding some reverb after the gate sound pretty too.
+
+### Drops
+
+Create contrast between the end of the break and the start of the drop by removing and adding elements, for example removing the kick for the last 8 bars before the drop.
+
+Filter down some tracks slowly leading to the drop, kick and bass are good options for that.
