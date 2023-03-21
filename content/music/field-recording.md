@@ -116,3 +116,4 @@ As a common rule, one track of 24 bit 48kHz is about half a gigabyte per hour.
 ## Links and resources
 
 - [LOM knowledge base](https://knowledge.lom.audio/)
+- [Best microphones for recording nature sounds](https://mindful-audio.com/blog/best-microphones-recording-nature-wildlife-sounds)

@@ -37,7 +37,7 @@ Ongoing series of flashes inspired by the blood-soaked streets of Yarnham and th
 <div class="columns big-padding-bottom">
 
 <div class="flash taken"><div class="number">1 (small)</div><img src="/img/tattoo/flash/bloodshot-eyeball-flat.jpg"/></div>
-<div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/blunderbuss-flat.jpg"/></div>
+<div class="flash taken"><div class="number">2</div><img src="/img/tattoo/flash/blunderbuss-flat.jpg"/></div>
 <div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/cage-flat.jpg"/></div>
 <div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/eldritch-horror-flat.jpg"/></div>
 <div class="flash taken"><div class="number">5 (small)</div><img src="/img/tattoo/flash/gravestone-1.jpg"/></div>
@@ -70,7 +70,7 @@ The armory is an ongoing series of flash of imagined fantasy and historical weap
 <div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/fire-sword.jpg"/></div>
 <div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/cleaver.jpg"/></div>
 <div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/renaissance-sword.jpg"/></div>
-<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/key-dagger.jpg"/></div>
+<div class="flash taken"><div class="number">8</div><img src="/img/tattoo/flash/key-dagger.jpg"/></div>
 <div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/pointy-sword.jpg"/></div>
 <div class="flash"><div class="number">10</div><img src="/img/tattoo/flash/hook-knife.jpg"/></div>
 <div class="flash"><div class="number">11</div><img src="/img/tattoo/flash/eyelet-dagger.jpg"/></div>

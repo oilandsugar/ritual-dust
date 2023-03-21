@@ -19,16 +19,6 @@
             {{ end}}
           {{ end }}
         </div>
-        <h2 class="big-padding-top">Dark Fantasy Illustration</h2>
-        <div class="columns-3 small-padding-top works">
-        {{ range where .Site.RegularPages "Section" "tattoo" }}
-          {{ if not (in .Params.tags "notes") }}
-            {{ if in .Params.tags "illustrative" }}
-              {{ partial "projectCard.html" . }}
-            {{ end }}
-          {{ end }}
-        {{ end }}
-        </div>
         <h2 class="big-padding-top">Medieval Woodcuts</h2>
         <div class="columns-3 small-padding-top works">
         {{ range where .Site.RegularPages "Section" "tattoo" }}
@@ -44,6 +34,16 @@
         {{ range where .Site.RegularPages "Section" "tattoo" }}
           {{ if not (in .Params.tags "notes") }}
             {{ if in .Params.tags "black metal" }}
+              {{ partial "projectCard.html" . }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        </div>
+        <h2 class="big-padding-top">Dark Fantasy Illustration</h2>
+        <div class="columns-3 small-padding-top works">
+        {{ range where .Site.RegularPages "Section" "tattoo" }}
+          {{ if not (in .Params.tags "notes") }}
+            {{ if in .Params.tags "illustrative" }}
               {{ partial "projectCard.html" . }}
             {{ end }}
           {{ end }}
