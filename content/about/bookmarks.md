@@ -271,6 +271,9 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [DIY minimoog modules](http://www.yusynth.net/Modular/modulaire.html)
 - [boredbrain](https://boredbrainmusic.com/)
 - [techno logic synth culture](https://synthculture.com/)
+- [Barton Musical Circuits](https://bartonmusicalcircuits.com/)
+- [AJH synth](https://ajhsynth.com/index.html)
+- [Folktek](http://folktek.blogspot.com/)
 
 ### Music tools and plugins
 

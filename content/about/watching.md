@@ -72,6 +72,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **The Ring**, Gore Verbinski - 2002
 - [x] **Creep**, Patrick Brice - 2014
 - [x] **Blair Witch**, Adam Wingard - 2016
 - [ ] **mushishi**, Yuki Urushibara - 2005

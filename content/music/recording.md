@@ -35,3 +35,18 @@ There is multiple points where the gain can be adjusted in a recording chain in 
 
 16bit vs 24bit vs 32bit
 24 bit  - 144db of dynamic range
+
+### Room treatment
+
+### Microphone placement
+
+### Microphone and pre-amp settings
+
+for SM7B
+
+on the back there is two toggle switches, one to rollout the lows and the other for boosting the mids
+best if used with a clean boost in the chain before going to an interface or pre-amp, we're using the cloudlifter for this.
+
+for SM58
+
+no settings for this microphone
