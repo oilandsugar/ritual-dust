@@ -274,6 +274,8 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Barton Musical Circuits](https://bartonmusicalcircuits.com/)
 - [AJH synth](https://ajhsynth.com/index.html)
 - [Folktek](http://folktek.blogspot.com/)
+- [Sovage Engineering](https://www.sovageengineering.com/)
+- [Befaco](https://www.befaco.org/)
 
 ### Music tools and plugins
 
