@@ -9,4 +9,4 @@ desc = "Logo and sigil for the band Exsomnis"
 Logo and sigil for the band Exsomnis.
 
 ![Exsomnis logo](/img/lettering/exsomnis/logo.jpg "Exsomnis logo")
-![Sigil](/img/lettering/ritual-dust/sigil.jpg "Sigil")
+![Sigil](/img/lettering/exsomnis/sigil.jpg "Sigil")
