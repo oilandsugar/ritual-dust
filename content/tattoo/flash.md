@@ -57,9 +57,9 @@ Flashes inspired by medieval bestiaries and folklore in a woodcut style, all pie
 <div class="columns big-padding-bottom">
 
 <div class="flash taken"><div class="number">1</div><img src="/img/tattoo/flash/woodcut-basilisk.jpg"/></div>
-<div class="flash"><div class="number">2 (small)</div><img src="/img/tattoo/flash/woodcut-acorn.jpg"/></div>
+<div class="flash taken"><div class="number">2 (small)</div><img src="/img/tattoo/flash/woodcut-acorn.jpg"/></div>
 <div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/woodcut-grotesque.jpg"/></div>
-<div class="flash"><div class="number">4 (small)</div><img src="/img/tattoo/flash/woodcut-sun.jpg"/></div>
+<div class="flash taken"><div class="number">4 (small)</div><img src="/img/tattoo/flash/woodcut-sun.jpg"/></div>
 <div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/woodcut-cauldron.jpg"/></div>
 <div class="flash taken"><div class="number">6</div><img src="/img/tattoo/flash/woodcut-claw.jpg"/></div>
 <div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/woodcut-candles.jpg"/></div>
