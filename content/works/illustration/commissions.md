@@ -1,9 +1,9 @@
 +++
-title = "Custom illustration work"
+title = "Custom album cover illustration"
 tags = ["notes", "illustration"]
 date = "2022-12-01"
 draft = true
-desc = "My process and pricing for illustration commissions"
+desc = "My process and pricing for album cover commissions"
 +++
 
 ## Album covers

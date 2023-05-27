@@ -276,6 +276,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Folktek](http://folktek.blogspot.com/)
 - [Sovage Engineering](https://www.sovageengineering.com/)
 - [Befaco](https://www.befaco.org/)
+- [beep boop](https://beepboopelectronics.co.uk/)
 
 ### Music tools and plugins
 

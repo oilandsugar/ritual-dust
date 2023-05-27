@@ -40,3 +40,7 @@ https://www.queernature.org/queer-futurism-denizens-of-liminality
 « This is typical of the short-sighted view we British have of our own pre-history.
 Look at our buildings, our heros, the way we work ourselves into the ground, the dark history of our imperialism and we look like the sons and daughters of Rome. But we are not. Being invaded by the romans had a terrible effect, not only on how we view our own history but on how we developed as a nation. We’ve come to believe that the roman colonization of this country was a civilizing act, when in fact it was a brutal suppression. It’s hardly surprising that we did the same thing to countries in Africa and Asia two-thousand years later. It’s time to let go of our roman inheritance and embrace our real heritage. »
 - Francis pryor
+
+
+on commons 
+https://stoneclub.substack.com/p/commons

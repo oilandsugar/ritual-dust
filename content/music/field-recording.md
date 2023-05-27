@@ -56,6 +56,10 @@ X/Y is the most commonly used recording technique, it involves a matched pair of
 
 One of the disadvantages of the X/Y technique is that there is no way to adjust the wideness of the recording acter the fact, the M/S approach allows that. In this arrangement a directional microphone is combined with an omnidirectional (or bidirectional) microphone allowing to focus the recording on a specific area but to also record the overall soundscape and then mix these two sources at varying levels after the fact.
 
+**ORTF**
+
+The capsules of the microphones are placed 17 cm apart and at a 110 degree angle between each other.
+
 **Other techniques**
 
 Along with these techniques, new approaches and experimental microphones are more and more used for field recordings. These include stuff like hydrophones (designed to record under water), parabolic microphones (allowing to focus on a very precise point), contact microphones (which are attached directly to a surface), EMF microphones (which record electro-magnetic fields) and geophone (microphone that captures vibrations in material and soil).
