@@ -28,7 +28,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Delia Derbyshire: The Myths And The Legendary Tapes**, Caroline Catz - 2020
 - [ ] **Berberian sound studio**, Peter Strickland - 2012
 - [ ] **Sedmikrásky (Daisies)**, Věra Chytilová - 1966
-- [ ] **Hellbender**, John Adams, Zelda Adams, Toby Poser - 2021
 - [ ] **The Old Dark House**, James Whale - 1932
 - [ ] **Wristcutters**, Goran Dukic - 2006
 - [ ] **The Night of the Demon**, Jacques Tourneur - 1957
@@ -64,7 +63,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Upurga**, Ugis Olte - 2022
 - [ ] **Godland**, Hlynur Pálmason - 2022
 - [ ] **Concerning Violence**, Göran Olsson - 2014
-- [ ] **Everybody in the place An Incomplete History of Britain 1984-1992**, Jeremy Deller - 2019
 
 </div>
 
@@ -72,7 +70,11 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **Come to Daddy**, Ant Timpson - 2019
+- [x] **Yellowjackets (series)**, Ashley Lyle - 2023
+- [x] **Enys Men**, Mark Jenkin - 2022
 - [x] **The Ring**, Gore Verbinski - 2002
+- [x] **Everybody in the place An Incomplete History of Britain 1984-1992**, Jeremy Deller - 2019
 - [x] **Creep**, Patrick Brice - 2014
 - [x] **Blair Witch**, Adam Wingard - 2016
 - [ ] **mushishi**, Yuki Urushibara - 2005
@@ -138,6 +140,7 @@ Got a better pace of watching movies in 2022, went through an aliens and predato
 - [x] **Psychomania**, Don Sharp - 1973
 - [x] **Marketa lazarova**, František Vláčil - 1967
 - [x] **Into Eternity**, Michael Madsen - 2010
+- [x] **Hellbender**, John Adams, Zelda Adams, Toby Poser - 2021
 - [x] **The Fog**, John Carpenter - 1980
 - [x] **The Mezzotint**, Mark Gatiss - 2021
 - [x] **The Dunwich Horror**, Daniel Haller - 1970
