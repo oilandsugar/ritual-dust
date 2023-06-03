@@ -89,6 +89,7 @@ after 1970, big influence of role playing games like dnd, and the metal hurlant 
 - [Vincente Segrelles](http://www.segrelles.com/)
 - [Pater Pagano](https://peterpaganographics.com/)
 - [Bradley K McDevitt](http://www.bradleykmcdevitt.net/art.htm)
+- [Don Maitz](https://www.paravia.com/DonMaitz/index.php)
 
 </div>
 
@@ -154,3 +155,4 @@ Games
 - [Vintage book sellers with good quality photos](https://www.lwcurrey.com/)
 - [elfwood.com](http://web.archive.org/web/20010622100806/http://elfwood.lysator.liu.se/elfwood.html)
 - [archive of gamebooks](https://gamebooks.org/Series/List)
+- [Dragon Forest, a collection of dragon illustrations](http://gistlabs.net/Dragon_Forest/frame.htm)
