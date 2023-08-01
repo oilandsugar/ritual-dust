@@ -56,7 +56,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **le diable probablement**, Robert Bresson - 1977
 - [ ] **The Moon and the Sledgehammer**, Philip Trevelyan - 1971
 - [ ] **The Void**, Jeremy Gillespie, Steven Kostanski - 2017
-- [ ] **The Good, the Bad and the Weird**, Kim Jee-woon - 2008
 - [ ] **You won't be alone**, Goran Stolevski - 2022
 - [ ] **Witchhammer**, Otakar Vávra - 1970
 - [ ] **The White Reindeer**, Erik Blomberg - 1952
@@ -70,6 +69,11 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
+- [x] **The Good, the Bad and the Weird**, Kim Jee-woon - 2008
+- [ ] **Derry Girls (series)**, Lisa McGee - 2018
+- [x] **Black Mirror (series)**, Charlie Brooker - 2023
+- [x] **Dungeon and Dragons Honour among thieves**, John Francis Daley & Jonathan Goldstein - 2023
+    - [x] **Sharp Objects (series)**, Marti Noxon - 2018
 - [x] **I don't feel at home anymore in this world**, Macon Blair - 2017
     - [x] **Come to Daddy**, Ant Timpson - 2019
     - [x] **Yellowjackets (series)**, Ashley Lyle - 2023

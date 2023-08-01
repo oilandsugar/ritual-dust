@@ -208,6 +208,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Green Stuff World](https://www.greenstuffworld.com/en/)
 - [Rob Hawkins Hobby](https://robhawkinshobby.blogspot.com/)
 - [Tiny Furniture](https://tiny-furniture.com/)
+- [Myriad miniatures](https://myriadminiatures.com/osmoticmeld-range/)
 
 ### Historical replicas
 

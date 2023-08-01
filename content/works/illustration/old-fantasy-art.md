@@ -64,6 +64,7 @@ But what's generally seen or described as fantasy art was popularized in the 20t
 - Virgil Finlay
 - [Gary Chalk](http://garychalkillustration.com/)
 - [Geoff Taylor](https://geofftaylor-artist.com/)
+- John Blanche
 
 </div>
 
@@ -90,6 +91,7 @@ after 1970, big influence of role playing games like dnd, and the metal hurlant 
 - [Pater Pagano](https://peterpaganographics.com/)
 - [Bradley K McDevitt](http://www.bradleykmcdevitt.net/art.htm)
 - [Don Maitz](https://www.paravia.com/DonMaitz/index.php)
+- [Lars Grant-West](https://www.larsgrantwest.com/)
 
 </div>
 
@@ -144,6 +146,7 @@ Games
 
 ### Links and References
 
+- [Tumblr blog dedicated to the art of John Blanche](https://gothicpunk.tumblr.com/)
 - [Tumblr blog with a lot of old fantasy RPG art](https://oldschoolfrp.tumblr.com/)
 - [history of the fantasy art movement](http://www.arthistoryarchive.com/arthistory/fantasy/)
 - [The CRPG Book](https://crpgbook.wordpress.com/)
