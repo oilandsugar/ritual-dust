@@ -62,13 +62,21 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [ ] [**The Irish Cottage: History, Culture and Design**](https://www.orpenpress.com/books/the-irish-cottage-history-culture-and-design/), Marion McGarry
 - [ ] **The Poetics of Space**, Gaston Bachelard
 - [ ] **Braiding Sweetgrass**, Robin Wall Kimmerer
+- [ ] **Companion to Irish Traditionnal Music**, Fintan Vallely
+- [ ] **What Are People For?**, Wendell Berry
+- [ ] **The Ministry for the Future**, Kim Stanley Robinson
+
+### 2023
+
+- [ ] **The Táin**, translated by Thomas Kinsella
+- [ ] **Thirty-Two Words for Field**, Manchán Magan
+- [x] **The Dawn of Everything**, David Graeber & David wengrow
 
 ### 2022
 
 - [ ] **A Pattern Language**, Christopher Alexander
-- [ ] **The Dawn of Everything**, David Graeber & David wengrow
 - [ ] **The Book of English Magic**, Philip Carr-Gomm & Richard Heygate
-- [ ] **A Textbook for the Ecocene**, Sarita Dougherty and others
+- [x] **A Textbook for the Ecocene**, Sarita Dougherty and others
 - [x] **The City on Mallington Moor**, Lord Dunsany
 - [x] **Harrow County**, Cullen Bunn & Tyler Crook
 - [x] **Uzumaki**, Junji Ito

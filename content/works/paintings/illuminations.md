@@ -13,3 +13,9 @@ The arwork for it was inspired by medieval manuscripts and the illuminations tha
 
 ![Illuminated painting of a large I with a heron and some trees with a castle in the background with some gold leaf details](/img/paintings/illuminations/cover-illuminations.jpg "Illuminated painting of a large I with a heron and some trees with a castle in the background with some gold leaf details")
 ![Detail of the process of applying gold leaf to th painting](/img/paintings/illuminations/gold-foil.jpg "Detail of the process of applying gold leaf to th painting")
+
+The artwork was also turned into a full design for a cassette release by Ancient Kings.
+
+![Front of the cassette case](/img/paintings/illuminations/DSC05380.jpg "Front of the cassette case")
+![Back of the cassette case](/img/paintings/illuminations/DSC05381.jpg "Back of the cassette case")
+![Inside of the sleeve](/img/paintings/illuminations/DSC05383.jpg "Inside of the sleeve")
