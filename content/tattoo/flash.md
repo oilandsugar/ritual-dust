@@ -14,8 +14,8 @@ An ongoing series of pieces inspired by old-school DnD, dark fantasy and sword a
 <div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/broken-sword.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/brooch.jpg"/></div>
 <div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/bronze-age-axe.jpg"/></div>
-<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/castle-door.jpg"/></div>
-<div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/tower.jpg"/></div>
+<div class="flash taken"><div class="number">4</div><img src="/img/tattoo/flash/castle-door.jpg"/></div>
+<div class="flash taken"><div class="number">5</div><img src="/img/tattoo/flash/tower.jpg"/></div>
 <div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/bird-helmet-flat.jpg"/></div>
 <div class="flash"><div class="number">7 (small)</div><img src="/img/tattoo/flash/dagger-helmet-flat.jpg"/></div>
 <div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/dragon-flat.jpg"/></div>
