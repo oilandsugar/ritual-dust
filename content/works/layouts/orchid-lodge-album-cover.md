@@ -3,7 +3,7 @@ title = "In This Wet Place"
 tags = ["design", "music", "industrial"]
 date = "2022-05-06"
 
-image = "/img/design/orchid-lodge/in-this-wet-place.jpg"
+image = "/img/design/orchid-lodge/cover.jpg"
 desc = "Album cover design for the latest Orchid Lodge album"
 +++
 

@@ -2,7 +2,7 @@
 title = "Miniature armoury"
 tags = ["illustration", "fantasy"]
 date = "2021-02-02"
-
+draft = true
 image = "/img/illustration/weapons.jpg"
 desc = "A collection of dark fantasy weapons"
 +++
