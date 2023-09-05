@@ -52,7 +52,6 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [ ] **Social ecology**, Murray Bookchin
 - [ ] **Small is beautiful**, Ernst F. Schumacher
 - [ ] **Always coming home**, Ursula K. Le Guin
-- [ ] **What are people for** Wendell Berry
 - [ ] **The one straw revolution**, Masanobu Fukuoka
 - [ ] **Blood and Mistletoe: The History of the Druids in Britain**, Ronald Hutton
 - [ ] **The Future Is Degrowth**, Matthias Schmelzer, Aaron Vansintjan, and Andrea Vetter
@@ -64,12 +63,15 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [ ] **Braiding Sweetgrass**, Robin Wall Kimmerer
 - [ ] **Companion to Irish Traditionnal Music**, Fintan Vallely
 - [ ] **What Are People For?**, Wendell Berry
-- [ ] **The Ministry for the Future**, Kim Stanley Robinson
+- [ ] **Sand Talk**, Tyson Yunkaporta
+- [ ] **Deathtrap dungeon**, Ian Livingstone
 
 ### 2023
 
+
+- [x] **The Ministry for the Future**, Kim Stanley Robinson
 - [ ] **The Táin**, translated by Thomas Kinsella
-- [ ] **Thirty-Two Words for Field**, Manchán Magan
+- [x] **Thirty-Two Words for Field**, Manchán Magan
 - [x] **The Dawn of Everything**, David Graeber & David wengrow
 
 ### 2022

@@ -69,10 +69,12 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
-- [x] **BEEF**, Lee Sung Jin - 2023
+- [x] **Talk To Me**, Danny Philippou & Michael Philippou - 2023
+- [x] **The Virgin Suicides**, Sofia Coppola - 1999
+    - [x] **BEEF (series)**, Lee Sung Jin - 2023
 - [x] **For A Fistfull Of Dollars**, Sergio Leone - 1964
 - [x] **The Good, the Bad and the Weird**, Kim Jee-woon - 2008
-- [ ] **Derry Girls (series)**, Lisa McGee - 2018
+- [x] **Derry Girls (series)**, Lisa McGee - 2018
     - [x] **Black Mirror (series)**, Charlie Brooker - 2023
 - [x] **Dungeon and Dragons Honour among thieves**, John Francis Daley & Jonathan Goldstein - 2023
     - [x] **Sharp Objects (series)**, Marti Noxon - 2018

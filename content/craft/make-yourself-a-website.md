@@ -63,3 +63,4 @@ Want to read more about this side of the web, I got you covered:
 - [Host a website on glitch](https://glitch.com/create-project) - a simple hosting platform for static websites, also has a built-in editor
 - [Deploying a static site on digital ocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-website-to-the-cloud-with-digitalocean-app-platform) - i feel this is still over-complicated for beginners, i'll try to find the equivalent of what I had as a teen: logging on my friend's server with ftp and dumping my files
 - [Lichen, a tiny CMS](https://lichen.sensorstation.co/)
+- [Deux fleurx, datacenter-less hosting services using old computers in homes](https://deuxfleurs.fr/)
