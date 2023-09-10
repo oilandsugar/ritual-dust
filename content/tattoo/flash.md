@@ -11,7 +11,7 @@ An ongoing series of pieces inspired by old-school DnD, dark fantasy and sword a
 
 <div class="columns big-padding-bottom">
 
-<div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/skeleton-warrior.jpg"/></div>
+<div class="flash taken"><div class="number">1</div><img src="/img/tattoo/flash/skeleton-warrior.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/rat-2.jpg"/></div>
 <div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/lich.jpg"/></div>
 <div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/dagger-hand-2.jpg"/></div>
