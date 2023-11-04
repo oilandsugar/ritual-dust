@@ -1,0 +1,32 @@
+{{ partial "header" . }}
+
+<main>
+  <div class="flex-row big-padding-top list-page">
+    {{ partial "sidebars/worksList" . }}
+    <article>
+      <div class="small-wrap">
+        {{ partial "listPageTitle" . }}
+      </div>
+      <div class="full-wrap">
+        {{ .Content }}
+        <div class="columns-3 big-padding-top works">
+          {{ if eq .Title "Artwork" }}
+            {{ range where .Site.RegularPages "Section" "works" }}
+                {{ if and (ne .Type "works/fantasy-art") (ne .Type "works/personal-work") (ne .Type "works/music-visuals")}}
+                    {{ partial "projectCard.html" . }}
+                {{ end }}
+            {{ end }}
+          {{ else }}
+            {{ range .Pages  }}
+                {{ if and (ne .Type "works/fantasy-art") (ne .Type "works/personal-work") (ne .Type "works/music-visuals")}}
+                  {{ partial "projectCard.html" . }}
+                {{ end }}
+              {{ end }}
+          {{ end}}
+        </div>
+      </div>
+    </article>
+  </div>
+</main>
+
+{{ partialCached "footer" . }}

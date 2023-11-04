@@ -809,8 +809,11 @@ input[type=checkbox] {
   background-color: #3b1c16;
   background-color: var(--f_high);
   mask-position:left bottom;
+  -webkit-mask-position:left bottom;
   mask-size:contain;
+  -webkit-mask-size:contain;
   mask-repeat:no-repeat;
+  -webkit-mask-repeat:no-repeat;
   height:calc(100% - 32px);
   width:calc(100% - 32px);
   position:absolute;

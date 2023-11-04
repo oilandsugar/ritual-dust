@@ -63,12 +63,13 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [ ] **Braiding Sweetgrass**, Robin Wall Kimmerer
 - [ ] **Companion to Irish Traditionnal Music**, Fintan Vallely
 - [ ] **What Are People For?**, Wendell Berry
-- [ ] **Sand Talk**, Tyson Yunkaporta
-- [ ] **Deathtrap dungeon**, Ian Livingstone
+- [ ] **Paperbacks from Hell**, Grady Hendrix
+- [ ] **Ogam: Weaving Word Wisdom**, Erynn Rowan Laurie
 
 ### 2023
 
-
+- [ ] **Sand Talk**, Tyson Yunkaporta
+- [x] **Deathtrap dungeon**, Ian Livingstone
 - [x] **The Ministry for the Future**, Kim Stanley Robinson
 - [ ] **The Táin**, translated by Thomas Kinsella
 - [x] **Thirty-Two Words for Field**, Manchán Magan
