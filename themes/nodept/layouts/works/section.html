@@ -9,21 +9,122 @@
       </div>
       <div class="full-wrap">
         {{ .Content }}
-        <div class="columns-3 big-padding-top works">
-          {{ if eq .Title "Artwork" }}
-            {{ range where .Site.RegularPages "Section" "works" }}
-                {{ if and (ne .Type "works/fantasy-art") (ne .Type "works/personal-work") (ne .Type "works/music-visuals")}}
-                    {{ partial "projectCard.html" . }}
-                {{ end }}
-            {{ end }}
+        {{ if eq .Title "Artwork" }}
+          <div class="category-wrapper">
+          <div class="flex-row">
+              <div class="category-section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-1">
+                    <a href="/works/personal-work"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>PERSONNAL WORK</h2></a>
+                    <p class="accent"></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="flex-row">
+              <div class="category-section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-1">
+                    <a href="/works/fantasy-art"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>FANTASY ART</h2></a>
+                    <p class="accent"></p>
+                  </div>
+                </div>
+              </div>
+              <div class="category-section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-1">
+                    <a href="/works/music-visuals"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>MUSIC VISUALS</h2></a>
+                    <p class="accent"></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+              
+              <div class="flex-row">
+              <div class="category-section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-1">
+                    <a href="/works/illustration"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>ILLUSTRATION</h2></a>
+                    <p class="accent"></p>
+                  </div>
+                </div>
+              </div>
+              <div class="category-section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-1">
+                    <a href="/works/lettering"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>LETTERING</h2></a>
+                    <p class="accent"></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+              
+               <div class="flex-row">
+              <div class="category-section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-1">
+                    <a href="/works/paintings"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>PAINTINGS</h2></a>
+                    <p class="accent"></p>
+                  </div>
+                </div>
+              </div>
+              <div class="category-section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-1">
+                    <a href="/works/layouts"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>LAYOUTS</h2></a>
+                    <p class="accent"></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+              
+            <div class="flex-row">
+              <div class="category-section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-1">
+                    <a href="/works/photography"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>PHOTOGRAPHY</h2></a>
+                    <p class="accent"></p>
+                  </div>
+                </div>
+              </div>
+              <div class="category-section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-1">
+                    <a href="/works/video"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>VIDEO</h2></a>
+                    <p class="accent"></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+              
+               <div class="flex-row">
+              <div class="category-section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-1">
+                    <a href="/works/photography"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>PRINTMAKING</h2></a>
+                    <p class="accent"></p>
+                  </div>
+                </div>
+              </div>
+              <div class="category-section small-padding-right medium-margin-bottom">
+                <div class="flex-row">
+                  <div class="flex-1">
+                    <a href="/works/websites"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>WEBSITES</h2></a>
+                    <p class="accent"></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </div>
           {{ else }}
+        <div class="columns-3 big-padding-top works">
             {{ range .Pages  }}
                 {{ if and (ne .Type "works/fantasy-art") (ne .Type "works/personal-work") (ne .Type "works/music-visuals")}}
                   {{ partial "projectCard.html" . }}
                 {{ end }}
               {{ end }}
-          {{ end}}
         </div>
+          {{ end}}
       </div>
     </article>
   </div>
