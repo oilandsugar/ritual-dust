@@ -63,13 +63,33 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Godland**, Hlynur Pálmason - 2022
 - [ ] **Concerning Violence**, Göran Olsson - 2014
 - [ ] **Fallen Angels**
+- [ ] **Reel Injun**
+- [ ] **Out of Darkness** - 2024
+- [ ] **Wheel of Fortune and Fantasy** - 2021
+
+
+</div>
+
+
+## 2024
+
+<div class="checklist">
+ 
+- [x] **Drive my car**, Ryusuke Hamaguchi - 2021
+- [x] **Heaven adores you**, Nickolas Ross - 2014
 
 </div>
 
 ## 2023
 
+We went through a phase of 2000's horror movies and watched all of the Blair Witch movies, really enjoying going through all the seasons of Buffy and saw a couple of great new movies.
+
 <div class="checklist">
 
+- [x] **Monty Python and the Holy Grail**, Monty Python - 1975
+- [x] **My Animal**, Jacqueline Castel - 2023
+- [x] **Dream Scenario**, Kristoffer Borgli - 2023
+    - [x] **5 Broken Cameras**, Emad Burnat & Guy Davidi - 2011
 - [x] **Talk To Me**, Danny Philippou & Michael Philippou - 2023
 - [x] **The Virgin Suicides**, Sofia Coppola - 1999
     - [x] **BEEF (series)**, Lee Sung Jin - 2023

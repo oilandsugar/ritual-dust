@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer on Ritual dust</title>
+    <link>https://ritualdust.com/tags/computer/</link>
+    <description>Recent content in computer on Ritual dust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ritualdust.com/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hardware</title>
+      <link>https://ritualdust.com/about/hardware/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/about/hardware/</guid>
+      <description>Table of contents Computing Audio Photo and video Computing Apple Macbook Pro 13&amp;quot; mid-2014 with 1TB OWC SSD drive Raspberry Pi 4B+ (I plan to turn it into a resilient computer ) Keychron K6 with green keys Audio Synths Korg Monotron MakeNoise Strega Modular synth Controllers Arturia keystep Arturia beatstep Recorders Tascam DR-40 (Really rugged and the battery lasts a long time, sadly cannot work as an audio interface and the interface isn&amp;rsquo;t really intuitive) Audio players Vintage Technics cassette deck Audio Technica record player Headphones Hifiman HE350 (sound quality is good but the open back design can be annoying to others and the cord broke at some point) Photo and video I have often bought photo and video gear for specific projects or to explore new ways of making images.</description>
+    </item>
+    <item>
+      <title>Resilient computer</title>
+      <link>https://ritualdust.com/craft/resilient-computer/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/craft/resilient-computer/</guid>
+      <description>I&amp;rsquo;ve been thinking about making a portable low-power resilient computer for quite a while and have been slowly assembling the parts that i&amp;rsquo;ll use to make it. My main goal with it is to have a backup computer if my macbook crashes.
+Inspirations: https://back7.co/home/the-raspberry-pi-quick-kit http://opacity.ru/cyberdeck https://cyberdeck.cafe/build https://alternativebit.fr/posts/ultimate-writer/ It needs to run all the software tools I need to daily and creative tasks work offline and connect to the internet run on battery power, grid power or solar power is easy to repair and upgrade if needed Parts acquired so far Raspberry Pi 4 (dimensions 4” x 2.</description>
+    </item>
+  </channel>
+</rss>

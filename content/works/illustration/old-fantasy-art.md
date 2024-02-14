@@ -65,6 +65,9 @@ But what's generally seen or described as fantasy art was popularized in the 20t
 - [Gary Chalk](http://garychalkillustration.com/)
 - [Geoff Taylor](https://geofftaylor-artist.com/)
 - John Blanche
+- [Clyde Caldwell](https://clydecaldwell.com/)
+- [Jeff Easley](https://jeffeasleyart.com/)
+- [Larry Elmore](https://larryelmore.com/store/)
 
 </div>
 
@@ -92,6 +95,9 @@ after 1970, big influence of role playing games like dnd, and the metal hurlant 
 - [Bradley K McDevitt](http://www.bradleykmcdevitt.net/art.htm)
 - [Don Maitz](https://www.paravia.com/DonMaitz/index.php)
 - [Lars Grant-West](https://www.larsgrantwest.com/)
+- [Dean Spencer](https://www.deanspencerart.com/)
+- Mark Schultz
+- [Russ Nicholson](https://russnicholson.blogspot.com/)
 
 </div>
 

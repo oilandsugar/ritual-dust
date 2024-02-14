@@ -135,6 +135,7 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Vladimir Chebakov](https://instagram.com/vladimirchebakov)
 - [Zania zouravliov](https://thevacvvm.com/collections/vania-zouravliov)
 - [Zé Burnay](https://www.zeburnay.com/)
+- [Russ Nicholson](https://russnicholson.blogspot.com/)
 
 ### Art
 
@@ -209,6 +210,13 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Rob Hawkins Hobby](https://robhawkinshobby.blogspot.com/)
 - [Tiny Furniture](https://tiny-furniture.com/)
 - [Myriad miniatures](https://myriadminiatures.com/osmoticmeld-range/)
+
+### Table-top Role playing
+
+- [The Alexandrian](https://thealexandrian.net/)
+- [The H.P. Lovecraft Historical Society](https://www.hplhs.org/index.php)
+- [Grognardia](http://grognardia.blogspot.com/)
+- [Dyson Logos's website](https://dysonlogos.blog/)
 
 ### Historical replicas
 

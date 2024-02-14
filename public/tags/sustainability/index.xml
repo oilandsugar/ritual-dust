@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sustainability on Ritual dust</title>
+    <link>https://ritualdust.com/tags/sustainability/</link>
+    <description>Recent content in sustainability on Ritual dust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ritualdust.com/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post-Civilization Anarchism</title>
+      <link>https://ritualdust.com/folklore/anarchism/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/folklore/anarchism/</guid>
+      <description>Post Civilization is an idea that I&amp;rsquo;ve first encountered when I was about 18, still in university, very much a self-described anarchist and at the time quite active in the student movements. Revisiting this idea of a way of living post-civilization that is more sustainable, more equal and more fulfilling still rings true 14 years later with the current climate crisis and the constant train wreck of late-stage capitalism.
+The first iteration of that philosophy comes from a small zine published by Strangers In a Tangled Wilderness called Post-Civ!</description>
+    </item>
+    <item>
+      <title>Agroecology and Rewilding</title>
+      <link>https://ritualdust.com/craft/agroecology/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/craft/agroecology/</guid>
+      <description>Small stream with native plants and logs Table of contents Introduction Concrete examples Links Introduction There&amp;rsquo;s no mystery that our relationship to nature and the way ecosystems work has shifted dramatically over time, basically almost from the time we started large scale cultivation of crops. Things got further aggravated during colonization with the import of exotic plants, animals and bugs that disrupted the existing relationships and balance present in the native ecosystem.</description>
+    </item>
+    <item>
+      <title>Research links</title>
+      <link>https://ritualdust.com/craft/research/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/craft/research/</guid>
+      <description>Where I keep my references for crafting, woodworking, low-tech, permacomputing and low-bandwidth web projects.
+Table of contents Small web Woodworking Tools Electronics Drawing Other crafts Small web Local first apps Notes on writing better image alts Notes on permacomputing Solar protocol for solar powered websites Woodworking Reproductions of early furniture Tools A very complete website on billhooks A website with a lot of instructions on how to make things, all kinds of things The museum of other things Electronics How to broadcast to a CRT TV with a raspberry pi Tool to develop and prototype eurorack modules PCB manufacturing website Drawing and illustration tool to find animal references in a specific angle Other crafts Atelier able - ancient pottery reproduction source for lamp parts </description>
+    </item>
+    <item>
+      <title>Resilient computer</title>
+      <link>https://ritualdust.com/craft/resilient-computer/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/craft/resilient-computer/</guid>
+      <description>I&amp;rsquo;ve been thinking about making a portable low-power resilient computer for quite a while and have been slowly assembling the parts that i&amp;rsquo;ll use to make it. My main goal with it is to have a backup computer if my macbook crashes.
+Inspirations: https://back7.co/home/the-raspberry-pi-quick-kit http://opacity.ru/cyberdeck https://cyberdeck.cafe/build https://alternativebit.fr/posts/ultimate-writer/ It needs to run all the software tools I need to daily and creative tasks work offline and connect to the internet run on battery power, grid power or solar power is easy to repair and upgrade if needed Parts acquired so far Raspberry Pi 4 (dimensions 4” x 2.</description>
+    </item>
+    <item>
+      <title>Wood species</title>
+      <link>https://ritualdust.com/craft/wood-species/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/craft/wood-species/</guid>
+      <description>First and foremost, the most sustainable form of timber is reclaimed wood. Good sources of reclaimed wood are wooden pallets (commonly built of white oak if the wood is hard or pine if soft), timber from demolition of buildings and barns, old furniture. You can find more information on identifying pallet wood here: Identifying pallet wood .
+Notes on sustainably harvested timber: buying European wood is usually a good choice because since 2010, the EU Timber Regulation enforced the replanting of trees, better forest management and limiting annual harvests.</description>
+    </item>
+    <item>
+      <title>Low-tech</title>
+      <link>https://ritualdust.com/craft/low-tech/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/craft/low-tech/</guid>
+      <description>Table of contents Examples of low-tech Resources With the ongoing climate crisis, the destruction brought forth by the unsustainable push for constant growth of capitalism and a world filled with increasingly complex and disposable machines and tools, there is very strong need to scale down and simplify our technology and engineering.
+Design has become on a lot of ways a self-referential discipline, focussing more and more on aesthetics over creative problem solving or, at the even more basic level, just taking the time to see if there is a problem to solve.</description>
+    </item>
+    <item>
+      <title>Off-grid living</title>
+      <link>https://ritualdust.com/craft/off-grid-living/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/craft/off-grid-living/</guid>
+      <description>This is a very organic gathering of my notes and research on living off-grid, either in a home or in a vehicule (like a boat or a van). I have a dream of building a timber framed house in the woods at some points and to have a van or a boat setup for short-term living so these notes act as preparation, planning and inspiration for those projects.
+Table of contents Power Water Fuel Internet Heating Lighting Computers Shower Toilet Insurance Safety Links Power The house and vehicule have quite different power needs, but in a perfect world they would both be powered by renewable energy.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electronics on Ritual dust</title>
+    <link>https://ritualdust.com/tags/electronics/</link>
+    <description>Recent content in electronics on Ritual dust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ritualdust.com/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dread distortion pedal</title>
+      <link>https://ritualdust.com/craft/dread-pedal/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/craft/dread-pedal/</guid>
+      <description>This was my first effect pedal built. It is based on a clone of the Boss DS-1 classic distortion pedal. I was built for my music project Blood and Dust as part of an effect chain we use on a cello. It is primarily used to make sounds heavier, grittier and add this sense of dread that is permeating our music.
+Dread distortion pedal Dread distortion pedal Blood detail on the bottom of the pedal Input and output </description>
+    </item>
+  </channel>
+</rss>

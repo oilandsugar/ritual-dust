@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>still life on Ritual dust</title>
+    <link>https://ritualdust.com/tags/still-life/</link>
+    <description>Recent content in still life on Ritual dust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sat, 23 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ritualdust.com/tags/still-life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal artifacts</title>
+      <link>https://ritualdust.com/works/photo/personal-artifacts/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/works/photo/personal-artifacts/</guid>
+      <description>This ongoing series documents my personal collections of artifacts, some with historical significance, some purely some stick or rock found in the woods somewhere, but all with meaning and a past of future story attached to them. In archeology, artifacts are only as precious as their well-documented provenance and context that allows them to tell a more complete story. These items that I found, unearthed or bought have a story of their own but also a story that I made for them, this is an exercise in collecting those stories so they can be shared and hopefully inspire other people to create stories of their own for their favourite found objects.</description>
+    </item>
+  </channel>
+</rss>

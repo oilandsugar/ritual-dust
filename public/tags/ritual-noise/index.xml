@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ritual noise on Ritual dust</title>
+    <link>https://ritualdust.com/tags/ritual-noise/</link>
+    <description>Recent content in ritual noise on Ritual dust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ritualdust.com/tags/ritual-noise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vear</title>
+      <link>https://ritualdust.com/works/lettering/vear/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/works/lettering/vear/</guid>
+      <description>I made this logo for the ritual noise project Vear inspired by occult symbolism and sigils.
+Logo for vear, occult-like symbols and letters overlapping each others </description>
+    </item>
+    <item>
+      <title>Blood and Dust</title>
+      <link>https://ritualdust.com/works/layouts/blood_and_dust/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ritualdust.com/works/layouts/blood_and_dust/</guid>
+      <description>Logo and visuals for the ritualistic horror drone project I&amp;rsquo;m doing with Hex. You can find more over on our band website: https://blood-and-dust.com/ </description>
+    </item>
+  </channel>
+</rss>

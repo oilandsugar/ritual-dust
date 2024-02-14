@@ -1,0 +1,188 @@
+:root {
+
+/* --------- BUTTONS --------- */
+
+/* Default */
+--color-buttonPrimary: #fff0b7; /* lightBackColor */
+--borderColor-buttonPrimary: #b25c02; /* darkTextColor */
+--bgColor-buttonPrimary: #b25c02; /* darkTextColor */
+
+/* Hover */
+--color-buttonPrimary-hover: #fff0b7; /* lightBackColor */
+--borderColor-buttonPrimary-hover: #9b3313; /* textColorAccent */
+--bgColor-buttonPrimary-hover: #9b3313; /* textColorAccent */
+--shadow-buttonPrimary-hover: none;
+
+/* Active */
+--color-buttonPrimary-active: #fff0b7; /* lightBackColor */
+--borderColor-buttonPrimary-active: #9b3313; /* textColorAccent */
+--bgColor-buttonPrimary-active: #9b3313; /* textColorAccent */
+--shadow-buttonPrimary-active: none;
+
+/* Focus */
+--color-buttonPrimary-focus: #fff0b7; /* lightBackColor */
+--borderColor-buttonPrimary-focus: #9b3313; /* textColorAccent */
+--bgColor-buttonPrimary-focus: #9b3313; /* textColorAccent */
+--shadow-buttonPrimary-focus: none;
+
+/* Disabled */
+--color-buttonPrimary-disabled: #fff0b7; /* lightBackColor */
+--borderColor-buttonPrimary-disabled: #9a948d; /* disabled */
+--bgColor-buttonPrimary-disabled: #9a948d; /* disabled */
+
+/* Success */
+--color-buttonPrimary-success: #fff0b7; /* lightBackColor */
+--borderColor-buttonPrimary-success: green;
+--bgColor-buttonPrimary-success: green;
+
+/* Error */
+--color-buttonPrimary-error: #fff0b7; /* lightBackColor */
+--borderColor-buttonPrimary-error: #bb0e0e; /* error */
+--bgColor-buttonPrimary-error: #bb0e0e; /* error */
+
+/* --------- LINKS --------- */
+
+/* Default */
+--color-link: #b25c02; /* darkTextColor */
+--borderColor-link: #b25c02; /* darkTextColor */
+--bgColor-link: none;
+
+/* Hover */
+--color-link-hover: #9b3313; /* textColorAccent */
+--borderColor-link-hover: #9b3313; /* textColorAccent */
+--bgColor-link-hover: none;
+
+/* Active */
+--color-link-active: #9b3313; /* textColorAccent */
+--borderColor-link-active: #9b3313; /* textColorAccent */
+--bgColor-link-active: none;
+
+/* Focus */
+--color-link-focus: #9b3313; /* textColorAccent */
+--borderColor-link-focus: #9b3313; /* textColorAccent */
+--bgColor-link-focus: #9b3313; /* textColorAccent */
+--shadow-link-focus: none;
+
+/* -----------------------
+    PART: Input
+----------------------- */
+
+--color-input: #b25c02; /* darkTextColor */
+--borderColor-input: #b25c02; /* darkTextColor */
+--bgColor-input: #fff; /* white */
+
+/* Hover */
+--color-input-hover: #9b3313; /* textColorAccent */
+--borderColor-input-hover: #9b3313; /* textColorAccent */
+--bgColor-input-hover: #fff; /* white */
+--shadow-input-hover: none;
+
+/* Focus */
+--color-input-focus: #9b3313; /* textColorAccent */
+--borderColor-input-focus: #9b3313; /* textColorAccent */
+--bgColor-input-focus: #fff; /* white */
+--shadow-input-focus: none;
+
+/* Checked */
+--color-input-checked: #fff0b7; /* lightBackColor */
+--borderColor-input-checked: #9b3313; /* textColorAccent */
+--bgColor-input-checked: #9b3313; /* textColorAccent */;
+--shadow-input-checked: none;
+
+/* Disabled */
+--color-input-disabled: #9a948d; /* disabled */
+--borderColor-input-disabled: #9a948d; /* disabled */
+--bgColor-input-disabled: #fff; /* white */
+
+/* Error */
+--color-input-error: #bb0e0e; /* error */
+--borderColor-input-error: #bb0e0e; /* error */
+--bgColor-input-error: #fff; /* white */
+
+/* Autofill */
+--bgColor-input-autofill: none;
+
+/* -----------------------
+    PART: Label
+----------------------- */
+
+--color-inputLabel: #b25c02; /* darkTextColor */
+
+/* Hover */
+--color-inputLabel-hover: #9b3313; /* textColorAccent */
+
+/* Focus */
+--color-inputLabel-focus: #9b3313; /* textColorAccent */
+
+/* -----------------------
+    PART: Icon
+----------------------- */
+
+--color-inputIcon: #b25c02; /* darkTextColor */
+
+/* Hover */
+--color-inputIcon-hover: #9b3313; /* textColorAccent */
+
+/* Focus */
+--color-inputIcon-focus: #9b3313; /* textColorAccent */
+
+/* Checked */
+--color-inputIcon-checked: #9b3313; /* textColorAccent */
+
+/* Disabled */
+--color-inputIcon-error:
+
+/* -----------------------
+    PART: Placeholder
+----------------------- */
+
+--color-inputPlaceholder: #b25c02; /* darkTextColor */
+
+/* ---------- BADGES ----------- */
+
+/* Default (completed) */
+--color-badge: #9b3313; /* textColorAccent */
+--borderColor-badge: #9b3313; /* textColorAccent */
+--bgColor-badge: #fff0b7; /* lightBackColor */
+
+/* Active */
+--color-badge-active: #fff0b7; /* lightBackColor */
+--borderColor-badge-active: #fff0b7; /* lightBackColor */
+--bgColor-badge-active: #9b3313; /* textColorAccent */
+
+/* Disabled */
+--color-badge-disabled: #b25c02; /* darkTextColor */
+--borderColor-badge-disabled: #fff0b7; /* lightBackColor */
+--bgColor-badge-disabled: #fff; /* white */
+
+/* --------- GLOBAL --------- */
+
+/* Default */
+--color-default: #b25c02; /* darkTextColor */
+--borderColor-default: #b25c02; /* darkTextColor */
+--bgColor-default: #fff; /* white */
+
+/* Alt */
+--color-alt: #b25c02; /* darkTextColor */
+--bgColor-alt: #fff; /* white */
+
+/* Icon */
+--color-icon: #b25c02; /* darkTextColor */
+
+/* Success */
+--color-success: green;
+--bgColor-success: #fff0b7; /* lightBackColor */
+
+/* Error */
+--color-error: #bb0e0e; /* error */
+--borderColor-error: #bb0e0e; /* error */
+--bgColor-error: #fff0b7; /* lightBackColor */
+
+/* Info */
+--bgColor-info: #fff0b7; /* lightBackColor */
+
+/* Modal */
+--bgColor-modal: #fff0b7; /* lightBackColor */
+--bgColor-modalVeil: #fff0b7; /* lightBackColor */
+
+}

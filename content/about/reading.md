@@ -65,10 +65,12 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [ ] **What Are People For?**, Wendell Berry
 - [ ] **Paperbacks from Hell**, Grady Hendrix
 - [ ] **Ogam: Weaving Word Wisdom**, Erynn Rowan Laurie
+- [ ] **Monsters, Aliens, and Holes in the Ground**, Stu Hovart
 
 ### 2023
 
 - [ ] **Sand Talk**, Tyson Yunkaporta
+- [x] **How to Blow Up a Pipeline**, Andreas Malm
 - [x] **Deathtrap dungeon**, Ian Livingstone
 - [x] **The Ministry for the Future**, Kim Stanley Robinson
 - [ ] **The Táin**, translated by Thomas Kinsella
