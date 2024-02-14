@@ -4,7 +4,6 @@ languageCode = "en-ca"
 title = "Ritual dust"
 author = "Lizbeth Poirier"
 copyright = "Copyright © 2008–2024, Lizbeth Poirier-Morissette; all rights reserved."
-languageCode = "en"
 DefaultContentLanguage = "en"
 
 [params]
