@@ -1,0 +1,9 @@
+name: ritual-dust
+static_sites:
+- build_command: rm -r ./public; hugo --destination ./public
+  environment_slug: hugo
+  github:
+    branch: master
+    deploy_on_push: true
+    repo: oilandsugar/ritual-dust
+  name: ritual-dust

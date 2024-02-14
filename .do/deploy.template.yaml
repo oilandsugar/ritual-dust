@@ -1,0 +1,9 @@
+spec:
+  name: ritual-dust
+  static_sites:
+  - build_command: rm -r ./public; hugo --destination ./public
+    environment_slug: hugo
+    git:
+      branch: main
+      repo_clone_url: https://github.com/oilandsugar/ritual-dust.git
+    name: ritual-dust
