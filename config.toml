@@ -84,7 +84,3 @@ desc = "Portfolio, digital garden and recipe blog of designer, illustrator and g
   lastmod = ["lastmod", ":fileModTime", ":default"]
   publishDate = ["publishDate", "date"]
   expiryDate = ["expiryDate"]
-
-[author]
-
-      name = "Lizbeth Poirier"
