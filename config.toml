@@ -1,14 +1,18 @@
+theme = "nodept"
 baseURL = "https://ritualdust.com/"
 languageCode = "en-ca"
-theme = "nodept"
 title = "Ritual dust"
+author = "Lizbeth Poirier"
+copyright = "Copyright © 2008–2024, Lizbeth Poirier-Morissette; all rights reserved."
+languageCode = "en"
+DefaultContentLanguage = "en"
 
 [params]
 image = "/img/preview.png"
 desc = "Portfolio, digital garden and recipe blog of designer, illustrator and goth druid Lizbeth Poirier. Write your won folklore."
-author = "Lizbeth Poirier"
 
 [menu]
+
   [[menu.main]]
     identifier = "home"
     name = "Home"
@@ -56,6 +60,7 @@ author = "Lizbeth Poirier"
     weight = 8
 
 [markup]
+
   [markup.goldmark]
     [markup.goldmark.extensions]
       definitionList = true
@@ -75,10 +80,12 @@ author = "Lizbeth Poirier"
       xhtml = false
 
 [frontmatter]
+
   date = ["date", "publishDate", "lastmod"]
   lastmod = ["lastmod", ":fileModTime", ":default"]
   publishDate = ["publishDate", "date"]
   expiryDate = ["expiryDate"]
 
 [author]
+
       name = "Lizbeth Poirier"
