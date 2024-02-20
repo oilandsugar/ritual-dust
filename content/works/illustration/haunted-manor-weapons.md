@@ -1,7 +1,7 @@
 +++
 title = "Haunted Manor Weapons"
 tags = ["illustration", "fantasy"]
-date = "2024-01-09"
+date = "2024-01-16"
 
 image = "/img/illustration/haunted-manor-weapons/haunted-manor-weapons-color-1.jpg"
 desc = "Old-school fantasy battle axe"
