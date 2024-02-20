@@ -23,24 +23,24 @@ desc = "Portfolio, digital garden and recipe blog of designer, illustrator and g
     url = "/works/"
     weight = 2
   [[menu.main]]
+    identifier = "music"
+    name = "Music"
+    url = "/music/"
+    weight = 3
+  [[menu.main]]
     identifier = "tattoo"
     name = "Tattoo"
     url = "/tattoo/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "craft"
     name = "Craft"
     url = "/craft/"
-    weight = 4
+    weight = 5
   [[menu.main]]
     identifier = "folklore"
     name = "Folklore"
     url = "/folklore/"
-    weight = 5
-  [[menu.main]]
-    identifier = "music"
-    name = "Music"
-    url = "/music/"
     weight = 6
   [[menu.main]]
     identifier = "food"

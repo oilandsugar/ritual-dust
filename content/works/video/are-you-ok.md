@@ -20,8 +20,8 @@ All the illustrations and the typography were hand-drawn and animated with a low
 <div class="credits medium-padding-top">
 <small>Credits and details</small>  
 
-**Direction / Performance / Outfits:** Hex Evans  
-**Photography / Editing / Illustrations:** Lizbeth Poirier   
+Direction / Performance / Outfits : **Hex Evans**  
+Photography / Editing / Illustrations : **Lizbeth Poirier**   
 
 Shot handheld on the Sony A6300 with a 24mm prime lens  
 Edited and color graded in DaVinci Resolve
