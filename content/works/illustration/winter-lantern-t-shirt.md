@@ -1,6 +1,6 @@
 +++
 title = "Winter Lantern t-shirt illustration"
-tags = ["illustration", "black metal"]
+tags = ["illustration", "black metal", "fantasy"]
 date = "2022-10-03"
 
 image = "/img/illustration/inpathos/winter-lantern.jpg"
