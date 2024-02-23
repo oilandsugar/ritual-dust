@@ -1,9 +1,8 @@
 +++
 title = "Bog Sacrifice for All Oil Execs"
 tags = ["video", "music", "process video"]
-date = "2024-01-19"
-draft = true
-image = "/img/video/kill-the-pain.jpg"
+date = "2023-11-20"
+image = "/img/video/bog-sacrifice.jpg"
 desc = "Process video for my song Bog Sacrifice for All Oil Execs"
 +++
 
@@ -17,6 +16,7 @@ desc = "Process video for my song Bog Sacrifice for All Oil Execs"
 Cinematographer / Editor / Photographer : **Lizbeth Poirier**  
 
 Shot on the Sony A6300 with the Rokinon 10mm   
-Edited and color graded in Davinci Resolce
+Edited and color graded in Davinci Resolve
+Featuring photos I took in Ireland
 
 </div>
