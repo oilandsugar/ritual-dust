@@ -60,7 +60,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Witchhammer**, Otakar Vávra - 1970
 - [ ] **The White Reindeer**, Erik Blomberg - 1952
 - [ ] **Upurga**, Ugis Olte - 2022
-- [ ] **Godland**, Hlynur Pálmason - 2022
 - [ ] **Concerning Violence**, Göran Olsson - 2014
 - [ ] **Fallen Angels**
 - [ ] **Reel Injun**
@@ -75,7 +74,11 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
  
-- [x] **Drive my car**, Ryusuke Hamaguchi - 2021
+- [x] **Ginger Snaps**, John Fawcett - 2000
+- [x] **Poor Things**, Yorgos Lanthimos - 2023
+- [ ] **X-files (series)**
+    - [x] **Godland**, Hlynur Pálmason - 2022
+    - [x] **Drive my car**, Ryusuke Hamaguchi - 2021
 - [x] **Heaven adores you**, Nickolas Ross - 2014
 
 </div>

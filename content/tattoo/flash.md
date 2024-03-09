@@ -27,7 +27,7 @@ An ongoing series of pieces inspired by old-school DnD, dark fantasy and sword a
 <div class="flash"><div class="number">14</div><img src="/img/tattoo/flash/bronze-age-axe.jpg"/></div>
 <div class="flash"><div class="number">15</div><img src="/img/tattoo/flash/bird-helmet-flat.jpg"/></div>
 <div class="flash"><div class="number">16 (small)</div><img src="/img/tattoo/flash/dagger-helmet-flat.jpg"/></div>
-<div class="flash"><div class="number">17</div><img src="/img/tattoo/flash/dragon-flat.jpg"/></div>
+<div class="flash taken"><div class="number">17</div><img src="/img/tattoo/flash/dragon-flat.jpg"/></div>
 <div class="flash"><div class="number">18</div><img src="/img/tattoo/flash/ghoul-arm-flat.jpg"/></div>
 <div class="flash"><div class="number">19</div><img src="/img/tattoo/flash/goblin-flat.jpg"/></div>
 <div class="flash"><div class="number">20 (small)</div><img src="/img/tattoo/flash/shield-flat.jpg"/></div>
@@ -35,7 +35,7 @@ An ongoing series of pieces inspired by old-school DnD, dark fantasy and sword a
 <div class="flash"><div class="number">22</div><img src="/img/tattoo/flash/mimic.jpg"/></div>
 <div class="flash"><div class="number">23 (small)</div><img src="/img/tattoo/flash/loot-flat.jpg"/></div>
 <div class="flash"><div class="number">24</div><img src="/img/tattoo/flash/bat.jpg"/></div>
-<div class="flash"><div class="number">25</div><img src="/img/tattoo/flash/dagger-hand.jpg"/></div>
+<div class="flash taken"><div class="number">25</div><img src="/img/tattoo/flash/dagger-hand.jpg"/></div>
 <div class="flash"><div class="number">26</div><img src="/img/tattoo/flash/mind-flayer-flat.jpg"/></div>
 
 </div>
