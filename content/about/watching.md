@@ -65,15 +65,15 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Reel Injun**
 - [ ] **Out of Darkness** - 2024
 - [ ] **Wheel of Fortune and Fantasy** - 2021
-
+- [ ] **Zone of Interest** - 2023
 
 </div>
-
 
 ## 2024
 
 <div class="checklist">
  
+- [x] **The Wind that Shakes the Barley**, Ken Loach - 2006
 - [x] **Ginger Snaps**, John Fawcett - 2000
 - [x] **Poor Things**, Yorgos Lanthimos - 2023
 - [ ] **X-files (series)**
