@@ -49,3 +49,4 @@ Morris dancers get out in the fields in the night before Bealtaine to perform a 
 ## Links and references
 
 - [Bealtaine traditions in folklore](https://loraobrien.ie/beltane-bealtaine-traditions-in-irish-folklore/)
+- [More about the neid fire churn](https://www.sacredhearthfrictionfire.com/celticfirechurn.html)

@@ -52,7 +52,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Wake Wood**, David Keating - 2009
 - [ ] **Dark Waters**,
 - [ ] **Sleepy Hollow**, Sam Weiss - 1972
-- [ ] **Pastoral: to die in the country**, Shūji Terayama - 1974
 - [ ] **le diable probablement**, Robert Bresson - 1977
 - [ ] **The Moon and the Sledgehammer**, Philip Trevelyan - 1971
 - [ ] **The Void**, Jeremy Gillespie, Steven Kostanski - 2017
@@ -65,7 +64,11 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Reel Injun**
 - [ ] **Out of Darkness** - 2024
 - [ ] **Wheel of Fortune and Fantasy** - 2021
+- [ ] **The King Tide** - 2024
+- [ ] **Alien Romulus** - 2023
 - [ ] **Zone of Interest** - 2023
+- [ ] **The Boy and the Heron**, Hayao Miyazaki - 2023
+
 
 </div>
 
@@ -73,6 +76,9 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
  
+- [x] **Pastoral: to die in the country**, Shūji Terayama - 1974
+- [x] **Shinto: Nature, Gods and Man in Japan**, 1977
+- [x] **Spirited Away**, Hayao Miyazaki - 2001
 - [x] **The Wind that Shakes the Barley**, Ken Loach - 2006
 - [x] **Ginger Snaps**, John Fawcett - 2000
 - [x] **Poor Things**, Yorgos Lanthimos - 2023
