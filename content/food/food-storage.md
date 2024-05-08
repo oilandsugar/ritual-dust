@@ -1,9 +1,9 @@
 +++
 title = "Food Storage"
-tags = [notes"]
+tags = ["notes"]
 date = "2024-04-09"
 images = []
-
+draft = true
 +++
 
 ## Table of contents
