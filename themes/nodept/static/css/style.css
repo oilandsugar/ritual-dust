@@ -1096,6 +1096,7 @@ input[type=checkbox] {
   border-color: var(--f_med);
   color: #1e1f20; /* back */
   color: var(--background);
+  min-height: 190px;
 }
 
 .notes:hover {
