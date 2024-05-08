@@ -1,6 +1,6 @@
 +++
 title = "Stones for Liberation"
-tags = ["illustration", "folklore"]
+tags = ["illustration", "folklore", "personal"]
 date = "2024-05-08"
 
 image = "/img/illustration/stone-camp/stone-encampment.jpg"
