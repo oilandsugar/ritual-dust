@@ -1,11 +1,8 @@
 +++
 title = "New Orleans travel photography"
 tags = ["photo", "travel"]
-draft = false
 date = "2020-11-10"
-
 image = "/img/photo/new-orleans/13131647_1283075391720275_4503824291217403466_o.jpg"
-image2 = "/img/photo/new-orleans/13147338_1283074691720345_3350972232911042504_o.jpg"
 desc = "Hot sauce, neon lights and plant-covered high balconies."
 +++
 

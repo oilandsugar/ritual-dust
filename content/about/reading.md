@@ -66,14 +66,24 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [ ] **Paperbacks from Hell**, Grady Hendrix
 - [ ] **Ogam: Weaving Word Wisdom**, Erynn Rowan Laurie
 - [ ] **Monsters, Aliens, and Holes in the Ground**, Stu Hovart
+- [ ] **The Sacred Isle: Belief and Religion in Pre-Christian Ireland**, Dáithí Ó hÓgáin
+- [ ] **The Táin**, translated by Thomas Kinsella
+- [ ] **Edgelands**, Christopher Hart
+
+### 2024
+
+- [ ] **A year in the life of a shinto shrine**, John K. Nelson
+- [x] **Listen to the Land Speak**, Manchán Magan
+- [x] **Ecstasy is Necessary**, Barbara Carrellas
 
 ### 2023
 
-- [ ] **Sand Talk**, Tyson Yunkaporta
+- [x] **The Wizard of Earthsea**, Ursula K. LeGuin
+- [x] **Dice Men**, Ian Livingstone
+- [x] **Sand Talk**, Tyson Yunkaporta
 - [x] **How to Blow Up a Pipeline**, Andreas Malm
 - [x] **Deathtrap dungeon**, Ian Livingstone
 - [x] **The Ministry for the Future**, Kim Stanley Robinson
-- [ ] **The Táin**, translated by Thomas Kinsella
 - [x] **Thirty-Two Words for Field**, Manchán Magan
 - [x] **The Dawn of Everything**, David Graeber & David wengrow
 

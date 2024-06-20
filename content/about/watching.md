@@ -76,6 +76,9 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
  
+- [x] **Twister**, Jan de Bont - 1996
+- [x] **Honeymoon**, Leigh Janiak - 2014
+- [x] **Godzilla Minus One**, Takashi Yamazaki - 2023
 - [x] **Pastoral: to die in the country**, Shūji Terayama - 1974
 - [x] **Shinto: Nature, Gods and Man in Japan**, 1977
 - [x] **Spirited Away**, Hayao Miyazaki - 2001

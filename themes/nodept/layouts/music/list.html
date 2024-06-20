@@ -12,12 +12,46 @@
         <div class="columns-2 big-padding-top">
           {{ if (eq $.Parent.Title "Music") }}
             {{ range where .Pages "Section" "music" }}
-              {{ partial "projectCard.html" . }}
+              {{ if not (in .Params.tags "notes") }}
+                {{ if in .Params.tags "ritual dust" }}
+                  {{ partial "projectCard.html" . }}
+                {{ end }}
+              {{ end }}
             {{ end }}
           {{ else }}
-          {{ range where .Site.RegularPages "Section" "music" }}
-            {{ partial "projectCard.html" . }}
+            {{ range where .Site.RegularPages "Section" "music" }}
+              {{ if not (in .Params.tags "notes") }}
+                {{ if in .Params.tags "ritual dust" }}
+                  {{ partial "projectCard.html" . }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
           {{ end }}
+        </div>
+        <div class="columns-2 big-padding-top">
+          {{ if (eq $.Parent.Title "Music") }}
+            {{ range where .Pages "Section" "music" }}
+              {{ if not (in .Params.tags "notes") }}
+                {{ if not (in .Params.tags "ritual dust") }}
+                   {{ partial "projectCard.html" . }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          {{ else }}
+            {{ range where .Site.RegularPages "Section" "music" }}
+              {{ if not (in .Params.tags "notes") }}
+                {{ if not (in .Params.tags "ritual dust") }}
+                   {{ partial "projectCard.html" . }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </div>
+        <div class="columns-2 works big-padding-top">
+          {{ range where .Site.RegularPages "Section" "music" }}
+            {{ if in .Params.tags "notes" }}
+              {{ partial "projectCard.html" . }}
+            {{ end}}
           {{ end }}
         </div>
       </div>

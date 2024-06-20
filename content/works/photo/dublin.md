@@ -1,11 +1,8 @@
 +++
 title = "Dublin travel photography"
 tags = ["photo", "travel", "landscape", "urban"]
-draft = false
 date = "2020-11-07"
-
 image = "/img/photo/dublin/12186476_1158257777535371_4686872208971591410_o.jpg"
-image2 = "/img/photo/dublin/11057342_1157125087648640_3386467430021376033_o.jpg"
 desc = "Foggy alleys, crumbling buildings and the smell of beer."
 +++
 
