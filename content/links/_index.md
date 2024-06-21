@@ -5,7 +5,7 @@ type = "links"
 desc = "A page listing some links to include in social media profiles"
 +++
 
-[Listen to the Elmet Brae compilation](https://orllewin.github.io/elmet_brae/EB01/)  
+[Listen to my album Earthworks](https://ritualdust.bandcamp.com/album/earthworks/)  
 [Available tattoo flash](https://ritualdust.com/tattoo/flash)  
 [Custom tattoo form](https://ritualdust.com/tattoo/tattoo-form/)  
 
@@ -16,7 +16,6 @@ desc = "A page listing some links to include in social media profiles"
   </a>
 </div>
 
-  
 ### My work
 
 [Fantasy art](https://ritualdust.com/works/fantasy-art/)  
@@ -36,4 +35,4 @@ desc = "A page listing some links to include in social media profiles"
 [Donate to survivors of residential schools](https://www.irsss.ca/donate)  
 [Donate to the black healing fund](https://www.blackhealingfund.com/)
 
-Find me on [instagram](https://www.instagram.com/ritual.dust/), [mastodon](https://merveilles.town/@ritualdust) and in the haunted woods at dusk.
+Find me on [instagram](https://www.instagram.com/ritual.dust/), [youtube](https://www.youtube.com/channel/UChU2utY1KM_SMVoS9B9epuQ), [mastodon](https://merveilles.town/@ritualdust), and in the woods at dusk.
