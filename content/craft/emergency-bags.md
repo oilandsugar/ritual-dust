@@ -1,6 +1,6 @@
 +++
 title = "Emergency kits"
-tags = ["note", "emergency"]
+tags = ["notes", "emergency"]
 date = "2024-05-16"
 
 desc = "A couple of types of emergency kits and bags and their contents"

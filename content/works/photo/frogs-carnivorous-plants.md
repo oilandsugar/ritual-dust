@@ -1,6 +1,6 @@
 +++
 title = "Frogs and carnivorous plants"
-tags = ["photo", "nature"]
+tags = ["photo", "nature", "personal"]
 date = "2024-06-06"
 
 image = "/img/photo/frogs/DSC08492.jpg"
