@@ -7,7 +7,6 @@ draft = true
 +++
 
 
-
 https://localgods.bandcamp.com/album/aghavrick-acid
 stick in the wheel
 lankum
