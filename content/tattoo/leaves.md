@@ -3,6 +3,7 @@ title = "Leaf fillers"
 tags = ["tattoo", "illustrative"]
 date = "2022-11-11"
 image = "/img/tattoo/leaf-2.jpg"
+draft = true
 +++
 
 Small leaf fillers
