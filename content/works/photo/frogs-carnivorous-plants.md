@@ -4,7 +4,7 @@ tags = ["photo", "nature", "personal"]
 date = "2024-06-06"
 
 image = "/img/photo/frogs/DSC08492.jpg"
-desc = "Hot sauce, neon lights and plant-covered high balconies."
+desc = ""
 +++
 
 Photos from a weekend at lake rouge in Quebec, to the sound of the bullfrogs, green frogs and spring peepers. 
