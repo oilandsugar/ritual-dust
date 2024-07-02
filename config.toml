@@ -33,25 +33,10 @@ desc = "Portfolio, digital garden and recipe blog of designer, illustrator and g
     url = "/tattoo/"
     weight = 4
   [[menu.main]]
-    identifier = "craft"
-    name = "Craft"
-    url = "/craft/"
+    identifier = "shop"
+    name = "Shop"
+    url = "/shop/"
     weight = 5
-  [[menu.main]]
-    identifier = "folklore"
-    name = "Folklore"
-    url = "/folklore/"
-    weight = 6
-  [[menu.main]]
-    identifier = "food"
-    name = "Food"
-    url = "/food/"
-    weight = 7
-  [[menu.main]]
-    identifier = "journal"
-    name = "Journal"
-    url = "/journal/"
-    weight = 8
   [[menu.main]]
     identifier = "about"
     name = "About"
