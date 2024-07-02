@@ -3,90 +3,90 @@
 /* --------- BUTTONS --------- */
 
 /* Default */
---color-buttonPrimary: #fff0b7; /* lightBackColor */
---borderColor-buttonPrimary: #b25c02; /* darkTextColor */
---bgColor-buttonPrimary: #b25c02; /* darkTextColor */
+--color-buttonPrimary: #c8c5ae; /* back */
+--borderColor-buttonPrimary: #624337; /* f_med */
+--bgColor-buttonPrimary: #624337; /* f_med */
 
 /* Hover */
---color-buttonPrimary-hover: #fff0b7; /* lightBackColor */
---borderColor-buttonPrimary-hover: #9b3313; /* textColorAccent */
---bgColor-buttonPrimary-hover: #9b3313; /* textColorAccent */
+--color-buttonPrimary-hover: #c8c5ae; /* back */
+--borderColor-buttonPrimary-hover: #3a4603; /* f_high */
+--bgColor-buttonPrimary-hover: #3a4603; /* f_high */
 --shadow-buttonPrimary-hover: none;
 
 /* Active */
---color-buttonPrimary-active: #fff0b7; /* lightBackColor */
---borderColor-buttonPrimary-active: #9b3313; /* textColorAccent */
---bgColor-buttonPrimary-active: #9b3313; /* textColorAccent */
+--color-buttonPrimary-active: #c8c5ae; /* back */
+--borderColor-buttonPrimary-active: #3a4603; /* f_high */
+--bgColor-buttonPrimary-active: #3a4603; /* f_high */
 --shadow-buttonPrimary-active: none;
 
 /* Focus */
---color-buttonPrimary-focus: #fff0b7; /* lightBackColor */
---borderColor-buttonPrimary-focus: #9b3313; /* textColorAccent */
---bgColor-buttonPrimary-focus: #9b3313; /* textColorAccent */
+--color-buttonPrimary-focus: #c8c5ae; /* back */
+--borderColor-buttonPrimary-focus: #3a4603; /* f_high */
+--bgColor-buttonPrimary-focus: #3a4603; /* f_high */
 --shadow-buttonPrimary-focus: none;
 
 /* Disabled */
---color-buttonPrimary-disabled: #fff0b7; /* lightBackColor */
+--color-buttonPrimary-disabled: #c8c5ae; /* back */
 --borderColor-buttonPrimary-disabled: #9a948d; /* disabled */
 --bgColor-buttonPrimary-disabled: #9a948d; /* disabled */
 
 /* Success */
---color-buttonPrimary-success: #fff0b7; /* lightBackColor */
+--color-buttonPrimary-success: #c8c5ae; /* back */
 --borderColor-buttonPrimary-success: green;
 --bgColor-buttonPrimary-success: green;
 
 /* Error */
---color-buttonPrimary-error: #fff0b7; /* lightBackColor */
+--color-buttonPrimary-error: #c8c5ae; /* back */
 --borderColor-buttonPrimary-error: #bb0e0e; /* error */
 --bgColor-buttonPrimary-error: #bb0e0e; /* error */
 
 /* --------- LINKS --------- */
 
 /* Default */
---color-link: #b25c02; /* darkTextColor */
---borderColor-link: #b25c02; /* darkTextColor */
+--color-link: #624337; /* f_med */
+--borderColor-link: #624337; /* f_med */
 --bgColor-link: none;
 
 /* Hover */
---color-link-hover: #9b3313; /* textColorAccent */
---borderColor-link-hover: #9b3313; /* textColorAccent */
+--color-link-hover: #3a4603; /* f_high */
+--borderColor-link-hover: #3a4603; /* f_high */
 --bgColor-link-hover: none;
 
 /* Active */
---color-link-active: #9b3313; /* textColorAccent */
---borderColor-link-active: #9b3313; /* textColorAccent */
+--color-link-active: #3a4603; /* f_high */
+--borderColor-link-active: #3a4603; /* f_high */
 --bgColor-link-active: none;
 
 /* Focus */
---color-link-focus: #9b3313; /* textColorAccent */
---borderColor-link-focus: #9b3313; /* textColorAccent */
---bgColor-link-focus: #9b3313; /* textColorAccent */
+--color-link-focus: #3a4603; /* f_high */
+--borderColor-link-focus: #3a4603; /* f_high */
+--bgColor-link-focus: #3a4603; /* f_high */
 --shadow-link-focus: none;
 
 /* -----------------------
     PART: Input
 ----------------------- */
 
---color-input: #b25c02; /* darkTextColor */
---borderColor-input: #b25c02; /* darkTextColor */
+--color-input: #624337; /* f_med */
+--borderColor-input: #624337; /* f_med */
 --bgColor-input: #fff; /* white */
 
 /* Hover */
---color-input-hover: #9b3313; /* textColorAccent */
---borderColor-input-hover: #9b3313; /* textColorAccent */
+--color-input-hover: #3a4603; /* f_high */
+--borderColor-input-hover: #3a4603; /* f_high */
 --bgColor-input-hover: #fff; /* white */
 --shadow-input-hover: none;
 
 /* Focus */
---color-input-focus: #9b3313; /* textColorAccent */
---borderColor-input-focus: #9b3313; /* textColorAccent */
+--color-input-focus: #3a4603; /* f_high */
+--borderColor-input-focus: #3a4603; /* f_high */
 --bgColor-input-focus: #fff; /* white */
 --shadow-input-focus: none;
 
 /* Checked */
---color-input-checked: #fff0b7; /* lightBackColor */
---borderColor-input-checked: #9b3313; /* textColorAccent */
---bgColor-input-checked: #9b3313; /* textColorAccent */;
+--color-input-checked: #c8c5ae; /* back */
+--borderColor-input-checked: #3a4603; /* f_high */
+--bgColor-input-checked: #3a4603; /* f_high */
 --shadow-input-checked: none;
 
 /* Disabled */
@@ -106,83 +106,83 @@
     PART: Label
 ----------------------- */
 
---color-inputLabel: #b25c02; /* darkTextColor */
+--color-inputLabel: #624337; /* f_med */
 
 /* Hover */
---color-inputLabel-hover: #9b3313; /* textColorAccent */
+--color-inputLabel-hover: #3a4603; /* f_high */
 
 /* Focus */
---color-inputLabel-focus: #9b3313; /* textColorAccent */
+--color-inputLabel-focus: #3a4603; /* f_high */
 
 /* -----------------------
     PART: Icon
 ----------------------- */
 
---color-inputIcon: #b25c02; /* darkTextColor */
+--color-inputIcon: #624337; /* f_med */
 
 /* Hover */
---color-inputIcon-hover: #9b3313; /* textColorAccent */
+--color-inputIcon-hover: #3a4603; /* f_high */
 
 /* Focus */
---color-inputIcon-focus: #9b3313; /* textColorAccent */
+--color-inputIcon-focus: #3a4603; /* f_high */
 
 /* Checked */
---color-inputIcon-checked: #9b3313; /* textColorAccent */
+--color-inputIcon-checked: #3a4603; /* f_high */
 
 /* Disabled */
---color-inputIcon-error:
+--color-inputIcon-error:;
 
 /* -----------------------
     PART: Placeholder
 ----------------------- */
 
---color-inputPlaceholder: #b25c02; /* darkTextColor */
+--color-inputPlaceholder: #624337; /* f_med */
 
 /* ---------- BADGES ----------- */
 
 /* Default (completed) */
---color-badge: #9b3313; /* textColorAccent */
---borderColor-badge: #9b3313; /* textColorAccent */
---bgColor-badge: #fff0b7; /* lightBackColor */
+--color-badge: #3a4603; /* f_high */
+--borderColor-badge: #3a4603; /* f_high */
+--bgColor-badge: #c8c5ae; /* back */
 
 /* Active */
---color-badge-active: #fff0b7; /* lightBackColor */
---borderColor-badge-active: #fff0b7; /* lightBackColor */
---bgColor-badge-active: #9b3313; /* textColorAccent */
+--color-badge-active: #c8c5ae; /* back */
+--borderColor-badge-active: #c8c5ae; /* back */
+--bgColor-badge-active: #3a4603; /* f_high */
 
 /* Disabled */
---color-badge-disabled: #b25c02; /* darkTextColor */
---borderColor-badge-disabled: #fff0b7; /* lightBackColor */
+--color-badge-disabled: #624337; /* f_med */
+--borderColor-badge-disabled: #c8c5ae; /* back */
 --bgColor-badge-disabled: #fff; /* white */
 
 /* --------- GLOBAL --------- */
 
 /* Default */
---color-default: #b25c02; /* darkTextColor */
---borderColor-default: #b25c02; /* darkTextColor */
---bgColor-default: #fff; /* white */
+--color-default: #624337; /* f_med */
+--borderColor-default: #624337; /* f_med */
+--bgColor-default: #c8c5ae; /* back */
 
 /* Alt */
---color-alt: #b25c02; /* darkTextColor */
---bgColor-alt: #fff; /* white */
+--color-alt: #624337; /* f_med */
+--bgColor-alt: #c8c5ae; /* back */
 
 /* Icon */
---color-icon: #b25c02; /* darkTextColor */
+--color-icon: #624337; /* f_med */
 
 /* Success */
 --color-success: green;
---bgColor-success: #fff0b7; /* lightBackColor */
+--bgColor-success: #c8c5ae; /* back */
 
 /* Error */
 --color-error: #bb0e0e; /* error */
 --borderColor-error: #bb0e0e; /* error */
---bgColor-error: #fff0b7; /* lightBackColor */
+--bgColor-error: #c8c5ae; /* back */
 
 /* Info */
---bgColor-info: #fff0b7; /* lightBackColor */
+--bgColor-info: #c8c5ae; /* back */
 
 /* Modal */
---bgColor-modal: #fff0b7; /* lightBackColor */
---bgColor-modalVeil: #fff0b7; /* lightBackColor */
+--bgColor-modal: #c8c5ae; /* back */
+--bgColor-modalVeil: #c8c5ae; /* back */
 
 }

@@ -13,17 +13,17 @@
   --titleFont3: "Distro Bold"; /* titleFont3 */
 
   /* current theme, replace every season */
-  --background: #1e1f20; /* back */
+  --background: #c2c89a; /* back */
 
-  --f_high: #e4eff0; /* f_high */
-  --f_med: #96b8ac; /* f_med */
-  --f_low: #a874e8; /* f_low */
-  --f_inv: #e4eff0; /* f_inv */
+  --f_high: #3a4603; /* f_high */
+  --f_med: #624337; /* f_med */
+  --f_low: #729719; /* f_low */
+  --f_inv: #a66844; /* f_inv */
 
-  --b_high: #96b8ac; /* b_high */
-  --b_med: #373c42; /* b_med */
-  --b_low: #2c2d2e; /* b_low */
-  --b_inv: #e4eff0; /* b_inv */
+  --b_high: #61554b; /* b_high */
+  --b_med: #857e66; /* b_med */
+  --b_low: #9ca464; /* b_low */
+  --b_inv: #3a4603; /* b_inv */
 }
 
 /* ----------- structure -------------- */
@@ -612,6 +612,10 @@ input[type=checkbox] {
 .menu .dingbats svg path {
   fill: #b25c02; /* f_med */
   fill: var(--f_med);
+}
+
+.snipcart-checkout {
+    float:right;
 }
 
 .resolution-toggle button {
@@ -2216,5 +2220,11 @@ article {
   .table-of-contents {
     columns:1;
   }
+    .phases {
+        display: none!important;
+    }
+    .product-card .desc {
+        padding-left:24px;
+    }
 
 }
