@@ -69,6 +69,8 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [ ] **The Sacred Isle: Belief and Religion in Pre-Christian Ireland**, Dáithí Ó hÓgáin
 - [ ] **The Táin**, translated by Thomas Kinsella
 - [ ] **Edgelands**, Christopher Hart
+- [ ] **Tao Te Ching**, Lao Tzu - Ursula Le Guin translation
+- [ ] **Taking the path of zen**, Robert Aitken
 
 ### 2024
 

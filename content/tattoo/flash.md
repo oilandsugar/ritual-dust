@@ -1,7 +1,7 @@
 +++
 title = "Available flash"
 tags = ["tattoo", "notes"]
-date = "2022-04-08"
+date = "2024-07-08"
 desc = "Designs available to tattoo"
 +++
 

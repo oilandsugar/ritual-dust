@@ -12,3 +12,10 @@ height = "1"
 width = "14"
 productUrl = "https://ritualdust.com/shop/hekate"
 +++
+
+Original linocut print depicting a fox leading a spirit to the otherworld through it's fox hole.
+
+**Size:** 9" x 12", including borders  
+**Medium:** hand-pulled linocut  
+**Edition:** limited edition of 16, signed  
+**Shipping:** ships flat; plastic-free packaging  

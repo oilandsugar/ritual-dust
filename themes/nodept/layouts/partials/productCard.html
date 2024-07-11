@@ -1,4 +1,4 @@
-<div class="product product-card">
+<a href="{{ .Permalink }}" class="product product-card">
   {{ with .Params.image }}
     <div class="image">
       <img src="{{ . }}"/>
@@ -14,18 +14,5 @@
     {{ with .Params.price }}
       <p class="price">{{ . }}$ CAD</p>
     {{ end }}
-    <button class="snipcart-add-item"
-      data-item-id="{{ with .Params.id }}{{ . }}{{ end }}"
-      data-item-price="{{ with .Params.price }}{{ . }}{{ end }}"
-      data-item-url="{{ with .Params.productUrl }}{{ . }}{{ end }}"
-      data-item-description="{{ with .Params.desc }}{{ . }}{{ end }}"
-      data-item-image="{{ with .Params.image }}{{ . }}{{ end }}"
-      data-item-name="{{ with .Title }}{{ . }}{{ end }}"
-      data-item-weight="{{ with .Params.weight }}{{ . }}{{ end }}"
-      data-item-length="{{ with .Params.length }}{{ . }}{{ end }}"
-      data-item-height="{{ with .Params.height }}{{ . }}{{ end }}"
-      data-item-width="{{ with .Params.width }}{{ . }}{{ end }}">
-      Add to cart
-    </button>
   </div>
-</div>
+</a>

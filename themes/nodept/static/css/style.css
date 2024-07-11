@@ -1422,7 +1422,7 @@ input[type=checkbox] {
 /* -------- PRODUCTS ---------*/
 
 .product {
-  border: 2px solid;
+  border:0;
   padding-top: 24px; /* spacing_lg */
   padding-right: 24px; /* spacing_lg */
   padding-bottom: 24px; /* spacing_lg */
@@ -1432,6 +1432,10 @@ input[type=checkbox] {
   flex-direction: row;
   max-width: 800px;
   box-sizing: border-box;
+}
+
+.product:hover {
+    border:0;
 }
 
 .product .image {
@@ -1444,7 +1448,7 @@ input[type=checkbox] {
   padding-left: 24px; /* spacing_lg */
 }
 
-.product button {
+.product button, .product-page button {
   border: 0;
   padding-top: 8px; /* spacing_sm */
   padding-right: 16px; /* spacing_md */
@@ -1460,7 +1464,7 @@ input[type=checkbox] {
   color: var(--background); /* background */
 }
 
-.product button:hover {
+.product button:hover, , .product-page button:hover {
   background-color: #3b1c16; /* f_high */
   background-color: var(--f_high);
 }
@@ -1499,7 +1503,8 @@ input[type=checkbox] {
 }
 
 .product-card .desc {
-  padding:24px;
+  padding-top:24px;
+  padding-left:0;
 }
 
 /* -------- SINGLE PROJECTS ---------*/

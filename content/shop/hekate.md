@@ -12,3 +12,10 @@ height = "1"
 width = "14"
 productUrl = "https://ritualdust.com/shop/hekate"
 +++
+
+Original linocut print of a snake and a key, two symbols of hekate.
+
+**Size:** 9" x 12", including borders  
+**Medium:** hand-pulled linocut  
+**Edition:** limited edition of 30, signed  
+**Shipping:** ships flat; plastic-free packaging  

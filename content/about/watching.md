@@ -43,7 +43,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Andrei Rublev**, Andrei Tarkovsky - 1966
 - [ ] **The Juniper Tree**, Nietzchka Keene - 1990
 - [ ] **Tilbury**, Viðar Víkingsson - 1987
-- [ ] **Picnic at Hanging Rock**, Peter Weir - 1975
 - [ ] **Requiem for a Village**, David Gladwell - 1976
 - [ ] **The Lair of the White Worm**, Ken Russel - 1988
 - [ ] **Solitudo**, Pino Borselli - 2008
@@ -76,6 +75,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
  
+- [x] **Picnic at Hanging Rock**, Peter Weir - 1975
 - [x] **Repo! The Genetic Opera**, Darren Lynn Bousman - 2008
 - [x] **Twister**, Jan de Bont - 1996
 - [x] **Honeymoon**, Leigh Janiak - 2014

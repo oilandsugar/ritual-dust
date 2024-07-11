@@ -12,3 +12,10 @@ height = "1"
 width = "14"
 productUrl = "https://ritualdust.com/shop/decay"
 +++
+
+Original linocut print on the theme of decay, a leaf with a skull in negative space.
+
+**Size:** 9" x 12", including borders  
+**Medium:** hand-pulled linocut  
+**Edition:** limited edition of 24, signed  
+**Shipping:** ships flat; plastic-free packaging  
