@@ -67,6 +67,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Alien Romulus** - 2023
 - [ ] **Zone of Interest** - 2023
 - [ ] **The Boy and the Heron**, Hayao Miyazaki - 2023
+- [ ] **Twisters**, Jan de Bont - 2024
 
 
 </div>
@@ -75,6 +76,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
  
+- [x] **Pulse**, Kiyoshi Kurosawa - 2001
 - [x] **Picnic at Hanging Rock**, Peter Weir - 1975
 - [x] **Repo! The Genetic Opera**, Darren Lynn Bousman - 2008
 - [x] **Twister**, Jan de Bont - 1996

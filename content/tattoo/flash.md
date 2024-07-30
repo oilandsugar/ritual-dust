@@ -22,6 +22,25 @@ Series of designs inspired by nature, sacred stones and ancient artefacts.
 
 </div>
 
+## Demon slaying and brimstone
+
+Ongoing series of flashes inspired by old school Diablo games. All pieces 8" minimum except the ones labelled small.
+
+<div class="columns big-padding-bottom">
+
+<div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/diablo-goat.jpg"/></div>
+<div class="flash"><div class="number">2 (small)</div><img src="/img/tattoo/flash/diablo-dagger.jpg"/></div>
+<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/diablo-axe-1.jpg"/></div>
+<div class="flash"><div class="number">4 (small)</div><img src="/img/tattoo/flash/diablo-amulet.jpg"/></div>
+<div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/diablo-halberd.jpg"/></div>
+<div class="flash"><div class="number">6 (small)</div><img src="/img/tattoo/flash/diablo-potion.jpg"/></div>
+<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/diablo-mace.jpg"/></div>
+<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/diablo-wood-carving.jpg"/></div>
+<div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/diablo-axe-2.jpg"/></div>
+<div class="flash"><div class="number">10</div><img src="/img/tattoo/flash/diablo-scepter.jpg"/></div>
+
+</div>
+
 ## Dark Fantasy
 
 An ongoing series of pieces inspired by old-school DnD, dark fantasy and sword and sorcery. All pieces 6" minimum except the ones labelled small.
@@ -52,7 +71,6 @@ An ongoing series of pieces inspired by old-school DnD, dark fantasy and sword a
 <div class="flash"><div class="number">22</div><img src="/img/tattoo/flash/mimic-new.jpg"/></div>
 
 </div>
-
 
 <div class="hidden">
 ## Fear the old blood
@@ -109,24 +127,23 @@ The armory is an ongoing series of flash of imagined fantasy and historical weap
 <div class="flash"><div class="number">13</div><img src="/img/tattoo/flash/magic-sword.jpg"/></div>
 <div class="flash"><div class="number">14</div><img src="/img/tattoo/flash/halberd.jpg"/></div>
 <div class="flash"><div class="number">15</div><img src="/img/tattoo/flash/warhammer.jpg"/></div>
-<div class="flash"><div class="number">16</div><img src="/img/tattoo/flash/trident.jpg"/></div>
-<div class="flash"><div class="number">17</div><img src="/img/tattoo/flash/flail.jpg"/></div>
-<div class="flash"><div class="number">18</div><img src="/img/tattoo/flash/orc-weapon.jpg"/></div>
-<div class="flash"><div class="number">19</div><img src="/img/tattoo/flash/spiky-mace.jpg"/></div>
-<div class="flash"><div class="number">20</div><img src="/img/tattoo/flash/board-with-nails.jpg"/></div>
-<div class="flash"><div class="number">21</div><img src="/img/tattoo/flash/club.jpg"/></div>
-<div class="flash"><div class="number">22</div><img src="/img/tattoo/flash/long-axe.jpg"/></div>
-<div class="flash"><div class="number">23</div><img src="/img/tattoo/flash/demon-axe.jpg"/></div>
-<div class="flash"><div class="number">24</div><img src="/img/tattoo/flash/battle-axe.jpg"/></div>
-<div class="flash"><div class="number">25</div><img src="/img/tattoo/flash/spear.jpg"/></div>
-<div class="flash"><div class="number">26</div><img src="/img/tattoo/flash/fire-spear.jpg"/></div>
-<div class="flash"><div class="number">27</div><img src="/img/tattoo/flash/weird-shovel.jpg"/></div>
-<div class="flash"><div class="number">28</div><img src="/img/tattoo/flash/fork.jpg"/></div>
-<div class="flash"><div class="number">29</div><img src="/img/tattoo/flash/farming-tool.jpg"/></div>
-<div class="flash"><div class="number">30</div><img src="/img/tattoo/flash/shovel-cross.jpg"/></div>
-<div class="flash"><div class="number">31</div><img src="/img/tattoo/flash/shield.jpg"/></div>
-<div class="flash"><div class="number">32</div><img src="/img/tattoo/flash/bow.jpg"/></div>
-<div class="flash"><div class="number">33</div><img src="/img/tattoo/flash/crossbow.jpg"/></div>
+<div class="flash"><div class="number">16</div><img src="/img/tattoo/flash/flail.jpg"/></div>
+<div class="flash"><div class="number">17</div><img src="/img/tattoo/flash/orc-weapon.jpg"/></div>
+<div class="flash"><div class="number">18</div><img src="/img/tattoo/flash/spiky-mace.jpg"/></div>
+<div class="flash"><div class="number">19</div><img src="/img/tattoo/flash/board-with-nails.jpg"/></div>
+<div class="flash"><div class="number">20</div><img src="/img/tattoo/flash/club.jpg"/></div>
+<div class="flash"><div class="number">21</div><img src="/img/tattoo/flash/long-axe.jpg"/></div>
+<div class="flash"><div class="number">22</div><img src="/img/tattoo/flash/demon-axe.jpg"/></div>
+<div class="flash"><div class="number">23</div><img src="/img/tattoo/flash/battle-axe.jpg"/></div>
+<div class="flash"><div class="number">24</div><img src="/img/tattoo/flash/spear.jpg"/></div>
+<div class="flash"><div class="number">25</div><img src="/img/tattoo/flash/fire-spear.jpg"/></div>
+<div class="flash"><div class="number">26</div><img src="/img/tattoo/flash/weird-shovel.jpg"/></div>
+<div class="flash"><div class="number">27</div><img src="/img/tattoo/flash/fork.jpg"/></div>
+<div class="flash"><div class="number">28</div><img src="/img/tattoo/flash/farming-tool.jpg"/></div>
+<div class="flash"><div class="number">29</div><img src="/img/tattoo/flash/shovel-cross.jpg"/></div>
+<div class="flash"><div class="number">30</div><img src="/img/tattoo/flash/shield.jpg"/></div>
+<div class="flash"><div class="number">31</div><img src="/img/tattoo/flash/bow.jpg"/></div>
+<div class="flash"><div class="number">32</div><img src="/img/tattoo/flash/crossbow.jpg"/></div>
 
 </div>
 
