@@ -76,6 +76,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
  
+- [x] **Ghost Rider**, Mark Steven Johnson - 2007
 - [x] **Pulse**, Kiyoshi Kurosawa - 2001
 - [x] **Picnic at Hanging Rock**, Peter Weir - 1975
 - [x] **Repo! The Genetic Opera**, Darren Lynn Bousman - 2008

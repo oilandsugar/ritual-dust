@@ -811,6 +811,11 @@ input[type=checkbox] {
   border-radius: 4px; /* border_radius */
 }
 
+.shop-banner h2 {
+    position: relative;
+  top: 16px;
+}
+
 .shop-banner:hover {
   border:0;
 }

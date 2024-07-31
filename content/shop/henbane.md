@@ -15,7 +15,7 @@ productUrl = "https://ritualdust.com/shop/henbane"
 
 Original linocut print a henbane plant.
 
-**Size:** 9" x 12", including borders  
+**Size:** 3" x 5", including borders  
 **Medium:** hand-pulled linocut  
 **Edition:** limited edition of 24, signed  
 **Shipping:** ships flat; plastic-free packaging  
