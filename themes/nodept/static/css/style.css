@@ -1310,7 +1310,7 @@ input[type=checkbox] {
 }
 
 .recipe-insert {
-  display:inline-block;
+  display:block;
   border-bottom:0;
 }
 

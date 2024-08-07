@@ -8,6 +8,7 @@ desc = "A page listing some links to include in social media profiles"
 [Listen to my album Earthworks](https://ritualdust.bandcamp.com/album/earthworks/)  
 [Available tattoo flash](https://ritualdust.com/tattoo/flash)  
 [Custom tattoo form](https://ritualdust.com/tattoo/tattoo-form/)  
+[Buy prints](https://ritualdust.com/shop/)  
 
 <div class="support" style="padding-bottom:24px;">
   <a class="button" href="https://www.patreon.com/bePatron?u=2525073">

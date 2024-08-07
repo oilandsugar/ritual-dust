@@ -64,9 +64,9 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Out of Darkness** - 2024
 - [ ] **Wheel of Fortune and Fantasy** - 2021
 - [ ] **The King Tide** - 2024
-- [ ] **Alien Romulus** - 2023
 - [ ] **Zone of Interest** - 2023
 - [ ] **The Boy and the Heron**, Hayao Miyazaki - 2023
+- [ ] **Alien Romulus** - 2023
 - [ ] **Twisters**, Jan de Bont - 2024
 
 
@@ -76,6 +76,8 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
  
+- [x] **Mad Max: Fury Road**, George Miller - 2015
+- [x] **Furiosa**, George Miller - 2024
 - [x] **Ghost Rider**, Mark Steven Johnson - 2007
 - [x] **Pulse**, Kiyoshi Kurosawa - 2001
 - [x] **Picnic at Hanging Rock**, Peter Weir - 1975
