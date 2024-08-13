@@ -65,9 +65,10 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **Wheel of Fortune and Fantasy** - 2021
 - [ ] **The King Tide** - 2024
 - [ ] **Zone of Interest** - 2023
+- [ ] **Starve Acre**, Daniel Kokotajlo - 2024
 - [ ] **The Boy and the Heron**, Hayao Miyazaki - 2023
 - [ ] **Alien Romulus** - 2023
-- [ ] **Twisters**, Jan de Bont - 2024
+- [ ] **Johnny Mnemonic** - 1995
 
 
 </div>
@@ -76,6 +77,8 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
  
+- [x] **Twisters**, Lee Isaac Chung - 2024
+- [x] **The Howling**, Joe Dante - 1981
 - [x] **Mad Max: Fury Road**, George Miller - 2015
 - [x] **Furiosa**, George Miller - 2024
 - [x] **Ghost Rider**, Mark Steven Johnson - 2007
