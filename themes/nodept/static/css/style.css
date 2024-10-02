@@ -551,6 +551,10 @@ label.checkbox {
   display:inline-block;
 }
 
+textarea {
+    height: 500px;
+}
+
 input, select, textarea {
   border-radius: 4px; /* border_radius */
   padding: 8px;

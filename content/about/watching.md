@@ -25,7 +25,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
 
-- [ ] **Delia Derbyshire: The Myths And The Legendary Tapes**, Caroline Catz - 2020
 - [ ] **Berberian sound studio**, Peter Strickland - 2012
 - [ ] **Sedmikrásky (Daisies)**, Věra Chytilová - 1966
 - [ ] **The Old Dark House**, James Whale - 1932
@@ -66,8 +65,6 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 - [ ] **The King Tide** - 2024
 - [ ] **Zone of Interest** - 2023
 - [ ] **Starve Acre**, Daniel Kokotajlo - 2024
-- [ ] **The Boy and the Heron**, Hayao Miyazaki - 2023
-- [ ] **Alien Romulus** - 2023
 - [ ] **Johnny Mnemonic** - 1995
 
 
@@ -77,10 +74,14 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
  
+- [x] **The Neverending Story**, Wolfgang Petersen - 1984
+    - [x] **The Boy and the Heron**, Hayao Miyazaki - 2023
+- [x] **Alien Romulus**, Fede Álvarez - 2024
+- [ ] **Delia Derbyshire: The Myths And The Legendary Tapes**, Caroline Catz - 2020
 - [x] **Twisters**, Lee Isaac Chung - 2024
 - [x] **The Howling**, Joe Dante - 1981
-- [x] **Mad Max: Fury Road**, George Miller - 2015
-- [x] **Furiosa**, George Miller - 2024
+    - [x] **Mad Max: Fury Road**, George Miller - 2015
+    - [x] **Furiosa**, George Miller - 2024
 - [x] **Ghost Rider**, Mark Steven Johnson - 2007
 - [x] **Pulse**, Kiyoshi Kurosawa - 2001
 - [x] **Picnic at Hanging Rock**, Peter Weir - 1975

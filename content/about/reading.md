@@ -71,10 +71,16 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [ ] **Edgelands**, Christopher Hart
 - [ ] **Tao Te Ching**, Lao Tzu - Ursula Le Guin translation
 - [ ] **Taking the path of zen**, Robert Aitken
+- [ ] **The Denial of Death**, Ernest Becker
+- [ ] **The Book of Lost Things**, John Connolly
+- [ ] **The Innsmouth Legacy Series**, Ruthanna Emrys
 
 ### 2024
 
-- [ ] **A year in the life of a shinto shrine**, John K. Nelson
+- [ ] **The Tombs of Atuan**, Ursula K. LeGuin
+- [x] **Witch Hat Atelier**, Kamome Shirahama
+- [x] **Warlike, Howling, Pure**, Areïon
+- [x] **A year in the life of a shinto shrine**, John K. Nelson
 - [x] **Listen to the Land Speak**, Manchán Magan
 - [x] **Ecstasy is Necessary**, Barbara Carrellas
 

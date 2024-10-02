@@ -28,16 +28,15 @@ Ongoing series of flashes inspired by old school Diablo games. All pieces 8" min
 
 <div class="columns big-padding-bottom">
 
-<div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/diablo-goat.jpg"/></div>
-<div class="flash"><div class="number">2 (small)</div><img src="/img/tattoo/flash/diablo-dagger.jpg"/></div>
-<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/diablo-axe-1.jpg"/></div>
-<div class="flash"><div class="number">4 (small)</div><img src="/img/tattoo/flash/diablo-amulet.jpg"/></div>
-<div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/diablo-halberd.jpg"/></div>
-<div class="flash"><div class="number">6 (small)</div><img src="/img/tattoo/flash/diablo-potion.jpg"/></div>
-<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/diablo-mace.jpg"/></div>
-<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/diablo-wood-carving.jpg"/></div>
-<div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/diablo-axe-2.jpg"/></div>
-<div class="flash"><div class="number">10</div><img src="/img/tattoo/flash/diablo-scepter.jpg"/></div>
+<div class="flash"><div class="number">1 (small)</div><img src="/img/tattoo/flash/diablo-dagger.jpg"/></div>
+<div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/diablo-axe-1.jpg"/></div>
+<div class="flash"><div class="number">3 (small)</div><img src="/img/tattoo/flash/diablo-amulet.jpg"/></div>
+<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/diablo-halberd.jpg"/></div>
+<div class="flash"><div class="number">5 (small)</div><img src="/img/tattoo/flash/diablo-potion.jpg"/></div>
+<div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/diablo-wood-carving.jpg"/></div>
+<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/diablo-axe-2.jpg"/></div>
+<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/diablo-scepter.jpg"/></div>
+<div class="flash hidden"><div class="number">6</div><img src="/img/tattoo/flash/diablo-mace.jpg"/></div>
 
 </div>
 
