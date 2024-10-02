@@ -36,7 +36,6 @@ Ongoing series of flashes inspired by old school Diablo games. All pieces 8" min
 <div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/diablo-wood-carving.jpg"/></div>
 <div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/diablo-axe-2.jpg"/></div>
 <div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/diablo-scepter.jpg"/></div>
-<div class="flash hidden"><div class="number">6</div><img src="/img/tattoo/flash/diablo-mace.jpg"/></div>
 
 </div>
 
