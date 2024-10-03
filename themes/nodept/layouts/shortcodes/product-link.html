@@ -1,0 +1,21 @@
+{{ $url := .Get "url" }}
+
+
+<div class="product product-link {{ with .Get "class" }}{{ . }}{{ end }}">
+  {{ with .Get "image" }}
+    <div class="image">
+        <a href="{{ $url }}"><img src="{{ . }}"/></a>
+    </div>
+  {{ end }}
+  <div class="desc">
+    {{ with .Get "title" }}
+      <h2><a href="{{ $url }}">{{ . }}</a></h2>
+    {{ end }}
+    {{ with .Get "desc" }}
+      <p class="product-desc">
+        {{ . }}
+      </p>
+    {{ end }}
+    <a class="button" href="{{ with .Get "url" }}{{ . }}{{ end }}">Buy a print</a>
+  </div>
+</div>

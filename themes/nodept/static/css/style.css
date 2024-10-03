@@ -1516,6 +1516,19 @@ input[type=checkbox] {
   padding-left:0;
 }
 
+.product-link {
+    padding: 64px 0;
+    width:100%;
+}
+
+.product-link a.button {
+    display:inline-block;
+}
+
+.product-link .image a {
+    border:0;
+}
+
 /* -------- SINGLE PROJECTS ---------*/
 
 .single-page h1 {

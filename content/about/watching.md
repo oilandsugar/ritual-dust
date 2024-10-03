@@ -75,6 +75,7 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 <div class="checklist">
  
 - [x] **The Neverending Story**, Wolfgang Petersen - 1984
+- [x] **Kneecap**, Rich Peppiatt - 2024
     - [x] **The Boy and the Heron**, Hayao Miyazaki - 2023
 - [x] **Alien Romulus**, Fede Álvarez - 2024
 - [ ] **Delia Derbyshire: The Myths And The Legendary Tapes**, Caroline Catz - 2020
