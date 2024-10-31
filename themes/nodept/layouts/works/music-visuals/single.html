@@ -6,9 +6,9 @@
     <article>
       <div class="small-wrap">
         {{ partial "listPageTitle" . }}
+        {{ .Content }}
       </div>
       <div class="full-wrap">
-        {{ .Content }}
         <div class="columns-3 big-padding-top works">
           {{ range where .Site.RegularPages "Section" "works" }}
             {{ if in .Params.tags "music" }}

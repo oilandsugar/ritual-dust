@@ -1,9 +1,9 @@
 +++
-title = "Mixing notes"
-date = "2022-07-02"
+title = "Production notes"
+date = "2023-07-02"
 tags = ["music", "notes"]
-desc = "My song mixing process and some tips"
-draft = true
+desc = "My music production notes"
+draft = false
 +++
 
 <div class="table-of-contents">
@@ -61,6 +61,11 @@ put a gate on a reverb return track and lower the treshold to leave just a bit o
 ### Trance gate
 
 Create two tracks, put a synth on the first one with a melody (long notes and pad like sounds work well). Then  put a synth on the other track with a short snappy enveloppe and create a rythmic pattern of notes with it, then turn off this track. go back to your first synth track and set the sidechain on the gate to take the second synth track as input, then adjust the gate settings until your hear the first synth playing the rythm of the second track. Adding some reverb after the gate sound pretty too.
+
+### Gluing drums together
+
+Add distortion on the drum group to add similar harmonics to the different drum sounds and bring them closer timbre wise.
+Add the same reverb in a return channel to different drum sounds at different levels to simulate their different place in the room, more sparse sounds can have more reverb than quickly repeated ones
 
 ### Drops
 

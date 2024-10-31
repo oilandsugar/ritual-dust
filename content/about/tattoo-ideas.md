@@ -12,13 +12,11 @@ I see my skin as my personal grimoire, adding to it as I make discoveries, have 
 <div class="checklist">
 
 - [ ] Ghost reading (inspired by Blashpemous)
-- [ ] Magic Square - SATOR AREPO
 - [ ] Magic circles
 - [ ] Stone circle (around belly button)
 - [ ] Skull on hand (by alixe cooper)
 - [ ] Sigils over elbows
 - [ ] Poe with lantern from zelda
-- [ ] Datajack on the neck
 - [ ] Goblin
 - [ ] neolithic maze symbol
 - [ ] Black swirl on elbow

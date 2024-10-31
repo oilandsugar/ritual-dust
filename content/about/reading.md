@@ -74,9 +74,12 @@ This is my reading list, it contains the books, zines and long form articles I'v
 - [ ] **The Denial of Death**, Ernest Becker
 - [ ] **The Book of Lost Things**, John Connolly
 - [ ] **The Innsmouth Legacy Series**, Ruthanna Emrys
+- [ ] **The Tao of Fully Feeling**, Pete Walker
 
 ### 2024
 
+- [ ] **Radical Compassion**, Tara Brach
+- [x] **The Adventures of Sherlock Holmes**, Arthur Conan Doyle
 - [ ] **The Tombs of Atuan**, Ursula K. LeGuin
 - [x] **Witch Hat Atelier**, Kamome Shirahama
 - [x] **Warlike, Howling, Pure**, Areïon

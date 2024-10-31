@@ -7,33 +7,57 @@
       <article>
         <div class="full-wrap">
           {{ partial "listPageTitle" . }}
+          {{ .Content }}
           <div class="medium-padding-top">
           {{ range $timeline }}
-            <h2 class="accent">{{ .Key }}</h2>
-            <div class="stats">
-            {{ $pagesbysection := .Pages.GroupBy "Section"}}
-            {{ range $pagesbysection }}
-              <div class=stat>
-                {{ len .Pages }} {{ .Key }}
-              </div>
-            {{ end }}
-            </div>
-            <div class="projects medium-padding-bottom">
-              {{ range .Pages}}
-                {{ if eq .Section "works" }}
-                  <span class="dingbats">{{ partialCached "icons/weirdspiral" . }}</span>
-                {{ else if eq .Section "folklore" }}
-                  <span class="dingbats">{{ partialCached "icons/diamond" . }}</span>
-                {{ else if eq .Section "craft" }}
-                  <span class="dingbats">{{ partialCached "icons/star" . }}</span>
-                {{ else if eq .Section "about" }}
-                  <span class="dingbats">{{ partialCached "icons/spiral" . }}</span>
-                {{ else if eq .Section "food" }}
-                  <span class="dingbats">{{ partialCached "icons/flower" . }}</span>
-                {{ end}}
-                <a href="{{ .Permalink }}">{{ .Title }}</a><br/>
-              {{ end }}
-            </div>
+            <table class="simple">
+                <thead>
+                    <tr>
+                        <th> <h2 class="accent">{{ .Key }}</h2></th>
+                        <th>
+                            <div class="stats">
+                            {{ $pagesbysection := .Pages.GroupBy "Section"}}
+                            {{ range $pagesbysection }}
+                              <div class=stat>
+                                {{ len .Pages }} {{ .Key }}
+                              </div>
+                            {{ end }}
+                            </div>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{ range .Pages}}
+                    <tr>
+                        <td>
+                        {{ if eq .Section "works" }}
+                          <span class="dingbats">{{ partialCached "icons/weirdspiral" . }}</span>
+                        {{ else if eq .Section "folklore" }}
+                          <span class="dingbats">{{ partialCached "icons/diamond" . }}</span>
+                        {{ else if eq .Section "craft" }}
+                          <span class="dingbats">{{ partialCached "icons/star" . }}</span>
+                        {{ else if eq .Section "about" }}
+                          <span class="dingbats">{{ partialCached "icons/spiral" . }}</span>
+                        {{ else if eq .Section "food" }}
+                          <span class="dingbats">{{ partialCached "icons/flower" . }}</span>
+                        {{ else }}
+                           <span class="dingbats">{{ partialCached "icons/weirdspiral" . }}</span>
+                        {{ end}}
+                        <a href="{{ .Permalink }}">{{ .Title }}</a><br/>
+                        </td>
+                        <td>
+                            {{ with (.GetTerms "tags") }}
+                                <ul class="tags">
+                                  Tagged with {{ range . }}
+                                  <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+                                  {{ end }}
+                                </ul>
+                              {{ end }}
+                        </td>
+                    </tr>
+                      {{ end }}
+                </tbody>
+            </table>
           {{ end }}
           </div>
         </div>

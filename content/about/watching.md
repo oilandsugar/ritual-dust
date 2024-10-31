@@ -5,7 +5,7 @@ weight = 3
 tags = ["movies", "films"]
 +++
 
-This is my movie watchlist, I keep it yearly, highlight the movies that really stayed with me and keep the movies that really impacted me in the [films section](/about/films).
+This is my movie watchlist, I keep it yearly and highlight the movies that really stayed with me.
 
 ![Still from the opening sequence of the wicker man](/img/about/watching.jpg "Still from the opening sequence of the wicker man")
 
@@ -15,6 +15,8 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 <div class="table-of-contents">
 
 [To watch](#to-watch)  
+[2024](#2024)  
+[2023](#2023)  
 [2022](#2022)  
 [2021](#2021)  
 [2020](#2020)
@@ -74,8 +76,14 @@ This is my movie watchlist, I keep it yearly, highlight the movies that really s
 
 <div class="checklist">
  
+- [x] **An Cailín Ciúin**, Colm Bairéad - 2022
+- [x] **Human Traffic**, Justin Kerrigan - 1999
+- [x] **Hellboy: the crooked man**, Brian Taylor - 2024
+    - [x] **The Abyss**, James Cameron - 1989
+- [x] **Dagon**, Stuart Gordon - 2001
+- [x] **Cassandro**, Roger Ross Williams - 2023
 - [x] **The Neverending Story**, Wolfgang Petersen - 1984
-- [x] **Kneecap**, Rich Peppiatt - 2024
+    - [x] **Kneecap**, Rich Peppiatt - 2024
     - [x] **The Boy and the Heron**, Hayao Miyazaki - 2023
 - [x] **Alien Romulus**, Fede Álvarez - 2024
 - [ ] **Delia Derbyshire: The Myths And The Legendary Tapes**, Caroline Catz - 2020

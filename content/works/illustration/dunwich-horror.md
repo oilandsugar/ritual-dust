@@ -7,7 +7,7 @@ image = "/img/illustration/dunwich-horror/dunwich-horror.jpg"
 desc = "Illustration inspired by the Dunwich Horror by H.P. Lovecraft"
 +++
 
-Illustration inspired by the Dunwich Horror by H.P. Lovecraft. This piece was the first I drew in an ongoing series of scenes from Lovecraft novels. I was drawn to this one because of it's folk-horror elements and the rural setting. I had fun integrating sigils referring to the occult litterature used by the Wheatleys to conjure cosmic horrors.
+Illustration inspired by [The Dunwich Horror](https://www.hplovecraft.com/writings/fiction/dh.aspx) by H.P. Lovecraft. This piece was the first I drew in an ongoing series of scenes from Lovecraft novels. I was drawn to this one because of it's folk-horror elements and the rural setting. I had fun integrating sigils referring to the occult litterature used by the Wheatleys to conjure cosmic horrors.
 
 ![Old barn in front of a tall hill with standing stone from which a cosmic horror emerges](/img/illustration/dunwich-horror/dunwich-horror.jpg "Old barn in front of a tall hill with standing stone from which a cosmic horror emerges")
 

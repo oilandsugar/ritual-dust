@@ -7,9 +7,24 @@ tags = ["time"]
 
 This page is a collections of notes, ramblings and highlights for each year I pass through. I'm starting this at the end of 2021 with the intention of adding to it yearly. A good companion to this is the [Timeline](/timeline) which retraces my projects and notes chronologically.
 
+## Highlights of 2024
+- Filmed and edited a [crazy music video](/works/video/beast-of-the-black-hill) in the backwoods of Ontario over five intense nights of shooting
+- Released my [first album as Ritual Dust](/music/earthworks), which was also the first time I finish and release solo music that I'm really proud of.
+- Got a large back tattoo of my solar symbol
+- Deepened my practice of self-compassion
+
+## Highlights of 2023
+- Went on a pilgrimage to Ireland with my partner Hex and visited many sacred sites, stayed in old stone cottages and connected deeply to the land.
+- Made a series of pixel art illustrations for a small game accompanying an [album](https://hushhushrecords.bandcamp.com/album/time-is-but-the-drawing-of-a-sword) by my friend Lyndsie.
+- Wrote a [song](/music/seeds-from-the-olive-tree) for a compilation in support of palestinian liberation.
+- Filmed a [cowboy/rave-themed music video](/works/video/kill-the-pain) for VOIDXWITCH
+- Assisted my partner through their recovery after top surgery.
+
 ## Highlights of 2022
-- Started a Patreon with a monthly print club
-- Started tattooing for real
+- Started a [Patreon](https://www.patreon.com/ritualdust) with a monthly print club
+- Started [tattooing](/tattoo) for real
+- Made a second edition of my collaborative zine [Fantômes](https://fantomeszine.com/)
+- Drew a series of black metal lettering pieces for [Black Metal December](/works/lettering/black-metal-december-2022/)
 
 ## Highlights of 2021
 - Moved in with my partner Hex

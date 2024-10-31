@@ -469,31 +469,6 @@ img {
   margin:0;
 }
 
-table {
-  border: 2px solid;
-  border-color: #3b1c16; /* f_high */
-  border-color: var(--f_high);
-}
-
-th, td {
-  border: 1px solid;
-  border-color: #3b1c16; /* f_high */
-  border-color: var(--f_high);
-  text-align:left;
-}
-
-th, td {
-  padding: 8px 16px;
-  height:16px;
-  font-size:16px;
-  line-height:1.2em;
-}
-
-tr:hover td {
-  background-color: #4e4d32; /* b_med */
-  background-color: var(--b_med); /* b_med */
-}
-
 .themes {
   display:flex;
   flex-direction:row;
@@ -521,6 +496,67 @@ tr:hover td {
 
 .warning .row {
   margin:0;
+}
+
+/* ---------- tables ----------- */
+
+table {
+  border: 2px solid;
+  border-color: #3b1c16; /* f_high */
+  border-color: var(--f_high);
+}
+
+th, td {
+  border: 1px solid;
+  border-color: #3b1c16; /* f_high */
+  border-color: var(--f_high);
+  text-align:left;
+}
+
+th, td {
+  padding: 8px 16px;
+  height:16px;
+  font-size:16px;
+  line-height:1.2em;
+}
+
+tr:hover td {
+  background-color: #4e4d32; /* b_med */
+  background-color: var(--b_med); /* b_med */
+}
+
+table.simple {  
+    border:0;
+    width:100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+table.simple a, table.simple h2 {
+    font-size:1.2em;
+    margin:0;
+}
+
+table.simple .tags, table.simple .stats {
+    margin:0;
+}
+
+table.simple td {
+    padding-left:0;
+}
+
+table.simple th, table.simple td {
+    border:0;
+    border-bottom:2px solid;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left:0;
+    vertical-align: middle;
+    box-sizing: border-box;
+}
+
+table.simple tr:hover td {
+    background: none;
 }
 
 /* ---------- forms ----------- */
@@ -697,8 +733,9 @@ input[type=checkbox] {
 }
 
 .page-title h2 {
-  font-size: 1.17em;
-  line-height: 1em;
+  font-size: 1em;
+  line-height: 1.3em;
+  padding-top: 24px;
 }
 
 .page-title span {
@@ -1598,7 +1635,7 @@ input[type=checkbox] {
 /* -------- STRUCTURE ---------*/
 
 .full-wrap {
-  padding: 0 30px;
+  padding: 0 32px;
   margin: 0;
   width: 100%;
   box-sizing: border-box;
@@ -1611,7 +1648,7 @@ input[type=checkbox] {
 }
 
 .small-wrap {
-  padding: 0 2em;
+  padding: 0 32px;
   max-width: 600px;
   margin: 0;
 }

@@ -5,7 +5,7 @@ type = "page"
 desc = "I am Lizbeth Poirier, a folk artst, illustrator, goth druid, musician and artisan."
 +++
 
-Folk and fantasy artist, goth druid, musician and artisan.
+Folk and fantasy artist, musician, producer and occasional cinematographer.
 
 ![Lizbeth against a rock background](/img/about/me.jpg "Portrait by Hex")
 
@@ -32,6 +32,7 @@ If you enjoy my work and the research and notes I publish on this website, consi
 - Hellebore zine
 - Library of the Occult
 - Ossuary Wraith
+- Voidxwitch
 - Swamp Lantern
 - Girl Circles
 - Nicole Marxen

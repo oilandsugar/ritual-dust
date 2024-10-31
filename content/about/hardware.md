@@ -66,6 +66,13 @@ I have often bought photo and video gear for specific projects or to explore new
 - **Smallrig cage**  
 - **Cheap Sony to Canon mount adapter**
 
+### Video camera
+
+- **Blackmagic cinema camera 2.5k**
+- **Blackmagic HDMI to SDI converter**
+- **Cinemartin 7" monitor**
+- **Manual follow-focus**
+
 ### Lenses
 
 - **Canon EFS 24mm f2.8** with HOYA filter for protection  

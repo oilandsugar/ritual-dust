@@ -1,6 +1,6 @@
 +++
 title = "Shadow over Innsmouth print"
-tags = ["print", "product"]
+tags = ["print", "product", "lovecraftian"]
 date = "2024-09-30"
 image = "/img/shop/shadow-over-innsmouth-print.jpg"
 desc = ""

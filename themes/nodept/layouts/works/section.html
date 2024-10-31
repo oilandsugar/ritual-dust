@@ -1,4 +1,8 @@
 {{ partial "header" . }}
+{{ $columns := "columns-3" }}
+{{ if eq .Title "Video" }}
+    {{ $columns = "columns-2" }}
+{{ end }}
 
 <main>
   <div class="flex-row big-padding-top list-page">
@@ -6,9 +10,9 @@
     <article>
       <div class="small-wrap">
         {{ partial "listPageTitle" . }}
+        {{ .Content }}
       </div>
       <div class="full-wrap">
-        {{ .Content }}
         {{ if eq .Title "Artwork" }}
           <div class="category-wrapper">
           <div class="flex-row">
@@ -117,7 +121,7 @@
             </div>
               </div>
           {{ else }}
-        <div class="columns-3 big-padding-top works">
+        <div class="{{ $columns }} big-padding-top works">
             {{ range .Pages  }}
                 {{ if and (ne .Type "works/fantasy-art") (ne .Type "works/personal-work") (ne .Type "works/music-visuals")}}
                   {{ partial "projectCard.html" . }}

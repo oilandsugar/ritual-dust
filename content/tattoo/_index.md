@@ -1,6 +1,6 @@
 +++
 title = "Tattooing"
-subtitle = "Illustrated skin works"
+subtitle = ""
 type = "page"
 desc = ""
 +++

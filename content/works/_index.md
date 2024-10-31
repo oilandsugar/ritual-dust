@@ -1,6 +1,6 @@
 +++
 title = "Artwork"
-subtitle = "Conjured images, words and symbols"
+subtitle = ""
 type = "page"
 +++
 

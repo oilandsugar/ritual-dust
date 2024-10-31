@@ -16,13 +16,7 @@
       {{ partial "rssIcon" . }}
     </a>
   </div>
-  <div class="latest-journal medium-padding-top">
-    <h3 class="small-margin-bottom">LATEST JOURNAL<br/><a href="/journal/">(read more)</a></h3>
-    {{ range ( where .Site.RegularPages "Section" "journal" | first 1 ) }}
-      {{ partial "journalEntry.html" . }}
-    {{ end }}
-  </div>
-  <div class="image-resolution-info info small-margin-bottom">
+  <div class="image-resolution-info info small-margin-bottom small-margin-top">
     <div class="small-padding">This website loads low-resolution images by default to use less energy. Switch to full-resolution images by toggling this button in the top bar:</div>
     <ul>
       <li class="resolution-toggle">

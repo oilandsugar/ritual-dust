@@ -6,11 +6,12 @@
     <article>
       <div class="small-wrap">
         {{ partial "listPageTitle" . }}
+        {{ .Content }}
+         {{ .CurrentSection }}
       </div>
       <div class="full-wrap">
-        {{ .Content }}
-        <div class="columns-3 big-padding-top works">
-          {{ range .Pages  }}
+        <div class='columns-3 big-padding-top works'>
+          {{ range .Pages }}
             {{ if and (ne .Type "works/fantasy-art") (ne .Type "works/personal-work") (ne .Type "works/music-visuals")}}
               {{ partial "projectCard.html" . }}
             {{ end }}
