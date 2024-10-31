@@ -1,29 +1,33 @@
 {{ partial "header" . }}
 
 <main>
-  <div class="flex-row big-padding-top tag-page">
-    <aside class="sidebar">
-      <div class="back-home">
-        <a href="/tags/"><h3>Back to all tags</h3></a>
-      </div>
-      <h3 class="accent">Tags</h3>
-      <ul>
-          {{ range .Site.Taxonomies.tags.ByCount }}
-                  <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
-          {{ end }}
-      </ul>
-    </aside>
-    <div class="wrap">
-      <h1 class="title">{{ .Title }}</h1>
-      <ul>
-      {{ range .Pages }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
-      {{ end }}
-      </ul>
+    <div class="flex-row big-padding-top tag-page">
+        <aside class="sidebar">
+            <div class="back-home">
+                <a href="/tags/"><h3>Back to all tags</h3></a>
+            </div>
+            <h3 class="accent">Tags</h3>
+            <ul>
+                {{ range .Site.Taxonomies.tags.ByCount }}
+                <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+                {{ end }}
+            </ul>
+        </aside>
+        <article>
+            <div class="small-wrap">
+                <div class="page-title">
+                    <h1 class="psych-1 accent">{{ .Title }}</h1>
+                </div>
+            </div>
+            <div class="full-wrap">
+                <div class='columns-3 big-padding-top works'>
+                    {{ range .Pages }}
+                        {{ partial "projectCard.html" . }}
+                    {{ end }}
+                </div>
+            </div>
+        </article>
     </div>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

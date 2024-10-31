@@ -5,7 +5,7 @@
     {{ partial "sidebars/worksSingle" . }}
     <article class="wrap single">
       <span class="dingbats accent">{{ partialCached "icons/weirdspiral" . }}</span>
-      <h1 class="psych-1 accent">{{ .Title }}</h1>
+      <h1 class="psych-1">{{ .Title }}</h1>
       {{ with (.GetTerms "tags") }}
         <ul class="tags">
           Tagged with {{ range . }}
