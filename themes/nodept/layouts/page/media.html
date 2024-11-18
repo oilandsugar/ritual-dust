@@ -1,0 +1,70 @@
+{{ partial "header" . }}
+{{ $seen := "" }}
+{{ $tosee := "" }}
+{{ if eq .Params.media "books" }}
+    {{ $seen = .Site.Data.books.read }}
+    {{ $tosee = .Site.Data.books.toread }}
+{{ else if eq .Params.media "movies" }}
+    {{ $seen = .Site.Data.movies.watched }}
+    {{ $tosee = .Site.Data.movies.towatch }}
+{{ end }}
+
+<main>
+  <div class="flex-row big-padding-top single-page">
+    {{ partial "sidebars/aboutSingle" . }}
+    <article class="wrap">
+      <span class="dingbats">{{ partialCached "icons/spiral" . }}</span>
+      <h1 class="psych-1">{{ .Title }}</h1>
+      {{ with (.GetTerms "tags") }}
+        <ul class="tags">
+          Tagged with {{ range . }}
+          <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          {{ end }}
+        </ul>
+      {{ end }}
+      <div class="intro">
+        {{.Params.intro}}
+      </div>
+      <div class="big-padding-top">
+        {{ .Content }} 
+        <div class="row">
+            <div class="flex-1 smaller-padding-right smaller-padding-left">
+                {{ if eq .Params.media "books" }}
+                    <h2>Read</h2>
+                {{ else if eq .Params.media "movies" }}
+                    <h2>Watched</h2>
+                {{ end }}
+                {{ range $year, $books := $seen }}
+                    <h3>in {{ $year }}</h3>
+                    {{ range $books }}
+                        {{ partial "media" . }}
+                    {{ end }}
+                {{ end }}
+            </div>  
+            <div class="flex-1 smaller-padding-right smaller-padding-left">
+                {{ if eq .Params.media "books" }}
+                    <h2>To read</h2>
+                {{ else if eq .Params.media "movies" }}
+                    <h2>To watch</h2>
+                {{ end }}
+                <ul>
+                    {{ range $tosee }}
+                        <li>{{ .title }}</li>
+                    {{ end }}
+                </ul>  
+            </div>  
+          </div>
+        {{ if not .Lastmod.IsZero }}
+          <div class="last-mod small-padding-top">
+            Last modified on <strong>{{ .Lastmod.Format "2006-01-02" | safeHTML }}</strong>,
+            published on <strong>{{ .Date.Format "2006-01-02" | safeHTML }}</strong>
+          </div>
+        {{ end }}
+      </div>
+    </article>
+  </div>
+</main>
+
+{{ partialCached "footer" . }}
+
+

@@ -13,17 +13,17 @@
   --titleFont3: "Distro Bold"; /* titleFont3 */
 
   /* current theme, replace every season */
-  --background: #c2c89a; /* back */
+  --background: #221915; /* back */
 
-  --f_high: #3a4603; /* f_high */
-  --f_med: #624337; /* f_med */
-  --f_low: #729719; /* f_low */
+  --f_high: #d26829; /* f_high */
+  --f_med: #b3a18e; /* f_med */
+  --f_low: #d08254; /* f_low */
   --f_inv: #a66844; /* f_inv */
 
-  --b_high: #61554b; /* b_high */
-  --b_med: #857e66; /* b_med */
-  --b_low: #9ca464; /* b_low */
-  --b_inv: #3a4603; /* b_inv */
+  --b_high: #000000; /* b_high */
+  --b_med: #716156; /* b_med */
+  --b_low: #352b26; /* b_low */
+  --b_inv: #9b3313; /* b_inv */
 }
 
 /* ----------- structure -------------- */
@@ -149,6 +149,7 @@ h3.blackletter {
 
 h4 {
   font-size: 1em;
+    margin-top:0;
   -webkit-font-smoothing: auto;
   -moz-osx-font-smoothing: auto;
 }
@@ -450,25 +451,6 @@ img {
   content: "|";
 }
 
-.table-of-contents {
-  max-width: 700px;
-  padding-left: 16px; /* spacing_md */
-  border-left: 2px solid;
-  margin-bottom: 48px;
-  columns:2;
-  line-height:40px;
-}
-
-.table-of-contents h2 {
-  font-size:20px;
-  padding:0;
-  margin-bottom:0;
-}
-
-.table-of-contents p {
-  margin:0;
-}
-
 .themes {
   display:flex;
   flex-direction:row;
@@ -558,6 +540,64 @@ table.simple th, table.simple td {
 table.simple tr:hover td {
     background: none;
 }
+
+.entry {
+  display: grid;
+  grid-template-columns: auto max-content;
+  grid-template-areas: "chapter page";
+  align-items: end;
+  gap: 0 .25rem;
+}
+
+.chapter {
+  grid-area: chapter;
+  position: relative;
+  overflow: hidden;
+}
+
+.chapter::after {
+  position: absolute;
+  padding-left: .25ch;
+  content: " . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
+  ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
+  ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ";
+  text-align: right;
+}
+
+.page {
+  grid-area: page;
+}
+
+/* ---------- TABLE OF CONTENT ----------- */
+
+.table-of-contents {
+  max-width: 700px;
+  padding-left: 16px; /* spacing_md */
+  border-left: 2px solid;
+  margin-bottom: 48px;
+  columns:2;
+  line-height:40px;
+}
+
+.table-of-contents h2 {
+  font-size:20px;
+  padding:0;
+  margin-bottom:0;
+}
+
+.table-of-contents p {
+  margin:0;
+}
+
+.table-of-contents.mini {
+  max-width: 100%;
+  padding-left: 0; 
+  border-left: none;
+  margin-bottom: 48px;
+  columns:1;
+  line-height:40px;
+}
+
 
 /* ---------- forms ----------- */
 
@@ -754,6 +794,10 @@ input[type=checkbox] {
 
 /* ---------- HOME ----------- */
 
+article.home {
+    width:100%;
+}
+
 .category-section {
   display: inline-block;
   width: 24%;
@@ -841,9 +885,8 @@ input[type=checkbox] {
     font-family: "Distro Bold";
 }
 
-.shop-banner {
+.shop-banner, .commission-banner {
   position:relative;
-  height:150px;
   display: block;
   border:0;
   padding:16px;
@@ -852,20 +895,20 @@ input[type=checkbox] {
   border-radius: 4px; /* border_radius */
 }
 
-.shop-banner h2 {
+.shop-banner h2, .commission-banner h2 {
     position: relative;
   top: 16px;
 }
 
-.shop-banner:hover {
+.shop-banner:hover, .commission-banner:hover {
   border:0;
 }
 
 .shop-banner-img {
   mask-image: url(/img/shop.gif);
   -webkit-mask-image: url(/img/shop.gif);
-  background-color: #3b1c16;
-  background-color: var(--f_high);
+  background-color: #624337; /* f_med */
+  background-color: var(--f_med);
   mask-position:left bottom;
   -webkit-mask-position:left bottom;
   mask-size:contain;
@@ -880,10 +923,11 @@ input[type=checkbox] {
 }
 
 .shop-banner .content {
-  padding-left:50%;
+    padding-bottom: 130px;
+    padding-right:30%;
 }
 
-.shop-banner p {
+.shop-banner p, .commission-banner p {
   font-family: "Wremena";
   font-weight: 400;
   font-size: 22px;
@@ -1140,10 +1184,10 @@ input[type=checkbox] {
   padding-bottom: 24px; /* spacing_lg */
   padding-left: 24px; /* spacing_lg */
   border-radius: 4px; /* border_radius */
-  background: #96b8ac; /* f_med */
-  background: var(--f_med);
-  border-color: #96b8ac; /* f_med */
-  border-color: var(--f_med);
+  background: #96b8ac; /* b_med */
+  background: var(--b_med);
+  border-color: #96b8ac; /* b_med */
+  border-color: var(--b_med);
   color: #1e1f20; /* back */
   color: var(--background);
   min-height: 190px;
@@ -1151,10 +1195,10 @@ input[type=checkbox] {
 
 .notes:hover {
   border-bottom:3px solid;
-  border-color: #3b1c16; /* f_high */
-  border-color: var(--f_high);
-  background: #3b1c16; /* f_high */
-  background: var(--f_high);
+  border-color: #3b1c16; /* b_high */
+  border-color: var(--b_high);
+  background: #3b1c16; /* b_high */
+  background: var(--b_high);
 }
 
 .notes .image-background {
@@ -1213,6 +1257,10 @@ input[type=checkbox] {
   display:block;
 }
 
+.works .product {
+    padding:0;
+}
+
 .youtube-video-container {
   position: relative;
   overflow: hidden;
@@ -1232,6 +1280,23 @@ input[type=checkbox] {
   width: 100%;
   height: 100%;
 }
+
+.works-list {
+    width:100%;
+    border-top:2px solid;
+}
+
+.works-list .list-item {
+    display:grid;
+    grid-template-columns: 50% 25% 25%;
+    width:100%;
+    border-bottom:2px solid;
+}
+
+.works-list .list-item div {
+    padding: 16px 0;
+}
+
 
 /* ---------- FOLKLORE --------------- */
 
@@ -1419,50 +1484,36 @@ input[type=checkbox] {
   mix-blend-mode: multiply;
 }
 
-/* --------- FILMS ----------- */
+/* --------- media ----------- */
 
-.film-card {
-  text-decoration: none;
+.media {
+    padding:16px;
+    background-color: var(--b_low);
+    border-radius:8px;
+    margin-bottom:8px;
 }
 
-.film-card .movie-wrap {
-  display: flex;
-  flex-direction: row;
-  margin-top: 24px; /* spacing_lg */
-  margin-left: 0;
-  margin-bottom: 24px; /* spacing_lg */
-  margin-right: 0;
+.media h3 {
+    margin:0;
 }
 
-.film-card .director {
-  font-size: 18px;
-  padding-bottom: 16px; /* spacing_md */
-  line-height: 18px;
+.media .details {
+    display: flex;
+    flex-direction: row;
 }
 
-.movie {
-  flex: 3;
+.media .author {
+    flex:4;
+    color: var(--f_low);
 }
 
-.film-card .desc {
-  font-weight: 100;
+.media .rating {
+    color: var(--f_low);
+    font-size:40px;
 }
 
-.film-card h3 {
-  margin: 0;
-}
-
-.film-card em {
-  margin-top: 0;
-  margin-right: 0;
-  margin-bottom: 24px; /* spacing_lg */
-  margin-left: 0;
-  display: block;
-}
-
-.movie-content {
-  padding-left: 24px; /* spacing_lg */
-  flex: 1;
+.media .note {
+    margin-top:16px;
 }
 
 /* -------- PRODUCTS ---------*/
@@ -1871,6 +1922,11 @@ article {
 
 .big-padding-right {
   padding-right: 60px;
+}
+
+.spacer {
+    width:100%;
+    height:40px;
 }
 
 /* -------- MARGINS ---------*/

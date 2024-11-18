@@ -52,9 +52,27 @@ Here are the themes I've made so far
   </a>
 </div>
 <div class="theme">
+  <a href="/themes/ritualdust-camo.svg" download>
+    <img src="/themes/ritualdust-camo.svg"/>
+    <h4>Camo</h4>
+  </a>
+</div>
+<div class="theme">
   <a href="/themes/ritualdust-winter.svg" download>
     <img src="/themes/ritualdust-winter.svg"/>
     <h4>Winter</h4>
+  </a>
+</div>
+<div class="theme">
+  <a href="/themes/ritualdust-fall-redux.svg" download>
+    <img src="/themes/ritualdust-fall-redux.svg"/>
+    <h4>Fall Redux</h4>
+  </a>
+</div>
+<div class="theme">
+  <a href="/themes/ritualdust-fall-2024.svg" download>
+    <img src="/themes/ritualdust-fall-2024.svg"/>
+    <h4>Fall 2024</h4>
   </a>
 </div>
 </div>
@@ -72,3 +90,20 @@ If you're interested in better markup and more accessible websites, go take a lo
 
 > "Technologies aren’t created in isolation. They are imprinted with the ghosts of their past."  
 > <small>-- Jeremy Keith in [Resilient web design](https://resilientwebdesign.com/)</small>
+
+## TODO
+
+[-] Add commissions page  
+[-] Add commissions banner on home page  
+
+[ ] reverse order of media pages
+[ ] add details of media in to watch list on hover
+[ ] Make icons for all sections  
+[ ] use built in image processing tools to resize and dither images
+[ ] Change names of festivals in menu  
+[ ] Fix dictionnary entries  
+[ ] Improve design tree page
+
+[x] Redesign media pages
+[x] move songs i produced in data folder
+[x] Make new fall theme  

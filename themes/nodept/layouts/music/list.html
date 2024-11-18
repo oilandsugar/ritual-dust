@@ -1,4 +1,5 @@
 {{ partial "header" . }}
+{{ $songs_produced := .Site.Data.music.produced }}
 
 <main>
   <div class="flex-row big-padding-top list-page">
@@ -49,6 +50,18 @@
             {{ end }}
           {{ end }}
         </div>
+        <h2>As a producer</h2>
+        <div class="works-list">
+            {{ range $songs_produced }}
+                <div class="list-item">
+                <div><a href="{{ .url }}">{{ .title }}</a> by {{ .artist }}</div>
+                <div>{{ .type }}</div>
+                <div>{{ .year }}</div>
+            </div>
+            {{ end }}
+        </div>
+        <div class="spacer"></div>
+        <h2>Notes</h2>
         <div class="columns-2 works">
           {{ range where .Site.RegularPages "Section" "music" }}
             {{ if in .Params.tags "notes" }}

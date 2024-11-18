@@ -1,6 +1,6 @@
 +++
 title = "Custom lettering work"
-tags = ["notes", "illustration", "commissions"]
+tags = ["notes", "illustration", "commissions", "lettering"]
 date = "2022-09-26"
 
 desc = "My process and pricing for lettering commissions"
