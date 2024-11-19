@@ -2,7 +2,7 @@
 title = "Custom lettering work"
 tags = ["notes", "illustration", "commissions", "lettering"]
 date = "2022-09-26"
-
+draft = true
 desc = "My process and pricing for lettering commissions"
 +++
 
