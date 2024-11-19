@@ -5,10 +5,13 @@ type = "links"
 desc = "A page listing some links to include in social media profiles"
 +++
 
-[Listen to my album Earthworks](https://ritualdust.bandcamp.com/album/earthworks/)  
+[Commission an illustration, logo or design](https://ritualdust.com/works/commissions)  
+[Buy prints](https://ritualdust.com/shop/)  
+
 [Available tattoo flash](https://ritualdust.com/tattoo/flash)  
 [Custom tattoo form](https://ritualdust.com/tattoo/tattoo-form/)  
-[Buy prints](https://ritualdust.com/shop/)  
+
+[Listen to my album Earthworks](https://ritualdust.bandcamp.com/album/earthworks/)  
 
 <div class="support" style="padding-bottom:24px;">
   <a class="button" href="https://www.patreon.com/bePatron?u=2525073">

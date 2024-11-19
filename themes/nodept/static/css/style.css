@@ -541,7 +541,7 @@ table.simple tr:hover td {
     background: none;
 }
 
-.entry {
+.toc-entry {
   display: grid;
   grid-template-columns: auto max-content;
   grid-template-areas: "chapter page";

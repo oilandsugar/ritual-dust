@@ -38,10 +38,15 @@ desc = "Portfolio, digital garden and recipe blog of designer, illustrator and g
     url = "/shop/"
     weight = 5
   [[menu.main]]
+    identifier = "commissions"
+    name = "Commissions"
+    url = "/works/commissions"
+    weight = 6
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 6
+    weight = 7
 
 [markup]
 

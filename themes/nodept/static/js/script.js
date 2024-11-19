@@ -24,54 +24,54 @@ var Phases = {
     switch (month) {
       case "01":
         season = "winter";
-        nextHoliday = "Imbolc";
+        nextHoliday = "Imbolg";
         break;
       case "02":
         season = "winter";
         if (day < 2) {
-          nextHoliday = "Imbolc";
+          nextHoliday = "Imbolg";
         } else {
-          nextHoliday = "Ostara";
+          nextHoliday = "Earrach";
         }
         break;
       case "03":
         if (day < 19) {
           season = "winter";
-          nextHoliday = "Ostara";
+          nextHoliday = "Earrach";
         } else {
           season = "Spring";
-          nextHoliday = "Beltane";
+          nextHoliday = "Bealtaine";
         }
         break;
       case "04":
         season = "spring";
-        nextHoliday = "Beltane";
+        nextHoliday = "Bealtaine";
         break;
       case "05":
         season = "spring";
-        nextHoliday = "Litha";
+        nextHoliday = "Samhradh";
         break;
       case "06":
         if (day < 19) {
           season = "spring";
-          nextHoliday = "Litha";
+          nextHoliday = "Lúnasa";
         } else {
           season = "summer";
-          nextHoliday = "Lughnasadh";
+          nextHoliday = "Lúnasa";
         }
         break;
       case "07":
         season = "summer";
-        nextHoliday = "Lughnasadh";
+        nextHoliday = "Lúnasa";
         break;
       case "08":
         season = "summer";
-        nextHoliday = "Mabon";
+        nextHoliday = "Fómhar";
         break;
       case "09":
         if (day < 21) {
           season = "summer";
-          nextHoliday = "Mabon";
+          nextHoliday = "Fómhar";
         } else {
           season = "fall";
           nextHoliday = "Samhain";
@@ -83,15 +83,15 @@ var Phases = {
         break;
       case "11":
         season = "fall";
-        nextHoliday = "Yule";
+        nextHoliday = "Gheimhreadh";
         break;
       case "12":
         if (day < 20) {
           season = "fall";
-          nextHoliday = "Yule";
+          nextHoliday = "Gheimhreadh";
         } else {
           season = "winter";
-          nextHoliday = "Imbolc";
+          nextHoliday = "Imbolg";
         }
         break;
     }

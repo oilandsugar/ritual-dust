@@ -93,17 +93,18 @@ If you're interested in better markup and more accessible websites, go take a lo
 
 ## TODO
 
-[-] Add commissions page  
 [-] Add commissions banner on home page  
 
 [ ] reverse order of media pages
 [ ] add details of media in to watch list on hover
 [ ] Make icons for all sections  
 [ ] use built in image processing tools to resize and dither images
-[ ] Change names of festivals in menu  
-[ ] Fix dictionnary entries  
 [ ] Improve design tree page
 
+[x] Add commissions link to menu
+[x] Fix dictionnary entries  
+[x] Change names of festivals in menu  
+[x] Add commissions page  
 [x] Redesign media pages
 [x] move songs i produced in data folder
 [x] Make new fall theme  

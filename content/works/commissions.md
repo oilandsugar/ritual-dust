@@ -35,17 +35,17 @@ I can create work suitable for editorial, publishing, merch, packaging and websi
 #### Small size (spot illustration)
 
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Pencil</div>
     <div class="page">100$ (75$)</div>
 </div>
     
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Ink</div>
     <div class="page">180$ (125$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Painting</div>
     <div class="page">300$ (200$)</div>
 </div>
@@ -57,17 +57,17 @@ I can create work suitable for editorial, publishing, merch, packaging and websi
 
 #### Medium size (half-page)
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Pencil</div>
     <div class="page">180$ (125$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Ink</div>
     <div class="page">375$ (250$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Painting</div>
     <div class="page">525$ (350$)</div>
 </div>
@@ -79,17 +79,17 @@ I can create work suitable for editorial, publishing, merch, packaging and websi
 
 #### Large size (full page or cover)
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Pencil</div>
     <div class="page">600$ (400$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Ink</div>
     <div class="page">825$ (550$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Painting</div>
     <div class="page">975$ (650$)</div>
 </div>
@@ -105,22 +105,22 @@ I can create work suitable for editorial, publishing, merch, packaging and websi
 
 I have quite a bit of experience doing lettering work and logos for bands of a good range of genres but mostly black metal, doom, dungeon synth, noise and experimental music.
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Hand-drawn symbol</div>
     <div class="page">180$ (125$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Hand-drawn text logo</div>
     <div class="page">375$ (250$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Hand-drawn text logo + symbol</div>
     <div class="page">525$ (350$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Hand-drawn text logo + symbol + extra small illustrations</div>
     <div class="page">750$ (500$)</div>
 </div>
@@ -131,22 +131,22 @@ I have quite a bit of experience doing lettering work and logos for bands of a g
 
 ### Design
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Show flyer</div>
     <div class="page">150$ (100$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Show poster</div>
     <div class="page">260$ (175$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Cassette J-card</div>
     <div class="page">200$ (125$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">CD sleeve</div>
     <div class="page">200$ (125$)</div>
 </div>
