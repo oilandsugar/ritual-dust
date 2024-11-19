@@ -1,26 +1,42 @@
+{{ $cover := .Params.image }}
+{{ $title := .title }}
+{{ $lowResCover := replace .Params.image ".jpg" "-low.jpg" }}
+
 <div class="media">
-    <h3>{{ .title }}</h3>
-    <div class="details">
-        <div class="author">{{ .author }}</div>
-        <div class="rating">
-            {{ if eq .rating 1 }}
-            •◦◦◦◦
-            {{ else if eq .rating 2 }}
-            ••◦◦◦
-            {{ else if eq .rating 3 }}
-            •••◦◦
-            {{ else if eq .rating 4 }}
-            ••••◦
-            {{ else if eq .rating 5 }}
-            •••••
-            {{ else }}
-            ◦◦◦◦◦
-            {{ end}}
-        </div>
-    </div>
-    {{ if .note }}
-        <div class="note">
-            {{ .note }}
-        </div>
+    {{ if .image }}
+        <div class="image">
+            <img
+              class="to-toggle low"
+              data-srclow="{{ $lowResCover | safeURL }}"
+              data-srchi="{{ $cover | safeURL }}"
+              src="{{ $lowResCover | safeURL }}"
+              alt="{{ $title }}">
+            </div>
     {{ end }}
+    <div class="content">
+        <h3>{{ .title }}</h3>
+        <div class="details">
+            <div class="author">{{ .author }}</div>
+            <div class="rating">
+                {{ if eq .rating 1 }}
+                •◦◦◦◦
+                {{ else if eq .rating 2 }}
+                ••◦◦◦
+                {{ else if eq .rating 3 }}
+                •••◦◦
+                {{ else if eq .rating 4 }}
+                ••••◦
+                {{ else if eq .rating 5 }}
+                •••••
+                {{ else }}
+                ◦◦◦◦◦
+                {{ end}}
+            </div>
+        </div>
+        {{ if .note }}
+            <div class="note">
+                {{ .note }}
+            </div>
+        {{ end }}
+    </div>
 </div>

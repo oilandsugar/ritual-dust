@@ -547,6 +547,7 @@ table.simple tr:hover td {
   grid-template-areas: "chapter page";
   align-items: end;
   gap: 0 .25rem;
+  color: var(--f_high);
 }
 
 .chapter {
@@ -1491,6 +1492,14 @@ article.home {
     background-color: var(--b_low);
     border-radius:8px;
     margin-bottom:8px;
+    display:flex;
+    flex-direction: row;
+}
+
+.media .image {
+    max-width:150px;
+    margin-right:16px;
+    line-height:0;
 }
 
 .media h3 {
@@ -1499,7 +1508,7 @@ article.home {
 
 .media .details {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .media .author {
@@ -2340,11 +2349,13 @@ article {
   .table-of-contents {
     columns:1;
   }
-    .phases {
-        display: none!important;
+  .phases {
+     display: none!important;
+  }
+  .product-card .desc {
+    padding-left:24px;
+  }
+    .row.mobile-vertical {
+        flex-direction: column;
     }
-    .product-card .desc {
-        padding-left:24px;
-    }
-
 }
