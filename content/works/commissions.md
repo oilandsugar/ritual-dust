@@ -24,6 +24,9 @@ I am happy to work with bands, artists, writers, publishers, event organizers an
 
 I can create work suitable for editorial, publishing, merch, packaging and website projects and provide the appropriate digital files for printing if need be.
 
+
+{{< warning >}}Note: All prices on this page are in CAD{{</ warning >}} 
+
 ### Illustration
 
 <div class="row mobile-vertical">
