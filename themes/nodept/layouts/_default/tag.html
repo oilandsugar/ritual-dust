@@ -21,7 +21,10 @@
             </div>
             <div class="full-wrap">
                 <div class='columns-3 big-padding-top works'>
-                    {{ range .Pages }}
+                    {{ range where .Pages "Type" "food" }}
+                        {{ partial "recipeCard.html" . }}
+                    {{ end }}
+                    {{ range where .Pages "Type" "ne" "food" }}
                         {{ partial "projectCard.html" . }}
                     {{ end }}
                 </div>

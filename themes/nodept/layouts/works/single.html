@@ -6,20 +6,9 @@
     <article class="wrap single">
       <span class="dingbats accent">{{ partialCached "icons/weirdspiral" . }}</span>
       <h1 class="psych-1">{{ .Title }}</h1>
-      {{ with (.GetTerms "tags") }}
-        <ul class="tags">
-          Tagged with {{ range . }}
-          <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-          {{ end }}
-        </ul>
-      {{ end }}
+      {{ partial "tags" . }}
       {{ .Content }}
-      {{ if not .Lastmod.IsZero }}
-        <div class="last-mod small-padding-top">
-          Last modified on <strong>{{ .Lastmod.Format "2006-01-02" | safeHTML }}</strong>,
-          published on <strong>{{ .Date.Format "2006-01-02" | safeHTML }}</strong>
-        </div>
-      {{ end }}
+      {{ partial "page-meta" . }}
     </article>
   </div>
 </main>

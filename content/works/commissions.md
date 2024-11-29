@@ -17,6 +17,7 @@ desc = "My process and pricing for art and lettering commissions"
 
 </div>
 
+{{< spacer size="large" >}}
 
 ## Professional commissions
 
@@ -26,6 +27,8 @@ I can create work suitable for editorial, publishing, merch, packaging and websi
 
 
 {{< warning >}}Note: All prices on this page are in CAD{{</ warning >}} 
+
+{{< spacer size="large" >}}
 
 ### Illustration
 
@@ -100,11 +103,11 @@ I can create work suitable for editorial, publishing, merch, packaging and websi
 </div>
 </div>
 
-<div class="spacer"></div>
-
-![](/img/commissions/lettering.jpg "")
+{{< spacer size="large" >}}
 
 ### Lettering
+
+![](/img/commissions/lettering.jpg "")
 
 I have quite a bit of experience doing lettering work and logos for bands of a good range of genres but mostly black metal, doom, dungeon synth, noise and experimental music.
 
@@ -128,11 +131,11 @@ I have quite a bit of experience doing lettering work and logos for bands of a g
     <div class="page">750$ (500$)</div>
 </div>
 
-<div class="spacer"></div>
-
-![](/img/commissions/design.png "")
+{{< spacer size="large" >}}
 
 ### Design
+
+![](/img/commissions/design.png "")
 
 <div class="toc-entry">
     <div class="chapter">Show flyer</div>
@@ -171,12 +174,12 @@ If you want a DnD character illustrated, a stylized portrait made of you or some
 ![](/img/commissions/character.jpg "")
 
 #### Character
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Pencil</div>
     <div class="page">75$ (50$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Ink</div>
     <div class="page">115$ (75$)</div>
 </div>
@@ -188,12 +191,12 @@ Drawn on 4" x 6" paper
 ![](/img/commissions/portrait.jpg "")
 
 #### Portrait
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Pencil</div>
     <div class="page">115$ (75$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Ink</div>
     <div class="page">200$ (125$)</div>
 </div>
@@ -205,12 +208,12 @@ Drawn on 8" x 10" paper
 ![](/img/commissions/scene.jpg "")
 
 #### Scene
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Pencil</div>
     <div class="page">260$ (175$)</div>
 </div>
 
-<div class="entry">
+<div class="toc-entry">
     <div class="chapter">Ink</div>
     <div class="page">400$ (275$)</div>
 </div>

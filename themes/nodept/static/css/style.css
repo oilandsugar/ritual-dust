@@ -18,7 +18,7 @@
   --f_high: #d26829; /* f_high */
   --f_med: #b3a18e; /* f_med */
   --f_low: #d08254; /* f_low */
-  --f_inv: #a66844; /* f_inv */
+  --f_inv: #221915; /* f_inv */
 
   --b_high: #000000; /* b_high */
   --b_med: #716156; /* b_med */
@@ -169,16 +169,16 @@ p {
 hr {
   border: 0;
   height: 2px;
-  background-color: #b25c02;
-  background-color: var(--f_med);
+  background-color: #716156;
+  background-color: var(--b_med);
   margin-top: 48px; /* spacing_xl */
   margin-bottom: 48px; /* spacing_xl */
 }
 
 hr.dotted {
   height: 0;
-  border-color: #b25c02;
-  border-color: var(--f_med);
+  background-color: #716156;
+  background-color: var(--b_med);
   border-bottom: 2px dotted;
   background: transparent;
 }
@@ -313,11 +313,6 @@ li p {
   font-family: "Cooper Std"; /* psychFont2 */
 }
 
-.accent {
-  color: #3b1c16; /* f_high */
-  color: var(--f_high);
-}
-
 .default-font {
   font-family: "Wremena";
 }
@@ -329,6 +324,16 @@ li p {
 .larger {
   font-size:1.5em;
   line-height:1.5em;
+}
+
+.accent {
+  color: #3b1c16; /* f_high */
+  color: var(--f_high);
+}
+
+.low-contrast, .subdued {
+  color: #d08254; /* f_low */
+  color: var(--f_low);
 }
 
 .dingbats {
@@ -402,6 +407,8 @@ img {
   padding-top: 16px; /* spacing_md */
   margin-top: 16px; /* spacing_md */
   border-top: 2px solid;
+  border-color: #716156;
+  border-color: var(--b_med);
 }
 
 .checklist ul {
@@ -535,6 +542,8 @@ table.simple th, table.simple td {
     padding-left:0;
     vertical-align: middle;
     box-sizing: border-box;
+    border-color: #716156;
+    border-color: var(--b_med);
 }
 
 table.simple tr:hover td {
@@ -599,6 +608,110 @@ table.simple tr:hover td {
   line-height:40px;
 }
 
+/* ---------- code ----------- */
+
+code, pre {
+  background: var(--b_high);
+  color: var(--f_high);
+  white-space: pre;
+  max-width: 100%;
+  display: block;
+  font-size: 16px;
+  padding: 24px;
+  line-height: 1.75;
+  border-radius:8px;
+  overflow-x: scroll;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-color: #666 #201c29;
+}
+
+/* ---------- piano ----------- */
+
+.piano {
+    height:140px;
+    width:auto;
+    position:relative;
+    display:block;
+    margin-bottom: 40px;
+}
+
+.piano .key {
+    float:left;
+    width:32px;
+    height:100%;
+    border-top:2px solid;
+    border-left:2px solid;
+    border-bottom:2px solid;
+    border-color: var(--background);
+    text-align:center;
+    color: var(--f_med);
+    box-sizing: border-box;
+    text-transform: uppercase;
+    font-family: "Distro Bold";
+    font-size:0.8em;
+    cursor: pointer;
+}
+
+.piano .key.white {
+    background: var(--f_med);
+    z-index:1;
+    padding-top:100px;
+}
+
+.piano .key.black {
+    position:relative;
+    height:60%;
+    width:16px;
+    margin-left:-8px; 
+    background: var(--background);
+    z-index:10;
+    border-right:2px solid;
+    border-color: var(--background);
+}
+
+.a,.g,.d,.e,.b {
+  margin:0 0 0 -9px;
+}
+
+.piano .key:first-child {
+    margin-left:0;
+}
+
+.piano .key:last-child {
+    border-right:2px solid var(--background);
+}
+
+.piano .key.white.active {
+    background: var(--f_high);
+    border-color: var(--background);
+    color: var(--background);
+}
+
+.piano .key.black.active {
+    background: var(--f_high);
+    border-color: var(--background);
+}
+
+.piano .key.white:hover {
+    background: var(--f_low);
+    border-color: var(--background);
+    color: var(--background);
+}
+
+.piano .key.black:hover {
+    background: var(--b_med);
+    border-color: var(--background);
+}
+
+/* ---------- musical stuff ----------- */
+
+.music-key {
+    margin-bottom:24px;
+}
+
+.music-mode {
+    margin-bottom:24px;
+}
 
 /* ---------- forms ----------- */
 
@@ -1242,6 +1355,10 @@ article.home {
   display:none;
 }
 
+.works .recipe-card h3 {
+    display:block;
+}
+
 .works .notes h3 {
   display:block;
 }
@@ -1338,10 +1455,6 @@ article.home {
 
 .recipe-card.notes h3:before {
   content: "COOKING NOTE";
-}
-
-.recipes a {
-  text-decoration: none;
 }
 
 .specs {
@@ -1525,6 +1638,19 @@ article.home {
     margin-top:16px;
 }
 
+.to-read-infos {
+    display:none;
+}
+
+.to-read:hover .to-read-infos {
+    display:block;
+}
+
+.reverse {
+    display:flex;
+    flex-direction: column-reverse;
+}
+
 /* -------- PRODUCTS ---------*/
 
 .product {
@@ -1639,10 +1765,6 @@ article.home {
   margin-bottom: 8px; /* spacing_sm */
 }
 
-.back-home a {
-  text-decoration: none;
-}
-
 .back-home a svg {
   margin-right: 16px; /* spacing_md */
   font-size: 16px;
@@ -1665,9 +1787,6 @@ article.home {
 }
 
 .stats {
-  font-size: 14px;
-  font-weight: bold;
-  font-family: "Distro Bold";
   margin-bottom: 16px; /* spacing_md */
 }
 
@@ -1679,6 +1798,15 @@ article.home {
   border-radius: 4px; /* border_radius */
   background: #fff;
   background: var(--b_med);
+  color: var(--f_inv);
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Distro Bold";
+  line-height: 24px;
+}
+
+.treelist .stat {
+    margin-left:16px;
 }
 
 /* -------- TREE ---------*/
@@ -1737,15 +1865,21 @@ article {
   margin-top:0;
 }
 
-.sidebar .back-home h3 {
-  padding-bottom: 0;
-  border-bottom: none;
-}
-
 .sidebar a {
   font-family: "Distro Bold";
   font-size: 1em;
   border-bottom-style: none;
+}
+
+.sidebar .back-home {
+    border-bottom: 2px dotted #3b1c1650;
+  border-bottom: 2px dotted var(--f_high);
+    display:inline-block;
+}
+
+.sidebar .back-home:hover {
+    border-bottom: 2px solid #3b1c16;
+  border-bottom: 2px solid var(--f_high);
 }
 
 .sidebar .name {
@@ -1776,6 +1910,8 @@ article {
 .sidebar h3 {
   padding-bottom: 16px; /* spacing_md */
   border-bottom: 2px dotted;
+  border-color: #716156;
+  border-color: var(--b_med);
 }
 
 .sidebar ul {
@@ -1795,6 +1931,13 @@ article {
 }
 
 .columns-3 {
+  -webkit-column-width: 300px;
+  -moz-column-width: 300px;
+  column-width: 300px;
+}
+
+.columns-5 {
+  column-count: 5;
   -webkit-column-width: 300px;
   -moz-column-width: 300px;
   column-width: 300px;
@@ -1913,29 +2056,33 @@ article {
   padding-left: 30px;
 }
 
-.big-padding {
+.big-padding, .large-padding {
   padding: 60px;
 }
 
-.big-padding-top {
+.big-padding-top, .large-padding-top {
   padding-top: 60px;
 }
 
-.big-padding-bottom {
+.big-padding-bottom, .large-padding-bottom {
   padding-bottom: 60px;
 }
 
-.big-padding-left {
+.big-padding-left, .large-padding-left {
   padding-left: 60px;
 }
 
-.big-padding-right {
+.big-padding-right, .large-padding-right {
   padding-right: 60px;
 }
 
 .spacer {
     width:100%;
     height:40px;
+}
+
+.spacer.large {
+    height:80px;
 }
 
 /* -------- MARGINS ---------*/
@@ -1962,6 +2109,10 @@ article {
 
 .medium-margin-bottom {
   margin-bottom: 30px;
+}
+
+.big-margin-top, .large-margin-top {
+    margin-top:80px;
 }
 
 .no-margin {

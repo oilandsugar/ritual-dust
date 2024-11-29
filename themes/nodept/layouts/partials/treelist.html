@@ -1,5 +1,5 @@
 {{ if gt (len .) 0 }}
-  <ul>
+  <ul class="treelist">
     {{ range sort . "File.Path" }}
       <li>
         {{ if eq .Section "works" }}
@@ -13,7 +13,7 @@
         {{ else if eq .Section "food" }}
           <span class="dingbats">{{ partialCached "icons/flower" . }}</span>
         {{ end}}
-        <a href="{{ .Permalink }}">{{ .Title }}</a>{{ if in .Params.tags "notes" }}<span class="note-tag">note</span>{{ end }}
+        <a href="{{ .Permalink }}">{{ .Title }}</a>{{ if in .Params.tags "notes" }}<span class="stat">note</span>{{ end }}
         {{ partial "treelist.html" (union .Pages .Sections) }}
       </li>
     {{ end }}

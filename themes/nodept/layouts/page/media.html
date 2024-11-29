@@ -15,16 +15,7 @@
     <article class="wrap">
       <span class="dingbats">{{ partialCached "icons/spiral" . }}</span>
       <h1 class="psych-1">{{ .Title }}</h1>
-      {{ with (.GetTerms "tags") }}
-        <ul class="tags">
-          Tagged with {{ range . }}
-          <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-          {{ end }}
-        </ul>
-      {{ end }}
-      <div class="intro">
-        {{.Params.intro}}
-      </div>
+      {{ partial "tags" . }}
       <div class="big-padding-top">
         {{ .Content }} 
         <div class="row">
@@ -34,12 +25,17 @@
                 {{ else if eq .Params.media "movies" }}
                     <h2>Watched</h2>
                 {{ end }}
-                {{ range $year, $books := $seen }}
-                    <h3>in {{ $year }}</h3>
-                    {{ range $books }}
-                        {{ partial "media" . }}
+                <div class="reverse">
+                    {{ range $year, $books := $seen }}
+                        <div class="year">
+                            <div class="spacer"></div>
+                            <h3>in {{ $year }}</h3>
+                            {{ range $books }}
+                                {{ partial "media" . }}
+                            {{ end }}
+                        </div> 
                     {{ end }}
-                {{ end }}
+                </div>
             </div>  
             <div class="flex-1 smaller-padding-right smaller-padding-left">
                 {{ if eq .Params.media "books" }}
@@ -47,19 +43,18 @@
                 {{ else if eq .Params.media "movies" }}
                     <h2>To watch</h2>
                 {{ end }}
+                <div class="spacer"></div>
                 <ul>
                     {{ range $tosee }}
-                        <li>{{ .title }}</li>
+                        <li class="to-read">
+                            <span class="to-read-title">{{ .title }}</span>
+                            <span class="to-read-infos accent">{{ .author }}</span>
+                        </li>
                     {{ end }}
                 </ul>  
             </div>  
           </div>
-        {{ if not .Lastmod.IsZero }}
-          <div class="last-mod small-padding-top">
-            Last modified on <strong>{{ .Lastmod.Format "2006-01-02" | safeHTML }}</strong>,
-            published on <strong>{{ .Date.Format "2006-01-02" | safeHTML }}</strong>
-          </div>
-        {{ end }}
+        {{ partial "page-meta" . }}
       </div>
     </article>
   </div>

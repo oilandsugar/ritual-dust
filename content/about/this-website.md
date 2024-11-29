@@ -14,6 +14,8 @@ See the whole structure in the [Tree](/tree/).
 
 Explore projects over time in the [Timeline](/timeline/).
 
+{{< spacer >}}
+
 ## Fonts
 
 When selecting fonts for this website, I was looking to combine my love for 70's psychedelia and gothic blackletter while keeping everything mostly legible and accessible.
@@ -25,6 +27,8 @@ Fonts used on this website:
 **Wrenema** is used for body text
 
 If you're into cool fonts look up [this directory of open source fonts by womxn](https://www.design-research.be/by-womxn/), this [crazy foundry making free fonts](https://www.velvetyne.fr/), this [directory of free to use and free to modify fonts](http://usemodify.com/) and the [download foundry](https://fonderie.download/) making really experimental stuff. Last thing, here's a [cool site with all the unicode characters handy](https://unilist.raphaelbastide.com/).
+
+{{< spacer >}}
 
 ## Color theme
 
@@ -77,9 +81,13 @@ Here are the themes I've made so far
 </div>
 </div>
 
+{{< spacer >}}
+
 ## Images
 
 By default it loads low resolution dithered images (generated with [Ditherit.com](https://ditherit.com/)) to reduce the loading time and the bandwidth needed to view the website. A toggle on the top right allows to switch to high resolution images. This feature was based upon Nate Steiner's [imageswap](https://tendigits.space/site/imageswap.html).
+
+{{< spacer >}}
 
 ## Technology
 
@@ -91,20 +99,42 @@ If you're interested in better markup and more accessible websites, go take a lo
 > "Technologies aren’t created in isolation. They are imprinted with the ghosts of their past."  
 > <small>-- Jeremy Keith in [Resilient web design](https://resilientwebdesign.com/)</small>
 
-## TODO
+{{< spacer >}}
+
+---
+
+<div class="row">
+<div class="flex-1 smaller-padding-left smaller-padding-right">
+    
+### TODO
 
 [-] Add commissions banner on home page  
 
-[ ] reverse order of media pages
-[ ] add details of media in to watch list on hover
-[ ] Make icons for all sections  
-[ ] use built in image processing tools to resize and dither images
+[ ] Make icons for all sections   
+[ ] use built in image processing tools to resize and dither images  
 [ ] Improve design tree page
 
-[x] Add commissions link to menu
+</div>
+<div class="flex-1 smaller-padding-left smaller-padding-right">
+    
+### DONE
+
+[x] make little piano
+[x] Add code blocks  
+[x] change music sidebar   
+[x] reverse order of media pages  
+[x] add details of media in to watch list on hover  
+[x] improve design tags page  
+[x] show recipe cards in tag list page  
+[x] Add commissions link to menu  
 [x] Fix dictionnary entries  
 [x] Change names of festivals in menu  
 [x] Add commissions page  
-[x] Redesign media pages
-[x] move songs i produced in data folder
+[x] Redesign media pages  
+[x] move songs i produced in data folder  
 [x] Make new fall theme  
+    
+</div>
+</div>
+
+

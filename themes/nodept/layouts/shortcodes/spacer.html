@@ -1,1 +1,7 @@
+{{ $size := .Get "size" }}
+
+{{ if eq $size "large" }}
+<div class="spacer large"></div>
+{{ else }}
 <div class="spacer"></div>
+{{ end }}

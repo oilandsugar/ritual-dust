@@ -8,26 +8,34 @@ draft = false
 
 <div class="table-of-contents">
 
-[mixing process](#the-mixing-process) •
+[Synths and Leads](#Synths-and-leads)  
+[Bass](#bass)  
+[Drums](#drums)  
+[Resources](#resources)
 
 </div>
 
-The Five Arrangement Elements
+{{< spacer >}}
 
-It’s helpful to break an arrangement down into these five main elements, bearing in mind that some instruments may do different jobs at different parts in a song, or even fulfill multiple roles at once:
-- Foundation: This is usually the rhythm section - drums providing the major pulse of the song that you would feel and count along to, and bass providing harmonic context for all other pitched instruments. The rest of the arrangement is built upon the foundation.
-- Pads: Long sustained sounds - often chords, notes, or atmospheric effects which are held to fill some of the background space.
-- Rhythm: Rhythm is any instrument that plays off of the Foundation’s pulse, adding movement and excitement to the track.
-- Lead: What you would sing along to and probably pay the most attention to when listening.
-- Fills: Fills occupy the spaces in between Lead lines to maintain interest when it’s natural for the main melody to take a break.
+## Synths and leads
 
-Tension and Release
+### Trance gate
 
-- Harmonic tension: The root chord of the key of your song is the most stable and resolved harmonic position. Tension is introduced as you move to other chords, as well as by accompanying them with some lead or bass notes which fit in less “expected” ways, i.e. notes that are outside of the current chord.
-- Rhythmic tension: A lot of fun and interest comes from accentuating “weaker” beats - mainly, ones that don’t fall on the quarter note “1 2 3 4” that you would typically count along to most songs with. Think about rhythmic tension not only for typical “rhythm” parts like percussion, but also the rhythm of your main melody or the rhythm of the chord changes.
-As you’re working, consider how tension and release play out across every aspect of your song - the impression of the introduction, the quantization of notes, the length of a buildup, contrasts in volume or brightness...
+Create two tracks, put a synth on the first one with a melody (long notes and pad like sounds work well). Then  put a synth on the other track with a short snappy enveloppe and create a rythmic pattern of notes with it, then turn off this track. go back to your first synth track and set the sidechain on the gate to take the second synth track as input, then adjust the gate settings until you hear the first synth playing the rythm of the second track. Adding some delay and reverb after the gate sound pretty too.
 
-Bass Line Algorithms
+### Drones
+
+### Sample-based pads
+
+### Layering
+
+Layer multiple instruments / samples to make sounds richer while playing the exact same thing, play around with the volume and parameter of each one.
+
+{{< spacer >}}
+
+## Bass
+
+### Bass Line Algorithms
 
 This is definitely not a complete list of every way you could write a bass line but it includes a lot of common approaches and is a great starting point for ideas.
 1. Root note pads: Bass holds the root of each chord.
@@ -37,6 +45,15 @@ This is definitely not a complete list of every way you could write a bass line 
 5. Root note downbeat + fills: Bass plays the root note on each downbeat, followed by melodic fills leading to the root note on the next downbeat.
 Also think about “passing notes” or “passing tones” - notes that may be outside of a chord or even outside of your key, but that can serve as a bridge in between the more important, anchoring bass notes you’re using.
 
+{{< spacer >}}
+
+## Drums
+
+### Gluing drums together
+
+Add distortion on the drum group to add similar harmonics to the different drum sounds and bring them closer timbre wise.
+Add the same reverb in a return channel to different drum sounds at different levels to simulate their different place in the room, more sparse sounds can have more reverb than quickly repeated ones
+
 Think about how the different elements fills the space
 
 
@@ -45,8 +62,6 @@ Add fills / drum fills towards the end of sections to bridge to next one
 Impacts (cymbal or sounds with a lot of reverb), usually at the start of sections
 
 ### Layering
-
-Layer multiple instruments / samples to make sounds richer while playing the exact same thing, play around with the volume and parameter of each
 
 Works pretty well with drums too, for example layering two snare samples with different tones and characteristics to make the sound more unique.
 
@@ -58,17 +73,9 @@ Use eq in compressor sidechain to get just the transient of the kick, click the 
 
 put a gate on a reverb return track and lower the treshold to leave just a bit of the reverb come through. Quite useful to thicken up drums.
 
-### Trance gate
+{{< spacer >}}
 
-Create two tracks, put a synth on the first one with a melody (long notes and pad like sounds work well). Then  put a synth on the other track with a short snappy enveloppe and create a rythmic pattern of notes with it, then turn off this track. go back to your first synth track and set the sidechain on the gate to take the second synth track as input, then adjust the gate settings until your hear the first synth playing the rythm of the second track. Adding some reverb after the gate sound pretty too.
+## Resources
 
-### Gluing drums together
+[audio production notes](https://badd10de.dev/notes/audio-production.html)
 
-Add distortion on the drum group to add similar harmonics to the different drum sounds and bring them closer timbre wise.
-Add the same reverb in a return channel to different drum sounds at different levels to simulate their different place in the room, more sparse sounds can have more reverb than quickly repeated ones
-
-### Drops
-
-Create contrast between the end of the break and the start of the drop by removing and adding elements, for example removing the kick for the last 8 bars before the drop.
-
-Filter down some tracks slowly leading to the drop, kick and bass are good options for that.

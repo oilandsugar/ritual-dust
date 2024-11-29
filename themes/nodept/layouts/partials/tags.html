@@ -1,7 +1,7 @@
-<div class="tags">
-  <ul>
-  {{ range .Params.tags }}
-    <li><a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a> </li>
-  {{ end }}
-  </ul>
-</div>
+{{ with (.GetTerms "tags") }}
+<ul class="tags subdued">
+    Tagged with {{ range . }}
+        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+</ul>
+{{ end }}

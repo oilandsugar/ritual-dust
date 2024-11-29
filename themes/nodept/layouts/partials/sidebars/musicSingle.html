@@ -1,8 +1,9 @@
 <aside class="sidebar">
   {{ partial "name" . }}
   {{ partial "sidebars/utils/back" . }}
-  <h3 class="accent default-font all-caps">Further reading</h3>
-  {{ $section := where $.Site.RegularPages "Section" "about"}}
+  {{ $section := where $.Site.RegularPages "Section" "music"}}
+  <div class="spacer"></div>
+  <h3 class="accent default-font all-caps">Songs and albums</h3>
   <div class="small-padding-bottom">
     <ul class="section-pages">
     {{ range $section }}
@@ -15,11 +16,11 @@
   <h3 class="accent default-font all-caps">Notes</h3>
   <div class="small-padding-bottom">
     <ul class="section-pages">
-      {{ range $section }}
-        {{ if in .Params.tags "notes" }}
-          {{ partial "sidebars/utils/sidebarMenuItem" . }}
-        {{ end }}
+    {{ range $section }}
+      {{ if in .Params.tags "notes" }}
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
       {{ end }}
+    {{ end }}
     </ul>
   </div>
   <div id="icon-sun" class="icon bottom-icon"></div>

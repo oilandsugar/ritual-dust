@@ -21,7 +21,7 @@
               {{ else if eq .Section "food" }}
                 <span class="dingbats">{{ partialCached "icons/flower" . }}</span>
               {{ end}}
-              <a href="{{ .Permalink }}"><h2 class="accent">{{ .Title }}</h2></a>{{ if in .Params.tags "notes" }}<span class="note-tag">note</span>{{ end }}
+              <a href="{{ .Permalink }}"><h2 class="accent">{{ .Title }}</h2></a>{{ if in .Params.tags "notes" }}<span class="stat">note</span>{{ end }}
               {{ partial "treelist.html" (union .Pages .Sections) }}
             </li>
           {{ end }}
