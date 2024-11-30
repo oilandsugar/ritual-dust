@@ -22,10 +22,11 @@ draft = false
 In western tonal music, the musical range of instruments is subdivided into 12 equal parts separated from each other by a half-step (which on a keyboard is the jump from one note to the next). Each of these representing a note in the chromatic scale.
 The difference between different of these notes are called intervals and are measured in <strong class="accent">half-steps</strong> or <strong class="accent">whole steps</strong>.
 
-<code>C      C#     D      D#     E      F      F#     G      G#     A     A#      B
-    -
+{{< code "html" >}}C      C#     D      D#     E      F      F#     G      G#     A      A#     B
+-
 |‑[hs]‑|‑[hs]‑|‑[hs]‑|‑[hs]‑|‑[hs]‑|‑[hs]‑|‑[hs]‑|‑[hs]‑|‑[hs]‑|‑[hs]‑|‑[hs]‑|
-|‑[whole stp]‑|</code><small>The chromatic scale</small>
+|‑[whole stp]‑|
+{{< /code >}}<small>The chromatic scale</small>
 
 
 ## Keys, scales and modes
