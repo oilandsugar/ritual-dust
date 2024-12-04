@@ -31,9 +31,13 @@ It initially arose from the tension between modern life and the old ways, betwee
 
 By going back to the countryside and reconnecting with the old ways, folk horror unearths the bloody and traumatic history that lies buried in many places in the world, hidden behind a facade of civility and modernity. It also uses the stage of the rural village with its inhabitants meeting an outsider coming from the progressive and wealthy city to address class and culture tensions that are still very relevant today.
 
+{{< spacer >}}
+
 ## Folk Horror in movies and television
 
 There is a very long list of movies and television shows using the mode and themes of folk-horror. In fact, in this new revival of folk horror it seems that cinema is the main media for which new stories are written and that contribute quite a lot for broadening the reach and scope of those stories. The unholy trinity of folk-horror films was strongly rooted in the British landscape, the new wave brings new horrors out of the soil through native American tales, ghost stories from Asia, legends from the Nordic country and more.
+
+{{< spacer >}}
 
 ### The Unholy Trinity
 
@@ -71,6 +75,8 @@ There is a very long list of movies and television shows using the mode and them
 - **VIY**, Konstantin Ershov and Georgiy Kropachyov - 1967
 - **Shadows of Forgotten Ancestors**, Sergei Parajanov - 1965
 
+{{< spacer >}}
+
 ## Folk Horror in music
 
 Strangely, I first heard of the term folk horror used to describe music, since that first encounter I developed a fascination with everything related to this idea. The way it manifests in music is akin to how it does in film, through a variety of genres (from actual folk music to experimental electronics) but with a shared interest in some themes and aesthetics. Finding about Ghostbox records was another milestone in my exploration of musical folk horror, their curated collection feels like an extension of the early sonic explorations of the BBC radiophonic workshop and I would describe the music they release as the sound of [hauntology](/folklore/wyrd-terms/).
@@ -80,6 +86,8 @@ Strangely, I first heard of the term folk horror used to describe music, since t
 - [The Rowan Amber Mill](https://rowanambermill.bandcamp.com/)
 - [A Year in the Country](https://ayearinthecountry.bandcamp.com/)
 - [Ghostbox records](https://ghostbox.co.uk/)
+
+{{< spacer >}}
 
 ## Folk Horror in literature
 
@@ -101,6 +109,8 @@ Strangely, I first heard of the term folk horror used to describe music, since t
 
 - **The Golden Bough** by James Fraser
 - **The Witch-Cult in Western Europe** by Margaret Alice Murray
+
+{{< spacer >}}
 
 ## Links and Resources
 

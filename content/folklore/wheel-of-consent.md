@@ -61,6 +61,6 @@ generosity
 
 gratitude
 
-### Links and Resources
+## Links and Resources
 
 https://bettymartin.org/videos/

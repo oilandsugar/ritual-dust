@@ -10,9 +10,9 @@ desc = "A couple of types of emergency kits and bags and their contents"
 
 <div class="table-of-contents">
 
-[General tips](#general-tips)
-[EDC Kit](#edc-kit)  
-[Emergency Bag](#emergency-bag)
+[General tips](#general-tips)  
+[EDC Kit](#edc-kit)   
+[Emergency Bag](#emergency-bag)  
 [Car Emergency Kit](#car-emergency-kit)  
 
 </div>

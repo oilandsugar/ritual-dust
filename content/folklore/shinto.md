@@ -13,12 +13,12 @@ before modern times (19th century) shinto did not exist as an independent religi
 
 Shinto evolved from beliefs and practices of prehistoric people of japan. Archeological evidence was found of kami worship involving bronze bells, mirrors and swords dating back to the yayoi period (late neolithic to early iron age).
 
-### Kami
+## Kami
 
 spirits who inhabits all things, including forces of nature and prominent landscape location.
 Kamis are worshipped at shrines.
 
-### Shrines
+## Shrines
 
 kamidana - miniature household shrine
 family shrine
@@ -52,7 +52,10 @@ Washing of hands and mouth with water, typically usng a laddle to take water fro
 
 Emas are small wooden plaques on which people write their wishes or desires. The ema is then left on display at the shrine as a message to the kami who inhabits the shrine. The emas are usually burned in a ritual once a year.
 
+## Resources
+
 https://www.greenshinto.com/
 https://www.youtube.com/watch?v=5PsNjG5CTgU
 https://d-museum.kokugakuin.ac.jp/eos/
 https://www2.kokugakuin.ac.jp/e-shinto/index.html
+

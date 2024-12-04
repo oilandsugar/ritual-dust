@@ -3,10 +3,11 @@ title = "Hardware"
 date = "2021-06-13"
 image = "/img/about/camera.jpg"
 weight = 6
-intro = "A summary of the hardware tools I use for creating images, sounds and websites. Also what I use to enjoy different types of media"
 tags = ["hardware", "photo", "video", "music", "computer", "notes"]
 
 +++
+
+A summary of the hardware tools I use for creating images, sounds and websites. Also what I use to enjoy different types of media.
 
 ## Table of contents
 
@@ -26,6 +27,8 @@ tags = ["hardware", "photo", "video", "music", "computer", "notes"]
 - **Raspberry Pi 4B+** (I plan to turn it into a [resilient computer](/craft/resilient-computer))
 - **Keychron K6** with green keys
 
+{{< spacer size="large" >}}
+
 ![Synthesizer](/img/about/synth.jpg)
 
 ## Audio
@@ -40,6 +43,7 @@ tags = ["hardware", "photo", "video", "music", "computer", "notes"]
 
 - **Arturia keystep**
 - **Arturia beatstep**
+- **Korg SQ-64**
 
 ### Recorders
 
@@ -52,7 +56,9 @@ tags = ["hardware", "photo", "video", "music", "computer", "notes"]
 
 ### Headphones
 
-- **Hifiman HE350** (sound quality is good but the open back design can be annoying to others and the cord broke at some point)
+- **Steelseries headphones** (got those from work)
+
+{{< spacer size="large" >}}
 
 ![Camera and lenses](/img/about/camera.jpg)
 

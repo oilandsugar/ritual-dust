@@ -7,11 +7,15 @@ tags = ["time"]
 
 This page is a collections of notes, ramblings and highlights for each year I pass through. I'm starting this at the end of 2021 with the intention of adding to it yearly. A good companion to this is the [Timeline](/timeline) which retraces my projects and notes chronologically.
 
+{{< spacer >}}
+
 ## Highlights of 2024
 - Filmed and edited a [crazy music video](/works/video/beast-of-the-black-hill) in the backwoods of Ontario over five intense nights of shooting
 - Released my [first album as Ritual Dust](/music/earthworks), which was also the first time I finish and release solo music that I'm really proud of.
 - Got a large back tattoo of my solar symbol
 - Deepened my practice of self-compassion
+
+{{< spacer >}}
 
 ## Highlights of 2023
 - Went on a pilgrimage to Ireland with my partner Hex and visited many sacred sites, stayed in old stone cottages and connected deeply to the land.
@@ -20,11 +24,15 @@ This page is a collections of notes, ramblings and highlights for each year I pa
 - Filmed a [cowboy/rave-themed music video](/works/video/kill-the-pain) for VOIDXWITCH
 - Assisted my partner through their recovery after top surgery.
 
+{{< spacer >}}
+
 ## Highlights of 2022
 - Started a [Patreon](https://www.patreon.com/ritualdust) with a monthly print club
 - Started [tattooing](/tattoo) for real
 - Made a second edition of my collaborative zine [Fantômes](https://fantomeszine.com/)
 - Drew a series of black metal lettering pieces for [Black Metal December](/works/lettering/black-metal-december-2022/)
+
+{{< spacer >}}
 
 ## Highlights of 2021
 - Moved in with my partner Hex
@@ -41,6 +49,8 @@ This page is a collections of notes, ramblings and highlights for each year I pa
 - Learned a lot more about [myself](/folklore/way-of-life/)
 - Joined the [Stone Club](https://stoneclub.rocks/join)
 - Stayed inside a whole bunch
+
+{{< spacer >}}
 
 ## Highlights of 2020
 - Found my drawing style

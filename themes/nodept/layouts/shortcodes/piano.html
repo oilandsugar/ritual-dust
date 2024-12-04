@@ -1,26 +1,35 @@
+{{ $notes := .Get "notes" }}
+{{ $smalltext := .Get "smalltext" }}
+{{ $nboctaves := .Get "nboctaves" }}
+{{ $notesslice := split $notes "," }}
+<div class="piano-wrapper">
 <div class="piano">
-    <div class="key white c">c</div>
-    <div class="key black "></div>
-    <div class="key white d active">d</div>
-    <div class="key black"></div>
-    <div class="key white e">e</div>
-    <div class="key white f">f</div>
-    <div class="key black active"></div>
-    <div class="key white g">g</div>
-    <div class="key black"></div>
-    <div class="key white a">a</div>
-    <div class="key black"></div>
-    <div class="key white b">b</div>    
-    <div class="key white c">c</div>
-    <div class="key black "></div>
-    <div class="key white d">d</div>
-    <div class="key black"></div>
-    <div class="key white e">e</div>
-    <div class="key white f">f</div>
-    <div class="key black"></div>
-    <div class="key white g">g</div>
-    <div class="key black"></div>
-    <div class="key white a">a</div>
-    <div class="key black"></div>
-    <div class="key white b">b</div>
+    <div class="key white c {{ if in $notesslice "c" }}active{{ end }}">c</div>
+    <div class="key black {{ if or (in $notesslice "c#") (in $notesslice "db") }}active{{ end }}"></div>
+    <div class="key white d {{ if in $notesslice "d" }}active{{ end }}">d</div>
+    <div class="key black {{ if or (in $notesslice "d#") (in $notesslice "eb") }}active{{ end }}"></div>
+    <div class="key white e {{ if in $notesslice "e" }}active{{ end }}">e</div>
+    <div class="key white f {{ if in $notesslice "f" }}active{{ end }}">f</div>
+    <div class="key black {{ if or (in $notesslice "f#") (in $notesslice "gb") }}active{{ end }}"></div>
+    <div class="key white g {{ if in $notesslice "g" }}active{{ end }}">g</div>
+    <div class="key black {{ if or (in $notesslice "g#") (in $notesslice "ab") }}active{{ end }}"></div>
+    <div class="key white a {{ if in $notesslice "a" }}active{{ end }}">a</div>
+    <div class="key black {{ if or (in $notesslice "a#") (in $notesslice "bb") }}active{{ end }}"></div>
+    <div class="key white b {{ if in $notesslice "b" }}active{{ end }}">b</div> 
+    {{ if eq $nboctaves "2" }}
+    <div class="key white c {{ if in $notesslice "c" }}active{{ end }}">c</div>
+    <div class="key black {{ if or (in $notesslice "c#") (in $notesslice "db") }}active{{ end }}"></div>
+    <div class="key white d {{ if in $notesslice "d" }}active{{ end }}">d</div>
+    <div class="key black {{ if or (in $notesslice "d#") (in $notesslice "eb") }}active{{ end }}"></div>
+    <div class="key white e {{ if in $notesslice "e" }}active{{ end }}">e</div>
+    <div class="key white f {{ if in $notesslice "f" }}active{{ end }}">f</div>
+    <div class="key black {{ if or (in $notesslice "f#") (in $notesslice "gb") }}active{{ end }}"></div>
+    <div class="key white g {{ if in $notesslice "g" }}active{{ end }}">g</div>
+    <div class="key black {{ if or (in $notesslice "g#") (in $notesslice "ab") }}active{{ end }}"></div>
+    <div class="key white a {{ if in $notesslice "a" }}active{{ end }}">a</div>
+    <div class="key black {{ if or (in $notesslice "a#") (in $notesslice "bb") }}active{{ end }}"></div>
+    <div class="key white b {{ if in $notesslice "b" }}active{{ end }}">b</div>
+    {{ end }}
+</div>
+{{ with $smalltext }}<small>{{ . }}</small>{{ end }}
 </div>

@@ -632,6 +632,9 @@ code, pre {
     width:auto;
     position:relative;
     display:block;
+}
+
+.piano-wrapper {
     margin-bottom: 40px;
 }
 
@@ -2261,6 +2264,7 @@ article {
     -webkit-flex: 1;
     -ms-flex: 1;
     flex: 1;
+      overflow: hidden;
   }
 
   .flex-2 {
@@ -2292,6 +2296,10 @@ article {
     -ms-flex: 6;
     flex: 6;
   }
+    
+    .two-thirds {
+        max-width:66%;
+    }
 
   .flex-row.desktop {
     display: -webkit-flex;

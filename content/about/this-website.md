@@ -110,6 +110,13 @@ If you're interested in better markup and more accessible websites, go take a lo
 
 [-] Add commissions banner on home page  
 
+[ ] use vw units for margins  
+[ ] make optimisations for dark themes (bg of low res images)  
+[ ] try having images in grayscale and multiply by default, and become full color on hover on list pages  
+[ ] finish writing page on druidism   
+[ ] finish writing page on tarot   
+[ ] finish writing page on shinto   
+[ ] finish writing page on alchemy   
 [ ] Make icons for all sections   
 [ ] use built in image processing tools to resize and dither images  
 [ ] Improve design tree page
@@ -119,7 +126,7 @@ If you're interested in better markup and more accessible websites, go take a lo
     
 ### DONE
 
-[x] make little piano
+[x] make little piano  
 [x] Add code blocks  
 [x] change music sidebar   
 [x] reverse order of media pages  

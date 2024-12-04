@@ -13,6 +13,8 @@ The ancient Celtic pagan festivals marking important transition points during th
 
 The holidays or festivals can be separated into two groups: **the fire festivals** with a focus on community, hearth and home and the otherworld and **the cross quarters** with a focus on community, the land and this world. If we go back far enough, there used to only two seasons, winter and summer, the transition points between these two being times of great change and instability, associated with the movement of communities from one camp to another. These turning points were the foundation of the first festivals, which were then followed by two other ones marking important times for the harvest seasons.
 
+{{< spacer >}}
+
 ## The fire festivals
 with a focus on community, hearth and home and the otherworld
 
@@ -21,6 +23,8 @@ with a focus on community, hearth and home and the otherworld
 - [Lúnasa](/folklore/festivals/lunasa/) - (august 1st)
 - [Samhain](/folklore/festivals/samhain/) - (october 31st)
 
+{{< spacer >}}
+
 ## The cross quarters
 with a focus on community, the land and this world
 
@@ -28,6 +32,8 @@ with a focus on community, the land and this world
 - [Samhradh](/folklore/festivals/samhradh/) - summer solstice (june 20th)
 - [Fómhar](/folklore/festivals/fomhar/) - autumn equinox (september 22nd)
 - [Gheimhreadh](/folklore/festivals/gheimhreadh/) - winter solstice (december 21st)
+
+{{< spacer >}}
 
 ## Links and references
 

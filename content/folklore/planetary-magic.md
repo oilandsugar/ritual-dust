@@ -51,7 +51,7 @@ Associated organ: **Heart**
     </tr>
   </tbody>
 </table>
-<small>The Planetary Square of the Sun</small>
+<small class="subdued">The Planetary Square of the Sun</small>
 
 ---
 
@@ -98,7 +98,7 @@ Associated organ: **Brain**
     </tr>
   </tbody>
 </table>
-<small>The Planetary Square of the Moon</small>
+<small class="subdued">The Planetary Square of the Moon</small>
 
 ---
 
@@ -132,7 +132,7 @@ Associated organ: **Gall blader**
     </tr>
   </tbody>
 </table>
-<small>The Planetary Square of Mars</small>
+<small class="subdued">The Planetary Square of Mars</small>
 
 ---
 
@@ -175,7 +175,7 @@ Associated organ: **Lungs**
     </tr>
   </tbody>
 </table>
-<small>The Planetary Square of Mercury</small>
+<small class="subdued">The Planetary Square of Mercury</small>
 
 ---
 
@@ -206,7 +206,7 @@ Associated organ: **Liver**
     </tr>
   </tbody>
 </table>
-<small>The Planetary Square of Jupiter</small>
+<small class="subdued">The Planetary Square of Jupiter</small>
 
 ---
 
@@ -246,7 +246,7 @@ Associated organ: **Kidneys**
     </tr>
   </tbody>
 </table>
-<small>The Planetary Square of Venus</small>
+<small class="subdued">The Planetary Square of Venus</small>
 
 ---
 
@@ -274,7 +274,7 @@ Associated organ: **Spleen**
     </tr>
   </tbody>
 </table>
-<small>The Planetary Square of Saturn</small>
+<small class="subdued">The Planetary Square of Saturn</small>
 
 ---
 

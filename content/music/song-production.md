@@ -35,6 +35,8 @@ Layer multiple instruments / samples to make sounds richer while playing the ex
 
 ## Bass
 
+the lowest frequencies that subwoofer can reproduce well are around F and G
+
 ### Bass Line Algorithms
 
 This is definitely not a complete list of every way you could write a bass line but it includes a lot of common approaches and is a great starting point for ideas.

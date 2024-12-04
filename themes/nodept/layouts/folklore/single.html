@@ -23,10 +23,8 @@ main .low {
       <span class="dingbats accent">{{ partialCached "icons/diamond" . }}</span>
       <h1 class="psych-1 accent">{{ .Title }}</h1>
       {{ partial "tags" .}}
-      <div class="big-padding-top">
-        {{ .Content }}
-        {{ partial "page-meta" . }}
-      </div>
+      {{ .Content }}
+      {{ partial "page-meta" . }}
     </article>
   </div>
 </main>
