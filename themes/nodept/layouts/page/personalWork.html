@@ -10,7 +10,7 @@
         <div class='gallery-grid works large-padding-top'>
             {{ range where .Site.RegularPages "Section" "works" }}
             {{ if in .Params.tags "personal" }}
-            {{ partial "projectCard.html" . }}
+            {{ partial "cards/projectCard.html" . }}
             {{ end}}
             {{ end }}
         </div>

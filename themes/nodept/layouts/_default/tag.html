@@ -11,17 +11,17 @@
         <div class='gallery-grid works'>
             {{ range .Pages }}
             {{ if eq .Type "food" }}
-            {{ partial "recipeCard.html" . }}
+            {{ partial "cards/recipeCard.html" . }}
             {{ else if eq .Type "craft" }}
-            {{ partial "craftCard.html" . }}
+            {{ partial "cards/craftCard.html" . }}
             {{ else if eq .Type "product" }}
-            {{ partial "productCard.html" . }}
+            {{ partial "cards/productCard.html" . }}
             {{ else if eq .Type "folklore" }}
-            {{ partial "folkloreCard.html" . }}
+            {{ partial "cards/folkloreCard.html" . }}
             {{ else if eq .Layout "media" }}
-            {{ partial "mediaCard.html" . }}
+            {{ partial "cards/mediaCard.html" . }}
             {{ else }}
-            {{ partial "projectCard.html" . }}
+            {{ partial "cards/projectCard.html" . }}
             {{ end }}
             {{ end }}
         </div>
