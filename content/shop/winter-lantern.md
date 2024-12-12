@@ -3,7 +3,6 @@ title = "Winter Lantern print"
 tags = ["print", "product"]
 date = "2024-06-12"
 image = "/img/shop/winter-lantern-preview.jpg"
-type = "product"
 id = "print-winter-lantern"
 price = "65"
 weight = "41"

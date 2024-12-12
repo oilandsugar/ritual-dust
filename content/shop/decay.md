@@ -3,7 +3,6 @@ title = "Decay linocut print"
 tags = ["print", "product"]
 date = "2022-09-12"
 image = "/img/shop/decay-print.jpg"
-type = "product"
 id = "linocut-decay"
 price = "30"
 weight = "41"

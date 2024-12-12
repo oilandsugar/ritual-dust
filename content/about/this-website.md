@@ -116,8 +116,8 @@ If you're interested in better markup and more accessible websites, go take a lo
 
 [-] Add commissions banner on home page  
 
-[ ] remove redundant list templates  
 [ ] fix styling on large screens  
+[ ] make winter theme  
 [ ] add photos to journal entries  
 [ ] use built in image processing tools to resize and dither images   
 [ ] find a way to have dark and light theme with one theme file  

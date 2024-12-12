@@ -3,7 +3,6 @@ title = "Color out of Space print"
 tags = ["print", "product", "lovecraftian"]
 date = "2024-10-31"
 image = "/img/shop/color-out-of-space-print.jpg"
-type = "product"
 id = "print-color-space"
 price = "50"
 weight = "41"

@@ -3,7 +3,6 @@ title = "Hekate linocut print"
 tags = ["print", "product"]
 date = "2022-07-30"
 image = "/img/shop/hekate-print.jpg"
-type = "product"
 id = "linocut-hekate"
 price = "30"
 weight = "41"

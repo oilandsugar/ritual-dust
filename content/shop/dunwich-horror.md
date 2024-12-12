@@ -3,7 +3,6 @@ title = "Dunwich horror print"
 tags = ["print", "product", "lovecraftian"]
 date = "2024-07-02"
 image = "/img/shop/dunwich-horror-print.jpg"
-type = "product"
 id = "print-dunwich-horror"
 price = "50"
 weight = "41"

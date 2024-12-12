@@ -3,7 +3,6 @@ title = "To the otherworld linocut print"
 tags = ["print", "product"]
 date = "2022-11-30"
 image = "/img/shop/to-the-otherworld-print.jpg"
-type = "product"
 id = "linocut-hekate"
 price = "30"
 weight = "41"

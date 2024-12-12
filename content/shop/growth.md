@@ -3,7 +3,6 @@ title = "Growth linocut print"
 tags = ["print", "product"]
 date = "2022-07-20"
 image = "/img/shop/growth-print.jpg"
-type = "product"
 id = "linocut-growth"
 price = "30"
 weight = "41"

@@ -3,7 +3,6 @@ title = "Goblin shield print"
 tags = ["print", "product"]
 date = "2024-07-02"
 image = "/img/shop/goblin-shield-print.jpg"
-type = "product"
 id = "print-goblin-shield"
 price = "40"
 weight = "41"

@@ -3,7 +3,6 @@ title = "Nightmare print"
 tags = ["print", "product"]
 date = "2024-07-02"
 image = "/img/shop/nightmare-print.jpg"
-type = "product"
 id = "print-nightmare"
 price = "65"
 weight = "41"
