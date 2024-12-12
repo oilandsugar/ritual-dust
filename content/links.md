@@ -1,7 +1,8 @@
 +++
 title = "Links"
 subtitle = ""
-type = "links"
+type = "page"
+layout = "links"
 desc = "A page listing some links to include in social media profiles"
 +++
 

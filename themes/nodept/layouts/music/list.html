@@ -5,50 +5,58 @@
     {{ partial "sidebars/musicList" . }}
     <article class="flow">
         {{ partial "pageTitle" . }}
+        <div class="table-of-contents mini ">
+            <a href="#ritual-dust-releases">Ritual Dust</a>
+            <a href="#other-projects">Other projects</a>
+            <a href="#as-a-producer">As a producer</a>
+            <a href="#notes">Notes</a>
+        </div>
         <div class="measured">
             {{ .Content }}
         </div>
         <div>
-            <h2 id="ritual-dust-releases">Ritual Dust releases</h2>
-            <div class="grid-2">
-                {{ if (eq $.Parent.Title "Music") }}
-                {{ range where .Pages "Section" "music" }}
-                {{ if not (in .Params.tags "notes") }}
-                {{ if in .Params.tags "ritual dust" }}
-                {{ partial "projectCard.html" . }}
-                {{ end }}
-                {{ end }}
-                {{ end }}
-                {{ else }}
-                {{ range where .Site.RegularPages "Section" "music" }}
-                {{ if not (in .Params.tags "notes") }}
-                {{ if in .Params.tags "ritual dust" }}
-                {{ partial "projectCard.html" . }}
-                {{ end }}
-                {{ end }}
-                {{ end }}
-                {{ end }}
-            </div>
-            <div class="spacer"></div>
-            <h2 id="other-projects">Other projects</h2>
-            <div class="gallery-grid">
-                {{ if (eq $.Parent.Title "Music") }}
-                {{ range where .Pages "Section" "music" }}
-                {{ if not (in .Params.tags "notes") }}
-                {{ if not (in .Params.tags "ritual dust") }}
-                {{ partial "projectCard.html" . }}
-                {{ end }}
-                {{ end }}
-                {{ end }}
-                {{ else }}
-                {{ range where .Site.RegularPages "Section" "music" }}
-                {{ if not (in .Params.tags "notes") }}
-                {{ if not (in .Params.tags "ritual dust") }}
-                {{ partial "projectCard.html" . }}
-                {{ end }}
-                {{ end }}
-                {{ end }}
-                {{ end }}
+            <div class="releases">
+                <h2 id="ritual-dust-releases">Ritual Dust releases</h2>
+                <div class="grid-2">
+                    {{ if (eq $.Parent.Title "Music") }}
+                    {{ range where .Pages "Section" "music" }}
+                    {{ if not (in .Params.tags "notes") }}
+                    {{ if in .Params.tags "ritual dust" }}
+                    {{ partial "cards/projectCard.html" . }}
+                    {{ end }}
+                    {{ end }}
+                    {{ end }}
+                    {{ else }}
+                    {{ range where .Site.RegularPages "Section" "music" }}
+                    {{ if not (in .Params.tags "notes") }}
+                    {{ if in .Params.tags "ritual dust" }}
+                    {{ partial "cards/projectCard.html" . }}
+                    {{ end }}
+                    {{ end }}
+                    {{ end }}
+                    {{ end }}
+                </div>
+                <div class="spacer"></div>
+                <h2 id="other-projects">Other projects</h2>
+                <div class="gallery-grid">
+                    {{ if (eq $.Parent.Title "Music") }}
+                    {{ range where .Pages "Section" "music" }}
+                    {{ if not (in .Params.tags "notes") }}
+                    {{ if not (in .Params.tags "ritual dust") }}
+                    {{ partial "cards/projectCard.html" . }}
+                    {{ end }}
+                    {{ end }}
+                    {{ end }}
+                    {{ else }}
+                    {{ range where .Site.RegularPages "Section" "music" }}
+                    {{ if not (in .Params.tags "notes") }}
+                    {{ if not (in .Params.tags "ritual dust") }}
+                    {{ partial "cards/projectCard.html" . }}
+                    {{ end }}
+                    {{ end }}
+                    {{ end }}
+                    {{ end }}
+                </div>
             </div>
             <div class="spacer"></div>
             <h2 id="as-a-producer">As a producer</h2>
@@ -66,10 +74,10 @@
             </table>
             <div class="spacer"></div>
             <h2 id="notes">Notes</h2>
-            <div class="columns-2 works">
+            <div class="notes-grid">
                 {{ range where .Site.RegularPages "Section" "music" }}
                 {{ if in .Params.tags "notes" }}
-                {{ partial "projectCard.html" . }}
+                {{ partial "cards/projectCard.html" . }}
                 {{ end}}
                 {{ end }}
             </div>

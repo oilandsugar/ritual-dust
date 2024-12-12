@@ -12,7 +12,7 @@
             <div class='gallery-grid works'>
                 {{ range .Pages }}
                 {{ if and (ne .Type "works/fantasy-art") (ne .Type "works/personal-work") (ne .Type "works/music-visuals")}}
-                {{ partial "projectCard.html" . }}
+                {{ partial "cards/projectCard.html" . }}
                 {{ end }}
                 {{ end }}
             </div>

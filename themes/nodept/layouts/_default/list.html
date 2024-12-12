@@ -1,10 +1,14 @@
 {{ partial "header" . }}
 
-<main>
-  <div class="list-page big-padding-top">
-    {{ partial "pageTitle" . }}
-    {{.Content}}
-  </div>
+<main class="page-sidebar">
+    {{ partial "sidebars/listSidebar" . }}
+    <article class="measured flow">
+        {{ partial "pageTitle" . }}
+        <div class="page-content">
+            {{ .Content }}
+        </div>
+        {{ partial "page-meta" . }}
+    </article>
 </main>
 
 {{ partialCached "footer" . }}

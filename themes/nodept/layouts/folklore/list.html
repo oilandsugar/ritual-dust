@@ -7,9 +7,9 @@
         <div class="measured">
             {{ .Content }}
         </div>
-        <div class="folklore gallery-grid">
+        <div class="gallery-grid">
             {{ range where .RegularPages "Type" "folklore" }}
-            {{ partial "folkloreCard.html" . }}
+            {{ partial "cards/folkloreCard.html" . }}
             {{ end }}
         </div>
     </article>

@@ -1,4 +1,5 @@
 <article class="journal-entry medium-padding-bottom">
+  <h2 class="date subdued">{{ .Date.Format "2006-01-02" | safeHTML }}</h2>
   <h2>{{ .Title }}</h2>
   {{ .Content }}
 </article>

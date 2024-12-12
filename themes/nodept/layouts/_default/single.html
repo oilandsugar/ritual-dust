@@ -1,15 +1,14 @@
 {{ partial "header" . }}
 
-<main>
-  <div class="big-padding-top single-page">
-    {{ partial "sidebars/worksSingle" . }}
-    <article class="single">
-      {{ partial "pageTitle" . }}
-      {{ partial "tags" . }}
-      {{ .Content }}
-      {{ partial "page-meta" . }}
+<main class="page-sidebar">
+    {{ partial "sidebars/sidebar" . }}
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        <div class="page-content">
+            {{ .Content }}
+        </div>
+        {{ partial "page-meta" . }}
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

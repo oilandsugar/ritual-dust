@@ -1,6 +1,7 @@
 +++
 title = "Timeline"
-type = "timeline"
+type = "page"
+layout = "timeline"
 desc = "A timeline of my projects and writing"
 tags = ["time", "notes"]
 +++

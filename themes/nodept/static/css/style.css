@@ -144,6 +144,11 @@ html body {
     column-gap: var(--spacing_default);
 }
 
+.notes-grid {
+    columns: 1;
+    column-gap: var(--spacing_default);
+}
+
 .measured {
     max-width: var(--line_length);
 }
@@ -735,6 +740,7 @@ img:hover, .card:hover img, #home-img:hover img {
     line-height:0;
     border-radius: var(--border_radius);
     background: var(--b_high);
+    max-width: 1400px;
 }
 
 .notes .image-background {
@@ -928,7 +934,6 @@ table.simple tr:hover td {
 .table-of-contents.mini {
     max-width: 100%;
     columns:1;
-    font-size:0.8rem;
 }
 
 .table-of-contents.mini a {
@@ -1193,6 +1198,9 @@ table.simple .dingbats {
 
 #home-img img {
     object-fit: cover;
+    width:100%;
+    height:100%;
+    object-position: center;
 }
 
 #folklore-img {
@@ -1486,6 +1494,12 @@ table.simple .dingbats {
 
 /* -------- JOURNAL ---------*/
 
+
+h2.date {
+    font-size:0.8rem;
+    line-height:1rem;
+    margin-bottom:var(--spacing_sm);
+}
 
 /* -------- RECIPES ---------*/
 
@@ -1865,6 +1879,10 @@ aside a {
     vertical-align: baseline;
 }
 
+aside a:hover {
+    border:0;
+}
+
 aside .back-home {
     border-bottom: var(--border_size) dotted var(--f_high);
     display:inline-block;
@@ -2078,6 +2096,24 @@ footer span {
 
 }
 
+/* -------- HUGE DESKTOP --------- */
+
+@media screen and (min-width: 1800px) {
+    body {
+        padding: 0 10vw;
+    }
+    .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-1-2 {
+        gap: var(--spacing_xm);
+    }
+    .gallery-grid, .notes-grid {
+        columns:3;
+        column-gap: var(--spacing_xm);
+    }
+    .category-wrapper .grid-2, .releases .grid-2 {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
 /* -------- DESKTOP --------- */
 
 @media screen and (min-width: 600px) {
@@ -2135,6 +2171,10 @@ footer span {
     .snipcart-checkout {
         position:relative!important;
     }
+    .notes-grid {
+        columns: 2;
+        column-gap: var(--spacing_default);
+    }
     .gallery-grid {
         columns: 3;
         column-gap: var(--spacing_default);
@@ -2144,7 +2184,7 @@ footer span {
     }
     h1 {
         font-size:4rem;
-        margin-bottom: var(--spacing_lg);
+        margin-bottom: var(--spacing_md);
     }
     h2 {
         font-size:2rem;
@@ -2183,9 +2223,17 @@ footer span {
     }
     .table-of-contents.mini p {
         line-height: 1rem;
-        font-size:0.8rem;
+    }
+    .table-of-contents.mini a {
+        margin-right: var(--spacing_default);
+        position: relative;
     }
     .table-of-contents.mini a:after {
         content: "•";
+        position: absolute;
+        right: -0.8rem;
+    }
+    .table-of-contents.mini a:last-child:after {
+        content: "";
     }
 }

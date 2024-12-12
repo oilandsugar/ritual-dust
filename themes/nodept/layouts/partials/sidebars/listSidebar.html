@@ -1,0 +1,17 @@
+{{ $currentSection := .Section }}
+
+{{ if eq $currentSection "about" }}
+{{ partial "sidebars/aboutList" . }}
+{{ else if eq $currentSection "tattoo" }}
+{{ partial "sidebars/tattooList" . }}
+{{ else if eq $currentSection "craft" }}
+{{ partial "sidebars/craftList" . }}
+{{ else if eq $currentSection "folklore" }}
+{{ partial "sidebars/folkloreList" . }}
+{{ else if eq $currentSection "music" }}
+{{ partial "sidebars/musicList" . }}
+{{ else if eq $currentSection "works" }}
+{{ partial "sidebars/worksList" . }}
+{{ else }}
+
+{{ end }}

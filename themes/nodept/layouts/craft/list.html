@@ -10,11 +10,11 @@
         <div class="gallery-grid">
             {{ if (eq $.Parent.Title "Craft") }}
             {{ range where .Pages "Section" "craft" }}
-            {{ partial "craftCard.html" . }}
+            {{ partial "cards/craftCard.html" . }}
             {{ end }}
             {{ else }}
             {{ range where .Site.RegularPages "Section" "craft" }}
-            {{ partial "craftCard.html" . }}
+            {{ partial "cards/craftCard.html" . }}
             {{ end }}
             {{ end }}
         </div>

@@ -10,16 +10,16 @@ Starting in December me and Hex decided to really focus the start of our year on
 
 Now, for some side projects I worked on during the month: 
 
-Business Cards for Reliquaire Perçage
+### Business Cards for Reliquaire Perçage
 
 One of my friends who's doing piercing has reached out in January to have some business cards made. The brief was to draw a reliquary containing different piercing jewelry. I took the opportunity to do something pretty old school with the shiny chrome effect and picked some of my favorite fonts to go along with it.
 
 
-Logo for Fall of Stasis
+### Logo for Fall of Stasis
 
 Alongside the sleep paralysis-themed illustration I did for the band, I also redid their logo and sigil. I went with a very expressive and sharp fraktur variation for the logo, building and improving on their old logo. It had been a while i had work with vectors for that kind of work but it was more fun than I remember, it makes it quite easy to reuse parts of some letters to make other ones and make the whole lettering piece feel more consistent.
 
-Lyric Video for Kerosene Heart 
+### Lyric Video for Kerosene Heart 
 
 As a normal progression from a short teaser we did a while ago for the Kerosene Heart, me and Hex worked on a Lyric video for the full song last month. I played around with color overlays, creative editing and a variety of fonts to illustrate the feeling of the different sections (including a custom font i made for the bridge).
 
@@ -30,7 +30,7 @@ This month of February will be focused on a couple things for me: finishing the 
 - A Wizard of Earthsea by Ursula K. Leguin
 - Dice Men by Ian Livingstone
 
-Watching:
+### Watching:
 
 - Season 5 and 6 of Buffy the Vampire Slayer
 - Heaven adores you (2014)

@@ -1,7 +1,8 @@
 +++
 title = "Fantasy art"
 subtitle = ""
-type = "works/fantasy-art"
+type = "page"
+layout = "fantasyArt"
 weight = 2
 +++
 

@@ -4,7 +4,7 @@
     {{ partial "sidebars/tattooList" . }}
     <article class="flow">
         {{ partial "pageTitle" . }}
-        <div class="table-of-contents mini subdued">
+        <div class="table-of-contents mini">
             <a href="#dark-fantasy">Dark fantasy</a>
             <a href="#medieval-woodcuts">Medieval woodcuts</a>
             <a href="#black-metal">Black metal</a>
@@ -12,10 +12,10 @@
         <div class="measured">
             {{ .Content }}
         </div>
-        <div class="columns-2 works">
+        <div class="notes-grid">
             {{ range where .Site.RegularPages "Section" "tattoo" }}
             {{ if in .Params.tags "notes" }}
-            {{ partial "projectCard.html" . }}
+            {{ partial "cards/projectCard.html" . }}
             {{ end}}
             {{ end }}
         </div>
@@ -24,7 +24,7 @@
             {{ range where .Site.RegularPages "Section" "tattoo" }}
             {{ if not (in .Params.tags "notes") }}
             {{ if in .Params.tags "illustrative" }}
-            {{ partial "projectCard.html" . }}
+            {{ partial "cards/projectCard.html" . }}
             {{ end }}
             {{ end }}
             {{ end }}
@@ -34,7 +34,7 @@
             {{ range where .Site.RegularPages "Section" "tattoo" }}
             {{ if not (in .Params.tags "notes") }}
             {{ if in .Params.tags "woodcut" }}
-            {{ partial "projectCard.html" . }}
+            {{ partial "cards/projectCard.html" . }}
             {{ end }}
             {{ end }}
             {{ end }}
@@ -44,7 +44,7 @@
             {{ range where .Site.RegularPages "Section" "tattoo" }}
             {{ if not (in .Params.tags "notes") }}
             {{ if in .Params.tags "black metal" }}
-            {{ partial "projectCard.html" . }}
+            {{ partial "cards/projectCard.html" . }}
             {{ end }}
             {{ end }}
             {{ end }}

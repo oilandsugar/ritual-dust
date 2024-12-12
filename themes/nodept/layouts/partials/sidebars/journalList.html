@@ -1,18 +1,20 @@
 <aside class="sidebar">
-  {{ partial "name" . }}
+    {{ partial "name" . }}
     <h3 class="accent default-font all-caps">Entries</h3>
     <div class="default-padding-bottom">
-    {{ range where .Pages "Section" "journal" }}
-        {{ if not (in .Params.tags "notes") }}
-          {{ partial "sidebars/utils/sidebarMenuItem" . }}
-        {{ end }}
-      {{ end }}
+        <ul>
+            {{ range where .Pages "Section" "journal" }}
+            {{ if not (in .Params.tags "notes") }}
+            {{ partial "sidebars/utils/sidebarMenuItem" . }}
+            {{ end }}
+            {{ end }}
+        </ul>
     </div>
-  <h3 class="accent default-font all-caps">More info</h3>
-  <div class="default-padding-bottom">
-    <a href="https://journal.miso.town/">HTML Journal spec</a><br/>
-    <a href="https://kiosk.nightfall.city/">Neon Kiosk (aggregator)</a>
-    <a href="https://nownownow.com/about">About now pages</a>
-  </div>
-  <div id="icon-sun" class="icon bottom-icon"></div>
+    <h3 class="accent default-font all-caps">More info</h3>
+    <div class="default-padding-bottom">
+        <a href="https://journal.miso.town/">HTML Journal spec</a><br/>
+        <a href="https://kiosk.nightfall.city/">Neon Kiosk (aggregator)</a>
+        <a href="https://nownownow.com/about">About now pages</a>
+    </div>
+    <div id="icon-sun" class="icon bottom-icon"></div>
 </aside>

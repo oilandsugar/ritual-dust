@@ -1,7 +1,8 @@
 +++
 title = "Personal work"
 subtitle = ""
-type = "works/personal-work"
+type = "page"
+layout = "personalWork"
 weight = 1
 +++
 

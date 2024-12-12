@@ -115,9 +115,11 @@ If you're interested in better markup and more accessible websites, go take a lo
 ### TODO
 
 [-] Add commissions banner on home page  
-[-] move my monthly recaps from patreon to website  
 
-[ ] use built in image processing tools to resize and dither images  
+[ ] remove redundant list templates  
+[ ] fix styling on large screens  
+[ ] add photos to journal entries  
+[ ] use built in image processing tools to resize and dither images   
 [ ] find a way to have dark and light theme with one theme file  
 [ ] add prefers dark mode thingy in css  
 [ ] Make icons for all sections    
@@ -133,6 +135,10 @@ If you're interested in better markup and more accessible websites, go take a lo
     
 ### DONE
 
+[x] remove redundant single templates  
+[x] fix about page not loading good sidebar and spacing missing  
+[x] move my monthly recaps from patreon to website  
+[x] update style mini table of contents  
 [x] adjust mobile version with new spacings and layouts  
 [x] make optimisations for dark themes (bg of low res images)   
 [x] make active menu link work  

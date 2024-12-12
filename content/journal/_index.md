@@ -1,5 +1,5 @@
 +++
-title = "Monthly Journal"
+title = "Liz's Monthly Journal"
 subtitle = ""
 type = "page"
 desc = ""

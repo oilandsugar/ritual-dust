@@ -9,7 +9,7 @@
         </div>
         <div class="recipes columns-2">
             {{ range where .RegularPages "Type" "food" }}
-            {{ partial "recipeCard.html" . }}
+            {{ partial "cards/recipeCard.html" . }}
             {{ end }}
         </div>
     </article>

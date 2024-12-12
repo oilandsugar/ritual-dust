@@ -8,8 +8,6 @@ type = "page"
 
 ### Experience
 
-{{< spacer >}}
-
 ### Clients
 
 <div class="grid-3">
