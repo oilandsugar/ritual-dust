@@ -8,18 +8,30 @@ desc = "Music video for Beast of the Black Hill by VOIDXWITCH."
 +++
 
 <div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e03U5pvs6XE?si=zX7DHZNWYT-VIdkj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/e03U5pvs6XE?si=zX7DHZNWYT-VIdkj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="credits medium-padding-top">
-<small>Credits and details</small>  
 
-Director / Producer / Editor/ Performer / Costumes : **Hex Evans**  
-Cinematographer / Co-producer / Editor / Lighting / Props : **Lizbeth Poirier**  
-Additional Costumes : **Le Grand Costumier**  
+### Credits and details
+
+<div class="toc-entry">
+    <div class="chapter">
+        Director / Producer / Editor/ Performer / Costumes</div><div class="page"><strong>Hex Evans</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">
+        Cinematographer / Co-producer / Editor / Lighting / Props</div><div class="page"><strong>Lizbeth Poirier</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">
+        Additional Costumes</div><div class="page"><strong>Le Grand Costumier</strong></div>
+</div>
+
 Filmed on location at **Screaming Heads** and other locations
 
-Shot on the Blackmagic cinema camera with the Rokinon 10mm and a modified infrared trail camera   
+Shot on the Blackmagic cinema camera with the Rokinon 10mm,  
+and a modified infrared trail camera   
 Edited and color graded in DaVinci Resolve
 
 </div>

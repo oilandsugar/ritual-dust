@@ -2,13 +2,16 @@
 title = "Watching"
 date = "2020-11-25"
 weight = 3
-tags = ["movies", "films"]
+tags = ["movies", "films", "media"]
 type = "page"
+desc = "This is my movie watchlist, I keep it yearly and highlight the movies that really stayed with me."
 layout = "media"
 media = "movies"
 +++
 
 ![Still from the opening sequence of the wicker man](/img/about/watching.jpg "Still from the opening sequence of the wicker man")
+
+{{< spacer >}}
 
 This is my movie watchlist, I keep it yearly and highlight the movies that really stayed with me.
 

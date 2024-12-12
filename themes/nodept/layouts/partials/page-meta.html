@@ -1,6 +1,6 @@
 {{ if not .Lastmod.IsZero }}
-    <div class="last-mod small-padding-top large-margin-top">
-    Last modified on <strong>{{ .Lastmod.Format "2006-01-02" | safeHTML }}</strong>,
-    published on <strong>{{ .Date.Format "2006-01-02" | safeHTML }}</strong>
-    </div>
+<div class="last-mod small-padding-top large-margin-top subdued">
+    <span>Created</span><strong class="accent">{{ .Date.Format "Jan 2, 2006" | safeHTML }}</strong><br/>
+    <span>Last tended</span><strong class="accent">{{ .Lastmod.Format "Jan 2, 2006" | safeHTML }}</strong>
+</div>
 {{ end }}

@@ -1,24 +1,20 @@
 {{ partial "header" . }}
 
-<main>
-  <div class="flex-row big-padding-top list-page">
+<main class="page-sidebar">
     {{ partial "sidebars/worksList" . }}
-    <article>
-      <div class="small-wrap">
-        {{ partial "listPageTitle" . }}
-        {{ .Content }}
-      </div>
-      <div class="full-wrap">
-        <div class="columns-3 big-padding-top works">
-          {{ range where .Site.RegularPages "Section" "works" }}
-            {{ if in .Params.tags "music" }}
-              {{ partial "projectCard.html" . }}
-            {{ end}}
-          {{ end }}
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        <div class="measured">
+            {{ .Content }}
         </div>
-      </div>
+        <div class="gallery-grid works">
+            {{ range where .Site.RegularPages "Section" "works" }}
+            {{ if in .Params.tags "music" }}
+            {{ partial "projectCard.html" . }}
+            {{ end}}
+            {{ end }}
+        </div>
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

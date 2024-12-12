@@ -13,12 +13,21 @@ desc = "Iconoclastic short video accompanied by one of my modular synth composit
 Iconoclastic short video accompanied by one of my modular synth compositions, shot in slow motion with practical fire effects.
 
 <div class="credits medium-padding-top">
-<small>Credits</small>  
 
-**Art direction / Photography / Editing:** Lizbeth Poirier-Morissette  
-**Production Assistant:** Geneviève Lamarche Reid  
-**Model:** Evey lp  
-**Music:** [Haunted Attic (Devil Worship Rework) by Principe d'incertitude](https://soundcloud.com/principe-dincertitude)  
+### Credits
+
+<div class="toc-entry">
+    <div class="chapter">Art direction / Photography / Editing</div><div class="page"><strong>Lizbeth Poirier-Morissette</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">Production Assistant</div><div class="page"><strong>Geneviève Lamarche Reid</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">Model</div><div class="page"><strong>Evey lp</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">Music</div><div class="page"><strong><a href="https://soundcloud.com/principe-dincertitude">Haunted Attic (Devil Worship Rework)</a> by Principe d'incertitude</strong></div>
+</div>
 
 Shot on the Sony A6300 with a 24mm prime lens  
 Edited and color graded in Premiere Pro

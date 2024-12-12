@@ -32,9 +32,9 @@ I can create work suitable for editorial, publishing, merch, packaging and websi
 
 ### Illustration
 
-<div class="row mobile-vertical">
+<div class="grid-3">
 
-<div class="flex-1 smaller-padding-left smaller-padding-right">
+<div>
 
 ![](/img/commissions/spot.jpg "")
 
@@ -57,7 +57,7 @@ I can create work suitable for editorial, publishing, merch, packaging and websi
 </div>
 
 </div>
-<div class="flex-1 smaller-padding-left smaller-padding-right">
+<div>
 
 ![](/img/commissions/half-page.jpg "")
 
@@ -79,7 +79,7 @@ I can create work suitable for editorial, publishing, merch, packaging and websi
 </div>
 
 </div>
-<div class="flex-1 smaller-padding-left smaller-padding-right">
+<div>
 
 ![](/img/commissions/full-page.jpg "")
 
@@ -167,9 +167,9 @@ If you want a DnD character illustrated, a stylized portrait made of you or some
 
 ### Illustration
 
-<div class="row mobile-vertical">
+<div class="grid-3">
     
-<div class="flex-1 smaller-padding-left smaller-padding-right">
+<div>
 
 ![](/img/commissions/character.jpg "")
 
@@ -186,7 +186,7 @@ If you want a DnD character illustrated, a stylized portrait made of you or some
 Drawn on 4" x 6" paper
 
 </div>
-<div class="flex-1 smaller-padding-left smaller-padding-right">
+<div>
 
 ![](/img/commissions/portrait.jpg "")
 
@@ -203,7 +203,7 @@ Drawn on 4" x 6" paper
 Drawn on 8" x 10" paper
 
 </div>
-<div class="flex-1 smaller-padding-left smaller-padding-right">
+<div>
 
 ![](/img/commissions/scene.jpg "")
 
@@ -237,9 +237,9 @@ full price ---> <span class="accent">100$ (50$)</span> <--- reduced price
 
 Here are some guidelines to help you pick the price that is best based on your situation
 
-<div class="row accent mobile-vertical">
+<div class="grid-2 accent">
     
-<div class="flex-1 smaller-padding-left smaller-padding-right">
+<div>
 <h3>Full price</h3>
 <ul>
     <li>I am confortable enough to meet all my basic needs</li>
@@ -249,7 +249,7 @@ Here are some guidelines to help you pick the price that is best based on your s
 </ul>
 </div>
 
-<div class="flex-1 smaller-padding-left smaller-padding-right">
+<div>
 <h3>Reduced price</h3>
 <ul>
     <li>I frequently stress about meeting my basic needs</li>

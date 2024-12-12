@@ -1,25 +1,22 @@
 {{ partial "header" . }}
 
 <main>
-  <div class="wrap big-padding-top tag-page">
-    <div class="page-title">
-        <h1 class="psych-1 accent">{{ .Title }}</h1>
-    </div>
-    
-    <div class="intro">
-      All tags used on this site, sorted by most used to less used
-    </div>
-    <div class="big-padding-top">
-      <div class="columns">
-      {{ range .Data.Terms.ByCount }}
-        <div class="toc-entry">
-            <div class="chapter"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></div>
-            <div class="page">({{ .Count }})</div>
+    <div class="big-padding-top tag-page">
+        {{ partial "pageTitle" . }}
+        <div class="measured">
+            {{ .Content }}
         </div>
-      {{ end }}
-      </div>
+        <div class="big-padding-top">
+            <div class="grid-3">
+                {{ range .Data.Terms.ByCount }}
+                <div class="toc-entry">
+                    <div class="chapter"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></div>
+                    <div class="page">({{ .Count }})</div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
     </div>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

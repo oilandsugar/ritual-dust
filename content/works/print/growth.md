@@ -10,9 +10,7 @@ First print of my monthly print club, a mushroom growing from a hand, a piece ab
 
 Linocut on paper, 3" x 5" - 2022
 
----
-
-Become a stone circle patron to join the monthly print club and get an original print by mail every month: https://www.patreon.com/ritualdust
+Join my [monthly print club](https://www.patreon.com/ritualdust)
 
 ![](/img/print/may-1.jpg)
 

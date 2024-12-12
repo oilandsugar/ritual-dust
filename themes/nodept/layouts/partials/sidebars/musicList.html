@@ -4,7 +4,7 @@
     {{ partial "sidebars/utils/back" . }}
   {{ end }}
   <h3 class="accent default-font all-caps">Songs and albums</h3>
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <ul class="section-pages">
     {{ range .RegularPages }}
       {{ if not (in .Params.tags "notes") }}
@@ -14,7 +14,7 @@
     </ul>
   </div>
   <h3 class="accent default-font all-caps">Notes</h3>
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <ul class="section-pages">
     {{ range .RegularPages }}
       {{ if in .Params.tags "notes" }}

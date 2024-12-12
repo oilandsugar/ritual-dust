@@ -2,7 +2,7 @@
 title = "Crust paper props"
 tags = ["props", "folk-horror"]
 date = "2022-03-19"
-
+type = "craft"
 image = "/img/craft/crust-props/DSC07272.jpg"
 desc = "Paper props inspired by the narrated story Crust"
 +++

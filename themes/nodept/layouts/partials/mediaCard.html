@@ -1,0 +1,6 @@
+{{ $title := .Title }}
+
+<a href="{{ .Permalink }}" class="media-card card {{ range .Params.tags }}{{ . }} {{ end }}">
+    <h3 class="blackletter default-padding-bottom">{{ .Title }}</h3>
+    <div class="desc">{{ .Params.desc }}</div>
+</a>

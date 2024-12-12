@@ -3,7 +3,7 @@
   {{ partial "sidebars/utils/back" . }}
   {{ $section := where $.Site.RegularPages "Section" "craft"}}
   <h3 class="accent default-font all-caps">Artefacts</h3>
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <ul class="section-pages">
     {{ range $section }}
       {{ if not (in .Params.tags "notes") }}
@@ -13,7 +13,7 @@
     </ul>
   </div>
   <h3 class="accent default-font all-caps">Notes</h3>
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <ul class="section-pages">
     {{ range $section }}
       {{ if in .Params.tags "notes" }}

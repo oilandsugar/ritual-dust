@@ -1,25 +1,37 @@
 {{ $imageAlt := .Params.imageAlt }}
+{{ $ingredients := .Params.ingredients }}
 {{ partial "header" . }}
 
-<main>
-  <div class="flex-row big-padding-top big-padding-bottom single-page">
+<main class="page-sidebar">
     {{ partial "sidebars/foodSingle" . }}
-    <article class="wrap single recipe">
-      <span class="dingbats accent">{{ partialCached "icons/flower" . }}</span>
-      <h1 class="psych-1 accent no-margin-bottom">{{.Title}}</h1>
-      <div class="specs psych-2">
-        {{ with .Params.prepTime }}<span class="prep-time">{{ . }} to prep</span>
-        - {{ end }}
-        {{ with .Params.cookTime }}<span class="cook-time">{{ . }} to cook</span>
-        - {{ end }}
-        {{ with .Params.portions }}<span class="portions">{{ . }} portion(s)</span>
-        {{ end}}
-      </div>
-      {{ partial "tags" .}}
-      {{ .Content | safeHTML }}
-      {{ partial "page-meta" . }}
+    <article class="recipe flow">
+        {{ partial "pageTitle" . }}
+        <div class="specs psych-2">
+            {{ with .Params.prepTime }}<span class="prep-time">{{ . }} to prep</span>
+            - {{ end }}
+            {{ with .Params.cookTime }}<span class="cook-time">{{ . }} to cook</span>
+            - {{ end }}
+            {{ with .Params.portions }}<span class="portions">{{ . }} portion(s)</span>
+            {{ end}}
+        </div>
+        {{ partial "tags" .}}
+        <div class="page-content">
+            <div class="recipe-grid recipe-content">
+                <div class="ingredients">
+                    <h2>Ingredients</h2>
+                    <ul>
+                        {{ range $ingredients }}
+                        <li>{{ . }}</li>
+                        {{ end }}
+                    </ul>
+                </div>
+                <div class="steps">
+                    {{ .Content | safeHTML }}
+                </div>
+            </div>
+        </div>      
+        {{ partial "page-meta" . }}
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

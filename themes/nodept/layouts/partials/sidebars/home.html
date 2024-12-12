@@ -1,11 +1,11 @@
 <aside class="sidebar flex-1">
-  <div class="support small-padding-bottom">
+  <div class="support medium-padding-bottom">
     <a class="button" href="https://www.patreon.com/bePatron?u=2525073">
       <svg height="546px" version="1.1" viewBox="0 0 569 546" width="569px" xmlns="http://www.w3.org/2000/svg"><title>Patreon logo</title><g><circle cx="362.589996" cy="204.589996" data-fill="1" r="204.589996"></circle><rect data-fill="1" height="545.799988" width="100" x="0" y="0"></rect></g></svg>
       <span>Support me on Patreon</span>
     </a>
   </div>
-  <div class="social">
+  <div class="social medium-padding-bottom">
     <a href="https://www.instagram.com/ritual.dust/" target="_blank" aria-label="link to my instagram page (opens in new page)">
       {{ partial "instaIcon" . }}
     </a>
@@ -16,13 +16,11 @@
       {{ partial "rssIcon" . }}
     </a>
   </div>
-  <div class="image-resolution-info info small-margin-bottom small-margin-top">
+  <div class="image-resolution-info info default-margin-bottom">
     <div class="small-padding">This website loads low-resolution images by default to use less energy. Switch to full-resolution images by toggling this button in the top bar:</div>
-    <ul>
-      <li class="resolution-toggle">
+      <div class="resolution-toggle">
         <button class="h" id="resolution-toggle" aria-label="Load high resolution images" title="Load high resolution images">Hi-res</button>
-      </li>
-    </ul>
+      </div>
   </div>
   <div id="icon-sun" class="icon bottom-icon"></div>
 </aside>

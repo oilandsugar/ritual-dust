@@ -2,9 +2,11 @@
 title = "Relief printmaking"
 tags = ["notes", "print", "woodcut", "linocut"]
 date = "2022-06-20"
-draft = true
+draft = false
 desc = "The art and craft of relief printmaking, linocut and woodcut"
 +++
+
+![](/img/print/may-5.jpg)
 
 Relief printing or print-making is a really old technique used to reproduce images. Its history goes back to around 500BC with Egyptians using it to print on fabric and later on seals carved out of stone by ancient Chinese people. It has been used to illustrate books for a good chunk of history before photolithographic processes replaced it.
 
@@ -12,7 +14,7 @@ It is one of the simplest method of image reproduction and doesn't require much 
 
 I've learned multiple relief printmaking techniques when studying fine arts at university a couple of years ago, the knowledge collected in this little guide comes from experiments I did back then, insights my teachers and technicians shared with me (the technicians especially are goldmines of information) and further learning I did by myself since then.
 
-![](/img/print/may-5.jpg)
+{{< spacer >}}
 
 ## Table of contents
 
@@ -35,7 +37,9 @@ I've learned multiple relief printmaking techniques when studying fine arts at u
 
 Relief printing is a way to make multiple copies of an images using a block or plate that is carved, inked and then run through a press to transfer the image onto a piece of paper. It works in a similar way to a stamp in that the image will be reversed once printed and only the raised parts of the block will print, the lines and shapes that were carved leaving the white of the paper.
 
-### The tools
+{{< spacer >}}
+
+## The tools
 
 **Brayers** are used to ink the blocks when printing, they are made of a medium density rubber and come in all kind of sizes, it's usually best to get a brayer that is of a similar width as the block you're printing to prevent having to make multiple passes side by side, however if none is available a smaller brayer will still do the job.
 
@@ -46,6 +50,8 @@ Relief printing is a way to make multiple copies of an images using a block or p
 **V-tools** are the main tools I use to create lines and define the outline of shapes due to their precision and varying width (the more you push the tool in the block, the wider the line becomes).
 
 An **Ink plate** is a very flat, non-porous surface on which the printing is is spread and rolled with the brayer, a cheap way to make one is to tape a pane of glass to some wood or plywood.
+
+{{< spacer >}}
 
 ## The carving process
 
@@ -78,6 +84,8 @@ This is the simplest method and works well for relatively simple drawings. First
 Now has come the time to carve your block, removing the areas that are gonna be white in your print and keeping the black ones. This part is less technical and repetitive and can allow some creative experimentation. Often I'm gonna draw an image to carve but change some lines, textures and shapes during the carving process.
 
 Tip: when working with lino, heat it up with a blow dryer to make it easier to cut.
+
+{{< spacer >}}
 
 ## The Printing process
 
@@ -133,6 +141,8 @@ In studio, drying racks are used for that purpose.
 
 >"But first the notion that man has a body distinct from his soul, is to be expunged; this I shall do by printing in the infernal method, by corrosives, which in Hell are salutary and medicinal, melting apparent surfaces away, and displaying the infinite which was hid."  
 <small>- William Blake</small>
+
+{{< spacer >}}
 
 ## References
 

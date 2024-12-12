@@ -1,7 +1,7 @@
 <aside class="sidebar">
   {{ partial "name" . }}
   <h3 class="accent default-font all-caps">Products</h3>
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <ul class="section-pages">
     {{ range .RegularPages }}
       {{ if not (in .Params.tags "notes") }}

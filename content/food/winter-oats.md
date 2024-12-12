@@ -9,27 +9,9 @@ imageAlt = "Steel-cut oats with cranberries, nuts and spices in a metal bowl"
 prepTime = "5 min"
 cookTime = "7 min"
 portions = 1
+
+ingredients = ["1/2 cup of steel-cut oats", "1 cup of water", "2 tbsp of plant-based milk", "2 tbsp of brown sugar", "2 tbsp of dried cranberries", "1/4 tsp of vanilla", "6 - 8 entire pecans", "1/4 tsp cinnamon", "1/4 tsp cardamom", "1/4 tsp cloves", "1/4 tsp nutmeg"]
 +++
-
-<div class="recipe-content">
-<div class="ingredients">
-
-## Ingredients
-
-- 1/2 cup of steel-cut oats
-- 1 cup of water
-- 2 tbsp of plant-based milk
-- 2 tbsp of brown sugar
-- 2 tbsp of dried cranberries
-- 1/4 tsp of vanilla
-- 6 - 8 entire pecans
-- 1/4 tsp cinnamon
-- 1/4 tsp cardamom
-- 1/4 tsp cloves
-- 1/4 tsp nutmeg
-
-</div>
-<div class="steps">
 
 ## Steps
 
@@ -37,8 +19,5 @@ portions = 1
 2. Cook on medium/high until it boils, around _7 min_ while stirring.
 3. Turn off the heat and add **2 tbsp of plant-based milk**, mix well.
 4. Measure and add all the other ingredients and spices on top, mix well before eating to ensure that every spoonful is tasty, enjoy!.
-
-</div>
-</div>
 
 ![Steel-cut oats with cranberries, nuts and spices in a metal bowl](/img/recipes/winter-oats.jpg)

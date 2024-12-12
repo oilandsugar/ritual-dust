@@ -1,24 +1,18 @@
 {{ partial "header" . }}
 
-<main>
-  <div class="flex-row big-padding-top list-page">
+<main class="page-sidebar">
     {{ partial "sidebars/foodList" . }}
-    <article>
-      <div class="small-wrap food">
-        {{ partial "listPageTitle" . }}
-        <div class="intro">
-        {{ .Params.desc }}
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        <div class="measured">
+            {{ .Content }}
         </div>
-      </div>
-      <div class="full-wrap">
-        <div class="recipes big-padding-top columns-2">
-          {{ range where .RegularPages "Type" "food" }}
+        <div class="recipes columns-2">
+            {{ range where .RegularPages "Type" "food" }}
             {{ partial "recipeCard.html" . }}
-          {{ end }}
+            {{ end }}
         </div>
-      </div>
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

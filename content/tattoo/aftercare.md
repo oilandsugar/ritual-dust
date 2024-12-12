@@ -1,5 +1,5 @@
 +++
-title = "Tattoo aftercare"
+title = "Caring for your new tattoo"
 tags = ["tattoo", "notes"]
 date = "2022-03-30"
 
@@ -23,9 +23,9 @@ desc = "Detailed aftercare instructions for new tattoos, the different stages of
 
 ## Aftercare routine
 
-{{< row >}}
+<div class="grid-2">
 
-<div class="flex-1 medium-padding-right">
+<div>
 
 <h3>With specialized film (Saniderm)</h3>
 
@@ -50,7 +50,7 @@ At this point you can switch to a routine of cleaning and moisturizing your tatt
 You can now switch to only moisturizing the tattoo multiple times a day when you feel it becoming dry.
 
 </div>
-<div class="flex-1 ">
+<div>
 
 <h3>With regular cling film</h3>
 
@@ -76,18 +76,23 @@ You can now switch to only moisturizing the tattoo multiple times a day when you
 
 </div>
 
-{{</ row >}}
+</div>
+
+{{< spacer >}}
 
 ## Recommended products
 
-Mild antibacterial soaps:
+### Mild antibacterial soaps:
+
 - Dr. Bronner's Baby Unscented Pure-Castile Liquid Soap (diluted)
 - Dial antimicrobial liquid soap
 
-Moisturizing balms:
+### Moisturizing balms:
+
 - Coconut oil
 - Aquaphor healing ointment
 
+{{< spacer >}}
 
 ## Stages of tattoo healing
 
@@ -102,6 +107,8 @@ This is usually the most annoying phase, the tattoo and the skin around it will 
 ### Stage 3 - Dull and cloudy (day 15 - 30)
 
 At that stage the top layer of the skin is healed but the lower layers of skin are still in their healing process. Most of the flakes of skins and scabs should be gone by now, depending on the size of the tattoo, bigger scabs may still remain. The tattooed skin may look shiny under some light during this phase and the tattoo itself may look dull and cloudy, this is normal. The clarity of the design will come back as the skin finishes to regenerate itself.
+
+{{< spacer >}}
 
 ## Placements that need extra care
 
@@ -121,6 +128,8 @@ Some tattoo locations need some extra care in order to help the healing process 
 - It is recommended to get un-powdered exam gloves to cover the tattoo during the first phase of healing, change the gloves 4 times a day and apply lotion before putting on gloves.
 - After 4 days you can stop putting on the gloves and resume the normal aftercare routine
 
+{{< spacer >}}
+
 ## Signs of infection
 
 Here are some early signs of infection, if your tattoo is infected, these symptoms will worsen over time. Keep a close eye on a tattoo that start to show any of these symptoms and if they persist or worsen, consult a doctor immediately.
@@ -130,6 +139,8 @@ Here are some early signs of infection, if your tattoo is infected, these sympto
 - Worsening redness after phase 1
 - Bleeding from the scabs
 - Oozing fluids (especially if yellowish or greenish) after phase 1
+
+{{< spacer >}}
 
 ## Resources and links
 

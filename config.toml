@@ -40,7 +40,7 @@ desc = "Portfolio, digital garden and recipe blog of designer, illustrator and g
   [[menu.main]]
     identifier = "commissions"
     name = "Commissions"
-    url = "/works/commissions"
+    url = "/works/commissions/"
     weight = 6
   [[menu.main]]
     identifier = "about"

@@ -15,10 +15,15 @@ First prototype of a never-completed short movie project about latency, absence 
 This is all test footage shot by a one-person crew in one night in Montreal.
 
 <div class="credits medium-padding-top">
-<small>Credits and details</small>  
 
-**Photography / Editing:** Lizbeth Poirier  
-**Music:** [Samuel Desrosiers](https://www.samueldesrosiers.com/)
+### Credits and details 
+
+<div class="toc-entry">
+    <div class="chapter">Photography / Editing</div><div class="page"><strong>Lizbeth Poirier</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">Music</div><div class="page"><strong><a href="https://www.samueldesrosiers.com/"></a>Samuel Desrosiers</strong></div>
+</div>
 
 Shot on the blackmagic cinema camera with a 50mm prime lens
 </div>

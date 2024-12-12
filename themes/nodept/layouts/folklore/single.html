@@ -1,32 +1,31 @@
 {{ partial "header" . }}
 <style>
 
-main {
-    {{ with .Params.background }}background:#{{ . }};{{ end }}
-    {{ with .Params.textPrimary }}color:#{{ . }};{{ end }}
-}
-main .accent {
-  {{ with .Params.textSecondary }}color:#{{ . }};{{ end }}
-}
-main img {
-  {{ with .Params.textPrimary }}background-color:#{{ . }};{{ end }}
-}
-main .low {
-  {{ with .Params.background }}mix-blend-mode:normal;{{ end }}
-}
+    main {
+        {{ with .Params.background }}background:#{{ . }};{{ end }}
+        {{ with .Params.textPrimary }}color:#{{ . }};{{ end }}
+    }
+    main .accent {
+        {{ with .Params.textSecondary }}color:#{{ . }};{{ end }}
+    }
+    main img {
+        {{ with .Params.textPrimary }}background-color:#{{ . }};{{ end }}
+    }
+    main .low {
+        {{ with .Params.background }}mix-blend-mode:normal;{{ end }}
+    }
 </style>
 
-<main>
-  <div class="flex-row big-padding-top big-padding-bottom single-page">
+<main class="page-sidebar">
     {{ partialCached "sidebars/folkloreSingle" . }}
-    <article class="wrap">
-      <span class="dingbats accent">{{ partialCached "icons/diamond" . }}</span>
-      <h1 class="psych-1 accent">{{ .Title }}</h1>
-      {{ partial "tags" .}}
-      {{ .Content }}
-      {{ partial "page-meta" . }}
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        {{ partial "tags" .}}
+        <div class="page-content">
+            {{ .Content }}
+        </div>
+        {{ partial "page-meta" . }}
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

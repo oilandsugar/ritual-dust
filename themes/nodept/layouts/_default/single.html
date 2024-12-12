@@ -1,11 +1,10 @@
 {{ partial "header" . }}
 
 <main>
-  <div class="flex-row big-padding-top big-padding-bottom single-page">
+  <div class="big-padding-top single-page">
     {{ partial "sidebars/worksSingle" . }}
-    <article class="wrap single">
-      <span class="dingbats accent">{{ partialCached "icons/weirdspiral" . }}</span>
-      <h1 class="psych-1">{{ .Title }}</h1>
+    <article class="single">
+      {{ partial "pageTitle" . }}
       {{ partial "tags" . }}
       {{ .Content }}
       {{ partial "page-meta" . }}

@@ -9,26 +9,9 @@ imageAlt = "Scrambled tofu in a cast iron pan"
 prepTime = "5 min"
 cookTime = "13 min"
 portions = 2
+
+ingredients = ["1 block firm tofu (strained not pressed)", "1/4 cup plant-based milk", "1/3 cup nutritional yeast", "2 tbsp olive oil", "1/2 cup water", "3 tsp cumin", "2 tsp paprika", "2 tsp turmeric", "1 tsp garlic powder", "Salt and pepper to taste"]
 +++
-
-<div class="recipe-content">
-<div class="ingredients">
-
-## Ingredients  
-
-- 1 block firm tofu (strained not pressed)
-- 1/4 cup plant-based milk
-- 1/3 cup nutritional yeast
-- 2 tbsp olive oil
-- 1/2 cup water
-- 3 tsp cumin
-- 2 tsp paprika
-- 2 tsp turmeric
-- 1 tsp garlic powder
-- Salt and pepper to taste
-
-</div>
-<div class="steps">
 
 ## Steps
 
@@ -39,7 +22,5 @@ portions = 2
 5. Sprinkle **1/3 cup of nutritional yeast** and stir lightly to cover all the tofu. Remove from the heat, add salt and pepper and serve!
 
 Really good on it’s own, served with toast, in breakfast tacos or sandwiches
-</div>
-</div>
 
 ![Scrambled tofu in a cast iron pan](/img/recipes/scrambled-tofu.jpg)

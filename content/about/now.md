@@ -3,7 +3,8 @@ title = "Now"
 date = "2020-10-20"
 image = "/img/about/now.jpg"
 weight = 1
-intro = ""
+type = "page"
+tags = ["notes"]
 +++
 
 I've replaced my now page with a journal, [read it here](/journal)

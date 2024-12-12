@@ -3,7 +3,7 @@
   {{ if (eq $.Parent.Title "Food") }}
     {{ partial "sidebars/utils/back" . }}
   {{ end }}
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <h3 class="accent default-font all-caps">Meal types</h3>
     <ul>
       <li><a href="/tags/main/">Main</a></li>
@@ -12,7 +12,7 @@
       <li><a href="/tags/drink/">Drink</a></li>
     </ul>
   </div>
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <h3 class="accent default-font all-caps">Seasons</h3>
     <ul>
       <li><a href="/tags/spring/">Spring</a></li>
@@ -22,7 +22,7 @@
     </ul>
   </div>
   <h3 class="accent default-font all-caps">Notes</h3>
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <ul class="section-pages">
     {{ range .RegularPages }}
       {{ if in .Params.tags "notes" }}
@@ -31,7 +31,7 @@
     {{ end }}
     </ul>
   </div>
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <h3 class="accent default-font all-caps">Other recipe blogs</h3>
     <ul>
       <li><a href="https://grimgrains.com/">Grim Grains</a></li>

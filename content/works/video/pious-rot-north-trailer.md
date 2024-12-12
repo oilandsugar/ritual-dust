@@ -12,11 +12,18 @@ desc = "Trailer for the Northern region of the Pious Rot setting"
 </div>
 
 <div class="credits medium-padding-top">
-<small>Credits and details</small>  
 
-Photography, Editing & Music : **Lizbeth Poirier**  
-Writing : **Sedge Hoffart**  
-Additional photography : **Des Cendres**  
+### Credits and details
+
+<div class="toc-entry">
+    <div class="chapter">Photography, Editing & Music</div><div class="page"><strong>Lizbeth Poirier</strong></div>
+</div> 
+<div class="toc-entry">
+    <div class="chapter">Writing</div><div class="page"><strong>Sedge Hoffart</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">Additional photography</div><div class="page"><strong>Des Cendres</strong></div>
+</div>
 
 Edited and color graded in DaVinci Resolve
 

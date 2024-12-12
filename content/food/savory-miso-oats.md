@@ -9,25 +9,9 @@ imageAlt = "Steel-cut oats vegan sausages, miso and green onions"
 prepTime = "8 min"
 cookTime = "7 min"
 portions = 1
+
+ingredients = ["1/2 cup of steel-cut oats", "1 cup of water", "olive oil", "1 seitan sausage", "1 tsp brown miso", "1 tsp soy sauce", "1/2 tsp thyme", "1 tbsp nutritional yeast", "1 green onion"]
 +++
-
-<div class="recipe-content">
-<div class="ingredients">
-
-## Ingredients  
-
-- 1/2 cup of steel-cut oats
-- 1 cup of water
-- olive oil
-- 1 seitan sausage
-- 1 tsp brown miso
-- 1 tsp soy sauce
-- 1/2 tsp thyme
-- 1 tbsp nutritional yeast
-- 1 green onion
-
-</div>
-<div class="steps">
 
 ## Steps
 
@@ -37,8 +21,5 @@ portions = 1
 4. Cook on medium/high until it boils, around *7 min* while stirring.
 5. Turn of the heat and add **1 tsp of brown miso**, **1 tsp of soy sauce** and **1/2 tsp of thyme**, mix well.
 4. Transfer to a bowl, add the sausages, **1 tbsp of nutritional yeast** and the chopped **green onions**, mix well before and enjoy!.
-
-</div>
-</div>
 
 ![Steel-cut oats vegan sausages, miso and green onions](/img/recipes/miso-oats.jpg)

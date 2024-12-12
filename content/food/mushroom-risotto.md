@@ -9,26 +9,9 @@ imageAlt = "An earthy and comforting mushroom risotto, takes time but it's worth
 prepTime = "10 min"
 cookTime = "45 min"
 portions = 3
+
+ingredients = ["1 1/2 cups of arborio rice", "2 cups of mushrooms (wild ones are the best)", "1/2 cup of vegan parmesan", "4 cups of vegetable broth", "1.5 cup of light beer", "2 tablespoons of vegan butter", "3 tsp of fresh thyme", "a pinch of salt", "a pinch of pepper", "green onions or chives"]
 +++
-
-<div class="recipe-content">
-<div class="ingredients">
-
-## Ingredients
-
-- 1 1/2 cups of arborio rice
-- 2 cups of mushrooms (wild ones are the best)
-- 1/2 cup of vegan parmesan
-- 4 cups of vegetable broth
-- 1.5 cup of light beer
-- 2 tablespoons of vegan butter
-- 3 tsp of fresh thyme
-- a pinch of salt
-- a pinch of pepper
-- green onions or chives
-
-</div>
-<div class="steps">
 
 ## Steps
 
@@ -40,8 +23,5 @@ portions = 3
 6. Once all the broth as been absorbed the rice should have doubled in size, it's time to add **1.5 cup of light beer** to the rice and cook it a bit more while stirring
 7. Once the beer has absorbed, turn off the heat and add **3 tsp of fresh thyme**, **the cooked mushrooms**, **1/2 cup of vegan parmesan**, and some **salt and pepper to taste**, mix well to incorporate all the ingredients
 8. Serve with some **chopped green onions or chives** and the leftover from the beer used to cook the risotto, enjoy!
-
-</div>
-</div>
 
 ![An earthy and comforting mushroom risotto](/img/recipes/risotto.jpg)

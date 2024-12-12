@@ -1,77 +1,80 @@
 {{ partial "header" . }}
 {{ $songs_produced := .Site.Data.music.produced }}
 
-<main>
-  <div class="flex-row big-padding-top list-page">
+<main class="page-sidebar">
     {{ partial "sidebars/musicList" . }}
-    <article>
-      <div class="small-wrap works">
-        {{ partial "listPageTitle" . }}
-      </div>
-      <div class="full-wrap">
-        {{ .Content }}
-        <h2 id="ritual-dust-releases">Ritual Dust releases</h2>
-        <div class="columns-2 big-padding-bottom">
-          {{ if (eq $.Parent.Title "Music") }}
-            {{ range where .Pages "Section" "music" }}
-              {{ if not (in .Params.tags "notes") }}
-                {{ if in .Params.tags "ritual dust" }}
-                  {{ partial "projectCard.html" . }}
-                {{ end }}
-              {{ end }}
-            {{ end }}
-          {{ else }}
-            {{ range where .Site.RegularPages "Section" "music" }}
-              {{ if not (in .Params.tags "notes") }}
-                {{ if in .Params.tags "ritual dust" }}
-                  {{ partial "projectCard.html" . }}
-                {{ end }}
-              {{ end }}
-            {{ end }}
-          {{ end }}
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        <div class="measured">
+            {{ .Content }}
         </div>
-        <h2 id="other-projects">Other projects</h2>
-        <div class="columns-3 big-padding-bottom">
-          {{ if (eq $.Parent.Title "Music") }}
-            {{ range where .Pages "Section" "music" }}
-              {{ if not (in .Params.tags "notes") }}
-                {{ if not (in .Params.tags "ritual dust") }}
-                   {{ partial "projectCard.html" . }}
+        <div>
+            <h2 id="ritual-dust-releases">Ritual Dust releases</h2>
+            <div class="grid-2">
+                {{ if (eq $.Parent.Title "Music") }}
+                {{ range where .Pages "Section" "music" }}
+                {{ if not (in .Params.tags "notes") }}
+                {{ if in .Params.tags "ritual dust" }}
+                {{ partial "projectCard.html" . }}
                 {{ end }}
-              {{ end }}
-            {{ end }}
-          {{ else }}
-            {{ range where .Site.RegularPages "Section" "music" }}
-              {{ if not (in .Params.tags "notes") }}
-                {{ if not (in .Params.tags "ritual dust") }}
-                   {{ partial "projectCard.html" . }}
                 {{ end }}
-              {{ end }}
-            {{ end }}
-          {{ end }}
-        </div>
-        <h2 id="as-a-producer">As a producer</h2>
-        <div class="works-list">
-            {{ range $songs_produced }}
-                <div class="list-item">
-                <div><a href="{{ .url }}">{{ .title }}</a> by {{ .artist }}</div>
-                <div>{{ .type }}</div>
-                <div>{{ .year }}</div>
+                {{ end }}
+                {{ else }}
+                {{ range where .Site.RegularPages "Section" "music" }}
+                {{ if not (in .Params.tags "notes") }}
+                {{ if in .Params.tags "ritual dust" }}
+                {{ partial "projectCard.html" . }}
+                {{ end }}
+                {{ end }}
+                {{ end }}
+                {{ end }}
             </div>
-            {{ end }}
+            <div class="spacer"></div>
+            <h2 id="other-projects">Other projects</h2>
+            <div class="gallery-grid">
+                {{ if (eq $.Parent.Title "Music") }}
+                {{ range where .Pages "Section" "music" }}
+                {{ if not (in .Params.tags "notes") }}
+                {{ if not (in .Params.tags "ritual dust") }}
+                {{ partial "projectCard.html" . }}
+                {{ end }}
+                {{ end }}
+                {{ end }}
+                {{ else }}
+                {{ range where .Site.RegularPages "Section" "music" }}
+                {{ if not (in .Params.tags "notes") }}
+                {{ if not (in .Params.tags "ritual dust") }}
+                {{ partial "projectCard.html" . }}
+                {{ end }}
+                {{ end }}
+                {{ end }}
+                {{ end }}
+            </div>
+            <div class="spacer"></div>
+            <h2 id="as-a-producer">As a producer</h2>
+            <table class="simple">
+                <thead class="accent"><tr><th>Track</th><th style="width:8rem">Type</th><th style="width:8rem">Year</th></tr></thead>
+                <tbody>
+                    {{ range $songs_produced }}
+                    <tr>
+                        <td><a href="{{ .url }}">{{ .title }}</a> by {{ .artist }}</td>
+                        <td>{{ .type }}</td>
+                        <td>{{ .year }}</td>
+                    </tr>
+                    {{ end }}
+                </tbody>
+            </table>
+            <div class="spacer"></div>
+            <h2 id="notes">Notes</h2>
+            <div class="columns-2 works">
+                {{ range where .Site.RegularPages "Section" "music" }}
+                {{ if in .Params.tags "notes" }}
+                {{ partial "projectCard.html" . }}
+                {{ end}}
+                {{ end }}
+            </div>
         </div>
-        <div class="spacer large"></div>
-        <h2 id="notes">Notes</h2>
-        <div class="columns-2 works">
-          {{ range where .Site.RegularPages "Section" "music" }}
-            {{ if in .Params.tags "notes" }}
-              {{ partial "projectCard.html" . }}
-            {{ end}}
-          {{ end }}
-        </div>
-      </div>
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

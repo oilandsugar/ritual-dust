@@ -33,15 +33,21 @@ Software tools for me are mostly a mean to an end, although I do enjoy building 
 - **DaVinci Resolve** **©** for video editing and color grading  
 - **Adobe InDesign** **($) ©** for book layout (looking for an alternative)  
 
+{{< spacer >}}
+
 ## Audio tools
 
 - **Ableton Live** **($) ©**  as main DAW
 - **Audacity** for some simple audio file manipulation
 
+{{< spacer >}}
+
 ## Coding tools
 
 - **Atom** for code editing
 - [**Hugo**](https://gohugo.io/) for static site building
+
+{{< spacer >}}
 
 ## Utilities
 
@@ -49,6 +55,8 @@ Software tools for me are mostly a mean to an end, although I do enjoy building 
 - **Google calendar** for time management (looking for an alternative)  
 - Working on my own tool for budgeting
 - **Tagr** for mp3 file tagging
+
+{{< spacer >}}
 
 ## Resources and links
 

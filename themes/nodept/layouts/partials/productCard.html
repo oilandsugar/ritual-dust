@@ -1,18 +1,20 @@
-<a href="{{ .Permalink }}" class="product product-card">
-  {{ with .Params.image }}
+<a href="{{ .Permalink }}" class="product product-card card">
+    {{ with .Params.image }}
     <div class="image">
-      <img src="{{ . }}"/>
+        <div class="image-background">
+            <img src="{{ . }}"/>
+        </div>
     </div>
-  {{ end }}
-  <div class="desc">
-    <h3 class="blackletter">{{ .Title }}</h3>
-    {{ with .Params.desc }}
-      <p class="product-desc">
-        {{ . }}
-      </p>
     {{ end }}
-    {{ with .Params.price }}
-      <p class="price">{{ . }}$ CAD</p>
-    {{ end }}
-  </div>
+    <div class="desc">
+        <h3 class="blackletter">{{ .Title }}</h3>
+        {{ with .Params.desc }}
+        <p class="product-desc">
+            {{ . }}
+        </p>
+        {{ end }}
+        {{ with .Params.price }}
+        <p class="price">{{ . }}$ CAD</p>
+        {{ end }}
+    </div>
 </a>

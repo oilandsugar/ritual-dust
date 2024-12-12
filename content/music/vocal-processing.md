@@ -24,9 +24,15 @@ Doubles are two other takes of the lead melody sung in the same way with the sam
 
 Doubles are kept quite lower in volume than the main lead and it's good practice to cut their low end up to the fundamental frequency and dip their high end (around 5-9khz) and de-ess them pretty hard to get rid of transients and sybilans.
 
+It helps to process these with the same or similar effects as the lead to help them blend together
+
 ### Harmonies
 
 Harmonies are either the melody sung higher or lower than the main lead or just notes without any words that harmonize well with the main melody.
+
+long reverb and delay sounds good
+
+panned 35 degrees left and rght
 
 ### Fills
 
@@ -74,6 +80,30 @@ Using a regular delay, create a 1/8 note repeat, panned to one side.
 ### 8. 1/2 note delay
 
 Same as previous but with a longer 1/2 note repeat panned to the opposite side. It's interesting to add other effects on these delays to make it sound really different than the main vocal, anything from flanger, chorus, distortion and reverb works well.
+
+## Crisp sounding vocals
+
+### boost high frequency then de-ess
+
+### emphasis / de-emphasis saturation
+
+boost high end, add moderate saturation and then lower the high end but less than the initial boost
+
+### plate reverb with emphasized high end
+
+make a return track with a bright plate reverb followed by an eq that boost the hgh frequencies, send voice to it to desired amount
+
+### parallel compress the high end
+
+create a return track, add a high pass filter cutting up to 6khz, then add an aggressive compressor, send the voice to the desired level
+
+### cut low dipped mids
+
+cut low frequencies with an eq and dp the mids around 700hz to allow more of the high frequencies to come through
+
+oversample when making vocals crisper
+
+when compressing sharp vocals, use a medium attack and short release to keep transients an details
 
 **Tips**
 

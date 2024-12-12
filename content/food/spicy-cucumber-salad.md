@@ -9,23 +9,9 @@ imageAlt = "Spicy, fresh and quick to make salad"
 prepTime = "5 min"
 cookTime = "no time"
 portions = 2
+
+ingredients = ["1 english cucumber or 3 garden cucumbers", "1 tsp of gochugaru", "2 garlic cloves", "1.5 tbsp of apple cider vinegar", "1.5 tbsp of toasted sesame oil", "1 tbsp of maple syrup", "sesame seeds"]
 +++
-
-<div class="recipe-content">
-<div class="ingredients">
-
-## Ingredients
-
-- 1 english cucumber or 3 garden cucumbers
-- 1 tsp of gochugaru
-- 2 garlic cloves
-- 1.5 tbsp of apple cider vinegar
-- 1.5 tbsp of toasted sesame oil
-- 1 tbsp of maple syrup
-- sesame seeds
-
-</div>
-<div class="steps">
 
 ## Steps
 
@@ -34,8 +20,5 @@ portions = 2
 3. In a small bowl combine **1 tsp of gochugaru**, the **2 chopped garlic cloves**, **1.5 tbsp of apple cider vinegar**, **1.5 tbsp of toasted sesame oil** and **1 tbsp of maple syrup**
 4. Add the cucumber slices to the dressing and mix well with a spoon until all the slices are covered
 5. Sprinkle some sesame seeds on top and enjoy!
-
-</div>
-</div>
 
 ![Spicy, fresh and quick to make salad](/img/recipes/cucumber-salad.jpg)

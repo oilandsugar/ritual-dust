@@ -1,16 +1,15 @@
 {{ partial "header" . }}
 
-<main>
-  <div class="flex-row big-padding-top single-page">
+<main class="page-sidebar">
     {{ partial "sidebars/craftSingle" . }}
-    <article class="wrap single">
-      <span class="dingbats">{{ partialCached "icons/star" . }}</span>
-      <h1 class="psych-1">{{ .Title }}</h1>
-      {{ partial "tags" . }}
-      {{ .Content }}
-      {{ partial "page-meta" . }}
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        {{ partial "tags" . }}
+        <div class="page-content">
+            {{ .Content }}
+        </div>
+        {{ partial "page-meta" . }}
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

@@ -1,137 +1,129 @@
 {{ partial "header" . }}
-{{ $columns := "columns-3" }}
+{{ $columns := "" }}
 {{ if eq .Title "Video" }}
-    {{ $columns = "columns-2" }}
+{{ $columns = "columns-2" }}
 {{ end }}
 
-<main>
-  <div class="flex-row big-padding-top list-page">
+<main class="page-sidebar">
     {{ partial "sidebars/worksList" . }}
     <article>
-      <div class="small-wrap">
-        {{ partial "listPageTitle" . }}
-        {{ .Content }}
-      </div>
-      <div class="full-wrap">
-        {{ if eq .Title "Artwork" }}
-          <div class="category-wrapper">
-          <div class="flex-row">
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-1">
-                    <a href="/works/personal-work"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>PERSONNAL WORK</h2></a>
-                    <p class="accent"></p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="flex-row">
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-1">
-                    <a href="/works/fantasy-art"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>FANTASY ART</h2></a>
-                    <p class="accent"></p>
-                  </div>
-                </div>
-              </div>
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-1">
-                    <a href="/works/music-visuals"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>MUSIC VISUALS</h2></a>
-                    <p class="accent"></p>
-                  </div>
-                </div>
-              </div>
-            </div>
-              
-              <div class="flex-row">
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-1">
-                    <a href="/works/illustration"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>ILLUSTRATION</h2></a>
-                    <p class="accent"></p>
-                  </div>
-                </div>
-              </div>
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-1">
-                    <a href="/works/lettering"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>LETTERING</h2></a>
-                    <p class="accent"></p>
-                  </div>
-                </div>
-              </div>
-            </div>
-              
-               <div class="flex-row">
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-1">
-                    <a href="/works/paintings"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>PAINTINGS</h2></a>
-                    <p class="accent"></p>
-                  </div>
-                </div>
-              </div>
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-1">
-                    <a href="/works/layouts"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>LAYOUTS</h2></a>
-                    <p class="accent"></p>
-                  </div>
-                </div>
-              </div>
-            </div>
-              
-            <div class="flex-row">
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-1">
-                    <a href="/works/photo"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>PHOTOGRAPHY</h2></a>
-                    <p class="accent"></p>
-                  </div>
-                </div>
-              </div>
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-1">
-                    <a href="/works/video"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>VIDEO</h2></a>
-                    <p class="accent"></p>
-                  </div>
-                </div>
-              </div>
-            </div>
-              
-               <div class="flex-row">
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-1">
-                    <a href="/works/print"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>PRINTMAKING</h2></a>
-                    <p class="accent"></p>
-                  </div>
-                </div>
-              </div>
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-1">
-                    <a href="/works/websites"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>WEBSITES</h2></a>
-                    <p class="accent"></p>
-                  </div>
-                </div>
-              </div>
-            </div>
-              </div>
-          {{ else }}
-        <div class="{{ $columns }} big-padding-top works">
-            {{ range .Pages  }}
-                {{ if and (ne .Type "works/fantasy-art") (ne .Type "works/personal-work") (ne .Type "works/music-visuals")}}
-                  {{ partial "projectCard.html" . }}
-                {{ end }}
-              {{ end }}
+        {{ partial "pageTitle" . }}
+        <div class="measured">
+            {{ .Content }}
         </div>
-          {{ end}}
-      </div>
+        <div class="full-wrap large-padding-top">
+            {{ if eq .Title "Artwork" }}
+            <div class="category-wrapper flow">
+                <div class="grid-3">
+                    <div class="category-section small-padding-right medium-margin-bottom">
+                        <a href="/works/personal-work">
+                            <figure>
+                                <div class="image-background">
+                                    <img loading="lazy" class="to-toggle" data-srclow="/img/illustration/stone-camp/stone-encampment-low.jpg" data-srchi="/img/illustration/stone-camp/stone-encampment.jpg" src="/img/illustration/stone-camp/stone-encampment.jpg" alt="">
+                                </div>
+                            </figure>
+                            <h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>PERSONNAL WORK</h2>
+                        </a>
+                    </div>
+                    <div class="category-section small-padding-right medium-margin-bottom">
+                        <a href="/works/fantasy-art">
+                            <figure>
+                                <div class="image-background">
+                                    <img loading="lazy" class="to-toggle" data-srclow="/img/illustration/beholder/beholder-web-low.jpg" data-srchi="/img/illustration/beholder/beholder-web.jpg" src="/img/illustration/beholder/beholder-web.jpg" alt="">
+                                </div>
+                            </figure>
+                            <h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>FANTASY ART</h2>
+                        </a>
+                    </div>
+                    <div class="category-section small-padding-right medium-margin-bottom">
+                        <a href="/works/music-visuals">
+                            <figure>
+                                <div class="image-background">
+                                    <img loading="lazy" class="to-toggle" data-srclow="/img/design/dungeon-synth-covers/silent-gnome-low.jpg" data-srchi="/img/design/dungeon-synth-covers/silent-gnome.jpg" src="/img/design/dungeon-synth-covers/silent-gnome.jpg" alt="">
+                                </div>
+                            </figure>
+                            <h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>MUSIC VISUALS</h2></a>
+                    </div>
+                </div>
+
+                <div class="grid-2">
+                    <div class="category-section medium-margin-bottom">
+                        <div class="flex-row">
+                            <div class="flex-1">
+                                <a href="/works/illustration"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>ILLUSTRATION</h2></a>
+                                <p class="accent"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="category-section medium-margin-bottom">
+                        <div class="flex-row">
+                            <div class="flex-1">
+                                <a href="/works/lettering"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>LETTERING</h2></a>
+                                <p class="accent"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="category-section medium-margin-bottom">
+                        <div class="flex-row">
+                            <div class="flex-1">
+                                <a href="/works/paintings"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>PAINTINGS</h2></a>
+                                <p class="accent"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="category-section medium-margin-bottom">
+                        <div class="flex-row">
+                            <div class="flex-1">
+                                <a href="/works/layouts"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>LAYOUTS</h2></a>
+                                <p class="accent"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="category-section small-padding-right medium-margin-bottom">
+                        <div class="flex-row">
+                            <div class="flex-1">
+                                <a href="/works/photo"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>PHOTOGRAPHY</h2></a>
+                                <p class="accent"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="category-section  medium-margin-bottom">
+                        <div class="flex-row">
+                            <div class="flex-1">
+                                <a href="/works/video"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>VIDEO</h2></a>
+                                <p class="accent"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="category-section medium-margin-bottom">
+                        <div class="flex-row">
+                            <div class="flex-1">
+                                <a href="/works/print"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>PRINTMAKING</h2></a>
+                                <p class="accent"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="category-section small-padding-right medium-margin-bottom">
+                        <div class="flex-row">
+                            <div class="flex-1">
+                                <a href="/works/websites"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>WEBSITES</h2></a>
+                                <p class="accent"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ else }}
+            <div class="{{$columns}} gallery-grid works">
+                {{ range .Pages  }}
+                {{ if and (ne .Type "works/fantasy-art") (ne .Type "works/personal-work") (ne .Type "works/music-visuals")}}
+                {{ partial "projectCard.html" . }}
+                {{ end }}
+                {{ end }}
+            </div>
+            {{ end}}
+        </div>
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

@@ -2,7 +2,8 @@
 title = "Bookmarks"
 date = "2021-12-18"
 weight = 5
-tags = ["bookmarks"]
+tags = ["bookmarks", "notes"]
+type = "page"
 +++
 
 My bookmarks of interesting / useful / beautiful websites. I've also included some links to my topic specific lists of resources at the end of this page. Most of the links on this page were first saved in my local notes on my computer then moved in one of those pages on here.

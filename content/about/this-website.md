@@ -3,7 +3,7 @@ title = "This website"
 date = "2022-01-14"
 weight = 11
 intro = "The why and how of this website"
-tags = ["website"]
+tags = ["website", "typography", "notes"]
 +++
 
 ## The why
@@ -36,7 +36,7 @@ This website changes color theme every season. For doing so I'm using a theming 
 
 Here are the themes I've made so far
 
-<div class="themes">
+<div class="grid-6">
 <div class="theme">
   <a href="/themes/ritualdust-spring.svg" download>
     <img src="/themes/ritualdust-spring.svg"/>
@@ -79,6 +79,12 @@ Here are the themes I've made so far
     <h4>Fall 2024</h4>
   </a>
 </div>
+    <div class="theme">
+  <a href="/themes/ritualdust-paper.svg" download>
+    <img src="/themes/ritualdust-paper.svg"/>
+    <h4>Paper</h4>
+  </a>
+</div>
 </div>
 
 {{< spacer >}}
@@ -103,29 +109,44 @@ If you're interested in better markup and more accessible websites, go take a lo
 
 ---
 
-<div class="row">
-<div class="flex-1 smaller-padding-left smaller-padding-right">
+<div class="grid-2">
+<div class="">
     
 ### TODO
 
 [-] Add commissions banner on home page  
+[-] move my monthly recaps from patreon to website  
 
-[ ] use vw units for margins  
-[ ] make optimisations for dark themes (bg of low res images)  
-[ ] try having images in grayscale and multiply by default, and become full color on hover on list pages  
+[ ] use built in image processing tools to resize and dither images  
+[ ] find a way to have dark and light theme with one theme file  
+[ ] add prefers dark mode thingy in css  
+[ ] Make icons for all sections    
+
+[ ] finish writing printmaking tutorial   
 [ ] finish writing page on druidism   
 [ ] finish writing page on tarot   
 [ ] finish writing page on shinto   
 [ ] finish writing page on alchemy   
-[ ] Make icons for all sections   
-[ ] use built in image processing tools to resize and dither images  
-[ ] Improve design tree page
 
 </div>
-<div class="flex-1 smaller-padding-left smaller-padding-right">
+<div class="">
     
 ### DONE
 
+[x] adjust mobile version with new spacings and layouts  
+[x] make optimisations for dark themes (bg of low res images)   
+[x] make active menu link work  
+[x] add reset at beginnng of css to clear some basic padding and margins  
+[x] move ingredients to their own field in recipes  
+[x] keep image to the right column in recipe  
+[x] add images on artwork page  
+[x] try having images in grayscale and multiply by default, and become full color on hover on list pages  
+[x] add about pages to tags   
+[x] hide artwork from works sidebar  
+[x] switch playing page to media format  
+[x] Improve design tree page  
+[x] use baseline grid for vertical spacing  
+[x] use vw units for margins  
 [x] make little piano  
 [x] Add code blocks  
 [x] change music sidebar   

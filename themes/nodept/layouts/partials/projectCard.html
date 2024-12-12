@@ -3,18 +3,18 @@
 {{ $lowResCover := replace .Params.image ".jpg" "-low.jpg" }}
 
 <a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}" class="project-card card {{ range .Params.tags }}{{ . }} {{ end }}">
-  {{ with .Params.image }}
+    {{ with .Params.image }}
     <div class="picture">
-      <div class="image-background">
-        <img
-          class="to-toggle low"
-          data-srclow="{{ $lowResCover | safeURL }}"
-          data-srchi="{{ $cover | safeURL }}"
-          src="{{ $lowResCover | safeURL }}"
-          alt="{{ $title }}">
-      </div>
+        <div class="image-background">
+            <img
+                 class="to-toggle low"
+                 data-srclow="{{ $lowResCover | safeURL }}"
+                 data-srchi="{{ $cover | safeURL }}"
+                 src="{{ $lowResCover | safeURL }}"
+                 alt="{{ $title }}">
+        </div>
     </div>
-  {{ end }}
-  <h3 class="blackletter small-padding-bottom small-padding-top">{{ .Title }}</h3>
-  <div class="desc">{{ .Params.desc }}</div>
+    {{ end }}
+    <h3 class="blackletter default-padding-bottom default-padding-top">{{ .Title }}</h3>
+    <div class="desc">{{ .Params.desc }}</div>
 </a>

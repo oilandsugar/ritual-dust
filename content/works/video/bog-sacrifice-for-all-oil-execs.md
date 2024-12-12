@@ -11,12 +11,16 @@ desc = "Process video for my song Bog Sacrifice for All Oil Execs"
 </div>
 
 <div class="credits medium-padding-top">
-<small>Credits and details</small>  
 
-Cinematographer / Editor / Photographer : **Lizbeth Poirier**  
+### Credits and details
+
+<div class="toc-entry">
+    <div class="chapter">
+Cinematographer / Editor / Photographer</div><div class="page"><strong>Lizbeth Poirier</strong></div>
+</div>  
 
 Shot on the Sony A6300 with the Rokinon 10mm   
-Edited and color graded in Davinci Resolve
+Edited and color graded in Davinci Resolve  
 Featuring photos I took in Ireland
 
 </div>

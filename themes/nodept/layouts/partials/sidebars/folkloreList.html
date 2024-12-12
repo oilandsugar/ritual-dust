@@ -4,7 +4,7 @@
     {{ partial "sidebars/utils/back" . }}
   {{ end }}
   <h3 class="accent default-font all-caps">Pages</h3>
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <ul class="section-pages">
     {{ range .RegularPages }}
       {{ if not (in .Params.tags "notes") }}
@@ -17,7 +17,7 @@
   <h3 class="accent"><a href="/folklore/travel-logs/">Travel logs</a></h3>
   <h3 class="accent"><a href="/folklore/weird-walking/">Weird walks</a></h3>
   <h3 class="accent default-font all-caps">Notes</h3>
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <ul class="section-pages">
     {{ range .RegularPages }}
       {{ if in .Params.tags "notes" }}
@@ -26,7 +26,7 @@
     {{ end }}
     </ul>
   </div>
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <h3 class="accent default-font all-caps">Deeper knowledge</h3>
     <ul>
       <li><a href="https://www.weirdwalk.co.uk/">Weird Walk</a></li>

@@ -1,43 +1,40 @@
 {{ partial "header" . }}
 
-<main>
-  <div class="flex-row big-padding-top big-padding-bottom single-page">
+<main class="page-sidebar">
     {{ partial "sidebars/worksSingle" . }}
-    <article class="wrap single row product-page">
-        <div class="flex-1 medium-padding-right">
-          {{ with .Params.image }}
+    <article class="product-page grid-2">
+        <div>
+            {{ with .Params.image }}
             <div class="image">
-              <img src="{{ . }}"/>
+                <img src="{{ . }}"/>
             </div>
-          {{ end }}
+            {{ end }}
         </div>
-        <div class="flex-1">
-          <span class="dingbats accent">{{ partialCached "icons/weirdspiral" . }}</span>
-          <h2 class="psych-1 accent">{{ .Title }}</h2>
+        <div>
+            {{ partial "pageTitle" . }}
             {{ partial "tags" .}}
             <div class="desc">
                 {{ .Content }}
-            {{ with .Params.price }}
-              <p class="price">{{ . }}$ CAD</p>
-            {{ end }}
-            <button class="snipcart-add-item"
-              data-item-id="{{ with .Params.id }}{{ . }}{{ end }}"
-              data-item-price="{{ with .Params.price }}{{ . }}{{ end }}"
-              data-item-url="{{ with .Params.productUrl }}{{ . }}{{ end }}"
-              data-item-description="{{ with .Params.desc }}{{ . }}{{ end }}"
-              data-item-image="{{ with .Params.image }}{{ . }}{{ end }}"
-              data-item-name="{{ with .Title }}{{ . }}{{ end }}"
-              data-item-weight="{{ with .Params.weight }}{{ . }}{{ end }}"
-              data-item-length="{{ with .Params.length }}{{ . }}{{ end }}"
-              data-item-height="{{ with .Params.height }}{{ . }}{{ end }}"
-              data-item-width="{{ with .Params.width }}{{ . }}{{ end }}">
-              Add to cart
-            </button>
-          </div>
-          {{ partial "page-meta" . }}
+                {{ with .Params.price }}
+                <p class="price">{{ . }}$ CAD</p>
+                {{ end }}
+                <button class="snipcart-add-item"
+                        data-item-id="{{ with .Params.id }}{{ . }}{{ end }}"
+                        data-item-price="{{ with .Params.price }}{{ . }}{{ end }}"
+                        data-item-url="{{ with .Params.productUrl }}{{ . }}{{ end }}"
+                        data-item-description="{{ with .Params.desc }}{{ . }}{{ end }}"
+                        data-item-image="{{ with .Params.image }}{{ . }}{{ end }}"
+                        data-item-name="{{ with .Title }}{{ . }}{{ end }}"
+                        data-item-weight="{{ with .Params.weight }}{{ . }}{{ end }}"
+                        data-item-length="{{ with .Params.length }}{{ . }}{{ end }}"
+                        data-item-height="{{ with .Params.height }}{{ . }}{{ end }}"
+                        data-item-width="{{ with .Params.width }}{{ . }}{{ end }}">
+                    Add to cart
+                </button>
+            </div>
+            {{ partial "page-meta" . }}
         </div>
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

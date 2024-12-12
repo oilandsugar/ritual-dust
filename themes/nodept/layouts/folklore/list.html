@@ -1,22 +1,18 @@
 {{ partial "header" . }}
 
-<main>
-  <div class="flex-row big-padding-top list-page">
+<main class="page-sidebar">
     {{ partialCached "sidebars/folkloreList" . }}
-    <article>
-      <div class="small-wrap">
-        {{ partial "listPageTitle" . }}
-      </div>
-      <div class="full-wrap">
-        {{ .Content }}
-        <div class="folklore big-padding-top columns-3">
-          {{ range where .RegularPages "Type" "folklore" }}
-            {{ partial "folkloreCard.html" . }}
-          {{ end }}
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        <div class="measured">
+            {{ .Content }}
         </div>
-      </div>
+        <div class="folklore gallery-grid">
+            {{ range where .RegularPages "Type" "folklore" }}
+            {{ partial "folkloreCard.html" . }}
+            {{ end }}
+        </div>
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

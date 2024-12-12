@@ -1,118 +1,101 @@
-<main>
-  {{ partial "bio" . }}
-  {{ partial "header" . }}
-  <div class="medium-padding">
+<main class="flow">
+    {{ partial "bio" . }}
+    {{ partial "header" . }}
     <div id="home-img">
-      <figure>
-        <div class="image-background">
-          <img
-            class="to-toggle low"
-            data-srclow="/img/home/shadow-over-innsmouth-banner-low.jpg"
-            data-srchi="/img/home/shadow-over-innsmouth-banner.jpg"
-            src="/img/home/shadow-over-innsmouth-banner-low.jpg">
-        </div>
-      </figure>
-      <div id="folklore-img"></div>
-      <a href="/works/illustration/shadow-over-innsmouth/" class="image-link">
-        from the Shadow over Innsmouth Illustration
-      </a>
-      </div>
+        <figure>
+            <div class="image-background">
+                <img
+                     class="to-toggle low"
+                     data-srclow="/img/home/shadow-over-innsmouth-banner-low.jpg"
+                     data-srchi="/img/home/shadow-over-innsmouth-banner.jpg"
+                     src="/img/home/shadow-over-innsmouth-banner-low.jpg">
+            </div>
+        </figure>
+        <div id="folklore-img"></div>
+        <a href="/works/illustration/shadow-over-innsmouth/" class="image-link">
+            from the Shadow over Innsmouth Illustration
+        </a>
     </div>
-  <div class="flex-row list-page">
-    <div class="flex-row top-page-row">
-      {{ partial "sidebars/home" . }}
-      <article class="home">
-        <div class="full-wrap">
-          <div class="home-content category-wrapper">
-              <div class="row">
-                  <div class="flex-1 smaller-padding-left smaller-padding-right">
-                    <a class="commission-banner medium-margin-bottom" href="works/commissions/">
-                    <div class="content">
-                    <h2 class="blackletter">WORK WITH ME</h2>
-                    <p class="accent">I am available for professional and personnal illustration, graphic design and lettering commissions for bands, artists, publishers, writers and more.</p>
+    <div class="page-sidebar">
+        {{ partial "sidebars/home" . }}
+        <article class="home">
+            <div class="home-content">
+                <div class="grid-2">
+                    <div>
+                        <a class="commission-banner" href="works/commissions/">
+                            <div class="content">
+                                <h2 class="blackletter">WORK WITH ME</h2>
+                                <p class="accent">I am available for professional and personnal illustration, graphic design and lettering commissions for bands, artists, publishers, writers and more.</p>
+                            </div>
+                        </a>
                     </div>
-                    </a>
-                  </div>
-                  <div class="flex-1 smaller-padding-left smaller-padding-right">
-                    <a class="shop-banner medium-margin-bottom" href="/shop/">
-                    <div class="shop-banner-img"></div>
-                    <div class="content">
-                    <h2 class="blackletter">SHOP</h2>
-                    <p class="accent">Get prints, original artwork, strange games and obscure artefacts here.</p>
+                    <div >
+                        <a class="shop-banner" href="/shop/">
+                            <div class="shop-banner-img"></div>
+                            <div class="content">
+                                <h2 class="blackletter">SHOP</h2>
+                                <p class="accent">Get prints, original artwork, strange games and obscure artefacts here.</p>
+                            </div>
+                        </a>
                     </div>
-                    </a>
-                  </div>
-              </div>
-            
-            <div class="flex-row">
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-4">
-                    <a href="/works/"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>ARTWORK</h2></a>
-                    <p class="accent">My creative output, ranging from illustration, design and lettering to photography and video</p>
-                  </div>
                 </div>
-                <a class="button-outline" href="/works/">Explore artwork gallery</a>
-              </div>
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-4">
-                    <a href="/tattoo/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/flower" . }}</span>TATTOO</h2></a>
-                    <p class="accent">Dark fantasy, medieval woodcut and black metal lettering inspired tattoos</p>
-                  </div>
+                <div class="grid-2 large-padding-top">
+                    <div class="category-section">
+                        <div class="flex-row">
+                            <div class="flex-4">
+                                <a href="/works/"><h2 class="small-margin-bottom blackletter"><span class="dingbats">{{ partial "icons/weirdspiral" . }}</span>ARTWORK</h2></a>
+                                <p class="accent">My creative output, ranging from illustration, design and lettering to photography and video</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="category-section">
+                        <div class="flex-row">
+                            <div class="flex-4">
+                                <a href="/tattoo/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/flower" . }}</span>TATTOO</h2></a>
+                                <p class="accent">Dark fantasy, medieval woodcut and black metal lettering inspired tattoos</p>
+                            </div>
+                        </div>                           
+                    </div>
                 </div>
-                <a class="button-outline" href="/tattoo/">View recent tattoos</a>
-                <ul>
-                  <li><a href="/tattoo/flash/">Available flash</a></li>
-                  <li><a href="/tattoo/tattoo-form/">Custom tattoo form</a></li>
-                </ul>
-              </div>
+                <div class="grid-2 large-padding-top">
+                    <div class="category-section">
+                        <div class="flex-row">
+                            <div class="flex-4">
+                                <a href="/craft/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/star" . }}</span>CRAFT</h2></a>
+                                <p class="accent">My craft, handmade artifacts, more technical research and notes and my thoughts on making</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="category-section">
+                        <div class="flex-row">
+                            <div class="flex-4">
+                                <a href="/folklore/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/diamond" . }}</span>FOLKLORE</h2></a>
+                                <p class="accent">Personal and collective folklore, stories, wonderings and beliefs</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-2 large-padding-top">
+                    <div class="category-section">
+                        <div class="flex-row">
+                            <div class="flex-4">
+                                <a href="/music/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/star" . }}</span>MUSIC</h2></a>
+                                <p class="accent">My folklore-infused pagan electronic music releases and other projects I collaborated to</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="category-section">
+                        <div class="flex-row">
+                            <div class="flex-4">
+                                <a href="/food/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/diamond" . }}</span>FOOD</h2></a>
+                                <p class="accent">Plant-based simple food and an archive of my favorite recipes</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="flex-row">
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-4">
-                    <a href="/craft/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/star" . }}</span>CRAFT</h2></a>
-                    <p class="accent">My craft, handmade artifacts, more technical research and notes and my thoughts on making</p>
-                  </div>
-                </div>
-                <a class="button-outline" href="/craft/">View the crafted artefacts</a>
-              </div>
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-4">
-                    <a href="/folklore/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/diamond" . }}</span>FOLKLORE</h2></a>
-                    <p class="accent">Personal and collective folklore, stories, wonderings and beliefs</p>
-                  </div>
-                </div>
-                <a class="button-outline" href="/folklore/">Discover my folklore</a>
-              </div>
-            </div>
-            <div class="flex-row">
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-4">
-                    <a href="/music/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/star" . }}</span>MUSIC</h2></a>
-                    <p class="accent">My folklore-infused pagan electronic music releases and other projects I collaborated to</p>
-                  </div>
-                </div>
-                <a class="button-outline" href="/music/">Listen to my music</a>
-              </div>
-              <div class="category-section small-padding-right medium-margin-bottom">
-                <div class="flex-row">
-                  <div class="flex-4">
-                    <a href="/food/"><h2 class="blackletter"><span class="dingbats">{{ partial "icons/diamond" . }}</span>FOOD</h2></a>
-                    <p class="accent">Plant-based simple food and an archive of my favorite recipes</p>
-                  </div>
-                </div>
-                <a class="button-outline" href="/food/">Peruse my recipes</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </article>
+        </article>
     </div>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

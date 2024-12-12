@@ -1,28 +1,24 @@
 {{ partial "header" . }}
 
-<main>
-  <div class="flex-row big-padding-top list-page">
+<main class="page-sidebar">
     {{ partial "sidebars/shopList" . }}
-    <article>
-      <div class="small-wrap works">
-        {{ partial "listPageTitle" . }}
-      </div>
-      <div class="full-wrap">
-        {{ .Content }}
-        <div class="columns-3 big-padding-top">
-          {{ if (eq $.Parent.Title "Shop") }}
-            {{ range where .Pages "Section" "shop" }}
-              {{ partial "productCard.html" . }}
-            {{ end }}
-          {{ else }}
-          {{ range where .Site.RegularPages "Section" "shop" }}
-            {{ partial "productCard.html" . }}
-          {{ end }}
-          {{ end }}
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        <div class="measured">
+            {{ .Content }}
         </div>
-      </div>
+        <div class="gallery-grid">
+            {{ if (eq $.Parent.Title "Shop") }}
+            {{ range where .Pages "Section" "shop" }}
+            {{ partial "productCard.html" . }}
+            {{ end }}
+            {{ else }}
+            {{ range where .Site.RegularPages "Section" "shop" }}
+            {{ partial "productCard.html" . }}
+            {{ end }}
+            {{ end }}
+        </div>
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

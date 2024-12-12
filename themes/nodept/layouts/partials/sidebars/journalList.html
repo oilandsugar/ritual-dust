@@ -1,10 +1,15 @@
 <aside class="sidebar">
   {{ partial "name" . }}
-  <div class="small-padding-bottom">
-    Open ended and ephemeral micro-posts, including thoughts, inspirations, goals, the music I'm listening too and the projects I'm working on.
-  </div>
+    <h3 class="accent default-font all-caps">Entries</h3>
+    <div class="default-padding-bottom">
+    {{ range where .Pages "Section" "journal" }}
+        {{ if not (in .Params.tags "notes") }}
+          {{ partial "sidebars/utils/sidebarMenuItem" . }}
+        {{ end }}
+      {{ end }}
+    </div>
   <h3 class="accent default-font all-caps">More info</h3>
-  <div class="small-padding-bottom">
+  <div class="default-padding-bottom">
     <a href="https://journal.miso.town/">HTML Journal spec</a><br/>
     <a href="https://kiosk.nightfall.city/">Neon Kiosk (aggregator)</a>
     <a href="https://nownownow.com/about">About now pages</a>

@@ -3,7 +3,7 @@ title = "Tapes"
 date = "2021-06-20"
 image = "/img/about/tapes.jpg"
 weight = 7
-tags = ["music", "dungeon synth", "black metal", "dark ambient", "folk"]
+tags = ["music", "dungeon synth", "black metal", "dark ambient", "folk", "notes"]
 +++
 
 ![Tape collection](/img/about/tapes.jpg)
@@ -32,6 +32,8 @@ Just listing all the tapes from my collection here
 - **Come, deathless**, Surachai
 - **Hinterpest**, Mumbles
 
+{{< spacer >}}
+
 ## Synth music
 
 - **Sortilèges**, Potochkine
@@ -45,6 +47,8 @@ Just listing all the tapes from my collection here
 - **???**, Cosmic highness
 - **a passage in time**, Dead can dance
 
+{{< spacer >}}
+
 ## Metal
 
 - **Henbane**, Culte des ghoules
@@ -53,6 +57,8 @@ Just listing all the tapes from my collection here
 - **Postum**, Lord Summerisle
 - **No dawn for men**, Feminazgul
 - **Interrupt request**, C:\>
+
+{{< spacer >}}
 
 ## Dungeon synth
 
@@ -67,6 +73,8 @@ Just listing all the tapes from my collection here
 - **Assorted mushrooms of new england**, Mycologia
 - **The song of a long forgotten ghost**, Mortiis
 - **Magical atavism**, Book of skelos
+
+{{< spacer >}}
 
 ## Folk
 

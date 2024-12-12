@@ -10,9 +10,7 @@ The forth of my monthly print club, is complementary to the first one, decay and
 
 Linocut on paper, 3" x 5" - 2022
 
----
-
-Join the monthly print club on Patreon and get an original print by mail every month: https://www.patreon.com/ritualdust
+Join my [monthly print club](https://www.patreon.com/ritualdust)
 
 ![](/img/print/decay-1.jpg)
 

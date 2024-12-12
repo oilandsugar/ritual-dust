@@ -1,15 +1,14 @@
 {{ partial "header" . }}
 
-<main>
-  <div class="flex-row big-padding-top list-page">
+<main class="page-sidebar">
     {{ partial "sidebars/aboutList" . }}
-    <article class="small-wrap">
-      {{ partial "listPageTitle" . }}
-      <div>
-      {{.Content}}
-      </div>
+    <article class="measured flow">
+        {{ partial "pageTitle" . }}
+        <div class="page-content">
+            {{.Content}}
+        </div>
+        {{ partial "page-meta" . }}
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

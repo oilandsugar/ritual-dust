@@ -5,12 +5,12 @@ type = "page"
 desc = ""
 +++
 
-<div class="table-of-content mini">
+<div class="table-of-contents mini subdued">
 
 [Ritual Dust](#ritual-dust-releases) •
 [Other projects](#other-projects) •
 [As a producer](#as-a-producer) •
-[Notes](#ritual-dust-releases)
+[Notes](#notes)
 
 </div>
 

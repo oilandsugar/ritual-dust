@@ -1,36 +1,31 @@
 {{ partial "header" . }}
 
-<main>
-    <div class="flex-row big-padding-top tag-page">
-        <aside class="sidebar">
-            <div class="back-home">
-                <a href="/tags/"><h3>Back to all tags</h3></a>
+<main class="list-page tag-page">
+    {{ partial "sidebars/tags" . }}
+    <article>
+        <div class="measured">
+            <div class="page-title">
+                <h1 class="psych-1 accent">Tag: {{ .Title }}</h1>
             </div>
-            <h3 class="accent">Tags</h3>
-            <ul>
-                {{ range .Site.Taxonomies.tags.ByCount }}
-                <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
-                {{ end }}
-            </ul>
-        </aside>
-        <article>
-            <div class="small-wrap">
-                <div class="page-title">
-                    <h1 class="psych-1 accent">{{ .Title }}</h1>
-                </div>
-            </div>
-            <div class="full-wrap">
-                <div class='columns-3 big-padding-top works'>
-                    {{ range where .Pages "Type" "food" }}
-                        {{ partial "recipeCard.html" . }}
-                    {{ end }}
-                    {{ range where .Pages "Type" "ne" "food" }}
-                        {{ partial "projectCard.html" . }}
-                    {{ end }}
-                </div>
-            </div>
-        </article>
-    </div>
+        </div>
+        <div class='gallery-grid works'>
+            {{ range .Pages }}
+            {{ if eq .Type "food" }}
+            {{ partial "recipeCard.html" . }}
+            {{ else if eq .Type "craft" }}
+            {{ partial "craftCard.html" . }}
+            {{ else if eq .Type "product" }}
+            {{ partial "productCard.html" . }}
+            {{ else if eq .Type "folklore" }}
+            {{ partial "folkloreCard.html" . }}
+            {{ else if eq .Layout "media" }}
+            {{ partial "mediaCard.html" . }}
+            {{ else }}
+            {{ partial "projectCard.html" . }}
+            {{ end }}
+            {{ end }}
+        </div>
+    </article>
 </main>
 
 {{ partialCached "footer" . }}

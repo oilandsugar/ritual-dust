@@ -3,17 +3,17 @@ title = "Film look on digital"
 tags = ["video", "notes"]
 date = "2023-02-02"
 desc = "Getting a realistic film look on digital videos"
-draft = true
+draft = false
 +++
 
-simulating super 16 with a digital camera:
+## Shooting settings:
 
 - 24 fps
 - 1/48 or 1/50 shutter speed
 - picture settings -> sharpness to lower setting
 - f2.8 minimum
 
-when editing the footage, make these changes:
+## Grading steps:
 
 - add grain
 - lift midtones
@@ -21,7 +21,9 @@ when editing the footage, make these changes:
 - bring highlights towards magenta
 - bring midtones towards green / yellow
 - add a flicker layer with overlay blend mode
+- Add halation
 - add a slight vignette
 
-useful tools to get the look:
-https://www.tombolles.net/cineprint16
+## Links and resources
+
+- [Cineprint](https://www.tombolles.net/cineprint16)

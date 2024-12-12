@@ -1,15 +1,24 @@
 +++
-title = "Available flash"
+title = "Available flash designs"
 tags = ["tattoo", "notes"]
 date = "2024-07-08"
 desc = "Designs available to tattoo"
 +++
 
+<div class="table-of-contents mini subdued">
+
+[Artefacts](#wood-stones-and-artefacts)
+[Diablo-inspired](#demon-slaying-and-brimstone)
+[Dark fantasy](#dark-fantasy)
+[Armory](#armory)
+
+</div>
+
 ## Wood, stones and artefacts
 
 Series of designs inspired by nature, sacred stones and ancient artefacts.
 
-<div class="columns big-padding-bottom">
+<div class="grid-3 large-padding-bottom">
 
 <div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/stone-1.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/wood-1.jpg"/></div>
@@ -26,7 +35,7 @@ Series of designs inspired by nature, sacred stones and ancient artefacts.
 
 Ongoing series of flashes inspired by old school Diablo games. All pieces 8" minimum except the ones labelled small.
 
-<div class="columns big-padding-bottom">
+<div class="grid-3 large-padding-bottom">
 
 <div class="flash"><div class="number">1 (small)</div><img src="/img/tattoo/flash/diablo-dagger.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/diablo-axe-1.jpg"/></div>
@@ -43,7 +52,7 @@ Ongoing series of flashes inspired by old school Diablo games. All pieces 8" min
 
 An ongoing series of pieces inspired by old-school DnD, dark fantasy and sword and sorcery. All pieces 6" minimum except the ones labelled small.
 
-<div class="columns big-padding-bottom">
+<div class="grid-3 large-padding-bottom">
 
 <div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/dragon-shield.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/pointy-sword-2.jpg"/></div>
@@ -75,7 +84,7 @@ An ongoing series of pieces inspired by old-school DnD, dark fantasy and sword a
 
 Ongoing series of flashes inspired by the blood-soaked streets of Yarnham and their underlying eldritch horrors. All pieces 8" minimum except the ones labelled small.
 
-<div class="columns big-padding-bottom">
+<div class="grid-3 big-padding-bottom">
 
 <div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/cage-flat.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/eldritch-horror-flat.jpg"/></div>
@@ -93,7 +102,7 @@ Ongoing series of flashes inspired by the blood-soaked streets of Yarnham and th
 
 Flashes inspired by medieval bestiaries and folklore in a woodcut style, all pieces 6" minimum except the ones labelled small.
 
-<div class="columns big-padding-bottom">
+<div class="grid-3 big-padding-bottom">
 
 <div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/woodcut-grotesque.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/woodcut-cauldron.jpg"/></div>
@@ -108,7 +117,7 @@ Flashes inspired by medieval bestiaries and folklore in a woodcut style, all pie
 
 The armory is an ongoing series of flash of imagined fantasy and historical weapons, from ornate ceremonial weapons to makeshift ones created from farm tools, magical swords and brutal weapons crafted by mysterious creatures of the woods. Minimum size for tattooing is 6", can be bigger too.
 
-<div class="armory flash-sheet">
+<div class="armory grid-6 big-padding-bottom">
 
 <div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/celtic-dagger.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/dagger-sheath-2.jpg"/></div>

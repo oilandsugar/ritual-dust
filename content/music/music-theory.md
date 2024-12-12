@@ -138,10 +138,8 @@ T                                               |    T
 A key is the combination of a tonic or central notes, a scale and a set of chord progressions.
 These are all the keys in the western classical musical tradition, which are the most commonly used in contemporary electronic music.
 
-<div class="row">
+<div class="grid-3">
     
-<div class="flex-1 smaller-padding-left smaller-padding-right">
-
 <div class="music-key">
 <strong>A major</strong>  
 <div class="accent">A, B, C♯, D, E, F♯, G♯</div>
@@ -193,9 +191,6 @@ These are all the keys in the western classical musical tradition, which are the
 <div class="genres"><div class="stat">edm</div></div>
 </div>
 
-</div>
-<div class="flex-1 smaller-padding-left smaller-padding-right">
-
 <div class="music-key">
 <strong>C# major (D♭ major)</strong>  
 <div class="accent">C♯, D♯, E♯, F♯, G♯, A♯, B♯</div>
@@ -244,9 +239,6 @@ These are all the keys in the western classical musical tradition, which are the
 <div class="desc"><em>feeling?</em></div>
 <div class="genres"><div class="stat">pop</div></div>
 </div>
-
-</div>
-<div class="flex-1 smaller-padding-left smaller-padding-right">
 
 <div class="music-key">
 <strong>F major</strong>  
@@ -300,7 +292,6 @@ These are all the keys in the western classical musical tradition, which are the
 </div>
     
 </div>
-</div>
 
 {{< spacer >}}
 
@@ -309,8 +300,7 @@ These are all the keys in the western classical musical tradition, which are the
 Alternatively to a key, a mode represent different ways to use a specific scale to compose music.
 Scales can have different modes, which are the same sequence of notes as the note's major scale but starting on a different note.
 
-<div class="row">
-<div class="flex-1 smaller-padding-left smaller-padding-right">
+<div class="grid-3">
 <div class="music-mode">
     <strong>Ionian</strong><br/>
     starting note: <span class="accent">I</span><br/>
@@ -326,8 +316,6 @@ Scales can have different modes, which are the same sequence of notes as the not
     starting note: <span class="accent">III</span><br/>
     tonality: <span class="accent">minor</span><br/>
 </div>
-</div>
-<div class="flex-1 smaller-padding-left smaller-padding-right">
 <div class="music-mode">
     <strong>Lydian</strong><br/>
     starting note: <span class="accent">IV</span><br/>
@@ -338,8 +326,6 @@ Scales can have different modes, which are the same sequence of notes as the not
     starting note: <span class="accent">V</span><br/>
     tonality: <span class="accent">major</span><br/>
 </div>
-</div>
-<div class="flex-1 smaller-padding-left smaller-padding-right">
 <div class="music-mode">
     <strong>Aeonian</strong><br/>
     starting note: <span class="accent">VI</span><br/>
@@ -349,7 +335,6 @@ Scales can have different modes, which are the same sequence of notes as the not
     <strong>Locrian</strong><br/>
     starting note: <span class="accent">VII</span><br/>
     tonality: <span class="accent">half-diminished</span><br/>
-</div>
 </div>
 </div>
 

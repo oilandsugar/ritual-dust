@@ -1,57 +1,55 @@
 {{ partial "header" . }}
 
-<main>
-  <div class="flex-row big-padding-top list-page">
+<main class="page-sidebar">
     {{ partial "sidebars/tattooList" . }}
-    <article>
-      <div class="small-wrap">
-        {{ partial "listPageTitle" . }}
-        <div class="intro">
-          {{ .Params.desc }}
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        <div class="table-of-contents mini subdued">
+            <a href="#dark-fantasy">Dark fantasy</a>
+            <a href="#medieval-woodcuts">Medieval woodcuts</a>
+            <a href="#black-metal">Black metal</a>
         </div>
-      </div>
-      <div class="full-wrap">
-        {{ .Content }}
+        <div class="measured">
+            {{ .Content }}
+        </div>
         <div class="columns-2 works">
-          {{ range where .Site.RegularPages "Section" "tattoo" }}
+            {{ range where .Site.RegularPages "Section" "tattoo" }}
             {{ if in .Params.tags "notes" }}
-              {{ partial "projectCard.html" . }}
+            {{ partial "projectCard.html" . }}
             {{ end}}
-          {{ end }}
+            {{ end }}
         </div>
-        <h2 class="big-padding-top">Dark Fantasy Illustration</h2>
-        <div class="columns-3 small-padding-top works">
-        {{ range where .Site.RegularPages "Section" "tattoo" }}
-          {{ if not (in .Params.tags "notes") }}
+        <h2 id="dark-fantasy">Dark Fantasy Illustration</h2>
+        <div class="gallery-grid works">
+            {{ range where .Site.RegularPages "Section" "tattoo" }}
+            {{ if not (in .Params.tags "notes") }}
             {{ if in .Params.tags "illustrative" }}
-              {{ partial "projectCard.html" . }}
+            {{ partial "projectCard.html" . }}
             {{ end }}
-          {{ end }}
-        {{ end }}
+            {{ end }}
+            {{ end }}
         </div>
-        <h2 class="big-padding-top">Medieval Woodcuts</h2>
-        <div class="columns-3 small-padding-top works">
-        {{ range where .Site.RegularPages "Section" "tattoo" }}
-          {{ if not (in .Params.tags "notes") }}
+        <h2 id="medieval-woodcuts">Medieval Woodcuts</h2>
+        <div class="gallery-grid works">
+            {{ range where .Site.RegularPages "Section" "tattoo" }}
+            {{ if not (in .Params.tags "notes") }}
             {{ if in .Params.tags "woodcut" }}
-              {{ partial "projectCard.html" . }}
+            {{ partial "projectCard.html" . }}
             {{ end }}
-          {{ end }}
-        {{ end }}
+            {{ end }}
+            {{ end }}
         </div>
-        <h2 class="big-padding-top">Black Metal Lettering and Symbols</h2>
-        <div class="columns-3 small-padding-top works">
-        {{ range where .Site.RegularPages "Section" "tattoo" }}
-          {{ if not (in .Params.tags "notes") }}
+        <h2 id="black-metal">Black Metal Lettering and Symbols</h2>
+        <div class="gallery-grid works">
+            {{ range where .Site.RegularPages "Section" "tattoo" }}
+            {{ if not (in .Params.tags "notes") }}
             {{ if in .Params.tags "black metal" }}
-              {{ partial "projectCard.html" . }}
+            {{ partial "projectCard.html" . }}
             {{ end }}
-          {{ end }}
-        {{ end }}
+            {{ end }}
+            {{ end }}
         </div>
-      </div>
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

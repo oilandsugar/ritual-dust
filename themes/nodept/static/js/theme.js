@@ -14,6 +14,7 @@ function Theme(client) {
 
   // update when changing theme
   this.default = {
+    mode: "dark",
     background: "#221915",
     f_high: "#d26829",
     f_med: "#b3a18e",
@@ -75,6 +76,9 @@ function Theme(client) {
       --b_low: ${theme.b_low};
       --b_inv: ${theme.b_inv};
     }`;
+    document.body.classList.remove("dark");
+    document.body.classList.remove("light");
+    document.body.classList.add(theme.mode);
     localStorage.setItem("theme", JSON.stringify(theme));
     this.active = theme;
     if (this.onLoad) {
@@ -145,6 +149,7 @@ function Theme(client) {
     const svg = new DOMParser().parseFromString(xml, "text/xml");
     try {
       return {
+        mode: svg.getElementById("mode").getAttribute("fill"),
         background: svg.getElementById("background").getAttribute("fill"),
         f_high: svg.getElementById("f_high").getAttribute("fill"),
         f_med: svg.getElementById("f_med").getAttribute("fill"),
@@ -162,6 +167,9 @@ function Theme(client) {
 
   function isValid(json) {
     if (!json) {
+      return false;
+    }
+    if (!json.mode) {
       return false;
     }
     if (!json.background || !isColor(json.background)) {

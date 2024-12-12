@@ -22,15 +22,13 @@
     <script type="text/javascript" src="{{ "js/theme.js" | relURL }}"></script>
   </head>
 
-  <body id="imglow" class="{{ if eq .Page.Section "food" }}light{{ else }}dark{{ end }}">
+  <body id="imglow" class="medium-padding-bottom dark">
   <script>
     const theme = new Theme();
     theme.install(document.body);
     theme.start();
   </script>
   <header>
-    <div class="full-wrap">
       {{ partial "menu" . }}
-    </div>
   </header>
 

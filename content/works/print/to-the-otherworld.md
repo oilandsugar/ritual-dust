@@ -6,13 +6,11 @@ image = "/img/print/to-the-otherworld-1.jpg"
 desc = ""
 +++
 
-The fifth of my monthly print club
+A ghostly fox leading you to the otherworld. Foxholes are considered doors to the otherworld in irish folklore.
 
 Linocut on paper, 4.5" x 10" - 2022
 
----
-
-Join the monthly print club on Patreon and get an original print by mail every month: https://www.patreon.com/ritualdust
+Join my [monthly print club](https://www.patreon.com/ritualdust)
 
 ![](/img/print/to-the-otherworld-1.jpg)
 

@@ -9,21 +9,9 @@ imageAlt = "Bonbons aux patates"
 prepTime = "25 min"
 cookTime = "no time"
 portions = 10
+
+ingredients = ["1 small potato", "3 cups powdered sugar", "1/2 tsp of vanilla extract", "4 tbsp of peanut butter"]
 +++
-
-<div class="recipe-content">
-<div class="ingredients">
-
-## Ingredients  
-
-- 1 small potato
-- 3 cups powdered sugar
-- 1 tsp of vegan butter
-- 1/2 tsp of vanilla extract
-- 4 tbsp of peanut butter
-
-</div>
-<div class="steps">
 
 ## Steps
 
@@ -36,7 +24,5 @@ portions = 10
 7. Grab the plastic film on one of the long sides and carefully roll the dough in roll. Keep the film wrapped around the roll tightly to help it keep it's shape and place it into the refrigerator for a couple hours to harden
 8. When the roll feel more firm, unwrap the plastic film and cut the roll into slices, enjoy!
 
-</div>
-</div>
 
 ![Bonbons aux patates](/img/recipes/bonbons-aux-patates.jpg)

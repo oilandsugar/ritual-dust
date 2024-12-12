@@ -29,6 +29,8 @@ Another good trick to preview a document contrast and colors on a screen is to l
 
 Generally, printers will want at least a 0.125" bleed zone outside the document final size. It is also advised to keep the same 0.125" inside of the document free from text or important elements since it can get cut off in the trimming process.
 
+{{< spacer >}}
+
 ## Soft proofing
 
 Different design and image editing software have tools to "soft-proof" a document, soft-proofing besically means proofing using software, instead of the traditionnal proofing by running the document through the press and checking how it turned out. This is useful to save time, paper and ink by identifying problems with images and colors early on before sending to the presses.
@@ -51,7 +53,7 @@ Open the **Output Preview** modal, preview separations and at the bottom of the 
 - heatset web offset including SWOP: **300%**
 - Uncoated newsprint on non-heatset web offset: **240% to 260%**
 
-
+{{< spacer >}}
 
 ## Links and References
 

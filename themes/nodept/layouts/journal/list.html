@@ -1,24 +1,20 @@
 {{ partial "header" . }}
 
-<main>
-  <div class="flex-row big-padding-top list-page">
+<main class="page-sidebar">
     {{ partial "sidebars/journalList" . }}
-    <article>
-      <div class="small-wrap food">
-        {{ partial "listPageTitle" . }}
-        <div class="intro">
-        {{ .Params.desc }}
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        <div class="measured">
+            {{ .Content }}
         </div>
-      </div>
-      <div class="full-wrap">
-        <div class="journal-entries big-padding-top">
-          {{ range where .RegularPages "Type" "journal" }}
-            {{ partial "journalEntry.html" . }}
-          {{ end }}
+        <div class="page-content">
+            <div class="journal-entries measured">
+                {{ range where .RegularPages "Type" "journal" }}
+                {{ partial "journalEntry.html" . }}
+                {{ end }}
+            </div>
         </div>
-      </div>
     </article>
-  </div>
 </main>
 
 {{ partialCached "footer" . }}

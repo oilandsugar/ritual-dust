@@ -13,7 +13,7 @@
   <h3 class="accent default-font all-caps">Mediums</h3>
   <div class="small-padding-bottom">
     {{ $section := $section | intersect (where $.Site.Pages "IsSection" true)}}
-    {{ $section := $section | intersect (where $.Site.Pages "Title" "!=" "Works")}}
+    {{ $section := $section | intersect (where $.Site.Pages "Title" "!=" "Artwork")}}
     <ul class="section-pages">
       {{ range $section }}
         {{ partial "sidebars/utils/sidebarMenuItem" . }}

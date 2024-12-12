@@ -18,10 +18,16 @@ We took plenty of inspiration from witchhouse and traumacore while developing vi
 All the illustrations and the typography were hand-drawn and animated with a low frame rate for that imperfect wonkyness.
 
 <div class="credits medium-padding-top">
-<small>Credits and details</small>  
 
-Direction / Performance / Outfits : **Hex Evans**  
-Photography / Editing / Illustrations : **Lizbeth Poirier**   
+### Credits and details 
+
+<div class="toc-entry">
+    <div class="chapter">Direction / Performance / Outfits</div><div class="page"><strong>Hex Evans</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">
+Photography / Editing / Illustrations</div><div class="page"><strong>Lizbeth Poirier</strong></div>
+</div>
 
 Shot handheld on the Sony A6300 with a 24mm prime lens  
 Edited and color graded in DaVinci Resolve

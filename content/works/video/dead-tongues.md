@@ -14,10 +14,17 @@ desc = "Preview video for the song Dead Tongues by Blood and dust."
 Preview video for the song Dead Tongues by [Blood and dust](https://blood-and-dust.com/).
 
 <div class="credits medium-padding-top">
-<small>Credits</small>  
 
-**Photography / Editing:** Lizbeth Poirier  
-**Assistant:** Hex Evans  
+### Credits and details
+
+<div class="toc-entry">
+    <div class="chapter">
+Photography / Editing</div><div class="page"><strong>Lizbeth Poirier</strong></div>
+</div>  
+<div class="toc-entry">
+    <div class="chapter">
+Assistant</div><div class="page"><strong>Hex Evans</strong></div>
+</div>  
 
 Shot on the Sony A6300 with a 24mm prime lens  
 Edited and color graded in Premiere Pro

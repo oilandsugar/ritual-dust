@@ -12,10 +12,15 @@ desc = "Lyric video for Kerosene Heart by VOIDXWITCH."
 </div>
 
 <div class="credits medium-padding-top">
-<small>Credits and details</small>  
 
-Editor/ Performer / Costumes : **Hex Evans**  
-Cinematographer / Editor / Props / Graphic Design : **Lizbeth Poirier**  
+### Credits and details
+
+<div class="toc-entry">
+    <div class="chapter">Editor/ Performer / Costumes</div><div class="page"><strong>Hex Evans</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">Cinematographer / Editor / Props / Graphic Design</div><div class="page"><strong>Lizbeth Poirier</strong></div>
+</div>
 
 Shot on the Sony A6300 with the Rokinon 10mm   
 Edited and color graded in DaVinci Resolve

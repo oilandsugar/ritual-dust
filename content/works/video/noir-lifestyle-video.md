@@ -12,13 +12,24 @@ desc = "Occult-themed lifestyle video for my obscure accessory project."
 A short film to put in moving images the lifestyle upon which Manière Noire was built. Shot mostly on location at Mont Megantic, with some interior shots done in Montreal.
 
 <div class="credits medium-padding-top">
-<small>Credits and details</small>  
 
-**Producer:** Manière Noire  
-**Art direction:** Geneviève Lamarche Reid  
-**Photography / Editing:** Lizbeth Poirier    
-**Models:** Evey lp & Chanel Willard  
-**Music:** Stygian by [The Devil and the Universe](http://www.thedevilandtheuniverse.com/)
+### Credits and details
+
+<div class="toc-entry">
+    <div class="chapter">Producer</div><div class="page"><strong>Manière Noire</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">Art direction</div><div class="page"><strong>Geneviève Lamarche Reid</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">Photography / Editing</div><div class="page"><strong>Lizbeth Poirier</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">Models</div><div class="page"><strong>Evey lp & Chanel Willard</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">Music</div><div class="page"><strong>Stygian by <a href="http://www.thedevilandtheuniverse.com/">The Devil and the Universe</a></strong></div>
+</div>
 
 Shot on location with the Sony A6300 and a 24mm prime lens
 
