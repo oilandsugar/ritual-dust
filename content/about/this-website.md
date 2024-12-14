@@ -117,6 +117,7 @@ If you're interested in better markup and more accessible websites, go take a lo
 [-] Add commissions banner on home page  
 [-] find a way to have dark and light theme with one theme file  
 
+[ ] put earthsea illustration on home page banner  
 [ ] add some of the visuals i did for voidxwitch in music visuals  
 [ ] fix styling on large screens  
 [ ] make winter theme  

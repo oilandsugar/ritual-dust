@@ -19,11 +19,11 @@ function Theme(client) {
     f_high: "#d26829",
     f_med: "#b3a18e",
     f_low: "#d08254",
-    f_inv: "#a66844",
+    f_inv: "#000000",
     b_high: "#000000",
     b_med: "#716156",
     b_low: "#352b26",
-    b_inv: "#9b3313",
+    b_inv: "#b3a18e",
   };
 
   // Callbacks
