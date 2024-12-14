@@ -2,6 +2,7 @@
 title = "April 2024"
 type = "journal"
 date = "2024-04-01"
+tags = ["journal"]
 +++
 
 Spring is really setting in now, the trees are blooming, sleeping plants are shooting out of the earth and I feel very motivated and inspired by all this rebirth and sun energy coming in.

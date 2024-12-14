@@ -6,7 +6,9 @@
         <div>
             {{ with .Params.image }}
             <div class="image">
-                <img src="{{ . }}"/>
+                <div class="image-background">
+                    <img src="{{ . }}"/>
+                </div>
             </div>
             {{ end }}
         </div>

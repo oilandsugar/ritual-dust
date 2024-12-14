@@ -141,11 +141,45 @@ document.getElementById("phases").innerHTML +=
 
 /* SWITCH THEME BASED ON THE SEASON */
 
+/* SWITCH THEME DARK MODE OR LIGHT MODE */
+
+const modeToggleBtn = document.getElementById("mode-switcher");
+const themeModeUserPref = localStorage.getItem("theme-mode");
+
+const setDarkMode = () => {
+    localStorage.setItem("theme-mode", "dark");
+    modeToggleBtn.classList.toggle("d");
+    document.body.classList.toggle("dark");
+    document.body.classList.toggle("light");
+}
+
+const setLightMode = () => {
+    localStorage.setItem("theme-mode", "light");
+    modeToggleBtn.classList.toggle("d");
+    document.body.classList.toggle("dark");
+    document.body.classList.toggle("light");
+}
+
+if (themeModeUserPref && themeModeUserPref == "dark") {
+  setDarkMode();
+}
+
+const onModeSwitch = (e) => {
+    console.log("mode switch");
+  if (modeToggleBtn.classList.contains("d")) {
+    setLightMode();
+  } else {
+    setDarkMode();
+  }
+};
+
+modeToggleBtn.addEventListener("click", onModeSwitch);
+
 /* TOGGLE IMAGE QUALITY */
 
 const imgToggleBtn = document.getElementById("resolution-toggle");
 const imagesToToggle = document.querySelectorAll(".to-toggle");
-const userPref = localStorage.getItem("image-resolution");
+const imgQualityUserPref = localStorage.getItem("image-resolution");
 
 const setHiRes = () => {
   localStorage.setItem("image-resolution", "high");
@@ -171,7 +205,7 @@ const setLowRes = () => {
   });
 };
 
-if (userPref && userPref == "high") {
+if (imgQualityUserPref && imgQualityUserPref == "high") {
   setHiRes();
 }
 

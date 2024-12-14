@@ -2,6 +2,7 @@
 title = "January 2024"
 type = "journal"
 date = "2024-01-01"
+tags = ["journal"]
 +++
 
 As Imbolg and the renewed energy of spring (it already feels like spring here in Montreal thanks to climate change) arrives, I'm taking this time to reflect on the start of this year, take stock and set some intentions and priorities for the months to come.

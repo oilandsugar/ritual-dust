@@ -2,6 +2,7 @@
 title = "September 2024"
 type = "journal"
 date = "2024-09-01"
+tags = ["journal"]
 +++
 
 September has been pretty much a continuation of August in terms of how fucked and chaotic my life has been. A lot of things are up n the air and uncertain now, I'm trying to hold on to the rest to weather the storm. We've also been raising money for our cat Callie in order to be able to afford the care she needs as she approaches the end of her life. 

@@ -3,6 +3,7 @@ title = "December 2024"
 type = "journal"
 date = "2024-12-01"
 draft = true
+tags = ["journal"]
 +++
 
 ### Website redesign

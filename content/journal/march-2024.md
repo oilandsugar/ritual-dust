@@ -2,6 +2,7 @@
 title = "March 2024"
 type = "journal"
 date = "2024-03-01"
+tags = ["journal"]
 +++
 
 March was a month of misfortunes, hardships and incredible experiences. The main thing that occupied my mind and time was planning for and going to see Zheani with Hex in Brooklyn, in a sort of pilgrimage. In the last couple years, all of our travels have been strongly motivated by the desire to go to meaningful places and meet and connect with people who are important for us, and engaging in culture. 

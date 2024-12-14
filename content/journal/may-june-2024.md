@@ -2,6 +2,7 @@
 title = "May and june 2024"
 type = "journal"
 date = "2024-06-01"
+tags = ["journal"]
 +++
 
 I'm combining may and june because these two months have been mostly dedicated to re-centering, resourcing and figuring out some shit. Solstice was definitely a peak in energy and excitement as I released Earthworks. Most of my time and energy not spend on other things ended up directed to that project leading on to the release and I'm really of how the whole thing turned out, the album, visuals and videos.

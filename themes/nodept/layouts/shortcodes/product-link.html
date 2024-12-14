@@ -1,7 +1,7 @@
 {{ $url := .Get "url" }}
 
 
-<div class="product product-link {{ with .Get "class" }}{{ . }}{{ end }}">
+<div class="product-link grid-2 large-padding-top medium-padding-bottom {{ with .Get "class" }}{{ . }}{{ end }}">
   {{ with .Get "image" }}
     <div class="image">
         <a href="{{ $url }}"><img src="{{ . }}"/></a>

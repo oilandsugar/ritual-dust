@@ -2,6 +2,7 @@
 title = "August 2024"
 type = "journal"
 date = "2024-08-01"
+tags = ["journal"]
 +++
 
 The month of august have been especially chaotic and challenging for me with interpersonal and emotional troubles piling up. It feels like one of those moments in life when a bunch of shitting things happen at the same time and you have to focus your energy on solving them and getting through while hoping thing get better on the other end.

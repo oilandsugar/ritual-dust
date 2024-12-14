@@ -2,6 +2,7 @@
 title = "Februrary 2024"
 type = "journal"
 date = "2024-02-01"
+tags = ["journal"]
 +++
 
 ### Thoughts about my music project

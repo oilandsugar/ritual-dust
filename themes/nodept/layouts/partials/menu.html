@@ -6,13 +6,13 @@
     <div id="noscript" class="resolution-toggle">
         <button class="l" disabled aria-label="Low resolution resolution images only when no JS" title="Low resolution resolution images only when no JS">Only low-res</button>
     </div>
-    <div class="dingbat-wrapper"><span class="dingbats">{{ partialCached "icons/diamond" . }}</span></div>
+    <div><button id="mode-switcher"><span class="dingbats sun">{{ partialCached "icons/star" . }}</span><span class="dingbats moon">{{ partialCached "icons/bat" . }}</span></button></div>
     <ul>
         {{ range .Site.Menus.main }}
         {{ $menu_item_url := .URL }}
         {{ $page_url:= $currentPage.RelPermalink }}
         <li>
-            <a class="{{ if eq $menu_item_url $page_url }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+            <a class="{{ if eq $menu_item_url $page_url }}accent{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
         </li>
         {{ end }}
     </ul>

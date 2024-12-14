@@ -4,10 +4,10 @@
     <div class="big-padding-top tag-page">
         {{ partial "pageTitle" . }}
         <div class="measured">
-            {{ .Content }}
+            These are all the tags used on this website, sorted by most commonly used to less commonly used.
         </div>
         <div class="big-padding-top">
-            <div class="grid-3">
+            <div class="grid-4">
                 {{ range .Data.Terms.ByCount }}
                 <div class="toc-entry">
                     <div class="chapter"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></div>

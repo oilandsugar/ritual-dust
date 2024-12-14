@@ -2,6 +2,7 @@
 title = "November 2024"
 type = "journal"
 date = "2024-11-01"
+tags = ["journal"]
 +++
 
 

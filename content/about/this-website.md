@@ -115,13 +115,13 @@ If you're interested in better markup and more accessible websites, go take a lo
 ### TODO
 
 [-] Add commissions banner on home page  
+[-] find a way to have dark and light theme with one theme file  
 
+[ ] add some of the visuals i did for voidxwitch in music visuals  
 [ ] fix styling on large screens  
 [ ] make winter theme  
 [ ] add photos to journal entries  
 [ ] use built in image processing tools to resize and dither images   
-[ ] find a way to have dark and light theme with one theme file  
-[ ] add prefers dark mode thingy in css  
 [ ] Make icons for all sections    
 
 [ ] finish writing printmaking tutorial   
@@ -135,6 +135,8 @@ If you're interested in better markup and more accessible websites, go take a lo
     
 ### DONE
 
+[x] keep images on product pages full color  
+[x] add prefers dark mode thingy in css  
 [x] remove redundant single templates  
 [x] fix about page not loading good sidebar and spacing missing  
 [x] move my monthly recaps from patreon to website  

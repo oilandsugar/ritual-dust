@@ -2,6 +2,7 @@
 title = "October 2024"
 type = "journal"
 date = "2024-10-01"
+tags = ["journal"]
 +++
 
 October was a month of rest for me, I've been dealing with quite a lot of health and personal stuff. I broke a finger and manage to cut the ligament inside of it and I've been battling the health system of Quebec to get it treated properly ever since (it's in a much better place now). Apart from the color out of space print, the only other project i had the capacity to work on was the pre-production of  the next music video we're shooting in November for voidxwitch. That should be pretty fun and will be an opportunity for me to try shooting with a jib, pulling focus away from the camera and use an easy rig to make handheld shots easier. More details on that after the shoot ;)
