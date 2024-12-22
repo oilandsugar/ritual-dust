@@ -1,20 +1,20 @@
 {{ partial "header" . }}
 
 <main class="page-sidebar">
-        {{ partial "sidebars/worksList" . }}
-        <article class="flow">
-            {{ partial "pageTitle" . }}
-            <div class="measured">
-                {{ .Content }}
-            </div>
-            <div class='gallery-grid works'>
-                {{ range where .Site.RegularPages "Section" "works" }}
-                {{ if in .Params.tags "fantasy" }}
-                {{ partial "cards/projectCard.html" . }}
-                {{ end}}
-                {{ end }}
-            </div>
-        </article>
+    {{ partial "sidebars/worksList" . }}
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        <div class="measured">
+            {{ .Content }}
+        </div>
+        <div class='gallery-grid highlight-first works'>
+            {{ range where .Site.RegularPages "Section" "works" }}
+            {{ if in .Params.tags "fantasy" }}
+            {{ partial "cards/projectCard.html" . }}
+            {{ end}}
+            {{ end }}
+        </div>
+    </article>
 </main>
 
 {{ partialCached "footer" . }}

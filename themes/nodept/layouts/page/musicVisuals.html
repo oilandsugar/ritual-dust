@@ -7,7 +7,7 @@
         <div class="measured">
             {{ .Content }}
         </div>
-        <div class="gallery-grid works">
+        <div class="gallery-grid highlight-first works">
             {{ range where .Site.RegularPages "Section" "works" }}
             {{ if in .Params.tags "music" }}
             {{ partial "cards/projectCard.html" . }}

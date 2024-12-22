@@ -1,0 +1,20 @@
+{{ $cover := .Params.image }}
+{{ $title := .Title }}
+{{ $lowResCover := replace .Params.image ".jpg" "-low.jpg" }}
+
+<a href="{{ .Permalink }}" class="project-card card {{ range .Params.tags }}{{ . }} {{ end }}">
+    {{ with .Params.image }}
+    <div class="picture">
+        <div class="image-background">
+            <img
+                 class="to-toggle low"
+                 data-srclow="{{ $lowResCover | safeURL }}"
+                 data-srchi="{{ $cover | safeURL }}"
+                 src="{{ $lowResCover | safeURL }}"
+                 alt="{{ $title }}">
+        </div>
+    </div>
+    {{ end }}
+    <h3 class="blackletter default-padding-bottom default-padding-top">{{ .Title }}</h3>
+    <div class="desc">{{ .Summary }}</div>
+</a>

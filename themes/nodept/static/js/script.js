@@ -148,14 +148,14 @@ const themeModeUserPref = localStorage.getItem("theme-mode");
 
 const setDarkMode = () => {
     localStorage.setItem("theme-mode", "dark");
-    modeToggleBtn.classList.toggle("d");
+    modeToggleBtn.classList.toggle("dark");
     document.body.classList.toggle("dark");
     document.body.classList.toggle("light");
 }
 
 const setLightMode = () => {
     localStorage.setItem("theme-mode", "light");
-    modeToggleBtn.classList.toggle("d");
+    modeToggleBtn.classList.toggle("dark");
     document.body.classList.toggle("dark");
     document.body.classList.toggle("light");
 }
@@ -166,7 +166,7 @@ if (themeModeUserPref && themeModeUserPref == "dark") {
 
 const onModeSwitch = (e) => {
     console.log("mode switch");
-  if (modeToggleBtn.classList.contains("d")) {
+  if (modeToggleBtn.classList.contains("dark")) {
     setLightMode();
   } else {
     setDarkMode();

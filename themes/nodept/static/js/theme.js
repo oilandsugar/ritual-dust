@@ -14,16 +14,16 @@ function Theme(client) {
 
   // update when changing theme
   this.default = {
-    mode: "dark",
-    background: "#221915",
-    f_high: "#d26829",
-    f_med: "#b3a18e",
-    f_low: "#d08254",
-    f_inv: "#000000",
-    b_high: "#000000",
-    b_med: "#716156",
-    b_low: "#352b26",
-    b_inv: "#b3a18e",
+    mode: "light",
+    background: "#f8f5ec",
+    f_high: "#261f1a",
+    f_med: "#855c4c",
+    f_low: "#ceb7a2",
+    f_inv: "#f8f5ec",
+    b_high: "#79634e",
+    b_med: "#ceb7a2",
+    b_low: "#e7ddce",
+    b_inv: "#261f1a",
   };
 
   // Callbacks

@@ -2,6 +2,7 @@
 title = "Home"
 type = "page"
 name = "Lizbeth Poirier"
-tagline = "Write your own folklore"
-desc = "Write your own folklore"
+banner = "img/home/earthsea-1-banner.jpg"
+bannerLinkTxt = "from the Wizard of Earthsea illustration"
+bannerLink = "/works/illustration/earthsea-1"
 +++

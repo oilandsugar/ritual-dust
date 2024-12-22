@@ -6,6 +6,8 @@ desc = "My music production notes"
 draft = false
 +++
 
+## Table of contents
+
 <div class="table-of-contents">
 
 [Synths and Leads](#Synths-and-leads)  

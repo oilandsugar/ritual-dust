@@ -1,6 +1,6 @@
 /* ___  ____________  _____   __     ___  __  ____________
-  / _ \/  _/_  __/ / / / _ | / /    / _ \/ / / / __/_  __/
- / , _// /  / / / /_/ / __ |/ /__  / // / /_/ /\ \  / /   
+/ _ \/  _/_  __/ / / / _ | / /    / _ \/ / / / __/_  __/
+/ , _// /  / / / /_/ / __ |/ /__  / // / /_/ /\ \  / /   
 /_/|_/___/ /_/  \____/_/ |_/____/ /____/\____/___/ /_/  */  
 
 
@@ -54,6 +54,7 @@ html {
     font-weight: 400;
     font-size: 20px;
     line-height: 1.5rem;
+    text-rendering: optimizeLegibility;
 }
 
 body {
@@ -79,9 +80,8 @@ html body {
 
 .list-page, .single-page, .page-sidebar{
     width:100%;
-    grid-gap: 5vw;
-    grid-template-columns: 200px 1fr;
-
+    display: flex;
+    flex-direction: column-reverse;
 }
 
 .list-page article, .single-page article {
@@ -110,7 +110,7 @@ html body {
     width:100%;
     display:grid;
     grid-gap: var(--spacing_default);
-    grid-template-columns:1fr;
+    grid-template-columns:1fr 1fr;
 }
 
 
@@ -368,6 +368,7 @@ h2 {
 
 h2.blackletter {
     font-size: 1.5rem;
+    line-height: 1.5rem;
 }
 
 h3 {
@@ -562,10 +563,6 @@ button {
     cursor:pointer;
 }
 
-.menu button {
-    margin-right: var(--spacing_sm);
-}
-
 .menu button .dingbats {
     padding:0;
 }
@@ -661,7 +658,7 @@ img:hover, .card:hover img, #home-img:hover img {
     line-height:0;
     border-radius: var(--border_radius);
     background: var(--b_low);
-    max-width: 1400px;
+    max-width: 100%;
 }
 
 .notes .image-background {
@@ -1030,9 +1027,9 @@ input[type=checkbox] {
 }
 
 .menu ul {
+    display:none;
     list-style: none;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    gap: var(--spacing_sm);
     line-height: 1.5rem;
     padding: 0;
     margin: 0;
@@ -1041,6 +1038,7 @@ input[type=checkbox] {
 
 .menu ul li {
     line-height: 1.5rem;
+    text-align: right;
 }
 
 .menu a {
@@ -1054,6 +1052,20 @@ input[type=checkbox] {
 
 .menu a.accent {
     border-bottom: 2px solid;
+}
+
+.menu .dingbats {
+    position: relative;
+        top: 3px;
+}
+
+.theme-mode-toggle {
+    overflow: clip;
+    width: 48px;
+}
+
+.theme-mode-toggle button {
+    width: 48px;
 }
 
 .phases {
@@ -1076,12 +1088,16 @@ input[type=checkbox] {
     display:none;
 }
 
-#mode-switcher.d .moon {
+#mode-switcher.dark .moon {
     display:none;
 }
 
-#mode-switcher.d .sun {
+#mode-switcher.dark .sun {
     display:block;
+}
+
+.theme-mode-toggle {
+    display: inline-block;
 }
 
 /* ---------- DINGBATS ----------- */
@@ -1099,14 +1115,8 @@ input[type=checkbox] {
     position: absolute;
 }
 
-.menu .dingbat-wrapper, footer .dingbats {
+.menu .dingbat-wrapper {
     display:none;
-}
-
-.menu .dingbats {
-    padding: 0 var(--spacing_default);
-    position: relative;
-    top: 3px;
 }
 
 .menu .dingbats svg path {
@@ -1134,7 +1144,7 @@ table.simple .dingbats {
 #home-img img {
     object-fit: cover;
     width:100%;
-    height:100%;
+    height:15rem;
     object-position: center;
 }
 
@@ -1152,6 +1162,7 @@ table.simple .dingbats {
     mask-repeat: no-repeat;
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
+    display:none;
 }
 
 .image-link {
@@ -1180,13 +1191,23 @@ table.simple .dingbats {
     position:relative;
     display: block;
     border:0;
-    padding:var(--spacing_default);
+    padding:var(--spacing_md) var(--spacing_md);
     background-color: var(--b_low);
     border-radius: var(--border_radius);
+    background-size: 100%;
+    background-position: right 0% bottom 74%;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+}
+
+.banner.pious-rot {
+    background-color: #f0e0d0;
+    background-image: url('/img/home/pious-rot-cover-drawing.jpg')!important;
+    background-position: right 0% top 7rem;
 }
 
 .banner h2 {
-    margin-bottom: 0;
+    margin-bottom: 1rem;
 }
 
 .banner:hover {
@@ -1194,8 +1215,16 @@ table.simple .dingbats {
     background-color: var(--b_med);
 }
 
+.banner.pious-rot:hover {
+    background-color: #dcc4ab;
+}
+
 .banner .content {
-    padding-bottom: 6rem;
+    min-height:12rem;
+}
+
+.banner.pious-rot .content {
+    min-height:25rem;
 }
 
 .banner p {
@@ -1207,7 +1236,7 @@ table.simple .dingbats {
 .shop-banner-img {
     mask-image: url(/img/shop.gif);
     -webkit-mask-image: url(/img/shop.gif);
-    background-color: var(--f_low);
+    background-color: var(--f_high);
     mask-position:left bottom;
     -webkit-mask-position:left bottom;
     mask-size:contain;
@@ -1327,15 +1356,15 @@ table.simple .dingbats {
     padding: var(--spacing_default);
     border-radius: var(--border_radius);
     background: var(--b_med);
+    color: var(--f_high);
     border:0;
-    color: var(--background);
     min-height: 8rem;
 }
 
 .notes:hover {
     color: var(--f_inv);
-    border-color: var(--b_high);
     background: var(--b_high);
+    border:0;
 }
 
 .notes .picture {
@@ -1712,6 +1741,10 @@ aside {
     font-size: 0.8rem;
     line-height: var(--spacing_default);
     min-width:200px;
+    padding-top:var(--spacing_lg);
+}
+
+aside .name {
     display:none;
 }
 
@@ -1835,6 +1868,11 @@ footer {
 
 footer span {
     padding-right: var(--spacing_default);
+}
+
+footer ul {
+    list-style: none;
+    padding:0;
 }
 
 .webring {
@@ -1980,6 +2018,8 @@ footer span {
     }
     .list-page, .single-page, .page-sidebar {
         display:grid;
+        grid-gap: 5vw;
+        grid-template-columns: 200px 1fr;
     }
     .row {
         flex-direction: row;
@@ -1989,6 +2029,10 @@ footer span {
     }
     aside {
         display:block;
+        padding-top:0;
+    }
+    aside .name {
+        display:flex;
     }
     .menu {
         display:flex;
@@ -1999,8 +2043,14 @@ footer span {
         gap: var(--spacing_default);
         margin-top:0;
     }
+    .menu .buttons {
+        margin-right: var(--spacing_default);
+    }
     .menu a {
         line-height: 1rem;
+    }
+    .menu .dingbats {
+        padding: 0 var(--spacing_default);
     }
     .menu .dingbat-wrapper {
         display:block;
@@ -2016,7 +2066,7 @@ footer span {
         columns: 3;
         column-gap: var(--spacing_default);
     }
-    .gallery-grid .card:first-child {
+    .gallery-grid.highlight-first .card:first-child {
         column-span: all;
     }
     .table-of-contents {
@@ -2055,6 +2105,9 @@ footer span {
     #home-img {
         height: 24rem;
     }
+    #home-img img {
+        height:100%;
+    }
     .image-link {
         position: absolute;
     }
@@ -2075,6 +2128,19 @@ footer span {
     }
     .table-of-contents.mini a:last-child:after {
         content: "";
+    }
+    .banner, .banner.pious-rot {
+        background-size: 75%;
+        background-position: right -25% bottom 45%;
+    }
+    .banner.pious-rot .content {
+        min-height:12rem;
+    }
+    #folklore-img {
+        display:block;
+    }
+    footer {
+        padding:0 calc(200px + 5vw);
     }
 }
 

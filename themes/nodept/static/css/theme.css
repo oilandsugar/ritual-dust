@@ -14,64 +14,64 @@ body { background:var(--background) !important; }
 
 /*
 @media (prefers-color-scheme: dark) {
-    body {
-        background: var(--b_inv)!important;
-        color: var(--f_inv);
-    }
-    .image-background {
-        background: var(--background);
-    }
-    .accent, h1, h2 {
-        color: var(--background);
-    }
-    #icon-stamp {
-        background-color: var(--background);
-    }
-    .dingbats path,  .social svg:hover {
-        fill: var(--f_inv);
-    }
-    a, a h1, a h2 {
-        color:var(--b_med);
-    }
-    a:hover, a:hover h1, a:hover h2 {
-        color: var(--f_inv);
-    }
-    button {
-        background: var(--b_inv);
-        color:var(--b_med);
-    }
-    a.button, .sidebar a.button {
-        background: var(--b_high);
-        color: var(--f_inv);
-    }
-    a.button svg rect,
-    a.button svg path,
-    a.button svg circle  {
-        fill: var(--f_inv);
-    }
-    a.button:hover, .sidebar a.button:hover {
-        background: var(--b_med);
-    }
-    button:hover {
-        color: var(--b_inv);
-        border-color: var(--background);
-        background: var(--background);
-    }
-    .banner {
-        background: var(--b_high);
-    }
-    .banner:hover, {
-        background: var(--b_med);
-    }
-    .shop-banner-img {
-        background-color: var(--f_inv);
-    }
-    .low-contrast, .subdued {
-        color: var(--f_med);
-    }
-    .notes {
-        background: var(--b_high);
-    }
+body {
+background: var(--b_inv)!important;
+color: var(--f_inv);
+}
+.image-background {
+background: var(--background);
+}
+.accent, h1, h2 {
+color: var(--background);
+}
+#icon-stamp {
+background-color: var(--background);
+}
+.dingbats path,  .social svg:hover {
+fill: var(--f_inv);
+}
+a, a h1, a h2 {
+color:var(--b_med);
+}
+a:hover, a:hover h1, a:hover h2 {
+color: var(--f_inv);
+}
+button {
+background: var(--b_inv);
+color:var(--b_med);
+}
+a.button, .sidebar a.button {
+background: var(--b_high);
+color: var(--f_inv);
+}
+a.button svg rect,
+a.button svg path,
+a.button svg circle  {
+fill: var(--f_inv);
+}
+a.button:hover, .sidebar a.button:hover {
+background: var(--b_med);
+}
+button:hover {
+color: var(--b_inv);
+border-color: var(--background);
+background: var(--background);
+}
+.banner {
+background: var(--b_high);
+}
+.banner:hover, {
+background: var(--b_med);
+}
+.shop-banner-img {
+background-color: var(--f_inv);
+}
+.low-contrast, .subdued {
+color: var(--f_med);
+}
+.notes {
+background: var(--b_high);
+}
 }*/
 
 body.dark {
@@ -93,28 +93,55 @@ body.dark .dingbats path, body.dark .social svg:hover {
 body.dark a {
     color:var(--b_med);
 }
+body.dark a:hover {
+    color: var(--background);
+}
+body.dark .social svg {
+    fill:var(--b_med);
+}
+body.dark .notes, 
+body.dark .banner, 
+body.dark .warning {
+    color: var(--b_med);
+    background: var(--b_high);
+}
+body.dark .banner .accent, 
+body.dark .banner h2,
+body.dark .dictionary h3 {
+    color: var(--b_med);
+} 
+body.dark .notes:hover, body.dark .banner:hover .accent, body.dark .banner:hover h2, body.dark .banner:hover {
+    color: var(--f_inv);
+}
+body.dark .shop-banner-img {
+    background-color: var(--f_inv);
+}
+body.dark .media {
+    background: var(--b_high);
+}
 body.dark button {
     background: var(--b_high);
     color:var(--b_med);
 }
 body.dark a.button, body.dark .sidebar a.button {
     background: var(--b_high);
-    color: var(--f_inv);
+    color:var(--b_med);
 }
 body.dark a.button svg rect,
 body.dark a.button svg path,
 body.dark a.button svg circle  {
-    fill: var(--f_inv);
+    fill: var(--b_med);
 }
-body.dark a.button:hover, body.dark .sidebar a.button:hover {
-    background: var(--b_med);
+body.dark a.button:hover svg rect,
+body.dark a.button:hover svg path,
+body.dark a.button:hover svg circle {
+    fill: var(--b_inv);
 }
-body.dark a:hover {
-    color: var(--f_inv);
-}
+body.dark a.button:hover, 
+body.dark .sidebar a.button:hover, 
 body.dark button:hover {
-    color: var(--b_inv);
     background: var(--background);
+    color: var(--b_inv);
 }
 body.dark .menu button svg path {
     fill:var(--b_med);
@@ -122,15 +149,22 @@ body.dark .menu button svg path {
 body.dark .menu button:hover svg path {
     fill: var(--b_inv);
 }
-body.dark .banner {
-    background: var(--b_high);
-}
-body.dark .banner:hover {
-    background: var(--b_med);
-}
-body.dark .shop-banner-img {
-    background-color: var(--f_inv);
-}
 body.dark .low-contrast,body.dark .subdued {
     color: var(--f_med);
+}
+body.dark .toc-entry {
+    color: var(--f_inv);
+}
+body.dark blockquote {
+    color:var(--b_med);
+}
+body.dark aside .back-home {
+    border-color: var(--b_med);
+}
+body.dark .banner.pious-rot {
+    background-color: #f0e0d0;
+    color: var(--f_med);
+}
+body.dark .banner.pious-rot h2 {
+    color:var(--f_high);
 }

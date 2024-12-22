@@ -9,7 +9,7 @@
             {{ .CurrentSection }}
         </div>
         <div>
-            <div class='gallery-grid works'>
+            <div class='gallery-grid highlight-first works'>
                 {{ range .Pages }}
                 {{ if and (ne .Type "works/fantasy-art") (ne .Type "works/personal-work") (ne .Type "works/music-visuals")}}
                 {{ partial "cards/projectCard.html" . }}

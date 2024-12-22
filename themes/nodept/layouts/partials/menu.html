@@ -1,12 +1,10 @@
 {{ $currentPage := . }}
 <nav class="menu" aria-label="site navigation">
-    <div id="hasJavaScript" style="display: none" class="resolution-toggle">
-        <button class="h" id="resolution-toggle" aria-label="Load high resolution images" title="Load high resolution images">Hi-res</button>
+    <div class="buttons">
+        <div id="hasJavaScript" style="display: none" class="resolution-toggle">
+            <button class="h" id="resolution-toggle" aria-label="Load high resolution images" title="Load high resolution images">Hi-res</button></div><div id="noscript" class="resolution-toggle"><button class="l" disabled aria-label="Low resolution resolution images only when no JS" title="Low resolution resolution images only when no JS">Only low-res</button></div>
+        <div class="theme-mode-toggle"><button id="mode-switcher"><span class="dingbats sun">{{ partialCached "icons/star" . }}</span><span class="dingbats moon">{{ partialCached "icons/bat" . }}</span></button></div>
     </div>
-    <div id="noscript" class="resolution-toggle">
-        <button class="l" disabled aria-label="Low resolution resolution images only when no JS" title="Low resolution resolution images only when no JS">Only low-res</button>
-    </div>
-    <div><button id="mode-switcher"><span class="dingbats sun">{{ partialCached "icons/star" . }}</span><span class="dingbats moon">{{ partialCached "icons/bat" . }}</span></button></div>
     <ul>
         {{ range .Site.Menus.main }}
         {{ $menu_item_url := .URL }}

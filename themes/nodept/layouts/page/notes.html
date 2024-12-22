@@ -1,0 +1,45 @@
+{{ partial "header" . }}
+
+<main class="">
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        <div class="page-content">
+            {{ .Content }} 
+        </div>
+        <h2>Art notes</h2>
+        <div class="grid-4">
+            {{ range where .Site.RegularPages "Section" "works" }}
+            {{ if in .Params.tags "notes" }}
+            {{ partial "cards/noteCard.html" . }}
+            {{ end}}
+            {{ end }}
+        </div>
+        <h2>Music notes</h2>
+        <div class="grid-4">
+            {{ range where .Site.RegularPages "Section" "music" }}
+            {{ if in .Params.tags "notes" }}
+            {{ partial "cards/noteCard.html" . }}
+            {{ end}}
+            {{ end }}
+        </div>
+        <h2>Craft notes</h2>
+        <div class="grid-4">
+            {{ range where .Site.RegularPages "Section" "craft" }}
+            {{ if in .Params.tags "notes" }}
+            {{ partial "cards/noteCard.html" . }}
+            {{ end}}
+            {{ end }}
+        </div>
+        <h2>Folklore notes</h2>
+        <div class="grid-4">
+            {{ range where .Site.RegularPages "Section" "folklore" }}
+            {{ if in .Params.tags "notes" }}
+            {{ partial "cards/noteCard.html" . }}
+            {{ end}}
+            {{ end }}
+        </div>
+        {{ partial "page-meta" . }}
+    </article>
+</main>
+
+{{ partialCached "footer" . }}

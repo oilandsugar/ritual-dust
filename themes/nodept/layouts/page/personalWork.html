@@ -1,13 +1,13 @@
 {{ partial "header" . }}
 
-<main class="big-padding-top page-sidebar">
+<main class="page-sidebar">
     {{ partial "sidebars/worksList" . }}
-    <article>
+    <article class="flow">
         {{ partial "pageTitle" . }}
         <div class="measured">
             {{ .Content }}
         </div>
-        <div class='gallery-grid works large-padding-top'>
+        <div class='gallery-grid works highlight-first'>
             {{ range where .Site.RegularPages "Section" "works" }}
             {{ if in .Params.tags "personal" }}
             {{ partial "cards/projectCard.html" . }}

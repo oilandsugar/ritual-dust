@@ -80,9 +80,9 @@ Here are the themes I've made so far
   </a>
 </div>
     <div class="theme">
-  <a href="/themes/ritualdust-paper.svg" download>
-    <img src="/themes/ritualdust-paper.svg"/>
-    <h4>Paper</h4>
+  <a href="/themes/ritualdust-winter-2024.svg" download>
+    <img src="/themes/ritualdust-winter-2024.svg"/>
+    <h4>Winter 2024</h4>
   </a>
 </div>
 </div>
@@ -115,16 +115,18 @@ If you're interested in better markup and more accessible websites, go take a lo
 ### TODO
 
 [-] Add commissions banner on home page  
-[-] find a way to have dark and light theme with one theme file  
-
-[ ] put earthsea illustration on home page banner  
-[ ] add some of the visuals i did for voidxwitch in music visuals  
-[ ] fix styling on large screens  
 [ ] make winter theme  
+[ ] fix fall theme  
+[ ] add some of the visuals i did for voidxwitch in music visuals  
+[ ] rewrite the description of the sections on the home page     
+[ ] add a page for my print club inspired by https://palomakop.tv/zine-club/     
+[ ] fix styling on large screens  
 [ ] add photos to journal entries  
 [ ] use built in image processing tools to resize and dither images   
 [ ] Make icons for all sections    
 
+[ ] finish beast mask post   
+[ ] finish ktp props post   
 [ ] finish writing printmaking tutorial   
 [ ] finish writing page on druidism   
 [ ] finish writing page on tarot   
@@ -136,6 +138,13 @@ If you're interested in better markup and more accessible websites, go take a lo
     
 ### DONE
 
+[x] find a way to have dark and light theme with one theme file  
+[x] add a play section with game stuff  
+[x] improve mobile menu and footer   
+[x] find a way to display side nav on mobile    
+[x] fix home page on mobile  
+[x] add a pious rot banner on the home page    
+[x] put earthsea illustration on home page banner  
 [x] keep images on product pages full color  
 [x] add prefers dark mode thingy in css  
 [x] remove redundant single templates  

@@ -1,32 +1,58 @@
-<footer>
-    <a class="webring" href='http://webring.xxiivv.com/#random' target='_blank'>
-        <svg class="vector" width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1" style="fill:none;stroke-width:28px;stroke-linecap:square;">
-            <g transform="translate(0,30)">
-                <g transform="translate(150,150),rotate(120,0,0)">
-                    <path d="M0,-60 a60,60 0 1,0 0,120 l100,0"></path>
-                </g>
-                <g transform="translate(150,150),rotate(240,0,0)">
-                    <path d="M0,-60 a60,60 0 1,0 0,120 l100,0"></path>
-                </g>
-                <g transform="translate(150,150),rotate(0,0,0)">
-                    <path d="M0,-60 a60,60 0 1,0 0,120 l100,0"></path>
-                </g>
-            </g>
-        </svg>
-    </a>
-    <span>
-        <a href="/about/this-website">This website</a> -
-        <a href="/tree">Tree</a> -
-        <a href="/timeline">Timeline</a> -
-        <a href="/tags">Tags</a> -
-        <a href="/journal">Journal</a>
-    </span>
-    <span class="dingbats">{{ partial "icons/anarchy" . }}</span>
-    <span>Crafted in Montreal</span>
-    <span class="dingbats">{{ partial "icons/peace" . }}</span>
-    <span>Find me on
-        <a href="https://www.instagram.com/ritual.dust/" targer="_blank">instagram</a>, <a href="https://www.youtube.com/channel/UChU2utY1KM_SMVoS9B9epuQ">youtube</a>, <a href="https://merveilles.town/@ritualdust" targer="_blank">mastodon</a>, and in the woods at dusk.</span>
-    <span class="dingbats">{{ partial "icons/bat" . }}</span>
+{{ $currentPage := . }}
+
+<footer class="large-padding-top">
+    <div class="grid-4">
+        <div>
+            <ul>
+                {{ range .Site.Menus.main }}
+                {{ $menu_item_url := .URL }}
+                {{ $page_url:= $currentPage.RelPermalink }}
+                <li>
+                    <a class="{{ if eq $menu_item_url $page_url }}accent{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li><a href="/about/this-website">This website</a></li>
+                <li><a href="/tree">Tree</a></li>
+                <li><a href="/timeline">Timeline</a></li>
+                <li><a href="/tags">Tags</a></li>
+                <li><a href="/notes">Notes</a></li>
+                <li><a href="/journal">Journal</a></li>
+            </ul>
+        </div>
+        <div>
+            <span class="subdued">Find me on</span>
+            <ul>
+                <li><a href="https://merveilles.town/@ritualdust" targer="_blank">mastodon</a></li>
+                <li><a href="https://www.instagram.com/ritual.dust/" targer="_blank">instagram</a></li>
+                <li><a href="https://www.youtube.com/channel/UChU2utY1KM_SMVoS9B9epuQ">youtube</a></li>
+            </ul>
+            <span class="subdued">and in the woods at dusk.</span>
+            <div class="subdued">Crafted in Montreal</div>
+        </div>
+        <div>
+            <a class="webring" href='http://webring.xxiivv.com/#random' target='_blank'>
+                <svg class="vector" width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1" style="fill:none;stroke-width:28px;stroke-linecap:square;">
+                    <g transform="translate(0,30)">
+                        <g transform="translate(150,150),rotate(120,0,0)">
+                            <path d="M0,-60 a60,60 0 1,0 0,120 l100,0"></path>
+                        </g>
+                        <g transform="translate(150,150),rotate(240,0,0)">
+                            <path d="M0,-60 a60,60 0 1,0 0,120 l100,0"></path>
+                        </g>
+                        <g transform="translate(150,150),rotate(0,0,0)">
+                            <path d="M0,-60 a60,60 0 1,0 0,120 l100,0"></path>
+                        </g>
+                    </g>
+                </svg>
+            </a>
+            <span class="dingbats">{{ partial "icons/anarchy" . }}</span>
+            <span class="dingbats">{{ partial "icons/bat" . }}</span>
+        </div>
+    </div>
 </footer>
 <script async src="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js"></script>
 <script async src="/js/script.js"></script>
