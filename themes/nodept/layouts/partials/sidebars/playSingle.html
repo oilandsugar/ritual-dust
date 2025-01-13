@@ -1,0 +1,26 @@
+<aside class="sidebar">
+  {{ partial "name" . }}
+  {{ partial "sidebars/utils/back" . }}
+  {{ $section := where $.Site.RegularPages "Section" "play"}}
+  <h3 class="accent gaeilge all-caps">Projects</h3>
+  <div class="default-padding-bottom">
+    <ul class="section-pages">
+    {{ range $section }}
+      {{ if not (in .Params.tags "notes") }}
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
+      {{ end }}
+    {{ end }}
+    </ul>
+  </div>
+  <h3 class="accent gaeilge all-caps">Notes</h3>
+  <div class="default-padding-bottom">
+    <ul class="section-pages">
+    {{ range $section }}
+      {{ if in .Params.tags "notes" }}
+        {{ partial "sidebars/utils/sidebarMenuItem" . }}
+      {{ end }}
+    {{ end }}
+    </ul>
+  </div>
+  <div id="icon-sun" class="icon bottom-icon"></div>
+</aside>

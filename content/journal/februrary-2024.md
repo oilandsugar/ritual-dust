@@ -3,9 +3,12 @@ title = "Februrary 2024"
 type = "journal"
 date = "2024-02-01"
 tags = ["journal"]
+image = "/img/journal/2024/feb-1.jpg"
 +++
 
 ### Thoughts about my music project
+
+![](/img/journal/2024/feb-2.jpg)
 
 I've had some more revelations about the album I keep wanting to make with Ritual Dust, I keep writing these in disconnected little notes as they come to me and slowly a clearer picture of the shape of the work and the intent behind it is emerging.
 
@@ -29,11 +32,19 @@ This was the logical succession of figuring out what I wanted to do with my musi
 
 ### Curse pop typography for VOIDXWITCH
 
+![](/img/journal/2024/feb-3.jpg)
+
 Hex came up with that term Curse Pop to describe their music recently and we had the idea of turning into some kind of visual that we could reuse for their project, either as just a static visual, animated in music videos or even on merch. Since doing the new logo for their project I've been really inspired by the whole neo-grunge / acid graphics design aesthetic with it's black metal lettering inspiration, 2000's flair and chrome effects. So to continue in that line I drew a very spikey version of the lettering with the two words nesting into each other and with a very symmetrical composition, that way when we animate it or make it rotate it'll work better and we can have the two words doing different things.
+
+![](/img/journal/2024/feb-4.jpg)
 
 Then I headed to blender to do a 3d version of it. I'm so happy to go back to doing 3D in blender, I used to do quite a bit of it back then and even made a little zine with all 3d modeled landscapes and a small game. I find that 3D is such a great way to push visuals further and create effects that would be really hard to get otherwise. I've learned a lot of new tricks recently from watching https://www.youtube.com/@intr4 on youtube, like adding imperfections on surfaces and using HDRIs for more realistic reflections. This render is still a work in progress but i feel like I'm getting closer to what I want.
 
+![](/img/journal/2024/feb-5.jpg)
+
 ### Photo experiments
+
+![](/img/journal/2024/feb-6.jpg)
 
 Following some really early tests inspired by this video on the color style of the movie the Ring I went out on a walk and took more photos to see how the yellow filter combined with the tungsten white balance on my camera would look in daylight. I had so much fun on this little photo walk and was so inspired by seeing the results directly while shooting compared to doing color grading after the fact, I really feel that making visuals choices like that in camera can really change the way I shoot and how I look at different subjects. I'm more and more convinced that a lot of movies that date from the film era were so visually striking because of these bold in-camera choices that the DP took and committed to instead of trying to keep all doors open and figuring it in post. This had inspired me to get some film and start shooting more on film in order to have to be more intentional with what I shoot and how I do it.
 

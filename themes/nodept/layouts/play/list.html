@@ -1,0 +1,21 @@
+{{ partial "header" . }}
+
+<main class="page-sidebar">
+    {{ partial "sidebars/listSidebar" . }}
+    <article class="flow">
+        {{ partial "pageTitle" . }}
+        <div class="measured">
+            {{ .Content }}
+        </div>
+        <div>
+            <div class='gallery-grid'>
+                {{ range where .RegularPages "Section" "play" }}
+                {{ partial "cards/projectCard.html" . }}
+                {{ end }}
+            </div>
+        </div>
+    </article>
+
+</main>
+
+{{ partial "footer" . }}

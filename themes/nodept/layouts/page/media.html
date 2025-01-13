@@ -1,13 +1,17 @@
 {{ partial "header" . }}
+{{ $media := "" }}
 {{ $seen := "" }}
 {{ $tosee := "" }}
 {{ if eq .Params.media "books" }}
+{{ $media = "books" }}
 {{ $seen = .Site.Data.books.read }}
 {{ $tosee = .Site.Data.books.toread }}
 {{ else if eq .Params.media "movies" }}
+{{ $media = "movies" }}
 {{ $seen = .Site.Data.movies.watched }}
 {{ $tosee = .Site.Data.movies.towatch }}
 {{ else if eq .Params.media "games" }}
+{{ $media = "games" }}
 {{ $seen = .Site.Data.games.played }}
 {{ $tosee = .Site.Data.games.toplay }}
 {{ end }}
@@ -31,7 +35,7 @@
                 <div class="reverse">
                     {{ range $year, $books := $seen }}
                     <div class="year">
-                        <h3>in {{ $year }}</h3>
+                        <h3>{{ len $books }} {{ $media }} in {{ $year }}</h3>
                         {{ range $books }}
                         {{ partial "media" . }}
                         {{ end }}
@@ -61,6 +65,6 @@
     </article>
 </main>
 
-{{ partialCached "footer" . }}
+{{ partial "footer" . }}
 
 

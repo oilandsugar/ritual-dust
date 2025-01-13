@@ -13,8 +13,35 @@ This page is a collections of notes, ramblings and highlights for each year I pa
 ## Highlights of 2024
 - Filmed and edited a [crazy music video](/works/video/beast-of-the-black-hill) in the backwoods of Ontario over five intense nights of shooting
 - Released my [first album as Ritual Dust](/music/earthworks), which was also the first time I finish and release solo music that I'm really proud of.
+- Played a remixed version of Beast of the Black Hill on stage with Voidxwitch and Aliceffekt
 - Got a large back tattoo of my solar symbol
 - Deepened my practice of self-compassion
+- Challenged myself to draw characters and scenes, completing one complex illustration per month
+
+### my favorite books of the year
+
+- the Earthsea cycle by Ursula Le Guin
+- Listen to the Land Speak by Manchàn Magan
+
+### my favorite movies of the year
+
+- Human Traffic (1999)
+- Kneecap (2024)
+- The Boy And The Heron (2023)
+- Alien Romulus (2024)
+- Furiosa (2024)
+
+### my top 10 songs of the year
+- Better Way To Live (ft. Grian Chatten) - Kneecap 
+- Interlocked - Danny L. Harle ft. DJ Mayhem
+- Yxguden (ft. Bladee) - Evian Christ
+- <3 Korean Girls (ft. Mega Mongoliad) - Alice Longyu Gao
+- gec 2 Ü (Danny L Harle)
+- Beast Of The Black Hill (Aliceffekt Remix) - Voidxwitch
+- FML - Zheani
+- Old Hag You Have Killed Me - The Bothy Band
+- Mineral Hool - Dj Ibon & Vilde Tuv
+- Satan Was A Baby Boomer - Brutalismus 3000
 
 {{< spacer >}}
 

@@ -78,17 +78,33 @@ body.dark {
     background: var(--b_inv)!important;
     color: var(--f_inv);
 }
+body.dark table {
+     color: var(--f_inv);
+    border-color: var(--b_med);
+}
+body.dark th, body.dark td {
+    border-color: var(--f_med);
+}
+body.dark tr:hover td {
+    background-color: var(--f_med);
+}
 body.dark .image-background {
-    background: var(--background);
+    background: var(--b_med);
 }
 body.dark .accent,body.dark h1,body.dark h2 {
     color: var(--background);
+}
+body.dark .stat.accent {
+    background: var(--f_med);
 }
 body.dark #icon-stamp {
     background-color: var(--background);
 }
 body.dark .dingbats path, body.dark .social svg:hover {
     fill: var(--f_inv);
+}
+body.dark .webring svg {
+    stroke: var(--f_inv);
 }
 body.dark a {
     color:var(--b_med);
@@ -103,7 +119,7 @@ body.dark .notes,
 body.dark .banner, 
 body.dark .warning {
     color: var(--b_med);
-    background: var(--b_high);
+    background-color: var(--b_high);
 }
 body.dark .banner .accent, 
 body.dark .banner h2,
@@ -167,4 +183,11 @@ body.dark .banner.pious-rot {
 }
 body.dark .banner.pious-rot h2 {
     color:var(--f_high);
+}
+body.dark aside .bottom-icon {
+    background-color: var(--f_inv);
+}
+body.dark ::selection, 
+body.dark ::-moz-selection {
+    background: var(--b_high);
 }

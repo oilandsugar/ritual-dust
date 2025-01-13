@@ -1,6 +1,7 @@
 +++
 title = "Music visuals"
 type = "page"
+date = "2020-01-01"
 layout = "musicVisuals"
 weight = 3
 +++

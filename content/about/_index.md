@@ -1,6 +1,6 @@
 +++
 title = "Lizbeth Poirier"
-subtitle = ""
+date = "2020-01-01"
 type = "page"
 desc = "I am Lizbeth Poirier, a folk artst, illustrator, goth druid, musician and artisan."
 +++

@@ -3,6 +3,7 @@ title = "January 2024"
 type = "journal"
 date = "2024-01-01"
 tags = ["journal"]
+image = "/img/journal/2024/jan-1.jpg"
 +++
 
 As Imbolg and the renewed energy of spring (it already feels like spring here in Montreal thanks to climate change) arrives, I'm taking this time to reflect on the start of this year, take stock and set some intentions and priorities for the months to come.
@@ -13,14 +14,19 @@ Now, for some side projects I worked on during the month:
 
 ### Business Cards for Reliquaire Perçage
 
+![](/img/journal/2024/jan-2.jpg)
+
 One of my friends who's doing piercing has reached out in January to have some business cards made. The brief was to draw a reliquary containing different piercing jewelry. I took the opportunity to do something pretty old school with the shiny chrome effect and picked some of my favorite fonts to go along with it.
 
-
 ### Logo for Fall of Stasis
+
+![](/img/journal/2024/jan-3.jpg)
 
 Alongside the sleep paralysis-themed illustration I did for the band, I also redid their logo and sigil. I went with a very expressive and sharp fraktur variation for the logo, building and improving on their old logo. It had been a while i had work with vectors for that kind of work but it was more fun than I remember, it makes it quite easy to reuse parts of some letters to make other ones and make the whole lettering piece feel more consistent.
 
 ### Lyric Video for Kerosene Heart 
+
+![](/img/journal/2024/jan-4.jpg)
 
 As a normal progression from a short teaser we did a while ago for the Kerosene Heart, me and Hex worked on a Lyric video for the full song last month. I played around with color overlays, creative editing and a variety of fonts to illustrate the feeling of the different sections (including a custom font i made for the bridge).
 

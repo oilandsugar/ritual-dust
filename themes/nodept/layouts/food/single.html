@@ -15,6 +15,9 @@
             {{ end}}
         </div>
         <div class="page-content">
+            {{ if in .Params.tags "notes" }}
+            {{ .Content | safeHTML }}
+            {{ else }}
             <div class="recipe-grid recipe-content">
                 <div class="ingredients">
                     <h2>Ingredients</h2>
@@ -28,9 +31,10 @@
                     {{ .Content | safeHTML }}
                 </div>
             </div>
+            {{ end }}
         </div>      
         {{ partial "page-meta" . }}
     </article>
 </main>
 
-{{ partialCached "footer" . }}
+{{ partial "footer" . }}

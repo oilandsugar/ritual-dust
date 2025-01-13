@@ -1,5 +1,6 @@
 +++
 title = "Craft"
+date = "2020-01-01"
 subtitle = "New folk artefacts and items"
 type = "page"
 +++

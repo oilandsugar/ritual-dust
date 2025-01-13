@@ -1,6 +1,6 @@
 +++
 title = "Voidxwitch Collectable Card"
-tags = ["design", "music"]
+tags = ["design", "music", "voidxwitch"]
 date = "2024-01-22"
 
 image = "/img/design/magic-card/magic-card-front.jpg"

@@ -12,6 +12,8 @@
 {{ partial "sidebars/musicSingle" . }}
 {{ else if eq $currentSection "works" }}
 {{ partial "sidebars/worksSingle" . }}
+{{ else if eq $currentSection "play" }}
+{{ partial "sidebars/playSingle" . }}
 {{ else }}
 
 {{ end }}

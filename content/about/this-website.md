@@ -3,7 +3,7 @@ title = "This website"
 date = "2022-01-14"
 weight = 11
 intro = "The why and how of this website"
-tags = ["website", "typography", "notes"]
+tags = ["website", "typography", "code", "notes"]
 +++
 
 ## The why
@@ -21,10 +21,11 @@ Explore projects over time in the [Timeline](/timeline/).
 When selecting fonts for this website, I was looking to combine my love for 70's psychedelia and gothic blackletter while keeping everything mostly legible and accessible.
 
 Fonts used on this website:  
-**Basteleur** for the larger titles
-**Cooper Std** is used for the second level of titles  
-**Distro** is used for the third level of titles  
-**Wrenema** is used for body text
+- <strong style="font-family:'Basteleur'">Basteleur</strong> for the larger titles
+- <strong style="font-family:'cooper std'">Cooper Std</strong> is used for the second level of titles  
+- <strong style="font-family:'distro'">Distro</strong> is used for the third level of titles  
+- <strong style="font-family:'wrenema'">Wrenema</strong> is used for body text
+- <strong style="font-family:'gaeilge'">Gaeilge</strong> is used for irish text
 
 If you're into cool fonts look up [this directory of open source fonts by womxn](https://www.design-research.be/by-womxn/), this [crazy foundry making free fonts](https://www.velvetyne.fr/), this [directory of free to use and free to modify fonts](http://usemodify.com/) and the [download foundry](https://fonderie.download/) making really experimental stuff. Last thing, here's a [cool site with all the unicode characters handy](https://unilist.raphaelbastide.com/).
 
@@ -110,23 +111,22 @@ If you're interested in better markup and more accessible websites, go take a lo
 ---
 
 <div class="grid-2">
-<div class="">
+<div>
     
 ### TODO
 
 [-] Add commissions banner on home page  
-[ ] make winter theme  
-[ ] fix fall theme  
-[ ] add some of the visuals i did for voidxwitch in music visuals  
-[ ] rewrite the description of the sections on the home page     
-[ ] add a page for my print club inspired by https://palomakop.tv/zine-club/     
-[ ] fix styling on large screens  
-[ ] add photos to journal entries  
-[ ] use built in image processing tools to resize and dither images   
-[ ] Make icons for all sections    
+[-] use built in image processing tools to resize and dither images   
 
-[ ] finish beast mask post   
-[ ] finish ktp props post   
+[ ] write end of year review  
+[ ] add some of the visuals i did for voidxwitch in music visuals  
+
+[ ] finish ktp props post  
+[ ] add voidxwitch cd in layouts    
+[ ] add voidxwitch zine in layouts    
+
+[ ] rewrite the description of the sections on the home page     
+[ ] fix previous themes for light/dark   
 [ ] finish writing printmaking tutorial   
 [ ] finish writing page on druidism   
 [ ] finish writing page on tarot   
@@ -134,10 +134,24 @@ If you're interested in better markup and more accessible websites, go take a lo
 [ ] finish writing page on alchemy   
 
 </div>
-<div class="">
+<div>
     
 ### DONE
 
+[x] note recipe pages should have standard layout  
+[x] add diablo song in music      
+[x] finish beast mask post   
+[x] add photos to journal entries  
+[x] fix timeline page in dark mode  
+[x] put max length on excerpts on notes page  
+[x] fix tag for pages without sections in timeline  
+[x] add toc on timeline with years  
+[x] add play section  
+[x] add movie count per year  
+[x] add a separate footer menu   
+[x] add a page for my print club inspired by https://palomakop.tv/zine-club/     
+[x] fix styling on large screens  
+[x] make winter theme  
 [x] find a way to have dark and light theme with one theme file  
 [x] add a play section with game stuff  
 [x] improve mobile menu and footer   

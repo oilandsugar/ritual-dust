@@ -1,6 +1,7 @@
 +++
 title = "Timeline"
 type = "page"
+date = "2020-01-01"
 layout = "timeline"
 desc = "A timeline of my projects and writing"
 tags = ["time", "notes"]

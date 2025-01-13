@@ -1,5 +1,21 @@
+{{ $cover := .Params.image }}
+{{ $title := .Title }}
+{{ $lowResCover := replace .Params.image ".jpg" "-low.jpg" }}
+
 <article class="journal-entry medium-padding-bottom">
   <h2 class="date subdued">{{ .Date.Format "2006-01-02" | safeHTML }}</h2>
-  <h2>{{ .Title }}</h2>
+  <h2 id="{{ .Title | anchorize }}">{{ .Title }}</h2>
+  {{ with .Params.image }}
+    <div class="picture">
+      <div class="image-background">
+        <img
+          class="to-toggle low"
+          data-srclow="{{ $lowResCover | safeURL }}"
+          data-srchi="{{ $cover | safeURL }}"
+          src="{{ $lowResCover | safeURL }}"
+          alt="{{ $title }}">
+      </div>
+    </div>
+  {{ end }}
   {{ .Content }}
 </article>

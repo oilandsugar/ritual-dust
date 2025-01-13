@@ -1,6 +1,6 @@
 +++
 title = "Pious Rot"
-tags = ["website","design"]
+tags = ["website","design", "ttrpg"]
 date = "2024-01-06"
 
 image = "/img/websites/pious-rot/pious-rot-website.jpg"

@@ -3,15 +3,15 @@ title = "November 2024"
 type = "journal"
 date = "2024-11-01"
 tags = ["journal"]
+image = "/img/journal/2024/nov-1.jpg"
 +++
-
 
 Somehow this September saw me slowly emerging from the darker period I've been going through. I still crave the sunlight so much that I turn all the lights in the house on to compensate but life's been pretty good. I've been drawing a lot, going back to working on Pious Rot and took part in the filming of a metal music video in a huge abandoned church. 
 Website updates
 
 As the end of the year approaches, I usually look back at the work I've done during the year, document it and spend some time on maintaining the tools I use most regularly. One of these is my personal website, which hold all my work and a ton of notes on a wide range of subjects that i use as reference.
 
-In addition to adding some new drawings on there I've been working on a music theory page,  that I use as a motivation to learn more about it and a future reference when I work on. music. Doing the little interactive keyboard thingy was especially fun.
+In addition to adding some new drawings on there I've been working on a [music theory page](/music/music-theory/),  that I use as a motivation to learn more about it and a future reference when I work on music. Doing the little interactive keyboard thingy was especially fun.
 
 I've also updated my watching and reading pages to display the information better on there and allow me to rate the books and movies and leave notes if i feel like it.
   

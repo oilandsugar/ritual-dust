@@ -6,7 +6,6 @@
         {{ partial "pageTitle" . }}
         <div class="measured">
             {{ .Content }}
-            {{ .CurrentSection }}
         </div>
         <div>
             <div class='gallery-grid highlight-first works'>
@@ -21,4 +20,4 @@
 
 </main>
 
-{{ partialCached "footer" . }}
+{{ partial "footer" . }}

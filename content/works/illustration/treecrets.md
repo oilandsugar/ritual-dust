@@ -9,9 +9,9 @@ desc = "Illustrated cards for a quiet game about trees."
 
 Basing myself on a [game](https://jameschip.io/games/treecrets.html) by [James Chip](https://jameschip.io/index.html), I created a series of cards with illustrations for the different steps of this meditative and introspective game about listening and talking to trees with your friends.
 
-![](/img/illustration/treecrets-1.jpg)
+![](/img/illustration/treecrets/treecrets-1.jpg)
 
-{{< product title="Treecrets cards" desc="Set of 12 cards guiding you and a through this meditative game to be played alone or with a friend in a quiet spot of forest." price="20" id="treecrets-cards" image="/img/illustration/treecrets/treecrets-1.jpg" weight="41" length="19" height="1" width="14" url="https://ritualdust.com/works/illustration/treecrets" >}}
+{{< product-link title="Treecrets card game" desc="Meditative animist card game that allows you to converse with trees, to be played alone or with a friend in a quiet spot of forest"  image="/img/shop/treecrets.jpg" url="/shop/treecrets/" >}}
 
 ![](/img/illustration/treecrets/treecrets-6.jpg)
 ![](/img/illustration/treecrets/treecrets-2.jpg)

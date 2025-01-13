@@ -3,7 +3,7 @@
     <div class="back-home">
         <a href="/tags/">Back to all tags</a>
     </div>
-    <h3 class="accent default-font all-caps">Tags</h3>
+    <h3 class="accent gaeilge all-caps">Tags</h3>
     <ul>
         {{ range .Site.Taxonomies.tags.ByCount }}
         <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>

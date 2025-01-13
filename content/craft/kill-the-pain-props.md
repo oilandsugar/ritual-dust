@@ -1,6 +1,6 @@
 +++
 title = "Kill the Pain props"
-tags = ["props", "music video"]
+tags = ["props", "music video", "voidxwitch"]
 date = "2023-03-19"
 type = "craft"
 image = "/img/craft/ktp-props/label-1.jpg"

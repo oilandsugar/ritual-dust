@@ -4,7 +4,7 @@ tags = ["notes"]
 date = "2022-01-24"
 draft = false
 images = []
-desc = "My collection of favourite plant-based recipes from the internet"
+desc = "My collection of favourite recipes from the internet"
 +++
 
 ## Table of contents
@@ -49,6 +49,9 @@ desc = "My collection of favourite plant-based recipes from the internet"
 ## Pasta
 {{% columns count="2" %}}
 
+{{< recipe name="Vegan low fodmap spag" link="https://simplegreensoul.com/vegan-spaghetti-fodmap/">}}
+{{< recipe name="Lemon Veggie Pasta" link="https://www.mymoderncookery.com/lemon-vegetable-pasta/">}}
+{{< recipe name="Mushroom Stroganoff" link="https://www.gazoakleychef.com/recipes/mushroom-stroganoff/">}}
 {{< recipe name="Creamy mushroom pasta" link="https://lovingitvegan.com/vegan-mushroom-pasta/">}}
 {{< recipe name="Cauliflower mushroom pasta bake" link="https://topwithcinnamon.com/creamy-cauliflower-mushroom-kale-pasta-bake-vegan-option/"  >}}
 {{< recipe name="Butternut squash pasta" link="https://cookieandkate.com/creamy-vegan-butternut-squash-linguine-with-fried-sage/"  >}}
@@ -90,6 +93,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Broccoli and cheese soup" link="https://ohsheglows.com/2017/01/20/vegan-broccoli-and-cheese-soup/" >}}
 {{< recipe name="Chicken and gnocchi soup" link="https://www.budgetbytes.com/kale-chicken-and-gnocchi-soup/" >}}
 {{< recipe name="Rosemary garlic wite bean soup" link="https://www.budgetbytes.com/easy-rosemary-garlic-white-bean-soup/" >}}
+{{< recipe name="Pho" link="https://www.gimmesomeoven.com/vegetarian-vegan-pho-recipe/" >}}
 
 {{% /columns %}}
 
@@ -125,6 +129,7 @@ desc = "My collection of favourite plant-based recipes from the internet"
 {{< recipe name="Mexican rice" link="https://www.cookwithmanali.com/vegetarian-mexican-rice/" >}}
 {{< recipe name="shepherd's pie" link="https://www.thekitchn.com/recipe-vegan-tofu-and-vegetabl-134550"  >}}
 {{< recipe name="Welsh rarebit" link="https://www.gazoakleychef.com/recipes/welsh-rarebit/"  >}}
+{{< recipe name="Kimchi and tofu scramble tacos" link="https://simple-veganista.com/kimchi-tofu-scramble-tacos/"  >}}
 
 {{% /columns %}}
 
@@ -142,6 +147,8 @@ desc = "My collection of favourite plant-based recipes from the internet"
 ## Desserts
 {{% columns count="2" %}}
 
+{{< recipe name="Vegan christmas cake" link="https://domesticgothess.com/blog/2018/11/10/vegan-christmas-cake/"  >}}
+{{< recipe name="Gateau froid au café" link="https://chefcuisto.com/recette/gateau-froid-au-cafe/"  >}}
 {{< recipe name="Depression cake" link="https://www.budgetbytes.com/chocolate-depression-cake/"  >}}
 {{< recipe name="Cinnamon rolls" link="https://nutriciously.com/vegan-cinnamon-rolls/" >}}
 {{< recipe name="Brownies" link="https://www.noracooks.com/vegan-brownies-recipe/"  >}}

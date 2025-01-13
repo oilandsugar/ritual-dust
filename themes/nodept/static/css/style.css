@@ -1,6 +1,6 @@
 /* ___  ____________  _____   __     ___  __  ____________
-/ _ \/  _/_  __/ / / / _ | / /    / _ \/ / / / __/_  __/
-/ , _// /  / / / /_/ / __ |/ /__  / // / /_/ /\ \  / /   
+--/ _ \/  _/_  __/ / / / _ | / /    / _ \/ / / / __/_  __/
+-/   _// /  / / / /_/ / __ |/ /__  / // / /_/ /\ \  / /   
 /_/|_/___/ /_/  \____/_/ |_/____/ /____/\____/___/ /_/  */  
 
 
@@ -145,6 +145,10 @@ html body {
     column-gap: var(--spacing_default);
 }
 
+.gallery-grid p {
+    margin:0;
+}
+
 .notes-grid {
     columns: 1;
     column-gap: var(--spacing_default);
@@ -173,8 +177,16 @@ html body {
     display: inline-block;
     width: 50%;
     line-height: 0;
-    padding-right: 8px; /* spacing_sm */
-    padding-left: 8px; /* spacing_sm */
+    padding-right: var(--spacing_sm);
+    padding-left: var(--spacing_sm);
+}
+
+.half:first-child {
+    padding-left:0;
+}
+
+.half:last-child {
+    padding-right:0;
 }
 
 .half.normal-line-height {
@@ -345,6 +357,15 @@ html body {
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Gaeilge';
+    src: url('webfonts/Gaeilge.woff2') format('woff2'),
+        url('webfonts/Gaeilge.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 h1 {
     font-size: 2rem;
     line-height: 1em;
@@ -413,6 +434,10 @@ h4.blackletter {
 
 .default-font {
     font-family: "Wremena";
+}
+
+.gaeilge {
+    font-family:'Gaeilge';
 }
 
 .all-caps {
@@ -503,11 +528,14 @@ a.button, .sidebar a.button {
     padding: var(--spacing_sm) var(--spacing_default);
     display:inline-block;
     border-radius: var(--border_radius);
-    display:flex;
     border:0;
     font-family: "Distro Bold";
     line-height:1rem;
     font-size:0.8rem;
+}
+
+a.button.patreon {
+    display:flex;
 }
 
 a.button:hover {
@@ -670,6 +698,10 @@ img:hover, .card:hover img, #home-img:hover img {
     mix-blend-mode: normal;
 }
 
+.page-content ul, .page-content ol {
+    margin-bottom: var(--spacing_default);
+}
+
 .last-mod {
     font-size:0.8rem;
     line-height: 1rem;
@@ -759,7 +791,7 @@ img:hover, .card:hover img, #home-img:hover img {
     padding-left: .25ch;
     content: " . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
         ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
-        ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ";
+        ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ";
     text-align: right;
 }
 
@@ -771,12 +803,13 @@ img:hover, .card:hover img, #home-img:hover img {
 
 table {
     border: var(--border_size) solid;
-    border-color: var(--f_high);
+    border-color: var(--f_med);
+    color: var(--f_high);
 }
 
 th, td {
     border: var(--border_size) solid;
-    border-color: var(--f_high);
+    border-color: var(--b_med);
     text-align:left;
 }
 
@@ -1056,12 +1089,12 @@ input[type=checkbox] {
 
 .menu .dingbats {
     position: relative;
-        top: 3px;
+    top: 3px;
 }
 
 .theme-mode-toggle {
-    overflow: clip;
     width: 48px;
+    display: inline;
 }
 
 .theme-mode-toggle button {
@@ -1157,7 +1190,7 @@ table.simple .dingbats {
     position: absolute;
     top: 0px;
     left: var(--spacing_md);
-    background: var(--f_high);
+    background: var(--background);
     mask-size: contain;
     mask-repeat: no-repeat;
     -webkit-mask-size: contain;
@@ -1392,6 +1425,12 @@ table.simple .dingbats {
 .notes .desc {
     margin-top: var(--spacing_default);
     padding-bottom:0;
+}
+
+.note-card .desc {
+    max-height:6rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .works .project-card h3, .works .project-card .desc {
@@ -1875,6 +1914,13 @@ footer ul {
     padding:0;
 }
 
+.subfooter {
+    border-top: solid 2px;
+    border-bottom: solid 2px;
+    padding:var(--spacing_sm) 0;
+    width:100%;
+}
+
 .webring {
     margin-right: var(--spacing_default);
     border-bottom-style: none;
@@ -2055,6 +2101,9 @@ footer ul {
     .menu .dingbat-wrapper {
         display:block;
     }
+    .home .menu .theme-mode-toggle .dingbats {
+        top:0;
+    }
     .snipcart-checkout {
         position:relative!important;
     }
@@ -2083,9 +2132,13 @@ footer ul {
     }
     footer {
         flex-direction: row;
+        padding:0 calc(200px + 5vw);
     }
     footer .dingbats {
         display:block;
+    }
+    footer span {
+        padding-right:0;
     }
     .phases {
         display:block;
@@ -2139,18 +2192,19 @@ footer ul {
     #folklore-img {
         display:block;
     }
-    footer {
-        padding:0 calc(200px + 5vw);
-    }
 }
 
 /* -------- HUGE DESKTOP --------- */
 
 @media screen and (min-width: 1800px) {
+    html {
+        font-size:28px;
+    }
     body {
         padding: 0 10vw;
     }
     .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-1-2 {
+        grid-gap: var(--spacing_xm);
     }
     .gallery-grid, .notes-grid {
         columns:4;
@@ -2159,4 +2213,30 @@ footer ul {
     .category-wrapper .grid-2, .releases .grid-2 {
         grid-template-columns: repeat(3, 1fr);
     }
+    .card {
+        margin-bottom:var(--spacing_xm);
+    }
+    aside {
+        min-width:300px;
+    }
+    .support a.button {
+        max-width:300px;
+    }
+    #home-img {
+        height:35rem;
+    }
+    .notes {
+        min-height:11rem;
+    }
+    .page-content {
+        max-width: 1400px;
+    }
+    .card img, .page-content img {
+        width:100%;
+    }
+    .page-sidebar, .list-page, .single-page {
+        grid-template-columns: 300px 1fr;
+        grid-gap: var(--spacing_xm);
+    }
+
 }

@@ -1,26 +1,26 @@
 {{ $currentPage := . }}
+{{ $page_url:= $currentPage.RelPermalink }}
 
 <footer class="large-padding-top">
     <div class="grid-4">
         <div>
             <ul>
-                {{ range .Site.Menus.main }}
-                {{ $menu_item_url := .URL }}
-                {{ $page_url:= $currentPage.RelPermalink }}
+                {{ range .Site.Menus.footer1 }}
+                {{ $menu_item_url1 := .URL }}
                 <li>
-                    <a class="{{ if eq $menu_item_url $page_url }}accent{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                    <a class="{{ if eq $menu_item_url1 $page_url }}accent{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
                 </li>
                 {{ end }}
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="/about/this-website">This website</a></li>
-                <li><a href="/tree">Tree</a></li>
-                <li><a href="/timeline">Timeline</a></li>
-                <li><a href="/tags">Tags</a></li>
-                <li><a href="/notes">Notes</a></li>
-                <li><a href="/journal">Journal</a></li>
+                {{ range .Site.Menus.footer2 }}
+                {{ $menu_item_url2 := .URL }}
+                <li>
+                    <a class="{{ if eq $menu_item_url2 $page_url }}accent{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
             </ul>
         </div>
         <div>
@@ -54,6 +54,9 @@
         </div>
     </div>
 </footer>
+<div class="subfooter large-margin-top gaeilge subdued">
+    THIS WEBSITE KILLS FASCISTS ~ FREE PALESTINE ~ TRANS RIGHTS ~ BLACK LIVES MATTER ~ LAND BACK AND INDIGENOUS STEWARDSHIP ~ BURN DOWN THE AI DATACENTERS
+</div>
 <script async src="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js"></script>
 <script async src="/js/script.js"></script>
 <div id="snipcart" data-config-modal-style="side" data-api-key="YWNiOGI5ZTQtYjNlMi00ZTA0LWI3NDAtMjJjZDI2ZTkxODY4NjM3NTY4NjU3OTgzMTYxNDQz" hidden></div>

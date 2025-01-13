@@ -7,19 +7,31 @@
         {{ partial "pageTitle" . }}
         <div class="measured">
             {{ .Content }}
+            <div class="table-of-contents mini">
+                <a href="#dec-2024">2024</a>
+                <a href="#dec-2023">2023</a>
+                <a href="#dec-2022">2022</a>
+                <a href="#dec-2021">2021</a>
+                <a href="#dec-2020">2020</a>
+                <a href="#jan-2020">older</a>
+            </div>
         </div>
         <div>
             {{ range $timeline }}
             <table class="simple">
                 <thead>
                     <tr>
-                        <th> <h2 class="accent">{{ .Key }}</h2></th>
+                        <th> <h2 id="{{ .Key | anchorize }}" class="accent">{{ .Key }}</h2></th>
                         <th>
                             <div class="stats">
                                 {{ $pagesbysection := .Pages.GroupBy "Section"}}
                                 {{ range $pagesbysection }}
                                 <div class="stat accent">
+                                    {{ if .Key }}
                                     {{ len .Pages }} {{ .Key }}
+                                    {{ else }}
+                                    {{ len .Pages }} page
+                                    {{ end }}
                                 </div>
                                 {{ end }}
                             </div>
@@ -63,4 +75,4 @@
     </article>
 </main>
 
-{{ partialCached "footer" . }}
+{{ partial "footer" . }}

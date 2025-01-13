@@ -1,6 +1,6 @@
 +++
 title = "Fantasy art"
-subtitle = ""
+date = "2020-01-01"
 type = "page"
 layout = "fantasyArt"
 weight = 2

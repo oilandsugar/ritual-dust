@@ -1,6 +1,6 @@
 +++
 title = "Personal work"
-subtitle = ""
+date = "2020-01-01"
 type = "page"
 layout = "personalWork"
 weight = 1

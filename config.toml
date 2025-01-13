@@ -1,3 +1,4 @@
+
 theme = "nodept"
 baseURL = "https://ritualdust.com/"
 languageCode = "en-ca"
@@ -47,6 +48,106 @@ desc = "Portfolio, digital garden and recipe blog of designer, illustrator and g
     name = "About"
     url = "/about/"
     weight = 7
+    
+  [[menu.footer1]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.footer1]]
+    identifier = "artwork"
+    name = "Artwork"
+    url = "/works/"
+    weight = 2
+  [[menu.footer1]]
+    identifier = "music"
+    name = "Music"
+    url = "/music/"
+    weight = 3
+  [[menu.footer1]]
+    identifier = "tattoo"
+    name = "Tattoo"
+    url = "/tattoo/"
+    weight = 4
+  [[menu.footer1]]
+    identifier = "craft"
+    name = "Craft"
+    url = "/craft/"
+    weight = 5
+  [[menu.footer1]]
+    identifier = "folklore"
+    name = "Folklore"
+    url = "/folklore/"
+    weight = 5
+  [[menu.footer1]]
+    identifier = "food"
+    name = "Food"
+    url = "/food/"
+    weight = 5
+  [[menu.footer1]]
+    identifier = "play"
+    name = "Play"
+    url = "/play/"
+    weight = 6
+  [[menu.footer1]]
+    identifier = "shop"
+    name = "Shop"
+    url = "/shop/"
+    weight = 7
+  [[menu.footer1]]
+    identifier = "commissions"
+    name = "Commissions"
+    url = "/works/commissions/"
+    weight = 6  
+  [[menu.footer1]]
+    identifier = "printclub"
+    name = "Print Club"
+    url = "/works/print-club/"
+    weight = 7
+  [[menu.footer1]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 8
+    
+  [[menu.footer2]]
+    identifier = "website"
+    name = "This website"
+    url = "/about/this-website/"
+    weight = 1
+  [[menu.footer2]]
+    identifier = "tree"
+    name = "Tree"
+    url = "/tree/"
+    weight = 2
+  [[menu.footer2]]
+    identifier = "timeline"
+    name = "Timeline"
+    url = "/timeline/"
+    weight = 3
+  [[menu.footer2]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+  [[menu.footer2]]
+    identifier = "media"
+    name = "Media"
+    url = "/about/"
+    weight = 5
+  [[menu.footer2]]
+    identifier = "notes"
+    name = "Notes"
+    url = "/notes/"
+    weight = 6
+  [[menu.footer2]]
+    identifier = "journal"
+    name = "Journal"
+    url = "/journal/"
+    weight = 7
+
+
+
 
 [markup]
 

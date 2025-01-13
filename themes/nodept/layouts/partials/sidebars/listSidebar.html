@@ -12,6 +12,8 @@
 {{ partial "sidebars/musicList" . }}
 {{ else if eq $currentSection "works" }}
 {{ partial "sidebars/worksList" . }}
+{{ else if eq $currentSection "play" }}
+{{ partial "sidebars/playList" . }}
 {{ else }}
 
 {{ end }}

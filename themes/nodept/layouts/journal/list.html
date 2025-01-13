@@ -6,6 +6,10 @@
         {{ partial "pageTitle" . }}
         <div class="measured">
             {{ .Content }}
+            <div class="table-of-contents mini">
+                <a href="#december-2024">2024</a>
+                <a href="#december-2023">2023</a>
+            </div>
         </div>
         <div class="page-content">
             <div class="journal-entries measured">
@@ -17,4 +21,4 @@
     </article>
 </main>
 
-{{ partialCached "footer" . }}
+{{ partial "footer" . }}

@@ -2,7 +2,7 @@
 title = "Watching"
 date = "2020-11-25"
 weight = 3
-tags = ["movies", "films", "media"]
+tags = ["movies", "media"]
 type = "page"
 desc = "This is my movie watchlist, I keep it yearly and highlight the movies that really stayed with me."
 layout = "media"
