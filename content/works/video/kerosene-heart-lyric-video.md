@@ -1,6 +1,6 @@
 +++
 title = "Kerosene Heart Lyric Video"
-tags = ["video", "music", "music video"]
+tags = ["video", "music", "music video", "voidxwitch"]
 date = "2024-01-19"
 
 image = "/img/video/kh-lyric-video-cover.jpg"

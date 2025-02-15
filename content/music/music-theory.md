@@ -388,6 +388,18 @@ higher notes towards the end
 keep the phrase length the same overall
 insérer des breaks dans un rythme de drums
 
+### Arpegios
+
+Arpegios are a series of notes played in succession following a certain pattern. Arpegios are usually built using chord progressions. It is useful to start by just playing the chords in succession to get the right mood and the arpegiate them to create the rythmic part.
+
+An interesting approach to using arpegios is starting by taking only one note per chord and then, as the song progresses, adding more notes, like unfolding the chords over time.
+
+When using an arpegiator, in order to break the monotony of a constant arpegio, we can remove some notes from some chords, or change chords earlier or later than it normally would, changing how the pattern sounds and creating intersting variations.
+
+Another fun thing i like to do in a DAW is when I have an arpegiated sequence that is boring, I turn it into mdi and add ornaments or notes in between the existing ones or remove some of the ones that were already there to change up the rythm.
+
+One other way to add variation is varying the volume or character of some notes to accent them, like for example opening a filter more on some notes thans others. On a synth, this can also be done by using an LFO or a sample and hold to randomize this change.
+
 {{< spacer >}}
 
 ## Resources
@@ -396,3 +408,4 @@ insérer des breaks dans un rythme de drums
 - [List of chord progressions](https://en.wikipedia.org/wiki/List_of_chord_progressions)
 - [Color of keys](https://www.rollingball.com/A01c.htm)
 - [analysis of keys and modes per genres](https://methodmatters.github.io/music-song-key-mode-genre-clustering/)
+- [good video on arpegios](https://www.youtube.com/watch?v=X-NB74HJh7Q)

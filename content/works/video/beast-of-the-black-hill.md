@@ -1,6 +1,6 @@
 +++
 title = "Beast of the Black Hill Music Video"
-tags = ["video", "music", "music video"]
+tags = ["video", "music", "music video", "voidxwitch"]
 date = "2024-09-13"
 
 image = "/img/video/beast-of-the-black-hill.jpg"
@@ -17,11 +17,11 @@ desc = "Music video for Beast of the Black Hill by VOIDXWITCH."
 
 <div class="toc-entry">
     <div class="chapter">
-        Director / Producer / Editor/ Performer / Costumes</div><div class="page"><strong>Hex Evans</strong></div>
+        Director / Producer / Editor / Performer / Costumes</div><div class="page"><strong>Hex Evans</strong></div>
 </div>
 <div class="toc-entry">
     <div class="chapter">
-        Cinematographer / Co-producer / Editor / Lighting / Props</div><div class="page"><strong>Lizbeth Poirier</strong></div>
+        Cinematographer / Co-producer / Editor / Lighting / Colorist / Props</div><div class="page"><strong>Lizbeth Poirier</strong></div>
 </div>
 <div class="toc-entry">
     <div class="chapter">
