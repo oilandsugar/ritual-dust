@@ -1567,7 +1567,7 @@ h2.date {
     display:inline-block;
     position:relative;
     line-height:0;
-    background: var(--b_high);
+    background: var(--b_low);
     min-width:calc(25% - 1rem);
     border-radius: var(--border_radius);
     text-align: center;
@@ -1577,7 +1577,7 @@ h2.date {
     position: absolute;
     left:1rem;
     top:1rem;
-    color:var(--background);
+    color:var(--f_high);
     line-height:1rem;
 }
 

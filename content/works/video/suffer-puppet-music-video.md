@@ -1,10 +1,10 @@
 +++
-title = "Kill the Pain Music Video"
+title = "Suffer Puppet Music Video"
 tags = ["video", "music", "music video", "voidxwtch"]
-date = "2023-08-13"
+date = "2025-05-28"
 
 image = "/img/video/kill-the-pain.jpg"
-desc = "Music video for kill the pain by VOIDXWITCH."
+desc = "Music video for suffer puppet by VOIDXWITCH."
 +++
 
 <div class="youtube-video-container">
@@ -19,10 +19,13 @@ desc = "Music video for kill the pain by VOIDXWITCH."
     <div class="chapter">Director / Producer / Editor/ Performer / Costumes</div><div class="page"><strong>Hex Evans</strong></div>
 </div>  
 <div class="toc-entry">
-    <div class="chapter">Cinematographer / Co-producer / Editor / Props</div><div class="page"><strong>Lizbeth Poirier</strong></div>
+    <div class="chapter">Cinematographer / Co-producer / Editor / Set design / Props</div><div class="page"><strong>Lizbeth Poirier</strong></div>
 </div> 
 <div class="toc-entry">
     <div class="chapter">Lighting Technician / Grip / Production Assistant</div><div class="page"><strong>Sedge Hoffart</strong></div>
+</div>
+<div class="toc-entry">
+    <div class="chapter">Lighting Technician / Grip / Production Assistant</div><div class="page"><strong>Tariq</strong></div>
 </div>
 <div class="toc-entry">
     <div class="chapter">Hair</div><div class="page"><strong>Sara (Sad) Drainville</strong></div>
@@ -31,7 +34,7 @@ desc = "Music video for kill the pain by VOIDXWITCH."
     <div class="chapter">Additional Costumes</div><div class="page"><strong>Le Grand Costumier</strong></div>
 </div>
         
-Filmed on location and at : **Studio Usine**
+Filmed at : **Studio Usine**
 
 Shot on the Blackmagic cinema camera with the Rokinon 10mm and the DZOFilm 50-125mm   
 Edited and color graded in DaVinci Resolve

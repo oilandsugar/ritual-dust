@@ -33,7 +33,7 @@ Series of designs inspired by nature, sacred stones and ancient artefacts.
 
 ## Demon slaying and brimstone
 
-Ongoing series of flashes inspired by old school Diablo games. All pieces 8" minimum except the ones labelled small.
+Series of flashes inspired by old school Diablo games. All pieces 8" minimum except the ones labelled small.
 
 <div class="grid-3 large-padding-bottom">
 
@@ -45,6 +45,18 @@ Ongoing series of flashes inspired by old school Diablo games. All pieces 8" min
 <div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/diablo-wood-carving.jpg"/></div>
 <div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/diablo-axe-2.jpg"/></div>
 <div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/diablo-scepter.jpg"/></div>
+
+</div>
+
+## Grim Dark
+
+Relics and weapons from a dark future
+
+<div class="grid-3 large-padding-bottom">
+
+<div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/servo-skull.jpg"/></div>
+<div class="flash"><div class="number">2 (small)</div><img src="/img/tattoo/flash/purity-seal.jpg"/></div>
+<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/power-sword.jpg"/></div>
 
 </div>
 
