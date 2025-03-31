@@ -9,6 +9,7 @@ desc = "Designs available to tattoo"
 
 [Artefacts](#wood-stones-and-artefacts)
 [Diablo-inspired](#demon-slaying-and-brimstone)
+[Grim Dark](#grim-dark)
 [Dark fantasy](#dark-fantasy)
 [Armory](#armory)
 
@@ -73,21 +74,20 @@ An ongoing series of pieces inspired by old-school DnD, dark fantasy and sword a
 <div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/goblin-3-light.jpg"/></div>
 <div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/spear-nails.jpg"/></div>
 <div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/knife-sheath.jpg"/></div>
-<div class="flash"><div class="number">8 (small)</div><img src="/img/tattoo/flash/small-shield.jpg"/></div>
-<div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/flails-2.jpg"/></div>
-<div class="flash"><div class="number">10 (small)</div><img src="/img/tattoo/flash/magical-pendant-1-light.jpg"/></div>
-<div class="flash"><div class="number">11</div><img src="/img/tattoo/flash/goblin-2-light.jpg"/></div>
-<div class="flash"><div class="number">12</div><img src="/img/tattoo/flash/lich.jpg"/></div>
-<div class="flash"><div class="number">13</div><img src="/img/tattoo/flash/dagger-hand-2.jpg"/></div>
-<div class="flash"><div class="number">14</div><img src="/img/tattoo/flash/armored-fox.jpg"/></div>
-<div class="flash"><div class="number">15</div><img src="/img/tattoo/flash/rat-1.jpg"/></div>
-<div class="flash"><div class="number">16</div><img src="/img/tattoo/flash/skaven-dagger-2.jpg"/></div>
-<div class="flash"><div class="number">17</div><img src="/img/tattoo/flash/wood-hammer.jpg"/></div>
-<div class="flash"><div class="number">18</div><img src="/img/tattoo/flash/pumpkin-sword.jpg"/></div>
-<div class="flash"><div class="number">19</div><img src="/img/tattoo/flash/ghoul-arm.jpg"/></div>
-<div class="flash"><div class="number">20</div><img src="/img/tattoo/flash/goblin-side.jpg"/></div>
-<div class="flash"><div class="number">21 (small)</div><img src="/img/tattoo/flash/goblin-shield.jpg"/></div>
-<div class="flash"><div class="number">22</div><img src="/img/tattoo/flash/mimic-new.jpg"/></div>
+<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/flails-2.jpg"/></div>
+<div class="flash"><div class="number">9 (small)</div><img src="/img/tattoo/flash/magical-pendant-1-light.jpg"/></div>
+<div class="flash"><div class="number">10</div><img src="/img/tattoo/flash/goblin-2-light.jpg"/></div>
+<div class="flash"><div class="number">11</div><img src="/img/tattoo/flash/lich.jpg"/></div>
+<div class="flash"><div class="number">12</div><img src="/img/tattoo/flash/dagger-hand-2.jpg"/></div>
+<div class="flash"><div class="number">13</div><img src="/img/tattoo/flash/armored-fox.jpg"/></div>
+<div class="flash"><div class="number">14</div><img src="/img/tattoo/flash/rat-1.jpg"/></div>
+<div class="flash"><div class="number">15</div><img src="/img/tattoo/flash/skaven-dagger-2.jpg"/></div>
+<div class="flash"><div class="number">16</div><img src="/img/tattoo/flash/wood-hammer.jpg"/></div>
+<div class="flash"><div class="number">17</div><img src="/img/tattoo/flash/pumpkin-sword.jpg"/></div>
+<div class="flash"><div class="number">18</div><img src="/img/tattoo/flash/ghoul-arm.jpg"/></div>
+<div class="flash"><div class="number">19</div><img src="/img/tattoo/flash/goblin-side.jpg"/></div>
+<div class="flash"><div class="number">20 (small)</div><img src="/img/tattoo/flash/goblin-shield.jpg"/></div>
+<div class="flash"><div class="number">21</div><img src="/img/tattoo/flash/mimic-new.jpg"/></div>
 
 </div>
 
