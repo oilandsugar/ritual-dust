@@ -30,7 +30,7 @@ desc = "Music video for Beast of the Black Hill by VOIDXWITCH."
 
 Filmed on location at **Screaming Heads** and other locations
 
-Shot on the Blackmagic cinema camera with the Rokinon 10mm,  
+Shot on the Blackmagic cinema camera with the Rokinon 10mm lens    
 and a modified infrared trail camera   
 Edited and color graded in DaVinci Resolve
 

@@ -22,7 +22,7 @@ desc = "Lyric video for Kerosene Heart by VOIDXWITCH."
     <div class="chapter">Cinematographer / Editor / Props / Graphic Design</div><div class="page"><strong>Lizbeth Poirier</strong></div>
 </div>
 
-Shot on the Sony A6300 with the Rokinon 10mm   
+Shot on the Sony A6300 with the Rokinon 10mm lens   
 Edited and color graded in DaVinci Resolve
 
 </div>

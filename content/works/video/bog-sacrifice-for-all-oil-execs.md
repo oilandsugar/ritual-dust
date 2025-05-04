@@ -19,7 +19,7 @@ desc = "Process video for my song Bog Sacrifice for All Oil Execs"
 Cinematographer / Editor / Photographer</div><div class="page"><strong>Lizbeth Poirier</strong></div>
 </div>  
 
-Shot on the Sony A6300 with the Rokinon 10mm   
+Shot on the Sony A6300 with the Rokinon 10mm lens   
 Edited and color graded in Davinci Resolve  
 Featuring photos I took in Ireland
 

@@ -1,6 +1,6 @@
 +++
 title = "Kill the Pain Music Video"
-tags = ["video", "music", "music video", "voidxwtch"]
+tags = ["video", "music", "music video", "voidxwitch"]
 date = "2023-08-13"
 
 image = "/img/video/kill-the-pain.jpg"
@@ -33,7 +33,7 @@ desc = "Music video for kill the pain by VOIDXWITCH."
         
 Filmed on location and at : **Studio Usine**
 
-Shot on the Blackmagic cinema camera with the Rokinon 10mm and the DZOFilm 50-125mm   
+Shot on the Blackmagic Cinema Camera 2.5k with the Rokinon 10mm and the DZOFilm 50-125mm lenses   
 Edited and color graded in DaVinci Resolve
 
 </div>
