@@ -69,9 +69,19 @@ Impacts (cymbal or sounds with a lot of reverb), usually at the start of section
 
 Works pretty well with drums too, for example layering two snare samples with different tones and characteristics to make the sound more unique.
 
+## Effects
+
 ### Sidechaining
 
 Use eq in compressor sidechain to get just the transient of the kick, click the headphones to hear the filtered sound
+
+### Using reverb with transient heavy sounds
+
+*Short Reverbs*
+
+When adding reverb to drum sounds or plucks, use a return track or a parallel channel and reduce the transient of the signal before it gets to the reverb in order to keep the original sound punchy. It's also a good idea to apply some pre-delay to the reverb to give even more room for the initial transient to come in before the reverb kicks in. EQing out the highs and lows can also help reduce the flutter sound than can be created by the reverb.
+
+*Long reverbs*
 
 ### Gated reverb
 
