@@ -25,7 +25,7 @@ Pictish stones were found in Scotland, especially on it's east coast. They date 
 
 Early pictish stones featured ornamented pictograms and symbols which were quite consistent between the different stones, some of these were of more abstract nature and some depicted animals and objects.
 
-###Abstract pictograms
+### Abstract pictograms
 
 <strong>Crescent</strong>
 thought to symbolize the moon, the sun, or death
@@ -36,7 +36,7 @@ thought to symbolize a broken arrow
 <strong>Mirror and comb</strong>
 thought to symbolize a broken arrow
 
-###Animals
+### Animals
 
 ## Links and References
 

@@ -195,6 +195,10 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [Black Circle Lyon](https://www.instagram.com/blackcircle_lyon/) (Lyon)
 - [People's Temple Tattoo](https://www.instagram.com/peoplestempletattoo/) (Lyon)
 
+### Comics
+
+- [Mouse Guard](https://www.mouseguard.net/)
+
 ### Miniatures and dioramas
 
 - [Gardens of Hecate](https://gardensofhecate.com/)
@@ -218,6 +222,8 @@ My bookmarks of interesting / useful / beautiful websites. I've also included s
 - [The H.P. Lovecraft Historical Society](https://www.hplhs.org/index.php)
 - [Grognardia](http://grognardia.blogspot.com/)
 - [Dyson Logos's website](https://dysonlogos.blog/)
+- [Mausritter](https://mausritter.com/)
+- [Cairn](https://cairnrpg.com/)
 
 ### Historical replicas
 

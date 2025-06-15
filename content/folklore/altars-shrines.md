@@ -7,3 +7,7 @@ draft = true
 +++
 
 shinto shrines in japan, closeness to nature
+
+fairy trees in ireland
+
+sacred wells

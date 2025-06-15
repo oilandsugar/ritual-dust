@@ -147,3 +147,7 @@ Wood and peat burning in an open hearth was the traditional way of keeping cotta
 - [Old Builders](https://www.oldbuilders.com/indexmainpage.htm)
 - [Traditional skills register of the IGS](http://www.igs.ie/conservation/register)
 - [Sheep wool insulation](https://www.sheepwoolinsulation.com/)
+
+### Workshops and training
+
+- [nbhs traditional buildng skills workshops](https://www.buildingsofireland.ie/nbhs-traditional-buildings-skills-training-spring-summer-2025/)
