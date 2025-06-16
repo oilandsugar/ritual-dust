@@ -118,7 +118,6 @@ If you're interested in better markup and more accessible websites, go take a lo
 [-] Add commissions banner on home page  
 [-] use built in image processing tools to resize and dither images   
 
-[ ] write end of year review  
 [ ] add some of the visuals i did for voidxwitch in music visuals  
 
 [ ] finish ktp props post  
@@ -127,17 +126,13 @@ If you're interested in better markup and more accessible websites, go take a lo
 
 [ ] rewrite the description of the sections on the home page     
 [ ] fix previous themes for light/dark   
-[ ] finish writing printmaking tutorial   
-[ ] finish writing page on druidism   
-[ ] finish writing page on tarot   
-[ ] finish writing page on shinto   
-[ ] finish writing page on alchemy   
 
 </div>
 <div>
     
 ### DONE
 
+[x] write end of year review  
 [x] note recipe pages should have standard layout  
 [x] add diablo song in music      
 [x] finish beast mask post   
