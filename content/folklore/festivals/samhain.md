@@ -32,6 +32,12 @@ From this night until a year from tonight”.
 
 A new parshell is made every year on Samhain and replaces the one made the year prior. When taking down the old cross you had to say *“Fan istigh ar an Sídhe”* in order for it to retain some of its potency. This meant “Stay inside on account of the fairies”
 
+## Ancient monuments associated with it
+
+### The Grange stone circle
+
+The Grange stone circle in County Limerick is thought to have been built in alignment with the sunset at Samhain.
+
 ## Associations
 
 **Symbols:**  
@@ -40,3 +46,5 @@ A new parshell is made every year on Samhain and replaces the one made the year 
 **Trees:**  
 
 ## Links and references
+
+- [Grange stone circle](https://www.shadowsandstone.com/grange-stone-circle)
