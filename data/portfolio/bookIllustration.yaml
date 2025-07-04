@@ -26,10 +26,13 @@
 - title: Shadow over Innsmouth
   images: ['/portfolio/book-illustration/images/shadow-over-innsmouth.png', '/portfolio/book-illustration/images/title-page-innsmouth.png']
   type: project
+- title: Ancient forests of Ireland
+  images: ['/portfolio/book-illustration/images/book-cover-forests.png']
+  type: project
 - title: Nightmare
   images: ['/portfolio/book-illustration/images/nightmare.jpg']
   type: project
-- title: nature, ecology, fantasy, and horror books
+- title: nature, ecology, fantasy and horror books
   desc: Let's work together
   type: note
   tag: specializes in
