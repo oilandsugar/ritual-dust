@@ -1,0 +1,14 @@
+{{ $cover := .Params.image }}
+{{ $title := .title }}
+{{ $lowResCover := replace .Params.image ".jpg" "-low.jpg" }}
+
+<div class="portfolio-card card">
+    {{ range .images }}
+    <div class="picture">
+        <div class="image-background">   
+            <img src="{{ . }}" alt="{{ $title }}">
+        </div>
+    </div>
+    {{ end }}
+    <small class="default-padding-bottom small-padding-top"><strong>{{ .title }}</strong></small>
+</div>

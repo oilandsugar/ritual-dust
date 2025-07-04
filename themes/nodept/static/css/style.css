@@ -35,6 +35,8 @@
     --b_med: #716156; /* b_med */
     --b_low: #352b26; /* b_low */
     --b_inv: #9b3313; /* b_inv */
+    
+    --green: #7f9739;
 }
 
 ::-moz-selection { background: var(--b_high); }
@@ -446,6 +448,10 @@ h4.blackletter {
 
 .accent {
     color: var(--f_high);
+}
+
+.green {
+   color: var(--green); 
 }
 
 .low-contrast, .subdued {
@@ -1587,6 +1593,51 @@ h2.date {
 
 .flash.taken img {
     opacity:0.3;
+}
+
+/* --------- PORTFOLIO ----------- */
+
+
+.portfolio-card img {
+    filter:none;
+    mix-blend-mode: normal;
+}
+
+.portfolio-card .picture {
+    margin-top:var(--spacing_default);
+}
+
+.portfolio-card small {
+    color: var(--f_high);
+}
+
+.portfolio-card .picture:first-child {
+    margin-top:0;
+}
+
+.portfolio h1 {
+    font-size:24px;
+    text-align:left;
+}
+
+.bio-portfolio {
+    max-width:100%;
+    color: var(--f_high);
+}
+
+.bio-portfolio .name .icon {
+    min-width:30px;
+    max-width:30px;
+    margin-right:var(--spacing_sm);
+}
+
+.portfolio-note a {
+    color: var(--f_high);
+}
+
+.portfolio-note .stat {
+    background-color:var(--b_low);
+    color:var(--f_high);
 }
 
 /* --------- media ----------- */

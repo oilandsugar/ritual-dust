@@ -1,0 +1,30 @@
+{{ $media := "" }}
+{{ $projects := "" }}
+
+{{ if eq .Params.media "books" }}
+{{ $media = "books" }}
+{{ $projects = .Site.Data.portfolio.bookIllustration }}
+{{ else if eq .Params.media "tabletop" }}
+{{ $media = "tabletop" }}
+{{ $projects = .Site.Data.portfolio.tabletopIllustration }}
+{{ end }}
+
+{{ partial "header-minimal" . }}
+{{ partial "bio-portfolio" . }}
+
+<main class="portfolio">
+  <div class="big-padding-top big-padding-bottom">
+    <h1 class="psych-1 green">{{ .Title }}</h1>
+    <div class='gallery-grid'>    
+        {{ range $projects }}
+            {{ if eq .type "note" }}
+            {{ partial "cards/portfolioNote" . }}
+            {{ else }}
+            {{ partial "cards/portfolioCard" . }}
+            {{ end }}
+        {{ end }}
+      </div>
+  </div>
+</main>
+
+{{ partial "footer-minimal" . }}
