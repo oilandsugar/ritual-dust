@@ -1,0 +1,43 @@
+{{ $cover1 := .Params.image1 }}
+{{ $cover2 := .Params.image2 }}
+{{ $cover3 := .Params.image3 }}
+
+{{ $extraImg1 := .Params.extraImg1 }}
+{{ $extraImg2 := .Params.extraImg2 }}
+{{ $extraImg3 := .Params.extraImg3 }}
+
+{{ partial "header-minimal" . }}
+{{ partial "bio-portfolio" . }}
+
+<main class="portfolio">
+  <div class="big-padding-top big-padding-bottom">
+    <article>
+        <div class="header-section grid grid-2-1">
+            <div>
+                {{ with .Parent }}
+                    <a class="back-link" href="{{ .RelPermalink }}">Back to {{ .LinkTitle }}</a>
+                {{ end }}
+            </div>
+            <div class="medium-padding-left">{{ partial "portfolioProjectTitle" . }}</div>
+        </div>
+        <div class="grid grid-2-1">
+            <div>
+                
+                {{ with $cover1 }}<img src="{{ . }}"/>{{ end }}
+                {{ with $cover2 }}<img src="{{ . }}"/>{{ end }}
+                {{ with $cover3 }}<img src="{{ . }}"/>{{ end }}
+                {{ with $extraImg1 }}<img src="{{ . }}"/>{{ end }}
+                {{ with $extraImg2 }}<img src="{{ . }}"/>{{ end }}
+                {{ with $extraImg3 }}<img src="{{ . }}"/>{{ end }}
+            </div>
+            <div class="page-content medium-padding-left">
+                
+                {{ .Content }}
+            </div>
+        </div>
+        {{ partial "page-meta" . }}
+    </article>
+  </div>
+</main>
+
+{{ partial "footer-minimal" . }}

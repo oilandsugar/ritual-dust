@@ -1,0 +1,15 @@
+{{ $cover := .Params.image }}
+{{ $title := .Title }}
+
+<a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}" class="portfolio-section card">
+    {{ with .Params.image }}
+    <div class="picture">
+        <div class="image-background">
+            <img
+                 class="to-toggle low"
+                 src="{{ $cover | safeURL }}"
+                 alt="{{ $title }}">
+        </div>
+    </div>
+    {{ end }}
+</a>

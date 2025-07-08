@@ -136,6 +136,13 @@ html body {
     grid-template-columns: 1fr;
 }
 
+.grid-2-1 {
+    width:100%;
+    display:grid;
+    grid-gap: var(--spacing_default);
+    grid-template-columns: 1fr;
+}
+
 .recipe-grid {
     width:100%;
     grid-gap: var(--spacing_default);
@@ -1598,9 +1605,25 @@ h2.date {
 /* --------- PORTFOLIO ----------- */
 
 
-.portfolio-card img {
+.portfolio-card img, .portfolio img {
     filter:none;
     mix-blend-mode: normal;
+}
+
+.portfolio-card .title, .portfolio .back-link {
+    color:var(--f_high);
+    opacity:0.5;
+    font-size:14px;
+    transition:0.2s;
+}
+
+.portfolio .header-section {
+    border-bottom:1px solid var(--f_high);
+    margin-bottom:var(--spacing_md);
+}
+
+.portfolio-card .title:hover {
+    opacity:1;
 }
 
 .portfolio-card .picture {
@@ -1631,13 +1654,36 @@ h2.date {
     margin-right:var(--spacing_sm);
 }
 
+.portfolio-note {
+    background: var(--green);
+    color: var(--b_low);
+    padding: var(--spacing_md);
+    border-radius: 4px;
+}
+
 .portfolio-note a {
-    color: var(--f_high);
+     color: var(--b_low);
 }
 
 .portfolio-note .stat {
     background-color:var(--b_low);
     color:var(--f_high);
+}
+
+.portfolio .big {
+    font-size:60px;
+    line-height:60px;
+    color: var(--f_high);
+    opacity:0.5;
+    transition:0.2s;
+}
+
+.portfolio .big:hover {
+    opacity:1;
+}
+
+.portfolio .big a {
+    font-weight: normal;
 }
 
 /* --------- media ----------- */
@@ -2110,6 +2156,9 @@ footer ul {
     .grid-1-2 {
         grid-template-columns: 1fr 2fr;
     }
+    .grid-2-1 {
+        grid-template-columns: 2fr 1fr;
+    }
     .columns {
         column-count: 3;
     }
@@ -2254,7 +2303,7 @@ footer ul {
     body {
         padding: 0 10vw;
     }
-    .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-1-2 {
+    .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-1-2, .grid-2-1 {
         grid-gap: var(--spacing_xm);
     }
     .gallery-grid, .notes-grid {

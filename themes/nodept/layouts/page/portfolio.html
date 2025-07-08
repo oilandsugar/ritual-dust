@@ -15,14 +15,17 @@
 <main class="portfolio">
   <div class="big-padding-top big-padding-bottom">
     <h1 class="psych-1 green">{{ .Title }}</h1>
-    <div class='gallery-grid'>    
-        {{ range $projects }}
-            {{ if eq .type "note" }}
+    <div class='gallery-grid'>   
+        {{ range .Pages }}
+            {{ if eq .Params.type "note" }}
             {{ partial "cards/portfolioNote" . }}
             {{ else }}
             {{ partial "cards/portfolioCard" . }}
             {{ end }}
         {{ end }}
+      </div>
+      <div class="big-padding-top">
+        {{ .Content }}
       </div>
   </div>
 </main>

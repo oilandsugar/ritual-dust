@@ -1,14 +1,29 @@
-{{ $cover := .Params.image }}
-{{ $title := .title }}
-{{ $lowResCover := replace .Params.image ".jpg" "-low.jpg" }}
+{{ $cover1 := .Params.image1 }}
+{{ $cover2 := .Params.image2 }}
+{{ $cover3 := .Params.image3 }}
+{{ $title := .Title }}
 
-<div class="portfolio-card card">
-    {{ range .images }}
+<a href="{{ if .Params.projectUrl }}{{ .Params.projectUrl}}{{ else }}{{ .Permalink }}{{ end }}" class="portfolio-card card">
+    {{ with $cover1 }}
     <div class="picture">
         <div class="image-background">   
-            <img src="{{ . }}" alt="{{ $title }}">
+            <img src="{{ $cover1 }}" alt="{{ $title }}">
         </div>
     </div>
     {{ end }}
-    <small class="default-padding-bottom small-padding-top"><strong>{{ .title }}</strong></small>
-</div>
+    {{ with $cover2 }}
+    <div class="picture">
+        <div class="image-background">   
+            <img src="{{ $cover2 }}" alt="{{ $title }}">
+        </div>
+    </div>
+    {{ end }}
+    {{ with $cover3 }}
+    <div class="picture">
+        <div class="image-background">   
+            <img src="{{ $cover3 }}" alt="{{ $title }}">
+        </div>
+    </div>
+    {{ end }}
+    <small class="default-padding-bottom small-padding-top title"><strong>{{ .Title }}</strong></small>
+</a>
