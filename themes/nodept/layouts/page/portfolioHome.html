@@ -6,7 +6,9 @@
     <h1 class="psych-1 green">{{ .Title }}</h1>
     <div class='gallery-grid'>   
         {{ range .Pages }}
+            {{ if not (eq .Title "About") }}
             {{ partial "cards/portfolioSection" . }}
+            {{ end }}
         {{ end }}
       </div>
   </div>

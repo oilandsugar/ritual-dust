@@ -1,0 +1,34 @@
+{{ $portrait := .Params.image }}
+
+{{ $extraImg1 := .Params.extraImg1 }}
+{{ $extraImg2 := .Params.extraImg2 }}
+{{ $extraImg3 := .Params.extraImg3 }}
+
+{{ partial "header-minimal" . }}
+{{ partial "bio-portfolio" . }}
+
+<main class="portfolio">
+  <div class="big-padding-top big-padding-bottom">
+    <article>
+        <div class="header-section grid grid-1-2">
+            <div class="medium-padding-right">
+                {{ with .Parent }}
+                    <a class="back-link" href="{{ .RelPermalink }}">Back to {{ .LinkTitle }}</a>
+                {{ end }}
+            </div>
+            <div><h4 class="psych-1">Lizbeth Poirier M.</h4></div>
+        </div>
+        <div class="grid grid-1-2">
+            <div class="medium-padding-right">
+                {{ with $portrait }}<img src="{{ . }}"/>{{ end }}
+            </div>
+            <div class="page-content">
+                {{ .Content }}
+            </div>
+        </div>
+        {{ partial "page-meta" . }}
+    </article>
+  </div>
+</main>
+
+{{ partial "footer-minimal" . }}

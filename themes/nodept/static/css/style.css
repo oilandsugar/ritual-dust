@@ -1676,6 +1676,7 @@ h2.date {
     color: var(--f_high);
     opacity:0.5;
     transition:0.2s;
+    font-family: "Wremena"; /* mainFont */
 }
 
 .portfolio .big:hover {
