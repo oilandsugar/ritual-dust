@@ -4,6 +4,8 @@ tags = ["portfolio"]
 date = "2025-07-01"
 image1 = "/portfolio/tabletop-game-illustration/images/north-knot-of-the-abhorrent.jpg"
 image2 = "/portfolio/tabletop-game-illustration/images/north-ragged-grasp.jpg"
+image3 = "/portfolio/tabletop-game-illustration/images/equal-plane.jpg"
+extraImg1 = "/portfolio/tabletop-game-illustration/images/chiton-of-the-craven.jpg"
 type = "page"
 layout = "portfolioProject"
 +++

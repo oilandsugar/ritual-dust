@@ -21,16 +21,42 @@ Series of designs inspired by nature, sacred stones and ancient artefacts.
 
 <div class="grid-3 large-padding-bottom">
 
-<div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/stone-1.jpg"/></div>
-<div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/wood-1.jpg"/></div>
-<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/stone-2.jpg"/></div>
-<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/wood-2.jpg"/></div>
-<div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/brooch.jpg"/></div>
-<div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/wood-3.jpg"/></div>
-<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/bronze-age-axe.jpg"/></div>
-<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/wood-4.jpg"/></div>
+<div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/dolmen-1.jpg"/></div>
+<div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/stone-3.jpg"/></div>
+<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/wood-5.jpg"/></div>
+<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/dolmen-2.jpg"/></div>
+<div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/snake-stone.jpg"/></div>
+<div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/dolmen-3.jpg"/></div>
+<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/stone-4.jpg"/></div>
+<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/stone-1.jpg"/></div>
+<div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/wood-1.jpg"/></div>
+<div class="flash"><div class="number">10</div><img src="/img/tattoo/flash/stone-2.jpg"/></div>
+<div class="flash"><div class="number">11</div><img src="/img/tattoo/flash/wood-2.jpg"/></div>
+<div class="flash"><div class="number">12</div><img src="/img/tattoo/flash/brooch.jpg"/></div>
+<div class="flash"><div class="number">13</div><img src="/img/tattoo/flash/wood-3.jpg"/></div>
+<div class="flash"><div class="number">14</div><img src="/img/tattoo/flash/bronze-age-axe.jpg"/></div>
+<div class="flash"><div class="number">15</div><img src="/img/tattoo/flash/wood-4.jpg"/></div>
 
 </div>
+
+## Woodcuts
+
+Flashes inspired by medieval bestiaries and folklore in a woodcut style, all pieces 6" minimum except the ones labelled small.
+
+<div class="grid-3 big-padding-bottom">
+
+<div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/hand-woodcut.jpg"/></div>
+<div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/crow.jpg"/></div>
+<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/flail-woodcut.jpg"/></div>
+<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/oak-branches-woodcut.jpg"/></div>
+<div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/thistle.jpg"/></div>
+<div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/woodcut-grotesque.jpg"/></div>
+<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/woodcut-cauldron.jpg"/></div>
+<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/woodcut-candles.jpg"/></div>
+<div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/woodcut-club.jpg"/></div>
+
+</div>
+
 
 ## Demon slaying and brimstone
 
@@ -103,22 +129,6 @@ Ongoing series of flashes inspired by the blood-soaked streets of Yarnham and th
 <div class="flash"><div class="number">4 (small - repeatable)</div><img src="/img/tattoo/flash/runes-1-flat.jpg"/></div>
 <div class="flash"><div class="number">5 (small - repeatable)</div><img src="/img/tattoo/flash/runes-2-flat.jpg"/></div>
 <div class="flash"><div class="number">6 (small - repeatable)</div><img src="/img/tattoo/flash/runes-3-flat.jpg"/></div>
-
-</div>
-
-<div>
-</div>
-    
-## Woodcuts
-
-Flashes inspired by medieval bestiaries and folklore in a woodcut style, all pieces 6" minimum except the ones labelled small.
-
-<div class="grid-3 big-padding-bottom">
-
-<div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/woodcut-grotesque.jpg"/></div>
-<div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/woodcut-cauldron.jpg"/></div>
-<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/woodcut-candles.jpg"/></div>
-<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/woodcut-club.jpg"/></div>
 
 </div>
 
