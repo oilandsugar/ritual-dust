@@ -27,15 +27,17 @@ Series of designs inspired by nature, sacred stones and ancient artefacts.
 <div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/dolmen-2.jpg"/></div>
 <div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/snake-stone.jpg"/></div>
 <div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/dolmen-3.jpg"/></div>
-<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/stone-4.jpg"/></div>
-<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/stone-1.jpg"/></div>
-<div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/wood-1.jpg"/></div>
-<div class="flash"><div class="number">10</div><img src="/img/tattoo/flash/stone-2.jpg"/></div>
-<div class="flash"><div class="number">11</div><img src="/img/tattoo/flash/wood-2.jpg"/></div>
-<div class="flash"><div class="number">12</div><img src="/img/tattoo/flash/brooch.jpg"/></div>
-<div class="flash"><div class="number">13</div><img src="/img/tattoo/flash/wood-3.jpg"/></div>
-<div class="flash"><div class="number">14</div><img src="/img/tattoo/flash/bronze-age-axe.jpg"/></div>
-<div class="flash"><div class="number">15</div><img src="/img/tattoo/flash/wood-4.jpg"/></div>
+<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/knot-fabric.jpg"/></div>
+<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/stone-4.jpg"/></div>
+<div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/stone-1.jpg"/></div>
+<div class="flash"><div class="number">10</div><img src="/img/tattoo/flash/wood-1.jpg"/></div>
+<div class="flash"><div class="number">11</div><img src="/img/tattoo/flash/branch-jaw.jpg"/></div>
+<div class="flash"><div class="number">12</div><img src="/img/tattoo/flash/stone-2.jpg"/></div>
+<div class="flash"><div class="number">13</div><img src="/img/tattoo/flash/wood-2.jpg"/></div>
+<div class="flash"><div class="number">14</div><img src="/img/tattoo/flash/brooch.jpg"/></div>
+<div class="flash"><div class="number">15</div><img src="/img/tattoo/flash/wood-3.jpg"/></div>
+<div class="flash"><div class="number">16</div><img src="/img/tattoo/flash/bronze-age-axe.jpg"/></div>
+<div class="flash"><div class="number">17</div><img src="/img/tattoo/flash/wood-4.jpg"/></div>
 
 </div>
 
@@ -48,12 +50,13 @@ Flashes inspired by medieval bestiaries and folklore in a woodcut style, all pie
 <div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/hand-woodcut.jpg"/></div>
 <div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/crow.jpg"/></div>
 <div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/flail-woodcut.jpg"/></div>
-<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/oak-branches-woodcut.jpg"/></div>
-<div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/thistle.jpg"/></div>
-<div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/woodcut-grotesque.jpg"/></div>
-<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/woodcut-cauldron.jpg"/></div>
-<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/woodcut-candles.jpg"/></div>
-<div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/woodcut-club.jpg"/></div>
+<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/rat-woodcut.jpg"/></div>
+<div class="flash"><div class="number">5</div><img src="/img/tattoo/flash/oak-branches-woodcut.jpg"/></div>
+<div class="flash"><div class="number">6</div><img src="/img/tattoo/flash/thistle.jpg"/></div>
+<div class="flash"><div class="number">7</div><img src="/img/tattoo/flash/woodcut-grotesque.jpg"/></div>
+<div class="flash"><div class="number">8</div><img src="/img/tattoo/flash/woodcut-cauldron.jpg"/></div>
+<div class="flash"><div class="number">9</div><img src="/img/tattoo/flash/woodcut-candles.jpg"/></div>
+<div class="flash"><div class="number">10</div><img src="/img/tattoo/flash/woodcut-club.jpg"/></div>
 
 </div>
 
