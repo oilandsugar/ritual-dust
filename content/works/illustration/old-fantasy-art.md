@@ -98,6 +98,7 @@ after 1970, big influence of role playing games like dnd, and the metal hurlant 
 - [Dean Spencer](https://www.deanspencerart.com/)
 - Mark Schultz
 - [Russ Nicholson](https://russnicholson.blogspot.com/)
+- [Jean-Baptiste Monge](https://www.jbmonge.com/)
 
 </div>
 
