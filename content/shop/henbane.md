@@ -10,6 +10,8 @@ length = "19"
 height = "1"
 width = "14"
 productUrl = "https://ritualdust.com/shop/henbane"
+draft = true
+
 +++
 
 Original linocut print a henbane plant.

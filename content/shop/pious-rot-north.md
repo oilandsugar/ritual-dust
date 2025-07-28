@@ -1,7 +1,7 @@
 +++
 title = "Pious Rot North print"
 tags = ["print", "product"]
-date = "2024-06-12"
+date = "2024-05-12"
 image = "/img/shop/pious-rot-north-preview.jpg"
 id = "print-pious-rot-north"
 price = "50"

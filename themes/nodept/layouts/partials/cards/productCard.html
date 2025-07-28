@@ -1,4 +1,4 @@
-<a href="{{ .Permalink }}" class="product product-card card">
+<a href="{{ .Permalink }}" class="product product-card card {{ with .Params.bigger }}bigger{{ end }}">
     {{ with .Params.image }}
     <div class="image">
         <div class="image-background">
@@ -7,7 +7,7 @@
     </div>
     {{ end }}
     <div class="desc">
-        <h3 class="blackletter">{{ .Title }}</h3>
+        <small>{{ .Title }}</small>
         {{ with .Params.desc }}
         <p class="product-desc">
             {{ . }}

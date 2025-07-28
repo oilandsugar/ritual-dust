@@ -904,6 +904,11 @@ table.simple tr:hover td {
     display:inline-block;
 }
 
+.table-of-contents.mini a.active {
+    color: var(--f_high); 
+    border-bottom-style:solid;
+}
+
 .table-of-contents.mini, .table-of-contents.mini p  {
 
 }
@@ -1333,6 +1338,7 @@ table.simple .dingbats {
     max-width:50px;
     min-width:50px;
     margin-right: var(--spacing_default);
+    max-height:100px;
 }
 
 .name h4 {
@@ -1777,6 +1783,10 @@ h2.date {
     filter: grayscale(0);
 }
 
+.product-card img {
+    box-shadow: 1px 1px 6px #00000020;
+}
+
 .product-page button {
     padding: var(--spacing_sm) var(--spacing_default);
     font-size: 0.8rem;
@@ -2215,6 +2225,14 @@ footer ul {
     .gallery-grid {
         columns: 3;
         column-gap: var(--spacing_default);
+    }
+    .gallery-grid.rows {
+        display:grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: var(--spacing_default);
+    }
+    .gallery-grid .bigger {
+        grid-column: span 2;
     }
     .gallery-grid.highlight-first .card:first-child {
         column-span: all;

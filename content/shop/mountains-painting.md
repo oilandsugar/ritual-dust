@@ -1,6 +1,6 @@
 +++
 title = "Mountains painting"
-tags = ["product", "painting"]
+tags = ["product", "painting", "original"]
 date = "2025-05-17"
 image = "/img/shop/painting-mountain.jpg"
 id = "painting-mountains"

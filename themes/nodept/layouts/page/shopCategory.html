@@ -1,0 +1,31 @@
+{{ $category := .Params.category }}
+
+{{ partial "header" . }}
+
+<main class="page-sidebar">
+    {{ partial "sidebars/shopList" . }}
+    <article class="flow">
+        <div class="title">
+            <span class="dingbats accent">{{ partialCached "icons/weirdspiral" . }}</span>
+            <h1 class="psych-1 accent">Shop</h1>
+        </div>
+        <div class="table-of-contents mini">
+            <a href="/shop/">All</a>
+            <a class='{{ if eq $category "print" }}active{{ end }}' href="/shop/prints">Art Prints</a>
+            <a class='{{ if eq $category "original" }}active{{ end }}' href="/shop/originals">Originals</a>
+            <a class='{{ if eq $category "game" }}active{{ end }}' href="/shop/games">Games</a>
+        </div>
+        <div class="measured">
+            {{ .Content }}
+        </div>
+        <div class="gallery-grid rows">
+            {{ range where .Site.RegularPages "Section" "shop" }}
+            {{ if in .Params.tags $category }}
+            {{ partial "cards/productCard.html" . }}
+            {{ end}}
+            {{ end }}
+        </div>
+    </article>
+</main>
+
+{{ partial "footer" . }}

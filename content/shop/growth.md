@@ -10,6 +10,8 @@ length = "19"
 height = "1"
 width = "14"
 productUrl = "https://ritualdust.com/shop/growth"
+draft = true
+
 +++
 
 Original linocut print on the theme of growth, a hand with a mushroom growing out of it.

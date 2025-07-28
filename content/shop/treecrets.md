@@ -1,7 +1,7 @@
 +++
 title = "Treecrets card game"
 tags = ["game", "cards"]
-date = "2025-01-01"
+date = "2024-01-01"
 image = "/img/shop/treecrets.jpg"
 id = "treecrets-cards"
 price = "10"

@@ -4,17 +4,27 @@
     {{ partial "sidebars/shopList" . }}
     <article class="flow">
         {{ partial "pageTitle" . }}
+        <div class="table-of-contents mini">
+             <a class="active" href="/shop/">All</a>
+             <a href="/shop/prints">Art Prints</a>
+             <a href="/shop/originals">Originals</a>
+             <a href="/shop/games">Games</a>
+        </div>
         <div class="measured">
             {{ .Content }}
         </div>
-        <div class="gallery-grid">
+        <div class="gallery-grid rows">
             {{ if (eq $.Parent.Title "Shop") }}
             {{ range where .Pages "Section" "shop" }}
-            {{ partial "cards/productCard.html" . }}
+                {{ if .Params.price }}
+                {{ partial "cards/productCard.html" . }}
+                {{ end }}
             {{ end }}
             {{ else }}
             {{ range where .Site.RegularPages "Section" "shop" }}
-            {{ partial "cards/productCard.html" . }}
+                {{ if .Params.price }}
+                {{ partial "cards/productCard.html" . }}
+                {{ end }}
             {{ end }}
             {{ end }}
         </div>

@@ -10,6 +10,7 @@ length = "19"
 height = "1"
 width = "14"
 productUrl = "https://ritualdust.com/shop/decay"
+draft = true
 +++
 
 Original linocut print on the theme of decay, a leaf with a skull in negative space.

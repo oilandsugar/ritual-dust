@@ -1,7 +1,7 @@
 +++
 title = "The Wizard of Earthsea print"
 tags = ["print", "product", "fantasy"]
-date = "2024-11-30"
+date = "2025-07-01"
 image = "/img/shop/earthsea-1-print.jpg"
 id = "print-earthsea-1"
 price = "50"
@@ -10,6 +10,7 @@ length = "19"
 height = "1"
 width = "14"
 productUrl = "https://ritualdust.com/shop/earthsea-1"
+bigger = true
 +++
 
 Art print of an original ink drawing, colored digitally depicting the departure of Ged from Roke at the pursuit of his shadow in the book The Wizard of Earthsea by Ursula K. Le Guin.

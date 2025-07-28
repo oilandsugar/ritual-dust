@@ -1,7 +1,7 @@
 +++
 title = "Mountains of madness print"
 tags = ["print", "product", "lovecraftian"]
-date = "2024-07-02"
+date = "2024-09-02"
 image = "/img/shop/mountains-madness-print.jpg"
 id = "print-mountains-madness"
 price = "50"
