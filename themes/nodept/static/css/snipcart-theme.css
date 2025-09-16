@@ -2,25 +2,35 @@
 
 /* --------- BUTTONS --------- */
 
-/* Default */
---color-buttonPrimary: #c8c5ae; /* back */
---borderColor-buttonPrimary: #624337; /* f_med */
---bgColor-buttonPrimary: #624337; /* f_med */
+/* Primary */
+--color-buttonPrimary: #261f1a; /* back */
+--borderColor-buttonPrimary: #ceb7a2; /* f_med */
+--bgColor-buttonPrimary: #ceb7a2; /* f_med */
 
-/* Hover */
---color-buttonPrimary-hover: #c8c5ae; /* back */
+/* Secondary */
+--color-buttonSecondary: #261f1a; /* back */
+--bgColor-buttonSecondary: #ceb7a2; /* f_med */
+ 
+/* Primary Hover */
+--color-buttonPrimary-hover: #ffffff; /* back */
 --borderColor-buttonPrimary-hover: #3a4603; /* f_high */
---bgColor-buttonPrimary-hover: #3a4603; /* f_high */
+--bgColor-buttonPrimary-hover: #716156; /* f_high */
 --shadow-buttonPrimary-hover: none;
+    
+/* Secondary Hover */
+--color-buttonSecondary-hover: #ffffff; /* back */
+--borderColor-buttonSecondary-hover: #3a4603; /* f_high */
+--bgColor-buttonSecondary-hover: #716156; /* f_high */
+--shadow-buttonSecondary-hover: none;
 
 /* Active */
---color-buttonPrimary-active: #c8c5ae; /* back */
+--color-buttonPrimary-active: #261f1a; /* back */
 --borderColor-buttonPrimary-active: #3a4603; /* f_high */
 --bgColor-buttonPrimary-active: #3a4603; /* f_high */
 --shadow-buttonPrimary-active: none;
 
 /* Focus */
---color-buttonPrimary-focus: #c8c5ae; /* back */
+--color-buttonPrimary-focus: #261f1a; /* back */
 --borderColor-buttonPrimary-focus: #3a4603; /* f_high */
 --bgColor-buttonPrimary-focus: #3a4603; /* f_high */
 --shadow-buttonPrimary-focus: none;
@@ -67,26 +77,26 @@
     PART: Input
 ----------------------- */
 
---color-input: #624337; /* f_med */
+--color-input: #261f1a; /* f_med */
 --borderColor-input: #624337; /* f_med */
 --bgColor-input: #fff; /* white */
 
 /* Hover */
---color-input-hover: #3a4603; /* f_high */
---borderColor-input-hover: #3a4603; /* f_high */
+--color-input-hover: #261f1a; /* f_high */
+--borderColor-input-hover: #261f1a; /* f_high */
 --bgColor-input-hover: #fff; /* white */
 --shadow-input-hover: none;
 
 /* Focus */
---color-input-focus: #3a4603; /* f_high */
---borderColor-input-focus: #3a4603; /* f_high */
+--color-input-focus: #261f1a; /* f_high */
+--borderColor-input-focus: #261f1a; /* f_high */
 --bgColor-input-focus: #fff; /* white */
 --shadow-input-focus: none;
 
 /* Checked */
---color-input-checked: #c8c5ae; /* back */
---borderColor-input-checked: #3a4603; /* f_high */
---bgColor-input-checked: #3a4603; /* f_high */
+--color-input-checked: #ffffff; /* back */
+--borderColor-input-checked: #261f1a; /* f_high */
+--bgColor-input-checked: #261f1a; /* f_high */
 --shadow-input-checked: none;
 
 /* Disabled */
@@ -141,14 +151,14 @@
 /* ---------- BADGES ----------- */
 
 /* Default (completed) */
---color-badge: #3a4603; /* f_high */
---borderColor-badge: #3a4603; /* f_high */
---bgColor-badge: #c8c5ae; /* back */
+--color-badge: #261f1a; /* f_high */
+--borderColor-badge: #624337; /* f_high */
+--bgColor-badge: #ffffff; /* back */
 
 /* Active */
---color-badge-active: #c8c5ae; /* back */
---borderColor-badge-active: #c8c5ae; /* back */
---bgColor-badge-active: #3a4603; /* f_high */
+--color-badge-active: #ffffff; /* back */
+--borderColor-badge-active: #624337; /* back */
+--bgColor-badge-active: #624337; /* f_high */
 
 /* Disabled */
 --color-badge-disabled: #624337; /* f_med */
@@ -158,31 +168,31 @@
 /* --------- GLOBAL --------- */
 
 /* Default */
---color-default: #624337; /* f_med */
+--color-default: #261f1a; /* f_med */
 --borderColor-default: #624337; /* f_med */
---bgColor-default: #c8c5ae; /* back */
+--bgColor-default: #ffffff; /* back */
 
 /* Alt */
 --color-alt: #624337; /* f_med */
---bgColor-alt: #c8c5ae; /* back */
+--bgColor-alt: #ffffff; /* back */
 
 /* Icon */
 --color-icon: #624337; /* f_med */
 
 /* Success */
 --color-success: green;
---bgColor-success: #c8c5ae; /* back */
+--bgColor-success: #ffffff; /* back */
 
 /* Error */
 --color-error: #bb0e0e; /* error */
 --borderColor-error: #bb0e0e; /* error */
---bgColor-error: #c8c5ae; /* back */
+--bgColor-error: #ffffff; /* back */
 
 /* Info */
---bgColor-info: #c8c5ae; /* back */
+--bgColor-info: #ffffff; /* back */
 
 /* Modal */
---bgColor-modal: #c8c5ae; /* back */
---bgColor-modalVeil: #c8c5ae; /* back */
+--bgColor-modal: #ffffff; /* back */
+--bgColor-modalVeil: #ffffff; /* back */
 
 }

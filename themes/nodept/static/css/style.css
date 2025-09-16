@@ -12,7 +12,7 @@
     --spacing_lg: 3rem; /* spacing_lg */
     --spacing_xl: 5rem; /* spacing_xl */
 
-    --mainFont: "Wremena"; /* mainFont */
+    -- : "Wremena"; /* mainFont */
     --blackletterFont: "Basteleur"; /* blackletterFont */
     --psychFont1: "Basteleur"; /* psychFont1 */
     --psychFont2: "Cooper Std"; /* psychFont2 */
@@ -1776,7 +1776,7 @@ h2.date {
     flex-direction: column-reverse;
 }
 
-/* -------- PRODUCTS ---------*/
+/* -------- SHOP ---------*/
 
 .product-card img, .product-page img {
     mix-blend-mode: normal;
@@ -1820,6 +1820,48 @@ h2.date {
 
 .product-page h1 {
     font-size:2rem;
+}
+
+.snipcart button {
+    height:auto;
+}
+
+.snipcart-button-link {
+    border-radius: 0px;
+}
+
+.snipcart-item-quantity__quantity {
+    border-radius: 4px;
+}
+
+.snipcart-item-line--cart-edit {
+    border-bottom: 2px solid var(--b_med)!important;
+}
+
+.snipcart-item-quantity__quantity {
+    border: 2px solid var(--b_med)!important;
+}
+
+.snipcart {
+    font-family: var(--main_font)!important;
+}
+
+.snipcart__font--subtitle-small, .snipcart__font--tiny {
+    font-size:14px!important;
+}
+
+.snipcart-form__separator, 
+.snipcart-cart-summary__separator {
+    border-top: 2px solid var(--b_med)!important;
+}
+
+.snipcart-input, .snipcart-form__select {
+    border-radius:4px!important;
+    border: 1px solid!important;
+}
+
+.snipcart-form {
+    box-shadow: none!important;
 }
 
 /* -------- SINGLE PROJECTS ---------*/

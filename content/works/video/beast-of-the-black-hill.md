@@ -3,7 +3,7 @@ title = "Beast of the Black Hill Music Video"
 tags = ["video", "music", "music video", "voidxwitch"]
 date = "2024-09-13"
 
-image = "/img/video/beast-of-the-black-hill.jpg"
+image = "/img/video/beast-of-the-black-hill/botbh-stills_3.19.1.jpg"
 desc = "Music video for Beast of the Black Hill by VOIDXWITCH."
 +++
 

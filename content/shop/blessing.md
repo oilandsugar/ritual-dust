@@ -1,5 +1,5 @@
 +++
-title = "Irish pagan blessing"
+title = "Irish pagan blessing print"
 tags = ["print", "product", "folklore"]
 date = "2025-07-24"
 image = "/img/shop/blessing-print.jpg"

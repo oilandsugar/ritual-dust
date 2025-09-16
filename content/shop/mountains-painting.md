@@ -1,5 +1,5 @@
 +++
-title = "Mountains painting"
+title = "Mountains original painting"
 tags = ["product", "painting", "original"]
 date = "2025-05-17"
 image = "/img/shop/painting-mountain.jpg"

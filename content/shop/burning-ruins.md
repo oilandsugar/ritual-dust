@@ -1,5 +1,5 @@
 +++
-title = "Amonst the burning ruins"
+title = "Amongst the burning ruins print"
 tags = ["print", "product"]
 date = "2024-06-10"
 image = "/img/shop/burning-ruins-print.jpg"

@@ -116,8 +116,9 @@ If you're interested in better markup and more accessible websites, go take a lo
 ### TODO
 
 [-] Add commissions banner on home page  
-[-] use built in image processing tools to resize and dither images   
-
+[-] use built in image processing tools to resize and dither images  
+[-] style car and checkout better
+[ ] add nb items in cart button
 [ ] add some of the visuals i did for voidxwitch in music visuals  
 
 [ ] finish ktp props post  
