@@ -49,6 +49,17 @@ When processing vocals with multiple layers, it's useful to group all the second
 
 All the following effect are also applied in a parallel processing way, which means that copies of the dry signal are created and the effect is applied to them fully wet. Then the level of the different copies (original dry and different effected ones) is mixed and panned to balance the presence of every effect and make the whole harmonious.
 
+other way of pitching up vocals:
+- use frequency to pitch it up and automate the window
+- sounds nice with some dstortion and a bit of reverb
+
+underscores vocal chain:
+- waves tune for autotune
+- shift the formant up by 1
+- vocal control multiband eq preset
+- speech enhancer multiband eq preset
+
+
 ### 1. Autotune
 
 Autotune should always be the first effect on a track, for a lead vocal 20-50% of correction is a good place to be, for the backing vocals they can be pushed further since they are less present in the mix and we won't hear the correction as much.

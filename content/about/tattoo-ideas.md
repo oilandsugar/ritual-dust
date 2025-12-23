@@ -33,7 +33,7 @@ I see my skin as my personal grimoire, adding to it as I make discoveries, have 
 - [ ] Crossbow
 - [ ] Lord of the rings inspired tattoos
 - [ ] Frame saw
-- [ ] Heraldic griffin on my back
+- [x] sun symbol and fire churn on my back (by Julie Docteur)
 - [x] FOLK LORE on fingers (by [Empousai](https://www.instagram.com/_empousai_/))
 - [x] Two crossed oak branches on my chest (by[Alixe Cooper](https://www.instagram.com/alixecooper/))
 - [x] broken halberd on my leg by myself

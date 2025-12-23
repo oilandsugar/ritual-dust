@@ -1,52 +1,96 @@
 2025:
+  - title: How the irish became white
+    author: Noel Ignatiev
+    rating: 4
+  - title: Salamandastron
+    author: Brian Jacques
+    rating: 3
+  - title: Mariel of Redwall
+    author: Brian Jacques
+    rating: 4
+  - title: Mattimeo
+    author: Brian Jacques
+    rating: 4
+  - title: Mossflower
+    author: Brian Jacques
+    rating: 5
+  - title: Redwall
+    author: Brian Jacques
+    rating: 5
+  - title: An irish atlantic rainforest
+    author: Eoghan Daltun
+    rating: 5
   - title: A handbook of celtic ornament
     author: John G Merne
+    rating: 4
   - title: Something in the woods loves you
     author: Jarod K. Anderson
+    rating: 5
   - title: Mausritter
     author: Isaac Williams
+    rating: 5
   - title: Sherlock Holmes the complete novels and stories part 1
     author: Arthur Conan Doyle
+    rating: 3
   - title: Hold me Tight
     author: Sue Johnson
+    rating: 4
 2024:
   - title: The Farthest Shore
     author: Ursula K. LeGuin
+    rating: 5
   - title: The Whisperer in Darkness
     author: H.P. Lovecraft
+    rating: 4
   - title: Radical Compassion
     author: Tara Brach
+    rating: 5
   - title: The Adventures of Sherlock Holmes
     author: Arthur Conan Doyle
+    rating: 3
   - title: The Tombs of Atuan
     author: Ursula K. LeGuin
+    rating: 5
   - title: Witch Hat Atelier
     author: Kamome Shirahama
+    rating: 5
   - title: Warlike, Howling, Pure
     author: Areïon
+    rating: 4
   - title: A year in the life of a shinto shrine
     author: John K. Nelson
+    rating: 4
   - title: Listen to the Land Speak
     author: Manchán Magan
+    rating: 5
   - title: Ecstasy is Necessary
     author: Barbara Carrellas
+    rating: 5
 2023:
   - title: The Wizard of Earthsea
     author: Ursula K. LeGuin
+    rating: 5
   - title: Dice Men
     author: Ian Livingstone
+    rating: 3
   - title: Sand Talk
     author: Tyson Yunkaporta
+    rating: 5
   - title: How to Blow Up a Pipeline
     author: Andreas Malm
+    rating: 5
   - title: Deathtrap dungeon
     author: Ian Livingstone
+    rating: 5
   - title: The Ministry for the Future
     author: Kim Stanley Robinson
+    rating: 5
   - title: Thirty-Two Words for Field
     author: Manchán Magan
+    rating: 5
   - title: The Dawn of Everything
     author: David Graeber & David wengrow
+    rating: 5
 2022:
   - title: A Pattern Language
     author: Christopher Alexander

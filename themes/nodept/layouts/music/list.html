@@ -8,7 +8,6 @@
         <div class="table-of-contents mini">
             <a href="#ritual-dust-releases">Ritual Dust</a>
             <a href="#other-projects">Other projects</a>
-            <a href="#as-a-producer">As a producer</a>
             <a href="#notes">Notes</a>
         </div>
         <div class="measured">
@@ -57,21 +56,7 @@
                     {{ end }}
                     {{ end }}
                 </div>
-            </div>
-            <div class="spacer"></div>
-            <h2 id="as-a-producer">As a producer</h2>
-            <table class="simple">
-                <thead class="accent"><tr><th>Track</th><th style="width:8rem">Type</th><th style="width:8rem">Year</th></tr></thead>
-                <tbody>
-                    {{ range $songs_produced }}
-                    <tr>
-                        <td><a href="{{ .url }}">{{ .title }}</a> by {{ .artist }}</td>
-                        <td>{{ .type }}</td>
-                        <td>{{ .year }}</td>
-                    </tr>
-                    {{ end }}
-                </tbody>
-            </table>
+            </div>            
             <div class="spacer"></div>
             <h2 id="notes">Notes</h2>
             <div class="notes-grid">

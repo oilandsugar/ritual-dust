@@ -1107,12 +1107,13 @@ input[type=checkbox] {
 
 .menu .dingbats {
     position: relative;
-    top: 3px;
 }
 
 .theme-mode-toggle {
     width: 48px;
     display: inline;
+    position: relative;
+    top: 3.5px;
 }
 
 .theme-mode-toggle button {

@@ -115,9 +115,12 @@ If you're interested in better markup and more accessible websites, go take a lo
     
 ### TODO
 
+[ ] write end of year review  
 [-] Add commissions banner on home page  
+[ ] add link to l1zb3th website  
+
 [-] use built in image processing tools to resize and dither images  
-[-] style car and checkout better
+[-] style cart and checkout better
 [ ] add nb items in cart button
 [ ] add some of the visuals i did for voidxwitch in music visuals  
 
@@ -133,6 +136,8 @@ If you're interested in better markup and more accessible websites, go take a lo
     
 ### DONE
 
+[x] remove poducer secton on music page
+[x] fix style theme switch button
 [x] write end of year review  
 [x] note recipe pages should have standard layout  
 [x] add diablo song in music      

@@ -12,6 +12,7 @@ draft = false
 
 [Synths and Leads](#Synths-and-leads)  
 [Bass](#bass)  
+[Guitar](#guitar)
 [Drums](#drums)  
 [Resources](#resources)
 
@@ -33,6 +34,17 @@ Create two tracks, put a synth on the first one with a melody (long notes and pa
 
 Layer multiple instruments / samples to make sounds richer while playing the exact same thing, play around with the volume and parameter of each one.
 
+use enveloppes to modulate effects on sounds and blend them better with the dynamics of it
+layer other sounds following a melody in a different frequency range to thicken it
+add grain delay with pitch at 5 or 7, 50% wet and a bit of delay to add a 5th or 7th harmony to a sound
+automate formant shifting on sounds to make them sound more like synths
+slowly cut off the low end of a lead during a buildup to make it feel like it's rising
+use pitch shifter in wide mode to make stuff wider
+really fast autopan on reverse reverb and fade in transiton sounds great
+layering other synths with supersaw
+
+add beat repeat in gate mode and distortion / anything in a group, set it to a separate chain and create little bursts of distortion from the main sound
+
 {{< spacer >}}
 
 ## Bass
@@ -51,7 +63,22 @@ Also think about “passing notes” or “passing tones” - notes that may be 
 
 {{< spacer >}}
 
+## Guitar
+
+guitar effects chain, in that order:
+- pedal (for more distortion, increase output / gain of pedal - esp. combned with boost amp)
+- amp
+- then cabinet (cabinets can be combined with parallel chains and mixed together)
+- then guitar lead solo glue compressor
+- play around with grain delay, pitch up or down and then play with spray and frequency, try around 50% wet
+- good amount of short reverb
+- add widener
+
+{{< spacer >}}
+
 ## Drums
+
+corpus -> kick tight preset on kick, just lil bit
 
 ### Gluing drums together
 
