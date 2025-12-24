@@ -1,6 +1,6 @@
 +++
 title = "Chanterelle Goblin"
-tags = ["illustration", "fantasy"]
+tags = ["illustration", "fantasy", "goblin"]
 date = "2024-01-29"
 
 image = "/img/illustration/chanterelle-goblin/chanterelle-goblin.jpg"

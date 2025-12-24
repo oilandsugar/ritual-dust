@@ -1,6 +1,6 @@
 +++
 title = "Goblin Week 2023"
-tags = ["illustration", "fantasy"]
+tags = ["illustration", "fantasy", "goblin"]
 date = "2023-01-26"
 
 image = "/img/illustration/goblin-week-2023/goblin-4.jpg"
