@@ -7,7 +7,7 @@ image = "/img/illustration/moon-gates/moon-gates-preview-2.jpg"
 desc = "Illustratons for the album Moon Gates by Aura Merlin"
 +++
 
-Series of 9 pencil illustrations for the 9 songs of the "Moon Gates" album by Aura Merlin.
+Series of 9 pencil illustrations for the 9 songs of the ["Moon Gates" album](https://auramerlin.bandcamp.com/album/moon-gates) by Aura Merlin.
 
 I also did a painting for he cover of this album which you can see here: [Moon Gates Cover Art](/works/paintings/moon-gates/).
 
