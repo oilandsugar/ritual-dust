@@ -7,12 +7,26 @@ desc = "Designs available to tattoo"
 
 <div class="table-of-contents mini subdued">
 
+[Chainmail](#chainmail)
 [Fear the old blood](#fear-the-old-blood)
 [Diablo-inspired](#demon-slaying-and-brimstone)
 [Artefacts](#wood-stones-and-artefacts)
 [Grim Dark](#grim-dark)
 [Dark fantasy](#dark-fantasy)
 [Armory](#armory)
+
+</div>
+
+## Chainmail
+
+Chainmail fillers made to fit different parts of the body.
+
+<div class="grid-3 big-padding-bottom">
+
+<div class="flash"><div class="number">1</div><img src="/img/tattoo/flash/chainmail-1.jpg"/></div>
+<div class="flash"><div class="number">2</div><img src="/img/tattoo/flash/chainmail-2.jpg"/></div>
+<div class="flash"><div class="number">3</div><img src="/img/tattoo/flash/chainmail-3.jpg"/></div>
+<div class="flash"><div class="number">4</div><img src="/img/tattoo/flash/chainmail-4.jpg"/></div>
 
 </div>
 
