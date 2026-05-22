@@ -6,7 +6,7 @@ tags = ["time", "notes"]
 type = "page"
 +++
 
-This page is a collections of notes, ramblings and highlights for each year I pass through. I'm starting this at the end of 2021 with the intention of adding to it yearly. A good companion to this is the [Timeline](/timeline) which retraces my projects and noteschronologically.
+This page is a collections of notes, ramblings and highlights for each year I pass through. I'm starting this at the end of 2021 with the intention of adding to it yearly. A good companion to this is the [Timeline](/timeline) which retraces my projects and notes chronologically.
 
 {{< spacer >}}
 

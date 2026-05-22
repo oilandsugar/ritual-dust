@@ -8,7 +8,7 @@ tags = ["website", "typography", "code", "notes"]
 
 ## The why
 
-This website is part [portfolio](/works/), part [digital garden](/folklore/) and part [recipe blog](/food/). It is where I collect and expand upon my thoughts and discoveries, and where I showcase what I create, craft and conjure.
+This website is part [portfolio](/works/), part [digital garden](/folklore/). It is where I collect and expand upon my thoughts and discoveries, and where I showcase what I create, craft and conjure.
 
 See the whole structure in the [Tree](/tree/).
 
@@ -115,7 +115,6 @@ If you're interested in better markup and more accessible websites, go take a lo
     
 ### TODO
 
-[ ] write end of year review  
 [-] Add commissions banner on home page  
 [ ] add link to l1zb3th website  
 
@@ -127,6 +126,7 @@ If you're interested in better markup and more accessible websites, go take a lo
 [ ] finish ktp props post  
 [ ] add voidxwitch cd in layouts    
 [ ] add voidxwitch zine in layouts    
+[ ] finish zine layout note page
 
 [ ] rewrite the description of the sections on the home page     
 [ ] fix previous themes for light/dark   
@@ -136,6 +136,7 @@ If you're interested in better markup and more accessible websites, go take a lo
     
 ### DONE
 
+[x] write end of year review 2025  
 [x] remove poducer secton on music page
 [x] fix style theme switch button
 [x] write end of year review  

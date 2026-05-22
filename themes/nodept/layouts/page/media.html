@@ -32,10 +32,15 @@
                 {{ else if eq .Params.media "games" }}
                 <h2>Played</h2>
                 {{ end }}
+                <div class="table-of-contents mini">
+                    {{ range $year, $books := $seen }}
+                        <a href="#{{ $year }}">{{ $year }}</a>
+                    {{ end }}
+                </div>
                 <div class="reverse">
                     {{ range $year, $books := $seen }}
                     <div class="year">
-                        <h3>{{ len $books }} {{ $media }} in {{ $year }}</h3>
+                        <h3 id="{{ $year }}">{{ len $books }} {{ $media }} in {{ $year }}</h3>
                         {{ range $books }}
                         {{ partial "media" . }}
                         {{ end }}

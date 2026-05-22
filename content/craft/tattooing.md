@@ -44,9 +44,9 @@ draft = false
 
 <div class="table-of-contents">
 
-[Needles](#needles) •
-[Needle types](#neddle-types-configurations) •
-[Machines](#machines) •
+[Needles](#needles)  
+[Needle types](#needle-types)  
+[Machines](#machines)  
 
 </div>
 
@@ -163,7 +163,7 @@ TODO
 
 <div class="table-of-contents">
 
-[Studio layout](#general-studio-layout-advice) •
+[Studio layout](#general-studio-layout-advice)  
 [Sharps disposal](#sharps-and-sharps-disposal)
 
 </div>
