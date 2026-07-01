@@ -49,6 +49,7 @@ Want to read more about this side of the web, I got you covered:
 - [One of my favorite clothing brand's website, worth to explore](https://online-ceramics.com/)
 - [Sunday sites, a good place to get started](https://sundaysites.cafe/index.html)
 - [A list of magical script fonts, I mean how cool is this](http://www.geocities.ws/nu_isis/fonts.html)
+- [An experiment on making a monospace font only website](https://owickstrom.github.io/the-monospace-web/)
 
 ---
 
@@ -64,3 +65,5 @@ Want to read more about this side of the web, I got you covered:
 - [Deploying a static site on digital ocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-website-to-the-cloud-with-digitalocean-app-platform) - i feel this is still over-complicated for beginners, i'll try to find the equivalent of what I had as a teen: logging on my friend's server with ftp and dumping my files
 - [Lichen, a tiny CMS](https://lichen.sensorstation.co/)
 - [Deux fleurx, datacenter-less hosting services using old computers in homes](https://deuxfleurs.fr/)
+- [Resources for the personal web](https://brennan.day/resources-for-the-personal-web-a-follow-up-guide/)
+

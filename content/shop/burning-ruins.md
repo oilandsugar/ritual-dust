@@ -13,7 +13,7 @@ productUrl = "https://ritualdust.com/shop/burning-ruins"
 bigger = true
 +++
 
-A pagan blessing inspired by old Irish ones, with an illustrated frame depicting elements of folklore and myths.
+An art print of an original ink drawing picturing a dead knight lying amongst the ruins of a burning castle.
 
 **Size:** 8" x 8", including borders  
 **Medium:** archival giclée art print  

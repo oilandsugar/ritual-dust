@@ -8,11 +8,13 @@ desc = "The art and craft of relief printmaking, linocut and woodcut"
 
 ![](/img/print/may-5.jpg)
 
-Relief printing or print-making is a really old technique used to reproduce images. Its history goes back to around 500BC with Egyptians using it to print on fabric and later on seals carved out of stone by ancient Chinese people. It has been used to illustrate books for a good chunk of history before photolithographic processes replaced it.
+Relief printing or print-making is a really old technique used to reproduce images and patterns. Its history goes back to antiquity where people of China carved seals out of metal or stone to print with. It has been used to print patterns on fabric and illustrate books for a good chunk of history before photolithography, screen printing and more modern processes replaced it.
 
-It is one of the simplest method of image reproduction and doesn't require much specialized tools (unlike lithography or screen printing for example) which makes it perfect for people who want to start experimenting with print making.
+It is one of the simplest method of image reproduction and doesn't require much specialized tools (unlike lithography, intaglio, or screen printing for example) which makes it perfect for people who want to start experimenting with print making. You might have heard of using potatoes cut in half to make simple sealsfor printing patterns, which is as low tech as it gets.
 
-I've learned multiple relief printmaking techniques when studying fine arts at university a couple of years ago, the knowledge collected in this little guide comes from experiments I did back then, insights my teachers and technicians shared with me (the technicians especially are goldmines of information) and further learning I did by myself since then.
+I've learned multiple relief printmaking techniques when studying fine arts in university a couple of years ago, the knowledge collected in this little guide comes from experiments I did back then, insights my teachers and technicians shared with me (the technicians especially are goldmines of information) and further learning I did by myself since then.
+
+If you're interested in other printmaking techniques, I'm also working on a page on [mezzotint printmaking](/works/print/mezzotint-printmaking).
 
 {{< spacer >}}
 
@@ -87,7 +89,7 @@ Tip: when working with lino, heat it up with a blow dryer to make it easier to c
 
 {{< spacer >}}
 
-## The Printing process
+## The printing process
 
 ### Setting up registration
 
@@ -137,7 +139,7 @@ time to print
 
 Your prints will need to dry once printed, usually for a couple hours (especially if using oil-based ink). If you're making a multi-color print, the ink will have to dry in between each color you're printing.
 
-In studio, drying racks are used for that purpose.
+In studios, drying racks are used for that purpose but you can also hang them on a clothesline, line them up on flat surfaces or tape them to a vertical board.
 
 >"But first the notion that man has a body distinct from his soul, is to be expunged; this I shall do by printing in the infernal method, by corrosives, which in Hell are salutary and medicinal, melting apparent surfaces away, and displaying the infinite which was hid."  
 <small>- William Blake</small>

@@ -60,3 +60,4 @@ Preserving and nurturing biodiversity is another way to make communities more re
 - [A great video on agroecology and why green growth is not an option](https://www.youtube.com/watch?v=Y7lvi5LldUM&ab_channel=BLAST-Lesouffledel%27info)
 - [An article on rewilding in North america, the use of native plants and the importance of insects](https://www.smithsonianmag.com/science-nature/meet-ecologist-who-wants-unleash-wild-backyard-180974372/)
 - [Native seeds](https://www.nativeseeds.org/)
+- [Gaelic Woodland project](https://gaelicwoodlandproject.com/)

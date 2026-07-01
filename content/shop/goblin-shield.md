@@ -1,7 +1,7 @@
 +++
 title = "Goblin shield print"
 tags = ["print", "product"]
-date = "2024-05-02"
+date = "2024-06-12"
 image = "/img/shop/goblin-shield-print.jpg"
 id = "print-goblin-shield"
 price = "40"

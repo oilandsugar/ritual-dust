@@ -2277,6 +2277,9 @@ footer ul {
     .gallery-grid .bigger {
         grid-column: span 2;
     }
+    .gallery-grid .biggest {
+        grid-column: span 3;
+    }
     .gallery-grid.highlight-first .card:first-child {
         column-span: all;
     }

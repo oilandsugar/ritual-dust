@@ -1,7 +1,7 @@
 +++
 title = "Irish pagan blessing print"
 tags = ["print", "product", "folklore"]
-date = "2025-07-24"
+date = "2026-06-25"
 image = "/img/shop/blessing-print.jpg"
 id = "print-blessing"
 price = "50"

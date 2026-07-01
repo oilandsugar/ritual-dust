@@ -65,15 +65,10 @@ desc = "Portfolio, digital garden and recipe blog of designer, illustrator and g
     url = "/music/"
     weight = 3
   [[menu.footer1]]
-    identifier = "tattoo"
-    name = "Tattoo"
-    url = "/tattoo/"
-    weight = 4
-  [[menu.footer1]]
     identifier = "craft"
     name = "Craft"
     url = "/craft/"
-    weight = 5
+    weight = 4
   [[menu.footer1]]
     identifier = "folklore"
     name = "Folklore"
@@ -90,25 +85,30 @@ desc = "Portfolio, digital garden and recipe blog of designer, illustrator and g
     url = "/play/"
     weight = 6
   [[menu.footer1]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 7
+  [[menu.footer1]]
     identifier = "shop"
     name = "Shop"
     url = "/shop/"
-    weight = 7
+    weight = 8
   [[menu.footer1]]
     identifier = "commissions"
     name = "Commissions"
     url = "/works/commissions/"
-    weight = 6  
+    weight = 9
+  [[menu.footer1]]
+    identifier = "tattoo"
+    name = "Tattoo"
+    url = "/tattoo/"
+    weight = 10
   [[menu.footer1]]
     identifier = "printclub"
     name = "Print Club"
     url = "/works/print-club/"
-    weight = 7
-  [[menu.footer1]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 8
+    weight = 11
     
   [[menu.footer2]]
     identifier = "website"

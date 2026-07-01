@@ -1,7 +1,7 @@
 +++
-title = "The Wizard of Earthsea print"
+title = "The wizard of earthsea print"
 tags = ["print", "product", "fantasy"]
-date = "2025-07-01"
+date = "2026-06-24"
 image = "/img/shop/earthsea-1-print.jpg"
 id = "print-earthsea-1"
 price = "50"

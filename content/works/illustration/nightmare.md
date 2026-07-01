@@ -10,4 +10,7 @@ desc = "Ink illustration made for a Fall of Stasis shirt, inspired by old depict
 Ink illustration made for a Fall of Stasis shirt, inspired by old depictions of sleep paralysis demons.
 
 ![Person lying in bed with a candle on a side table and a demon sitting on their chest](/img/illustration/nightmare/nightmare.jpg "Person lying in bed with a candle on a side table and a demon sitting on their chest")
+
+{{< product-link title="Nightmare print" desc="Art print of an original ink drawing inspired by victorian depictions of sleep paralysis demons"  image="/img/shop/nightmare-print.jpg" url="/shop/nightmare/" >}}
+
 ![Version of the illustration with logo and sigil](/img/illustration/nightmare/nightmare-logo.jpg "Version of the illustration with logo and sigil")
