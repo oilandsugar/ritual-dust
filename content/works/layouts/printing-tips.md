@@ -2,8 +2,9 @@
 title = "Printing tips"
 tags = ["notes", "design"]
 date = "2023-11-27"
-draft = false
 desc = "Tips on preparing layouts for printing"
+weight = 2
+draft = false
 +++
 
 

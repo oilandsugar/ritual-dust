@@ -2,7 +2,7 @@
 title = "On book and zine layout"
 tags = ["notes", "design"]
 date = "2025-01-13"
-draft = false
+draft = true
 desc = "Notes on the process of laying out and designing books and zines"
 +++
 

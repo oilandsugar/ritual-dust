@@ -2,8 +2,9 @@
 title = "Relief printmaking"
 tags = ["notes", "print", "woodcut", "linocut"]
 date = "2022-06-20"
-draft = false
 desc = "The art and craft of relief printmaking, linocut and woodcut"
+weight = 3
+draft = false
 +++
 
 ![](/img/print/may-5.jpg)

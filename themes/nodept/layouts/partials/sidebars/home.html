@@ -7,17 +7,17 @@
     </div>
     <div class="social medium-padding-bottom">
         <a href="https://www.instagram.com/ritual.dust/" target="_blank" aria-label="link to my instagram page (opens in new page)">
-            {{ partial "instaIcon" . }}
+            {{ partialCached "icons/instaIcon" . }}
         </a>
         <a href="https://merveilles.town/@ritualdust" target="_blank"  aria-label="link to my mastodon profile (opens in new page)">
-            {{ partial "mastodonIcon" . }}
+            {{ partialCached "icons/mastodonIcon" . }}
         </a>
         <a href="http://ritualdust.com/index.xml" target="_blank"  aria-label="link to the RSS feed of this site (opens in new page)">
-            {{ partial "rssIcon" . }}
+            {{ partialCached "icons/rssIcon" . }}
         </a>
     </div>
     <div class="image-resolution-info info default-margin-bottom">
-        <div class="default-padding">This website loads low-resolution images by default to use less energy. Switch to full-resolution images by toggling this button in the top bar:
+        <div class="default-padding">This website loads low-resolution images by default to use less energy and bandwidth. Switch to full-resolution images by toggling this button in the top bar:
             <div class="resolution-toggle default-padding-top">
                 <button class="h" id="resolution-toggle" aria-label="Load high resolution images" title="Load high resolution images">Hi-res</button>
             </div>

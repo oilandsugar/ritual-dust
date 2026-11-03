@@ -3,6 +3,7 @@ title = "Tattoo ideas"
 date = "2021-06-13"
 image = "/img/about/ghost-tattoo.jpg"
 tags = ["tattoo", "notes"]
+draft = true
 +++
 
 ![Some of my tattoos on my legs](/img/about/tattoos.jpg "Some of my tattoos on my legs")

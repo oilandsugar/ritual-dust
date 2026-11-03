@@ -11,4 +11,8 @@ Illustration inspired by the story [The Color out of Space](https://www.hplovecr
 
 ![A fish human hybrid creature in front of a pier at low tide with a dilapidated village in the background](/img/illustration/color-out-of-space/color-out-of-space-preview.jpg "A fish human hybrid creature in front of a pier at low tide with a dilapidated village in the background")
 
+<div class="hidden">
+
 {{< product-link title="Color out of Space print" desc="Art print of an original ink drawing inspired by the H.P. Lovecraft short story Color out of Space"  image="/img/shop/color-out-of-space-print.jpg" url="/shop/color-out-of-space/" >}}
+
+</div>

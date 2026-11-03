@@ -11,4 +11,8 @@ Illustration inspired by the story [At the Mountains of Madness](https://www.hpl
 
 ![A creature with a starfish-shaped head, large wings and tentacle feet stands on a snowy cliff in front of mountains](/img/illustration/mountains-of-madness/mountains-of-madness.jpg "A creature with a starfish-shaped head, large wings and tentacle feet stands on a snowy cliff in front of mountains")
 
+<div class="hidden">
+
 {{< product-link title="At the Mountains of Madness print" desc="Art print of an original ink drawing inspired by the H.P. Lovecraft short story At the Mountains of Madness" image="/img/shop/mountains-madness-print.jpg" url="/shop/at-the-mountains-of-madness/" >}}
+
+</div>

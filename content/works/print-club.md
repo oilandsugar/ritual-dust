@@ -1,8 +1,9 @@
 +++
-title = "Occult Correspondence Print Club"
+title = "Print Club"
 tags = ["notes", "illustration", "print", "print club"]
 date = "2024-12-26"
 desc = "My montlhy print club"
+weight = 1
 +++
 
 ![](/img/print-club/hero.jpg "")
@@ -21,6 +22,8 @@ The prints are shipped as letter mail without tracking. International shipping c
 
 <a class="button" href="https://www.patreon.com/ritualdust">Subscribe to the print club</a>
 
+<div class="hidden">
+
 {{< spacer >}}
 
 ## Can I buy a past print?
@@ -28,6 +31,8 @@ The prints are shipped as letter mail without tracking. International shipping c
 All the prints of the previous months are available to purchase on my [shop](/shop/). Sometimes the color tint will vary (like for my lovecraft inspired series) or the extra paraphernalia are not available, but all the print themselves are made available at full price once the corresponding month is passed.
 
 <a class="button" href="/shop/">Shop past prints</a>
+
+</div>
 
 {{< spacer >}}
 

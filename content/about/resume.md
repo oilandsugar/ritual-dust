@@ -6,8 +6,7 @@ tags = ["notes", "resume"]
 type = "page"
 +++
 
-# Lizbeth Poirier-Morissette
-
+## Lizbeth Poirier-Morissette
 
 
 ### Selected clients
@@ -16,19 +15,18 @@ type = "page"
             
 - Disturbia  
 - Hellebore zine  
-- Library of the Occult  
+- Stelliform Press
+- Dolmenwood   
 - Voidxwitch  
-- Aura Merlin
-- Girl Circles  
+- Aura Merlin  
+- Nicole Marxen  
+- Shonalika
+- Library of the Occult  
 - Lyndsie Alguire
 - Ossuary Wraith  
 - Inpathos  
 - Swamp Lantern  
-- Nicole Marxen  
-- Nithgengan  
 - Alvaro Arroliga  
-- James Chip  
-- Vacarme Hurlant  
             
 </div>
 
@@ -59,6 +57,7 @@ type = "page"
 
 ### Live performances
 
+- July 23, 2026 - *Live show as Ritual Dust*, La Sotterenea, Montreal Canada
 - Sep 13, 2025 - *Opening for Stoneburner as part of Voidxwitch*, L'escogriffe, Montreal Canada
 - Mar 25, 2025 - *Opening for Ultra Sunn as part of Voidxwitch*, Cabaret foufs, Montreal Canada
 - Dec 6, 2024 - *Appearance during Aliceffekt show as part of Voidxwich*, Foufounes Electriques, Montreal Canada
@@ -75,9 +74,9 @@ type = "page"
 
 ### Community collaboration
 
-- Dec 2023 - contribued a track (as Ritual Dust) to Left/Folk compilation “The World As It Is” ()
-- Nov 2023 - contributed a track (as Ritual Dust) to the [“Elmet Brae” compilation] put together by the Merveilles community ()
-- May 2023 - contribued a track (as Ritual Dust) to [“This Trembling Place”](), a compilation by fallen lo-
+- Dec 2023 - contribued a track (as Ritual Dust) to Left/Folk compilation [“The World As It Is”](https://leftfolk.bandcamp.com/album/left-folk-vi-the-world-as-it-is)
+- Nov 2023 - contributed a track (as Ritual Dust) to the [“Elmet Brae” compilation](https://beldamrecords.bandcamp.com/album/elmet-brae-the-land) put together by the Merveilles community
+- May 2023 - contribued a track (as Ritual Dust) to [“This Trembling Place”](https://fallenlo-sounds.bandcamp.com/album/this-trembling-place), a compilation by fallen lo-
 - Mar 2022 - contributed a track (as Blood and Dust) to the Left/Folk compilation [“Haunting Ground”](leftfolk.bandcamp.com/album/haunting-grounds)
 - Feb 2020 - contributed a track (as Blood and Dust) to [Apostils Against Hegemony, Vol. 1: Transitive Properties](akashicenvoy.bandcamp.com/album/apostils-against-hegemony-vol-i-transitive-properties)
 
@@ -100,13 +99,13 @@ type = "page"
 
 ## Publications and mentions
 
-- 2026 - Strega zine
+- 2026 - Interview in Strega zine no.2
 - Dec 2025 - This is a test zine by No Gloss (page 3)
 - Oct 2022 - [Fantômes zine - Issue 2](https://fantomeszine.com/issues/issue-2/)
 - Oct 2021 - [Fantômes zine - Issue 1](https://fantomeszine.com/issues/issue-1/)
-- xxxx - [Hellebore - No.4](https://helleborezine.bigcartel.com/) (cover and page 2)
+- Nov 202 - [Hellebore - No.4](https://helleborezine.bigcartel.com/) (cover and page 2)
 - xxxx - [Cvstomerservice zine - Volume V](https://cvstomerservice.bigcartel.com/category/zine) (page 24)
-- xxxx - [Black Panels Only zine](https://blackpanelsonly.com/) (Issue 1)
+- Mar 2020 - [Black Panels Only zine - Issue 1](https://tommycreep.github.io/blackpanelsonly/index.html)
 - xxxx - Steampunk magazine
 - 2011 - Passage à Découvert (page 68)
 
@@ -120,8 +119,6 @@ type = "page"
 {{< spacer >}}
 
 ## Arts and cultural work experience
-
-
 
 - I've worked as an art school technician, building woodworking shops, teaching woodworking, animation, 3D modelling, playing with 3D printers and helping students realize their creative ideas no matter what medium they required.
 - Taught branding to upcoming jewellers at l'École de Joaillerie de Montréal

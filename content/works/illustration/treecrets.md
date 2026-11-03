@@ -11,7 +11,11 @@ Basing myself on a [game](https://jameschip.io/games/treecrets.html) by [James C
 
 ![](/img/illustration/treecrets/treecrets-1.jpg)
 
+<div class="hidden">
+
 {{< product-link title="Treecrets card game" desc="Meditative animist card game that allows you to converse with trees, to be played alone or with a friend in a quiet spot of forest"  image="/img/shop/treecrets.jpg" url="/shop/treecrets/" >}}
+
+</div>
 
 ![](/img/illustration/treecrets/treecrets-6.jpg)
 ![](/img/illustration/treecrets/treecrets-2.jpg)

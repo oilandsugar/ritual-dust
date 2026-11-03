@@ -5,6 +5,7 @@ image = "/img/about/now.jpg"
 weight = 1
 type = "page"
 tags = ["notes"]
+draft = true
 +++
 
 I've replaced my now page with a journal, [read it here](/journal)

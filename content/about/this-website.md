@@ -1,7 +1,7 @@
 +++
 title = "This website"
 date = "2022-01-14"
-weight = 11
+weight = 2
 intro = "The why and how of this website"
 tags = ["website", "typography", "code", "notes"]
 +++

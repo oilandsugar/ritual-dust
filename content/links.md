@@ -6,8 +6,17 @@ layout = "links"
 desc = "A page listing some links to include in social media profiles"
 +++
 
+<div class="hidden">
+    
 [Commission an illustration, logo or design](https://ritualdust.com/works/commissions)  
+
+</div>
+
+<div>
+    
 [Buy prints](https://ritualdust.com/shop/)  
+
+</div>
 
 [Available tattoo flash](https://ritualdust.com/tattoo/flash)  
 [Custom tattoo form](https://ritualdust.com/tattoo/tattoo-form/)  
@@ -32,6 +41,8 @@ desc = "A page listing some links to include in social media profiles"
 
 ### Other projects
 
+[Pious Rot](http://piousrot.com/)  
+<small>folky TTRPG</small>  
 [Blood and Dust](http://blood-and-dust.com/)  
 <small>Ritualistic auditory and visual project</small>  
 [Fantômes](https://fantomeszine.com/)  

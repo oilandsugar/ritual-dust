@@ -2,8 +2,8 @@
 title = "Symbolism in art"
 tags = ["notes", "symbolism", "art", "painting"]
 date = "2021-12-10"
-
 desc = "Some notes on the late 19th century art movement called Symbolism and a collection of inspiring works and artists"
+weight = 6
 +++
 
 ![The Three Fates by Alexander Rothaug](/img/illustration/symbolism/three-fates.jpg "The Three Fates by Alexander Rothaug")

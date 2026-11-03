@@ -1,5 +1,5 @@
 +++
-title = "Caring for your new tattoo"
+title = "Tattoo aftercare"
 tags = ["tattoo", "notes"]
 date = "2022-03-30"
 

@@ -3,6 +3,7 @@ title = "Film look on digital"
 tags = ["video", "notes"]
 date = "2023-02-02"
 desc = "Getting a realistic film look on digital videos"
+weight = 5
 draft = false
 +++
 

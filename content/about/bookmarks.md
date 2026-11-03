@@ -1,7 +1,7 @@
 +++
 title = "Bookmarks"
 date = "2021-12-18"
-weight = 5
+weight = 3
 tags = ["bookmarks", "notes"]
 type = "page"
 +++

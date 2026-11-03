@@ -5,11 +5,14 @@ type = "page"
 desc = "I am Lizbeth Poirier, a folk artst, illustrator, goth druid, musician and artisan."
 +++
 
-Folk and fantasy artist, musician, producer and occasional cinematographer.
+Hi there, I'm Liz!   
+I'm a multidisciplinary artist, illustrator, designer, musician, and cinematographer based in Tiohtià:ke (Montreal). 
+
+My work is textured, detailled and organic, like a rich wetland habitat or moss-covered standing stone in a forest clearing. Art for me is an extension of nature and a way to tell modern folk stories that reach back to the past but look forward to the future. 
 
 ![Lizbeth against a rock background](/img/about/me.jpg "Portrait by Hex")
 
-I am currently taking commission work for [illustration](/works/illustration/), [lettering](/works/lettering/) and [design](/works/design/) projects (especially anything relating to folklore, occultism, fantasy, activism music and art).
+I am currently taking commission work for [illustration](/works/illustration/), [lettering](/works/lettering/) and [design](/works/design/), and [video](/works/video/) projects (especially anything relating to folklore, occultism, fantasy, activism music and art).
 
 To discuss those, email me at: lizbeth.poirier.m@gmail.com
 

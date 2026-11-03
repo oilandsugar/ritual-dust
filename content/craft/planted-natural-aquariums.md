@@ -1,9 +1,9 @@
 +++
-title = "Biotope Aquariums"
+title = "Planed Natural Aquariums"
 tags = ["aquarium", "ecology", "plants"]
 date = "2026-06-01"
 
-image = "/img/craft/hammer/hammer-handle.jpg"
+image = "/img/craft/aquarium/planted-tank-1.jpg"
 desc = "Notes and thoughts on planted natural aquariums"
 +++
 
@@ -80,7 +80,13 @@ A diversity of beneficial bacteria is one of the key elements of a stable aquari
 
 Plants serve many roles in a tank's ecosystem, they act as filtration, they contribute in reducing ammonia and nitrate, they allow biofilm to grow on their surface, and they provide shelter to the fish. 
 
+### Microfauna
+
 ## Resources
 
 - Ecology of the Planted Aquarium by Diana L Walstad
 - [biotope style aquascaping](https://aquascapedia.com/aquascaping/biotope-style/)
+- [Natural aquarium website](https://naturalaquariums.com)
+- [biotope aquarium](https://biotope-aquarium.info/)
+- [using peat in aquariums](https://en.aqua-fish.net/articles/pros-cons-peat-aquariums-forum-suppliers-aquarium-peat)
+- [self-feeding planted aquarium jar](https://rndmbits.blogspot.com/2026/04/sustainable-self-feeding-aquarium-jars.html)

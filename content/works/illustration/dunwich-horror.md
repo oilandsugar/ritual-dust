@@ -11,7 +11,11 @@ Illustration inspired by [The Dunwich Horror](https://www.hplovecraft.com/writin
 
 ![Old barn in front of a tall hill with standing stone from which a cosmic horror emerges](/img/illustration/dunwich-horror/dunwich-horror.jpg "Old barn in front of a tall hill with standing stone from which a cosmic horror emerges")
     
+<div class="hidden"> 
+
 {{< product-link title="Dunwich horror print" desc="Art print of an original ink drawing inspired by the H.P. Lovecraft short story The Dunwich Horror"  image="/img/shop/dunwich-horror-print.jpg" url="/shop/dunwich-horror/" >}}
+
+</div>
 
 ![Photo of the printed illustration in a frame with a newspaper clipping and a piece from a manuscript](/img/illustration/dunwich-horror/DSC07407.jpg "Photo of the printed illustration in a frame with a newspaper clipping and a piece from a manuscript")
 ![Close-up photo of the print showing the details of the organic cosmic horror](/img/illustration/dunwich-horror/DSC07410.jpg "Close-up photo of the print showing the details of the organic cosmic horror")

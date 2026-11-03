@@ -11,7 +11,11 @@ Illustration inspired by the story [Shadow over Innsmouth](https://www.hplovecra
 
 ![A fish human hybrid creature in front of a pier at low tide with a dilapidated village in the background](/img/illustration/shadow-over-innsmouth/shadow-over-innsmouth-preview.jpg "A fish human hybrid creature in front of a pier at low tide with a dilapidated village in the background")
 
+<div class="hidden">
+
 {{< product-link title="Shadow over Innsmouth print" desc="Art print of an original ink drawing inspired by the H.P. Lovecraft short story Shadow over Innsmouth"  image="/img/shop/shadow-over-innsmouth-print.jpg" url="/shop/shadow-over-innsmouth/" >}}
+
+</div>
 
 ![Close-up photo of the print showing the details of the face of the deep one](/img/illustration/shadow-over-innsmouth/DSC09048.jpg "Close-up photo of the print showing the details of the face of the deep one")
 ![Photo of a print of the illustration alongside a pamhplet and a postcard of the town, a bottle of whiskey and a hook](/img/illustration/shadow-over-innsmouth/DSC09036.jpg "Photo of a print of the illustration alongside a pamhplet and a postcard of the town, a bottle of whiskey and a hook")

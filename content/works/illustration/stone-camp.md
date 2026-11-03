@@ -13,5 +13,8 @@ We are writing the folklore of the future.
 The power and knowledge to bring in a new world lives in the land.
 Palestine will free us all.
 
+<div class="hidden">
+
 {{< product-link title="Free palestine camp print" desc="Art print of the original pencil illustration"  image="/img/shop/stone-encampment-preview.jpg" url="/shop/free-palestine-camp/" >}}
 
+</div>

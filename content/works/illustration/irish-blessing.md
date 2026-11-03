@@ -11,4 +11,8 @@ Ink illustration and pagan blessing. The frame despicts elements from irish myth
 
 ![Ink illustration with a written blessing in the center, depicting a standing stone, a crow, bridgid's crosses, celtic knots, and part of an old bronze shield.](/img/illustration/blessing/blessing.jpg "Ink illustration with a written blessing in the center, depicting a standing stone, a crow, bridgid's crosses, celtic knots, and part of an old bronze shield.")
 
+<div class="hidden">
+
 {{< product-link title="Irish pagan blessing print" desc="A pagan blessing inspired by old Irish ones, with an illustrated frame depicting elements of folklore and myths"  image="/img/shop/blessing-print.jpg" url="/shop/blessing/" >}}
+
+</div>

@@ -21,6 +21,7 @@
         <article class="home">
             <div class="home-content">
                 <div class="grid-2">
+                    {{ if site.Param "show_commissions" }}
                     <div>
                         <a class="commission-banner banner" href="works/commissions/">
                             <div class="content">
@@ -29,6 +30,8 @@
                             </div>
                         </a>
                     </div>
+                    {{ end }}
+                    {{ if site.Param "show_shop" }}
                     <div >
                         <a class="shop-banner banner" href="/shop/">
                             <div class="shop-banner-img"></div>
@@ -38,6 +41,7 @@
                             </div>
                         </a>
                     </div>
+                    {{ end }}
                 </div>
                 <div class="default-padding-top">
                     <a href="https://piousrot.com/" class="banner pious-rot" style="background-image: url('https://piousrot.com/img/map.jpg');">

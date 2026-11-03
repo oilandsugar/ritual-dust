@@ -2,8 +2,9 @@
 title = "Mezzotint printmaking"
 tags = ["notes", "print", "mezzotint"]
 date = "2026-05-27"
-draft = false
 desc = "The art and craft of mezzotint printmaking"
+weight = 4
+draft = false
 +++
 
 ![](/img/print/may-5.jpg)

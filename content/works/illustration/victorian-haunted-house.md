@@ -13,7 +13,11 @@ I really tapped into gothic horror classics for this one. I also included the pe
 
 ![Final ink illustration](/img/illustration/victorian-house/victorian-house-1.jpg "Final ink illustration")
 
+<div class="hidden">
+
 {{< product-link title="Victorian haunted house print" desc="Art print of an original gothic-horror-inspired ink illustration."  image="/img/shop/victorian-house-preview-bnw.jpg" url="/shop/victorian-house/" >}}
+
+</div>
 
 ![Completed pencils](/img/illustration/victorian-house/victorian-house-pencil.jpg "Completed pencils")
 ![Initial sketch](/img/illustration/victorian-house/victorian-house-sketch.jpg "Initial sketch")

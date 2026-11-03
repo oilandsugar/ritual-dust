@@ -2,8 +2,8 @@
 title = "Work with me"
 tags = ["notes", "illustration", "commissions", "lettering"]
 date = "2024-11-14"
-
 desc = "My process and pricing for art and lettering commissions"
+draft = true
 +++
 
 ## Table of contents
