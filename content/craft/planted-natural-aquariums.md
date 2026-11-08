@@ -82,6 +82,33 @@ Plants serve many roles in a tank's ecosystem, they act as filtration, they cont
 
 ### Microfauna
 
+Freshwater ponds, lakes, streams and other forms of watery environments are home to lots of microfauna. Little critters that mostly feed on debris, micro-algae, and bio-film.
+
+Here's a list of the most common ones:
+
+- scuds
+- freshwater limpets: harmless molusks
+- ostracods (seed shrimps) - 1 to 2mm long
+- planaria flatworm with triangular head - up to 2cm long
+- detritus worms - 1mm to a couple cm long 
+- daphnia (water fleas) - 1 to 5mm long
+- cyclops (freshwater copepods) - 0.5 to 2mm long
+- rotifers - 0.1 to 2mm long
+- mosquito larvae - 1 to 10mm long
+- water louse (aquatic sowbug) - 6 to 12mm long
+- water mites - 2 to 3mm long
+- bryozoans
+- peritricha
+- stentor
+- springtails - 2 to 5mm long
+- hydra - up to 1cm
+
+- dragonfly nymph
+- damselfly nymph
+- diving beetles
+
+This is a good resource to get more info on these little creatures: [what is this thing in my tank](https://aquariumbreeder.com/what-is-this-thing-in-my-tank/)
+
 ## Resources
 
 - Ecology of the Planted Aquarium by Diana L Walstad
@@ -90,3 +117,4 @@ Plants serve many roles in a tank's ecosystem, they act as filtration, they cont
 - [biotope aquarium](https://biotope-aquarium.info/)
 - [using peat in aquariums](https://en.aqua-fish.net/articles/pros-cons-peat-aquariums-forum-suppliers-aquarium-peat)
 - [self-feeding planted aquarium jar](https://rndmbits.blogspot.com/2026/04/sustainable-self-feeding-aquarium-jars.html)
+- [more info on microfauna](https://www.phillipsfishworks.com/learning-resource-center)
