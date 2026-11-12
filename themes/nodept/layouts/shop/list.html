@@ -4,30 +4,40 @@
     {{ partial "sidebars/shopList" . }}
     <article class="flow">
         {{ partial "pageTitle" . }}
+        {{ if site.Param "show_shop" }}
         <div class="table-of-contents mini">
-             <a class="active" href="/shop/">All</a>
-             <a href="/shop/prints">Art Prints</a>
-             <a href="/shop/originals">Originals</a>
-             <a href="/shop/games">Games</a>
+            <a class="active" href="/shop/">All</a>
+            <a href="/shop/prints">Art Prints</a>
+            <a href="/shop/originals">Originals</a>
+            <a href="/shop/games">Games</a>
         </div>
+        {{ end }}
+        {{ if site.Param "show_shop" }}
         <div class="measured">
             {{ .Content }}
         </div>
+        {{ else }}
+        <div class="measured">
+            My shop is currently closed, I will be announcing when I reopen it on <a href="https://www.instagram.com/ritual.dust/">instagram</a> and <a href="https://merveilles.town/@ritualdust">mastodon</a>.
+        </div>
+        {{ end }}
+        {{ if site.Param "show_shop" }}
         <div class="gallery-grid rows">
             {{ if (eq $.Parent.Title "Shop") }}
             {{ range where .Pages "Section" "shop" }}
-                {{ if .Params.price }}
-                {{ partial "cards/productCard.html" . }}
-                {{ end }}
+            {{ if .Params.price }}
+            {{ partial "cards/productCard.html" . }}
+            {{ end }}
             {{ end }}
             {{ else }}
             {{ range where .Site.RegularPages "Section" "shop" }}
-                {{ if .Params.price }}
-                {{ partial "cards/productCard.html" . }}
-                {{ end }}
+            {{ if .Params.price }}
+            {{ partial "cards/productCard.html" . }}
+            {{ end }}
             {{ end }}
             {{ end }}
         </div>
+        {{ end }}
     </article>
 </main>
 

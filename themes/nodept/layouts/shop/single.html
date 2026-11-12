@@ -3,6 +3,7 @@
 <main class="page-sidebar">
     {{ partial "sidebars/shopSingle" . }}
     <article class="product-page grid-2">
+        {{ if site.Param "show_shop" }}
         <div>
             {{ with .Params.image }}
             <div class="image">
@@ -35,6 +36,11 @@
             </div>
             {{ partial "page-meta" . }}
         </div>
+        {{ else }}
+        <div class="measured">
+            My shop is currently closed, I will be announcing when I reopen it on <a href="https://www.instagram.com/ritual.dust/">instagram</a> and <a href="https://merveilles.town/@ritualdust">mastodon</a>.
+        </div>
+        {{ end }}
     </article>
 </main>
 

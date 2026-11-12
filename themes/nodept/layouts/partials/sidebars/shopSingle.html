@@ -1,15 +1,17 @@
 <aside class="sidebar">
-  {{ partial "name" . }}
-  {{ $section := where $.Site.RegularPages "Section" "shop"}}
-  <h3 class="accent gaeilge all-caps">Products</h3>
-  <div class="default-padding-bottom">
-    <ul class="section-pages">
-    {{ range $section }}
-      {{ if not (in .Params.tags "notes") }}
-        {{ partial "sidebars/utils/sidebarMenuItem" . }}
-      {{ end }}
+    {{ partial "name" . }}
+    {{ $section := where $.Site.RegularPages "Section" "shop"}}
+    {{ if site.Param "show_shop" }}
+    <h3 class="accent gaeilge all-caps">Products</h3>
+    <div class="default-padding-bottom">
+        <ul class="section-pages">
+            {{ range $section }}
+            {{ if not (in .Params.tags "notes") }}
+            {{ partial "sidebars/utils/sidebarMenuItem" . }}
+            {{ end }}
+            {{ end }}
+        </ul>
+    </div>
     {{ end }}
-    </ul>
-  </div>
-  <div id="icon-sun" class="icon bottom-icon"></div>
+    <div id="icon-sun" class="icon bottom-icon"></div>
 </aside>

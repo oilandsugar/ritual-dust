@@ -1,14 +1,16 @@
 <aside class="sidebar">
-  {{ partial "name" . }}
-  <h3 class="accent gaeilge all-caps">Products</h3>
-  <div class="default-padding-bottom">
-    <ul class="section-pages">
-        {{ range .Pages }}
-          {{ if .Params.price }}
+    {{ partial "name" . }}
+    {{ if site.Param "show_shop" }}
+    <h3 class="accent gaeilge all-caps">Products</h3>
+    <div class="default-padding-bottom">
+        <ul class="section-pages">
+            {{ range .Pages }}
+            {{ if .Params.price }}
             {{ partial "sidebars/utils/sidebarMenuItem" . }}
-          {{ end }}
-        {{ end }}
-    </ul>
-  </div>
-  <div id="icon-sun" class="icon bottom-icon"></div>
+            {{ end }}
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+    <div id="icon-sun" class="icon bottom-icon"></div>
 </aside>
