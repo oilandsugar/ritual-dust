@@ -4,11 +4,6 @@
     {{ partial "sidebars/tattooList" . }}
     <article class="flow">
         {{ partial "pageTitle" . }}
-        <div class="table-of-contents mini">
-            <a href="#dark-fantasy">Dark fantasy</a>
-            <a href="#medieval-woodcuts">Medieval woodcuts</a>
-            <a href="#black-metal">Black metal</a>
-        </div>
         <div class="measured">
             {{ .Content }}
         </div>
@@ -18,6 +13,11 @@
             {{ partial "cards/projectCard.html" . }}
             {{ end}}
             {{ end }}
+        </div>
+         <div class="table-of-contents mini">
+            <a href="#dark-fantasy">Dark fantasy</a>
+            <a href="#medieval-woodcuts">Medieval woodcuts</a>
+            <a href="#black-metal">Black metal</a>
         </div>
         <h2 id="dark-fantasy">Dark Fantasy Illustration</h2>
         <div class="gallery-grid works">

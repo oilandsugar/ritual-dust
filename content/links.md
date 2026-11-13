@@ -8,26 +8,11 @@ desc = "A page listing some links to include in social media profiles"
 
 <div class="hidden">
     
-[Commission an illustration, logo or design](https://ritualdust.com/works/commissions)  
-
-</div>
-
-<div>
-    
+[Commission an illustration, logo or design](https://ritualdust.com/works/commissions)      
 [Buy prints](https://ritualdust.com/shop/)  
-
-</div>
-
 [Available tattoo flash](https://ritualdust.com/tattoo/flash)  
 [Custom tattoo form](https://ritualdust.com/tattoo/tattoo-form/)  
 
-[Listen to my album Earthworks](https://ritualdust.bandcamp.com/album/earthworks/)  
-
-<div class="support" style="padding-bottom:24px;">
-  <a class="button" href="https://www.patreon.com/bePatron?u=2525073">
-    <svg height="546px" version="1.1" viewBox="0 0 569 546" width="569px" xmlns="http://www.w3.org/2000/svg"><title>Patreon logo</title><g><circle cx="362.589996" cy="204.589996" data-fill="1" r="204.589996"></circle><rect data-fill="1" height="545.799988" width="100" x="0" y="0"></rect></g></svg>
-    <span>Support me on Patreon</span>
-  </a>
 </div>
 
 ### My work
@@ -38,6 +23,13 @@ desc = "A page listing some links to include in social media profiles"
 <small>Illustrations for albums, merch and band logos</small>  
 [Ritual Dust on bandcamp](https://ritualdust.bandcamp.com/)  
 <small>Pagan folk electronics</small> 
+
+<div class="support" style="padding-bottom:24px;">
+  <a class="button" href="https://www.patreon.com/bePatron?u=2525073">
+    <svg height="546px" version="1.1" viewBox="0 0 569 546" width="569px" xmlns="http://www.w3.org/2000/svg"><title>Patreon logo</title><g><circle cx="362.589996" cy="204.589996" data-fill="1" r="204.589996"></circle><rect data-fill="1" height="545.799988" width="100" x="0" y="0"></rect></g></svg>
+    <span>Support me on Patreon</span>
+  </a>
+</div>
 
 ### Other projects
 

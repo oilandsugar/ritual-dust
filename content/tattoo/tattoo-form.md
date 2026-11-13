@@ -2,7 +2,7 @@
 title = "Custom project form"
 tags = ["tattoo", "notes"]
 date = "2024-06-01"
-draft = false
+draft = true
 desc = "Fill this form if you have a tattoo idea that you'd like to have done by me"
 +++
 

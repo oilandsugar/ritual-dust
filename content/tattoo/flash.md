@@ -3,6 +3,7 @@ title = "Available flash designs"
 tags = ["tattoo", "notes"]
 date = "2024-07-08"
 desc = "Designs available to tattoo"
+draft = true
 +++
 
 <div class="table-of-contents mini subdued">
